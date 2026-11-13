@@ -14,13 +14,13 @@ All files are static JSON served with `Access-Control-Allow-Origin: *`.
 
 | You need | Fetch | Size | Why |
 | --- | --- | --- | --- |
-| 1-3 specific outfits | `data/outfits/{slug}.json` | ~9 KB each | Cheapest. Skip the index if you already know the slug. |
-| Filter by rarity / style / tag, then fetch | `data/index.json` then shards | 30 KB + 9 KB per pick | Two-step, still cheap. |
-| Everything, once | `data/prompts.json` | ~250 KB | Only when you genuinely need all 104. |
-| A few good defaults | `data/sample.json` | ~20 KB | 8 hand-picked five-stars with full prompts. |
+| 1-3 specific outfits | `data/outfits/{slug}.json` | 10 KB each | Cheapest. Skip the index if you already know the slug. |
+| Filter by rarity / style / tag, then fetch | `data/index.json` then shards | 65 KB + 10 KB per pick | Two-step, still cheap. |
+| Everything, once | `data/prompts.json` | 800 KB | Only when you genuinely need all 104. |
+| A few good defaults | `data/sample.json` | 62 KB | 8 hand-picked five-stars with full prompts. |
 | Text plus images | `data/moss_wardrobe_full_15mp.json` | ~1 MB | Rarely worth it; images are metadata-only strings. |
 
-Rule of thumb: `index.json` is 30 KB, one shard is 9 KB, the whole library is 1 MB.
+Rule of thumb: `index.json` is 65 KB, one shard is 10 KB, the whole library is 1 MB.
 Fetching the whole library to answer "give me one 琳琅 outfit" wastes about 240k tokens.
 
 ---
@@ -111,7 +111,7 @@ curl -s https://libolunm.github.io/infinity-nikki-couture/data/prompts.json \
 
 ## 5. Notes and traps
 
-- Labels are game taxonomy (`Linlang`, `Royal`, `Fairy`, `Pastoral`, `Fantasy`...), not English style words. Do not invent labels; if a filter returns nothing, list the distinct values first.
+- Labels: `labels` is a stable English enum (`Linlang`, `Royal`, `Fairy`, `Pastoral`, `Ballroom`, `Divine`, `Whimsy`...). `labels_zh` carries the Chinese form of the same tags for Chinese keyword matching. Filter on `labels`; match user wording against both.
 - `style` is one of `Cool` / `Elegant` / `Fresh` / `Sexy` / `Sweet`.
 - Some outfits only have a sprite, so `images` may hold one entry. That is normal, not a bug.
 - Prompt text is English throughout, even for Chinese-named outfits. Do not translate it before feeding an image model.
