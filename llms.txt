@@ -9,9 +9,9 @@ Mirror (jsDelivr, same paths): https://cdn.jsdelivr.net/gh/libolunm/infinity-nik
 
 ## Start here
 
-- [data/index.json](https://libolunm.github.io/infinity-nikki-couture/data/index.json): 104 rows of metadata only (slug, cn/en name, rarity, style, labels, materials, palette, file path). ~30 KB. Filter on this first.
-- [data/prompts.json](https://libolunm.github.io/infinity-nikki-couture/data/prompts.json): all prompts in one flat array (moss, moss_sonnet, krea2, krea2_wardrobe). ~250 KB. Read when you need many at once.
-- [data/sample.json](https://libolunm.github.io/infinity-nikki-couture/data/sample.json): 8 five-star outfits with full prompts. ~20 KB starter pack.
+- [data/index.json](https://libolunm.github.io/infinity-nikki-couture/data/index.json): 104 rows of metadata only (slug, cn/en name, rarity, style, labels, materials, palette, file path). 65 KB. Filter on this first.
+- [data/prompts.json](https://libolunm.github.io/infinity-nikki-couture/data/prompts.json): all prompts in one flat array (moss, moss_sonnet, krea2, krea2_wardrobe). 800 KB. Read when you need many at once.
+- [data/sample.json](https://libolunm.github.io/infinity-nikki-couture/data/sample.json): 8 five-star outfits with full prompts. 62 KB starter pack.
 - [data/outfits/{slug}.json](https://libolunm.github.io/infinity-nikki-couture/data/outfits/clouded-loong.json): one outfit, full record. Fetch per slug instead of bulk when you only need a few.
 - [agent.md](https://libolunm.github.io/infinity-nikki-couture/agent.md): usage manual, field definitions, worked examples, token budget.
 
