@@ -1,0 +1,49 @@
+{
+ "slug": "timeless-melody",
+ "title": "Timeless Melody",
+ "cn_name": "古典乐章",
+ "rarity": 5,
+ "style": "Sweet",
+ "labels": [
+  "Retro",
+  "Playful"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Sweet/timeless-melody/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Sweet/timeless-melody/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "古典乐章洛可可蓬裙",
+  "silhouette": "High-waisted bell gown with layered, voluminous asymmetric skirt; fitted corset bodice, puff sleeves, and a cascading lace-trimmed bustle train creating a retro doll-like silhouette.",
+  "headpiece_and_hair_ornaments": "Cream ruffled bonnet with lace trim and a crown of pastel blue ribbons, adorned with tiny pearls and musical-note hairpins.",
+  "upper_garment_and_sleeves": "Blue silk corset bodice with sweetheart neckline, gold filigree embroidery, pearl buttons, and sheer organza puff sleeves ending in lace cuffs with ribbon ties.",
+  "lower_garment_and_legwear": "Tiered skirt of pleated cream tulle over blue satin, edged with ruffled lace and gold musical-note appliqués; lace-trimmed stockings and pearl-encrusted heeled ankle boots.",
+  "signature_props_and_motifs": "Floating golden musical staff and note motifs, a small harp-like handheld accessory, and a companion creature wearing a matching blue ruffled bonnet.",
+  "color_palette": [
+   "powder blue",
+   "cream ivory",
+   "antique gold",
+   "pale lilac"
+  ],
+  "key_materials": [
+   "pearl-encrusted sheer organza",
+   "gilded silk jacquard",
+   "Chantilly lace",
+   "pleated tulle",
+   "satin ribbon"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with pale-celadon layered feathery bob with long temple strands and golden-hazel eyes standing with ethereal aloofness in a softly lit atmospheric studio. Adorning her head: Cream ruffled bonnet with lace trim and a crown of pastel blue ribbons, adorned with tiny pearls and musical-note hairpins. For her upper attire, she wears Blue silk corset bodice with sweetheart neckline, gold filigree embroidery, pearl buttons, and sheer organza puff sleeves ending in lace cuffs with ribbon ties, rendered in powder blue, cream ivory, antique gold tones. Below the waist, Tiered skirt of pleated cream tulle over blue satin, edged with ruffled lace and gold musical-note appliqués; lace-trimmed stockings and pearl-encrusted heeled ankle boots, accompanied by Floating golden musical staff and note motifs, a small harp-like handheld accessory, and a companion creature wearing a matching blue ruffled bonnet.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with pale-celadon layered feathery bob with long temple strands and golden-hazel eyes dressed in a powder blue, cream ivory, antique gold haute-couture ensemble featuring Blue silk corset bodice with sweetheart neckline, gold filigree embroidery, pearl buttons, and sheer.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Cream ruffled bonnet with lace trim and a crown of pastel blue ribbons, adorned with tiny pearls and musical-note hairpins.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Blue silk corset bodice with sweetheart neckline, gold filigree embroidery, pearl buttons, and sheer organza puff sleeves ending in lace cuffs with ribbon ties.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Tiered skirt of pleated cream tulle over blue satin, edged with ruffled lace and gold musical-note appliqués; lace-trimmed stockings and pearl-encrusted heeled ankle boots, accented with Floating golden musical staff and note motifs, a small harp-like handheld accessory, and a.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with cream ruffled bonnet with lace trim and a crown of pastel blue ribbons, adorned with tiny pearls and musical-note hairpins, standing against a quiet neutral studio backdrop. Dressed in a powder blue, cream ivory, antique gold haute-couture outfit, she wears blue silk corset bodice with sweetheart neckline, gold filigree embroidery, pearl buttons, and sheer organza puff sleeves ending in lace cuffs with ribbon ties. From her cinched waist cascades tiered skirt of pleated cream tulle over blue satin, edged with ruffled lace and gold musical-note appliqués; lace-trimmed stockings and pearl-encrusted heeled ankle boots, paired with floating golden musical staff and note motifs, a small harp-like handheld accessory, and a companion creature wearing a matching blue ruffled bonnet.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing blue silk corset bodice with sweetheart neckline, gold filigree embroidery, pearl buttons, and sheer.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with cream ruffled bonnet with lace trim and a crown of pastel blue ribbons, adorned with tiny pearls and musical-note hairpins.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Blue silk corset bodice with sweetheart neckline, gold filigree embroidery, pearl buttons, and sheer organza puff sleeves ending in lace cuffs with ribbon ties.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Tiered skirt of pleated cream tulle over blue satin, edged with ruffled lace and gold musical-note appliqués; lace-trimmed stockings and pearl-encrusted heeled ankle boots, accompanied by floating golden musical staff and note motifs, a small harp-like handheld accessory, and a.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of pearl-encrusted sheer organza, gilded silk jacquard, Chantilly lace, pleated tulle across a powder blue, cream ivory, antique gold palette: at her crown sits cream ruffled bonnet with lace trim and a crown of pastel blue ribbons, adorned with tiny pearls and musical-note hairpins; her upper torso is cinched into blue silk corset bodice with sweetheart neckline, gold filigree embroidery, pearl buttons, and sheer organza puff sleeves ending in lace cuffs with ribbon ties, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs tiered skirt of pleated cream tulle over blue satin, edged with ruffled lace and gold musical-note appliqués; lace-trimmed stockings and pearl-encrusted heeled ankle boots, weighing down with real fabric gravity alongside floating golden musical staff and note motifs, a small harp-like handheld accessory, and a companion creature wearing a matching blue ruffled bonnet.",
+ "krea2_full_prompt": "the camera sits level with her collarbone at a slight three-quarter angle, so that the wide translucent drape of her sleeves and the layered collar-to-waist embroidery fill the center of the composition. a young woman with pale-celadon layered feathery bob with long temple strands and large golden-hazel eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of pearl-encrusted sheer organza, gilded silk jacquard, Chantilly lace, pleated tulle across a powder blue, cream ivory, antique gold palette: at her crown sits cream ruffled bonnet with lace trim and a crown of pastel blue ribbons, adorned with tiny pearls and musical-note hairpins; her upper torso is cinched into blue silk corset bodice with sweetheart neckline, gold filigree embroidery, pearl buttons, and sheer organza puff sleeves ending in lace cuffs with ribbon ties, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs tiered skirt of pleated cream tulle over blue satin, edged with ruffled lace and gold musical-note appliqués; lace-trimmed stockings and pearl-encrusted heeled ankle boots, weighing down with real fabric gravity alongside floating golden musical staff and note motifs, a small harp-like handheld accessory, and a companion creature wearing a matching blue ruffled bonnet. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Timeless Melody",
+  "古典乐章"
+ ],
+ "images": [
+  "images/Sweet/timeless-melody/wardrobe_1.jpg"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "lifetime-yin-yuan",
+ "title": "Lifetime Yin Yuan",
+ "cn_name": "三生因缘",
+ "rarity": 4,
+ "style": "Sexy",
+ "labels": [
+  "Linlang",
+  "Romance"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Sexy/lifetime-yin-yuan/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Sexy/lifetime-yin-yuan/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "烟紫桃夭流仙裙",
+  "silhouette": "A layered, floor-sweeping ensemble featuring a sheer lavender outer robe with wide bell sleeves over a flowing white column skirt, creating a romantic, elongated A-line silhouette with delicate movement.",
+  "headpiece_and_hair_ornaments": "A delicate silver filigree hairpin with cascading pearl and pink floral drops, paired with trailing ribbon ties and subtle metal hair clips.",
+  "upper_garment_and_sleeves": "Crossed-collar lavender silk bodice partly concealed by a sheer organza outer robe, featuring intricate silver floral embroidery, bell-shaped sleeves with ruffled cuffs, and a hidden front button placket.",
+  "lower_garment_and_legwear": "A high-waisted white satin skirt with soft pleats, a sheer tulle overlay, and lower panel embroidery depicting a fan and peach blossoms, worn with simple flat shoes.",
+  "signature_props_and_motifs": "A folding paper fan with a bamboo frame, adorned with painted peach blossoms and tassels, held as a central accessory.",
+  "color_palette": [
+   "lavender",
+   "white",
+   "silver",
+   "peach blossom pink"
+  ],
+  "key_materials": [
+   "sheer silk organza",
+   "silver thread embroidery",
+   "satin-faced silk",
+   "pearl and bead embellishments"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with charcoal-black loosely pinned updo with wispy bangs and icy-violet eyes standing with quiet enigmatic poise in a softly lit atmospheric studio. Adorning her head: A delicate silver filigree hairpin with cascading pearl and pink floral drops, paired with trailing ribbon ties and subtle metal hair clips. For her upper attire, she wears Crossed-collar lavender silk bodice partly concealed by a sheer organza outer robe, featuring intricate silver floral embroidery, bell-shaped sleeves with ruffled cuffs, and a hidden front button placket, rendered in lavender, white, silver tones. Below the waist, A high-waisted white satin skirt with soft pleats, a sheer tulle overlay, and lower panel embroidery depicting a fan and peach blossoms, worn with simple flat shoes, accompanied by A folding paper fan with a bamboo frame, adorned with painted peach blossoms and tassels, held as a central accessory.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with charcoal-black loosely pinned updo with wispy bangs and icy-violet eyes dressed in a lavender, white, silver haute-couture ensemble featuring Crossed-collar lavender silk bodice partly concealed by a sheer organza outer robe, featuring intricate.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"A delicate silver filigree hairpin with cascading pearl and pink floral drops, paired with trailing ribbon ties and subtle metal hair clips.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Crossed-collar lavender silk bodice partly concealed by a sheer organza outer robe, featuring intricate silver floral embroidery, bell-shaped sleeves with ruffled cuffs, and a hidden front button placket.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"A high-waisted white satin skirt with soft pleats, a sheer tulle overlay, and lower panel embroidery depicting a fan and peach blossoms, worn with simple flat shoes, accented with A folding paper fan with a bamboo frame, adorned with painted peach blossoms and tassels, held.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with a delicate silver filigree hairpin with cascading pearl and pink floral drops, paired with trailing ribbon ties and subtle metal hair clips, standing against a quiet neutral studio backdrop. Dressed in a lavender, white, silver haute-couture outfit, she wears crossed-collar lavender silk bodice partly concealed by a sheer organza outer robe, featuring intricate silver floral embroidery, bell-shaped sleeves with ruffled cuffs, and a hidden front button placket. From her cinched waist cascades a high-waisted white satin skirt with soft pleats, a sheer tulle overlay, and lower panel embroidery depicting a fan and peach blossoms, worn with simple flat shoes, paired with a folding paper fan with a bamboo frame, adorned with painted peach blossoms and tassels, held as a central accessory.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing crossed-collar lavender silk bodice partly concealed by a sheer organza outer robe, featuring intricate.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with a delicate silver filigree hairpin with cascading pearl and pink floral drops, paired with trailing ribbon ties and subtle metal hair clips.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Crossed-collar lavender silk bodice partly concealed by a sheer organza outer robe, featuring intricate silver floral embroidery, bell-shaped sleeves with ruffled cuffs, and a hidden front button placket.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"A high-waisted white satin skirt with soft pleats, a sheer tulle overlay, and lower panel embroidery depicting a fan and peach blossoms, worn with simple flat shoes, accompanied by a folding paper fan with a bamboo frame, adorned with painted peach blossoms and tassels, held.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of sheer silk organza, silver thread embroidery, satin-faced silk, pearl and bead embellishments across a lavender, white, silver palette: at her crown sits a delicate silver filigree hairpin with cascading pearl and pink floral drops, paired with trailing ribbon ties and subtle metal hair clips; her upper torso is cinched into crossed-collar lavender silk bodice partly concealed by a sheer organza outer robe, featuring silver floral embroidery, bell-shaped sleeves with ruffled cuffs, and a hidden front button placket, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a high-waisted white satin skirt with soft pleats, a sheer tulle overlay, and lower panel embroidery depicting a fan and peach blossoms, worn with simple flat shoes, weighing down with real fabric gravity alongside a folding paper fan with a bamboo frame, adorned with painted peach blossoms and tassels, held as a central accessory.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with charcoal-black loosely pinned updo with wispy bangs and large icy-violet eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of sheer silk organza, silver thread embroidery, satin-faced silk, pearl and bead embellishments across a lavender, white, silver palette: at her crown sits a delicate silver filigree hairpin with cascading pearl and pink floral drops, paired with trailing ribbon ties and subtle metal hair clips; her upper torso is cinched into crossed-collar lavender silk bodice partly concealed by a sheer organza outer robe, featuring silver floral embroidery, bell-shaped sleeves with ruffled cuffs, and a hidden front button placket, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a high-waisted white satin skirt with soft pleats, a sheer tulle overlay, and lower panel embroidery depicting a fan and peach blossoms, worn with simple flat shoes, weighing down with real fabric gravity alongside a folding paper fan with a bamboo frame, adorned with painted peach blossoms and tassels, held as a central accessory. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Lifetime Yin Yuan",
+  "三生因缘"
+ ],
+ "images": [
+  "images/Sexy/lifetime-yin-yuan/wardrobe_1.jpg"
+ ]
+}

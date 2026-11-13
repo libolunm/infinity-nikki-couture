@@ -1,0 +1,50 @@
+{
+ "slug": "night-capricorn-song",
+ "title": "Night Capricorn Song",
+ "cn_name": "夜羯之歌",
+ "rarity": 4,
+ "style": "Sexy",
+ "labels": [
+  "Whimsy",
+  "Fantasy",
+  "绮想"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Sexy/night-capricorn-song/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Sexy/night-capricorn-song/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "星夜摩羯鎏金长裙",
+  "silhouette": "Floor-length layered gown with asymmetrical draped overskirt, fitted corseted bodice, flowing linear cape panels, and elongated bell sleeves with dramatic pointed cuffs.",
+  "headpiece_and_hair_ornaments": "Curved metallic ram-horn crown, silver crescent moon hairpins, layered pearl chains, and delicate forehead drop ornaments.",
+  "upper_garment_and_sleeves": "Metallic jacquard corset with a sheer tulle halter overlay, cascading metallic chains, delicate beaded fringe, and fitted long sleeves with dagger-point cuffs.",
+  "lower_garment_and_legwear": "Floor-sweeping skirt composed of layered satin drapery, a gold brocaded front panel, intricate constellation beadwork, and a voluminous gathered bustle.",
+  "signature_props_and_motifs": "Floating celestial tarot cards, dangling chain ornaments, crescent moon motifs, and star-shaped beaded trims scattered across the ensemble.",
+  "color_palette": [
+   "midnight blue",
+   "champagne gold",
+   "antique silver",
+   "sheer white tulle"
+  ],
+  "key_materials": [
+   "gilded silk jacquard",
+   "pearl-encrusted sheer tulle",
+   "liquid satin drapery",
+   "metallic chain fringe",
+   "constellation beadwork embroidery"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with slate-silver sleek parted long hair and celadon-green eyes standing with composed stillness in a softly lit atmospheric studio. Adorning her head: Curved metallic ram-horn crown, silver crescent moon hairpins, layered pearl chains, and delicate forehead drop ornaments. For her upper attire, she wears Metallic jacquard corset with a sheer tulle halter overlay, cascading metallic chains, delicate beaded fringe, and fitted long sleeves with dagger-point cuffs, rendered in midnight blue, champagne gold, antique silver tones. Below the waist, Floor-sweeping skirt composed of layered satin drapery, a gold brocaded front panel, intricate constellation beadwork, and a voluminous gathered bustle, accompanied by Floating celestial tarot cards, dangling chain ornaments, crescent moon motifs, and star-shaped beaded trims scattered across the ensemble.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with slate-silver sleek parted long hair and celadon-green eyes dressed in a midnight blue, champagne gold, antique silver haute-couture ensemble featuring Metallic jacquard corset with a sheer tulle halter overlay, cascading metallic chains, delicate beaded.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Curved metallic ram-horn crown, silver crescent moon hairpins, layered pearl chains, and delicate forehead drop ornaments.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Metallic jacquard corset with a sheer tulle halter overlay, cascading metallic chains, delicate beaded fringe, and fitted long sleeves with dagger-point cuffs.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Floor-sweeping skirt composed of layered satin drapery, a gold brocaded front panel, intricate constellation beadwork, and a voluminous gathered bustle, accented with Floating celestial tarot cards, dangling chain ornaments, crescent moon motifs, and.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with curved metallic ram-horn crown, silver crescent moon hairpins, layered pearl chains, and delicate forehead drop ornaments, standing against a quiet neutral studio backdrop. Dressed in a midnight blue, champagne gold, antique silver haute-couture outfit, she wears metallic jacquard corset with a sheer tulle halter overlay, cascading metallic chains, delicate beaded fringe, and fitted long sleeves with dagger-point cuffs. From her cinched waist cascades floor-sweeping skirt composed of layered satin drapery, a gold brocaded front panel, intricate constellation beadwork, and a voluminous gathered bustle, paired with floating celestial tarot cards, dangling chain ornaments, crescent moon motifs, and star-shaped beaded trims scattered across the ensemble.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing metallic jacquard corset with a sheer tulle halter overlay, cascading metallic chains, delicate beaded.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with curved metallic ram-horn crown, silver crescent moon hairpins, layered pearl chains, and delicate forehead drop ornaments.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Metallic jacquard corset with a sheer tulle halter overlay, cascading metallic chains, delicate beaded fringe, and fitted long sleeves with dagger-point cuffs.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Floor-sweeping skirt composed of layered satin drapery, a gold brocaded front panel, intricate constellation beadwork, and a voluminous gathered bustle, accompanied by floating celestial tarot cards, dangling chain ornaments, crescent moon motifs, and.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of gilded silk jacquard, pearl-encrusted sheer tulle, liquid satin drapery, metallic chain fringe across a midnight blue, champagne gold, antique silver palette: at her crown sits curved metallic ram-horn crown, silver crescent moon hairpins, layered pearl chains, and delicate forehead drop ornaments; her upper torso is cinched into metallic jacquard corset with a sheer tulle halter overlay, cascading metallic chains, delicate beaded fringe, and fitted long sleeves with dagger-point cuffs, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs floor-sweeping skirt composed of layered satin drapery, a gold brocaded front panel, constellation beadwork, and a voluminous gathered bustle, weighing down with real fabric gravity alongside floating celestial tarot cards, dangling chain ornaments, crescent moon motifs, and star-shaped beaded trims scattered across the ensemble.",
+ "krea2_full_prompt": "the camera sits just below waist level with almost zero lens distortion, letting the floor-sweeping hemline of her gown anchor the lower half of the picture while her framed shoulders and headpiece hold the upper third. a young woman with slate-silver sleek parted long hair and large celadon-green eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of gilded silk jacquard, pearl-encrusted sheer tulle, liquid satin drapery, metallic chain fringe across a midnight blue, champagne gold, antique silver palette: at her crown sits curved metallic ram-horn crown, silver crescent moon hairpins, layered pearl chains, and delicate forehead drop ornaments; her upper torso is cinched into metallic jacquard corset with a sheer tulle halter overlay, cascading metallic chains, delicate beaded fringe, and fitted long sleeves with dagger-point cuffs, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs floor-sweeping skirt composed of layered satin drapery, a gold brocaded front panel, constellation beadwork, and a voluminous gathered bustle, weighing down with real fabric gravity alongside floating celestial tarot cards, dangling chain ornaments, crescent moon motifs, and star-shaped beaded trims scattered across the ensemble. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Night Capricorn Song",
+  "夜羯之歌"
+ ],
+ "images": [
+  "images/Sexy/night-capricorn-song/wardrobe_1.jpg"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "slug": "lotus-heart",
+ "title": "Lotus Heart",
+ "cn_name": "渡我莲心",
+ "rarity": 4,
+ "style": "Fresh",
+ "labels": [
+  "Linlang",
+  "Summer",
+  "清凉"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Fresh/lotus-heart/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Fresh/lotus-heart/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "幽莲玄水蝶纱仙裳",
+  "silhouette": "Asymmetric layered robe silhouette with a short front hem and cascading back panels, paired with a high-waisted inner skirt and sheer wing-like sleeves, creating a voluminous, ethereal couture line.",
+  "headpiece_and_hair_ornaments": "Intricate silver lotus-and-butterfly hairpins with dangling pearl tassels, paired with a delicate forehead chain and small gemstone accents.",
+  "upper_garment_and_sleeves": "Deep-plunge cross-collar bodice with intricate silver filigree embroidery and beaded chains; wide sheer organza sleeves with gradient ink-wash patterns, layered over a structured inner blouse, finished with pearl-and-tassel trims.",
+  "lower_garment_and_legwear": "Layered silk skirt with a short, scalloped front hem featuring silver wave embroidery, over a long sheer petticoat; paired with dark, embroidered lace-up ankle boots with a subtle heel.",
+  "signature_props_and_motifs": "Translucent butterfly wings with iridescent accents, floating lotus motifs, and a small companion creature in a dark hooded cape.",
+  "color_palette": [
+   "midnight blue",
+   "silver",
+   "pearl white",
+   "sheer lavender-grey"
+  ],
+  "key_materials": [
+   "pearl-encrusted sheer organza",
+   "silver filigree embroidery",
+   "gradient silk jacquard",
+   "Chantilly lace",
+   "iridescent tulle"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with silver-white braided half-up long hair and ice-blue eyes standing with calm, unblinking poise in a softly lit atmospheric studio. Adorning her head: Intricate silver lotus-and-butterfly hairpins with dangling pearl tassels, paired with a delicate forehead chain and small gemstone accents. For her upper attire, she wears Deep-plunge cross-collar bodice with intricate silver filigree embroidery and beaded chains; wide sheer organza sleeves with gradient ink-wash patterns, layered over a structured inner blouse, finished with pearl-and-tassel trims, rendered in midnight blue, silver, pearl white tones. Below the waist, Layered silk skirt with a short, scalloped front hem featuring silver wave embroidery, over a long sheer petticoat; paired with dark, embroidered lace-up ankle boots with a subtle heel, accompanied by Translucent butterfly wings with iridescent accents, floating lotus motifs, and a small companion creature in a dark hooded cape.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with silver-white braided half-up long hair and ice-blue eyes dressed in a midnight blue, silver, pearl white haute-couture ensemble featuring Deep-plunge cross-collar bodice with intricate silver filigree embroidery and beaded chains; wide sheer.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Intricate silver lotus-and-butterfly hairpins with dangling pearl tassels, paired with a delicate forehead chain and small gemstone accents.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Deep-plunge cross-collar bodice with intricate silver filigree embroidery and beaded chains; wide sheer organza sleeves with gradient ink-wash patterns, layered over a structured inner blouse, finished with pearl-and-tassel trims.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Layered silk skirt with a short, scalloped front hem featuring silver wave embroidery, over a long sheer petticoat; paired with dark, embroidered lace-up ankle boots with a subtle heel, accented with Translucent butterfly wings with iridescent accents, floating lotus motifs, and a small.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with intricate silver lotus-and-butterfly hairpins with dangling pearl tassels, paired with a delicate forehead chain and small gemstone accents, standing against a quiet neutral studio backdrop. Dressed in a midnight blue, silver, pearl white haute-couture outfit, she wears deep-plunge cross-collar bodice with intricate silver filigree embroidery and beaded chains; wide sheer organza sleeves with gradient ink-wash patterns, layered over a structured inner blouse, finished with pearl-and-tassel trims. From her cinched waist cascades layered silk skirt with a short, scalloped front hem featuring silver wave embroidery, over a long sheer petticoat; paired with dark, embroidered lace-up ankle boots with a subtle heel, paired with translucent butterfly wings with iridescent accents, floating lotus motifs, and a small companion creature in a dark hooded cape.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing deep-plunge cross-collar bodice with intricate silver filigree embroidery and beaded chains; wide sheer.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with intricate silver lotus-and-butterfly hairpins with dangling pearl tassels, paired with a delicate forehead chain and small gemstone accents.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Deep-plunge cross-collar bodice with intricate silver filigree embroidery and beaded chains; wide sheer organza sleeves with gradient ink-wash patterns, layered over a structured inner blouse, finished with pearl-and-tassel trims.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Layered silk skirt with a short, scalloped front hem featuring silver wave embroidery, over a long sheer petticoat; paired with dark, embroidered lace-up ankle boots with a subtle heel, accompanied by translucent butterfly wings with iridescent accents, floating lotus motifs, and a small.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of pearl-encrusted sheer organza, silver filigree embroidery, gradient silk jacquard, Chantilly lace across a midnight blue, silver, pearl white palette: at her crown sits silver lotus-and-butterfly hairpins with dangling pearl tassels, paired with a delicate forehead chain and small gemstone accents; her upper torso is cinched into deep-plunge cross-collar bodice with silver filigree embroidery and beaded chains; wide sheer organza sleeves with gradient ink-wash patterns, layered over a structured inner blouse, finished with pearl-and-tassel trims, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs layered silk skirt with a short, scalloped front hem featuring silver wave embroidery, over a long sheer petticoat; paired with dark, embroidered lace-up ankle boots with a subtle heel, weighing down with real fabric gravity alongside translucent butterfly wings with iridescent accents, floating lotus motifs, and a small companion creature in a dark hooded cape.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with silver-white braided half-up long hair and large ice-blue eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of pearl-encrusted sheer organza, silver filigree embroidery, gradient silk jacquard, Chantilly lace across a midnight blue, silver, pearl white palette: at her crown sits silver lotus-and-butterfly hairpins with dangling pearl tassels, paired with a delicate forehead chain and small gemstone accents; her upper torso is cinched into deep-plunge cross-collar bodice with silver filigree embroidery and beaded chains; wide sheer organza sleeves with gradient ink-wash patterns, layered over a structured inner blouse, finished with pearl-and-tassel trims, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs layered silk skirt with a short, scalloped front hem featuring silver wave embroidery, over a long sheer petticoat; paired with dark, embroidered lace-up ankle boots with a subtle heel, weighing down with real fabric gravity alongside translucent butterfly wings with iridescent accents, floating lotus motifs, and a small companion creature in a dark hooded cape. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Lotus Heart",
+  "渡我莲心"
+ ],
+ "images": [
+  "images/Fresh/lotus-heart/wardrobe_1.jpg"
+ ]
+}

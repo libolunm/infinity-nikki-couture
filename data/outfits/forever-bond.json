@@ -1,0 +1,52 @@
+{
+ "slug": "forever-bond",
+ "title": "Forever Bond",
+ "cn_name": "缘缘长相念",
+ "rarity": 5,
+ "style": "Sexy",
+ "labels": [
+  "Linlang",
+  "Fantasy"
+ ],
+ "local_sprite": "images/Sexy/forever-bond/sprite.png",
+ "local_wardrobe": [
+  "images/Sexy/forever-bond/wardrobe_1.jpg",
+  "images/Sexy/forever-bond/wardrobe_2.jpg"
+ ],
+ "local_main": "images/Sexy/forever-bond/wardrobe_1.jpg",
+ "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+ "outfit_card": {
+  "aesthetic_tag_zh": "灵狐珠缀莲华仙裳",
+  "silhouette": "Floor-length ceremonial robe featuring grand cascading bell-shaped tiers, layered flowing ribbons, architectural lotus shoulder pads, and a trailing voluminous train crowned by an oversized multi-tonal fox tail.",
+  "headpiece_and_hair_ornaments": "Plush white fox ears paired with ruby-enameled lotus hairpins, gold filigree hair sticks, and a dramatic cascading crystal pearl veil masking the lower face.",
+  "upper_garment_and_sleeves": "Ornate butterfly-shaped jeweled chest plate with cloisonné enamel, tied with royal blue sash ribbons over layered sheer organza sleeves that flare into petal-shaped drapery with gilded filigree borders.",
+  "lower_garment_and_legwear": "Multi-layered ombré pleated skirts flaring into wide lotus petal silhouettes, accented with embroidered swirling clouds, flowing tasseled sashes, delicate beaded fringes, and hidden embroidered silk platform slippers.",
+  "signature_props_and_motifs": "A massive iridescent multi-hued fox tail, sharp gilded fingertip claws, floating glowing red lotus blossoms, and an ornamental pleated handheld folding fan.",
+  "color_palette": [
+   "vermilion red",
+   "coral peach",
+   "burnished gold",
+   "cornflower blue accent"
+  ],
+  "key_materials": [
+   "pearl-strung mesh",
+   "gilded silk brocade",
+   "cloisonné metalwork",
+   "gradient pleated organza",
+   "iridescent plush faux fur"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with jet-black traditional looped twin buns with loose sidelocks and violet-indigo eyes standing with cool aristocratic composure in a softly lit atmospheric studio. Adorning her head: Plush white fox ears paired with ruby-enameled lotus hairpins, gold filigree hair sticks, and a dramatic cascading crystal pearl veil masking the lower face. For her upper attire, she wears Ornate butterfly-shaped jeweled chest plate with cloisonné enamel, tied with royal blue sash ribbons over layered sheer organza sleeves that flare into petal-shaped drapery with gilded filigree borders, rendered in vermilion red, coral peach, burnished gold tones. Below the waist, Multi-layered ombré pleated skirts flaring into wide lotus petal silhouettes, accented with embroidered swirling clouds, flowing tasseled sashes, delicate beaded fringes, and hidden embroidered silk platform slippers, accompanied by A massive iridescent multi-hued fox tail, sharp gilded fingertip claws, floating glowing red lotus blossoms, and an ornamental pleated handheld folding fan.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with jet-black traditional looped twin buns with loose sidelocks and violet-indigo eyes dressed in a vermilion red, coral peach, burnished gold haute-couture ensemble featuring Ornate butterfly-shaped jeweled chest plate with cloisonné enamel, tied with royal blue sash ribbons.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Plush white fox ears paired with ruby-enameled lotus hairpins, gold filigree hair sticks, and a dramatic cascading crystal pearl veil masking the lower face.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Ornate butterfly-shaped jeweled chest plate with cloisonné enamel, tied with royal blue sash ribbons over layered sheer organza sleeves that flare into petal-shaped drapery with gilded filigree borders.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Multi-layered ombré pleated skirts flaring into wide lotus petal silhouettes, accented with embroidered swirling clouds, flowing tasseled sashes, delicate beaded fringes, and hidden embroidered silk platform slippers, accented with A massive iridescent multi-hued fox tail, sharp gilded fingertip claws, floating glowing red.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with plush white fox ears paired with ruby-enameled lotus hairpins, gold filigree hair sticks, and a dramatic cascading crystal pearl veil masking the lower face, standing against a quiet neutral studio backdrop. Dressed in a vermilion red, coral peach, burnished gold haute-couture outfit, she wears ornate butterfly-shaped jeweled chest plate with cloisonné enamel, tied with royal blue sash ribbons over layered sheer organza sleeves that flare into petal-shaped drapery with gilded filigree borders. From her cinched waist cascades multi-layered ombré pleated skirts flaring into wide lotus petal silhouettes, accented with embroidered swirling clouds, flowing tasseled sashes, delicate beaded fringes, and hidden embroidered silk platform slippers, paired with a massive iridescent multi-hued fox tail, sharp gilded fingertip claws, floating glowing red lotus blossoms, and an ornamental pleated handheld folding fan.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing ornate butterfly-shaped jeweled chest plate with cloisonné enamel, tied with royal blue sash ribbons.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with plush white fox ears paired with ruby-enameled lotus hairpins, gold filigree hair sticks, and a dramatic cascading crystal pearl veil masking the lower face.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Ornate butterfly-shaped jeweled chest plate with cloisonné enamel, tied with royal blue sash ribbons over layered sheer organza sleeves that flare into petal-shaped drapery with gilded filigree borders.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Multi-layered ombré pleated skirts flaring into wide lotus petal silhouettes, accented with embroidered swirling clouds, flowing tasseled sashes, delicate beaded fringes, and hidden embroidered silk platform slippers, accompanied by a massive iridescent multi-hued fox tail, sharp gilded fingertip claws, floating glowing red.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of pearl-strung mesh, gilded silk brocade, cloisonné metalwork, gradient pleated organza across a vermilion red, coral peach, burnished gold palette: at her crown sits plush white fox ears paired with ruby-enameled lotus hairpins, gold filigree hair sticks, and a dramatic cascading crystal pearl veil masking the lower face; her upper torso is cinched into butterfly-shaped jeweled chest plate with cloisonné enamel, tied with royal blue sash ribbons over layered sheer organza sleeves that flare into petal-shaped drapery with gilded filigree borders, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs multi-layered ombré pleated skirts flaring into wide lotus petal silhouettes, accented with embroidered swirling clouds, flowing tasseled sashes, delicate beaded fringes, and hidden embroidered silk platform slippers, weighing down with real fabric gravity alongside a massive iridescent multi-hued fox tail, sharp gilded fingertip claws, floating glowing red lotus blossoms, and an ornamental pleated handheld folding fan.",
+ "krea2_full_prompt": "the camera sits level with her collarbone at a slight three-quarter angle, so that the wide translucent drape of her sleeves and the layered collar-to-waist embroidery fill the center of the composition. a young woman with jet-black traditional looped twin buns with loose sidelocks and large violet-indigo eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of pearl-strung mesh, gilded silk brocade, cloisonné metalwork, gradient pleated organza across a vermilion red, coral peach, burnished gold palette: at her crown sits plush white fox ears paired with ruby-enameled lotus hairpins, gold filigree hair sticks, and a dramatic cascading crystal pearl veil masking the lower face; her upper torso is cinched into butterfly-shaped jeweled chest plate with cloisonné enamel, tied with royal blue sash ribbons over layered sheer organza sleeves that flare into petal-shaped drapery with gilded filigree borders, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs multi-layered ombré pleated skirts flaring into wide lotus petal silhouettes, accented with embroidered swirling clouds, flowing tasseled sashes, delicate beaded fringes, and hidden embroidered silk platform slippers, weighing down with real fabric gravity alongside a massive iridescent multi-hued fox tail, sharp gilded fingertip claws, floating glowing red lotus blossoms, and an ornamental pleated handheld folding fan. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Forever Bond",
+  "缘缘长相念"
+ ],
+ "images": [
+  "images/Sexy/forever-bond/sprite.png",
+  "images/Sexy/forever-bond/wardrobe_1.jpg",
+  "images/Sexy/forever-bond/wardrobe_2.jpg"
+ ]
+}

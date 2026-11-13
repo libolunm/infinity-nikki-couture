@@ -1,0 +1,49 @@
+{
+ "slug": "danqing-craft",
+ "title": "Danqing Craft",
+ "cn_name": "造化丹青",
+ "rarity": 4,
+ "style": "Cool",
+ "labels": [
+  "Linlang",
+  "Fantasy"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Cool/danqing-craft/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Cool/danqing-craft/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "墨韵丹青幻梦裳",
+  "silhouette": "Layered Chinese-inspired ensemble with a sheer white duster coat over a high-collared jade bodice, asymmetrical layered skirt with a high-low hem, and slim column silhouette softened by flowing robe panels and wide sleeves.",
+  "headpiece_and_hair_ornaments": "Jade-tipped hairpin with a blue tassel and a small floral branch ornament, plus a thin metallic headband accent.",
+  "upper_garment_and_sleeves": "High-collared jade silk bodice with gold filigree embroidery, layered under a white sheer organza duster coat with wide bell sleeves and gold trim at cuffs, featuring a central dragon motif in gold thread.",
+  "lower_garment_and_legwear": "Asymmetrical layered skirt in translucent green and white organza with gold embroidered hem, over a short inner layer, paired with patterned sheer stockings and dark teal heeled boots with gold accents.",
+  "signature_props_and_motifs": "Floating ink-wash brushstroke motifs and a small jade pendant with a blue tassel hanging from the waist sash.",
+  "color_palette": [
+   "jade green",
+   "ivory white",
+   "gold",
+   "translucent mint"
+  ],
+  "key_materials": [
+   "sheer organza",
+   "gilded silk jacquard",
+   "embroidered tulle",
+   "satin ribbon",
+   "metallic thread"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with platinum-rose waterfall half-up curls and clear topaz eyes standing with graceful luminous calm in a softly lit atmospheric studio. Adorning her head: Jade-tipped hairpin with a blue tassel and a small floral branch ornament, plus a thin metallic headband accent. For her upper attire, she wears High-collared jade silk bodice with gold filigree embroidery, layered under a white sheer organza duster coat with wide bell sleeves and gold trim at cuffs, featuring a central dragon motif in gold thread, rendered in jade green, ivory white, gold tones. Below the waist, Asymmetrical layered skirt in translucent green and white organza with gold embroidered hem, over a short inner layer, paired with patterned sheer stockings and dark teal heeled boots with gold accents, accompanied by Floating ink-wash brushstroke motifs and a small jade pendant with a blue tassel hanging from the waist sash.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with platinum-rose waterfall half-up curls and clear topaz eyes dressed in a jade green, ivory white, gold haute-couture ensemble featuring High-collared jade silk bodice with gold filigree embroidery, layered under a white sheer organza duster.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Jade-tipped hairpin with a blue tassel and a small floral branch ornament, plus a thin metallic headband accent.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"High-collared jade silk bodice with gold filigree embroidery, layered under a white sheer organza duster coat with wide bell sleeves and gold trim at cuffs, featuring a central dragon motif in gold thread.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Asymmetrical layered skirt in translucent green and white organza with gold embroidered hem, over a short inner layer, paired with patterned sheer stockings and dark teal heeled boots with gold accents, accented with Floating ink-wash brushstroke motifs and a small jade pendant with a blue tassel hanging from.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with jade-tipped hairpin with a blue tassel and a small floral branch ornament, plus a thin metallic headband accent, standing against a quiet neutral studio backdrop. Dressed in a jade green, ivory white, gold haute-couture outfit, she wears high-collared jade silk bodice with gold filigree embroidery, layered under a white sheer organza duster coat with wide bell sleeves and gold trim at cuffs, featuring a central dragon motif in gold thread. From her cinched waist cascades asymmetrical layered skirt in translucent green and white organza with gold embroidered hem, over a short inner layer, paired with patterned sheer stockings and dark teal heeled boots with gold accents, paired with floating ink-wash brushstroke motifs and a small jade pendant with a blue tassel hanging from the waist sash.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing high-collared jade silk bodice with gold filigree embroidery, layered under a white sheer organza duster.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with jade-tipped hairpin with a blue tassel and a small floral branch ornament, plus a thin metallic headband accent.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"High-collared jade silk bodice with gold filigree embroidery, layered under a white sheer organza duster coat with wide bell sleeves and gold trim at cuffs, featuring a central dragon motif in gold thread.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Asymmetrical layered skirt in translucent green and white organza with gold embroidered hem, over a short inner layer, paired with patterned sheer stockings and dark teal heeled boots with gold accents, accompanied by floating ink-wash brushstroke motifs and a small jade pendant with a blue tassel hanging from.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of sheer organza, gilded silk jacquard, embroidered tulle, satin ribbon across a jade green, ivory white, gold palette: at her crown sits jade-tipped hairpin with a blue tassel and a small floral branch ornament, plus a thin metallic headband accent; her upper torso is cinched into high-collared jade silk bodice with gold filigree embroidery, layered under a white sheer organza duster coat with wide bell sleeves and gold trim at cuffs, featuring a central dragon motif in gold thread, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs asymmetrical layered skirt in translucent green and white organza with gold embroidered hem, over a short inner layer, paired with patterned sheer stockings and dark teal heeled boots with gold accents, weighing down with real fabric gravity alongside floating ink-wash brushstroke motifs and a small jade pendant with a blue tassel hanging from the waist sash.",
+ "krea2_full_prompt": "the camera sits level with her collarbone at a slight three-quarter angle, so that the wide translucent drape of her sleeves and the layered collar-to-waist embroidery fill the center of the composition. a young woman with platinum-rose waterfall half-up curls and large clear topaz eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of sheer organza, gilded silk jacquard, embroidered tulle, satin ribbon across a jade green, ivory white, gold palette: at her crown sits jade-tipped hairpin with a blue tassel and a small floral branch ornament, plus a thin metallic headband accent; her upper torso is cinched into high-collared jade silk bodice with gold filigree embroidery, layered under a white sheer organza duster coat with wide bell sleeves and gold trim at cuffs, featuring a central dragon motif in gold thread, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs asymmetrical layered skirt in translucent green and white organza with gold embroidered hem, over a short inner layer, paired with patterned sheer stockings and dark teal heeled boots with gold accents, weighing down with real fabric gravity alongside floating ink-wash brushstroke motifs and a small jade pendant with a blue tassel hanging from the waist sash. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Danqing Craft",
+  "造化丹青"
+ ],
+ "images": [
+  "images/Cool/danqing-craft/wardrobe_1.jpg"
+ ]
+}

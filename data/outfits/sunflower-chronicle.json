@@ -1,0 +1,50 @@
+{
+ "slug": "sunflower-chronicle",
+ "title": "Sunflower Chronicle",
+ "cn_name": "向阳花纪",
+ "rarity": 4,
+ "style": "Sexy",
+ "labels": [
+  "Forest",
+  "Pastoral",
+  "森林"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Sexy/sunflower-chronicle/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Sexy/sunflower-chronicle/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "金蕊织梦田园仙裙",
+  "silhouette": "High-waisted flowing empire dress with a cascading asymmetric layered skirt, decorative ruffled shoulder straps, and a trailing sheer back panel creating a soft pastoral A-line volume.",
+  "headpiece_and_hair_ornaments": "A lush sunflower crown adorned with golden petals and delicate beaded vines, accented by trailing green ribbons and tiny floral hairpins.",
+  "upper_garment_and_sleeves": "Sheer golden-yellow bodice with intricate embroidered sunflower motifs, a sweetheart neckline framed by ruffled organza, and detached arm cuffs featuring pearl-encrusted lace and fluttering chiffon streamers.",
+  "lower_garment_and_legwear": "Tiered skirt of translucent yellow chiffon and tulle with scalloped lace hems, layered over a subtle petticoat, paired with delicate golden strappy sandals and sheer ankle socks.",
+  "signature_props_and_motifs": "Floating golden sunflowers and ethereal glowing pollen particles, along with a delicate golden floral bracelet and a vine-wrapped rustic wooden frame accessory.",
+  "color_palette": [
+   "Golden Yellow",
+   "Cream White",
+   "Antique Gold",
+   "Translucent Organza"
+  ],
+  "key_materials": [
+   "sunflower-embroidered sheer organza",
+   "gilded lace trim",
+   "iridescent pearl beading",
+   "layered silk chiffon",
+   "delicate floral embroidery"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with lilac-silver floating wavy long hair and starlight-cyan eyes standing with dreamlike distant gaze in a softly lit atmospheric studio. Adorning her head: A lush sunflower crown adorned with golden petals and delicate beaded vines, accented by trailing green ribbons and tiny floral hairpins. For her upper attire, she wears Sheer golden-yellow bodice with intricate embroidered sunflower motifs, a sweetheart neckline framed by ruffled organza, and detached arm cuffs featuring pearl-encrusted lace and fluttering chiffon streamers, rendered in Golden Yellow, Cream White, Antique Gold tones. Below the waist, Tiered skirt of translucent yellow chiffon and tulle with scalloped lace hems, layered over a subtle petticoat, paired with delicate golden strappy sandals and sheer ankle socks, accompanied by Floating golden sunflowers and ethereal glowing pollen particles, along with a delicate golden floral bracelet and a vine-wrapped rustic wooden frame accessory.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with lilac-silver floating wavy long hair and starlight-cyan eyes dressed in a Golden Yellow, Cream White, Antique Gold haute-couture ensemble featuring Sheer golden-yellow bodice with intricate embroidered sunflower motifs, a sweetheart neckline framed by.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"A lush sunflower crown adorned with golden petals and delicate beaded vines, accented by trailing green ribbons and tiny floral hairpins.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Sheer golden-yellow bodice with intricate embroidered sunflower motifs, a sweetheart neckline framed by ruffled organza, and detached arm cuffs featuring pearl-encrusted lace and fluttering chiffon streamers.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Tiered skirt of translucent yellow chiffon and tulle with scalloped lace hems, layered over a subtle petticoat, paired with delicate golden strappy sandals and sheer ankle socks, accented with Floating golden sunflowers and ethereal glowing pollen particles, along with a delicate golden.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with a lush sunflower crown adorned with golden petals and delicate beaded vines, accented by trailing green ribbons and tiny floral hairpins, standing against a quiet neutral studio backdrop. Dressed in a golden yellow, cream white, antique gold haute-couture outfit, she wears sheer golden-yellow bodice with intricate embroidered sunflower motifs, a sweetheart neckline framed by ruffled organza, and detached arm cuffs featuring pearl-encrusted lace and fluttering chiffon streamers. From her cinched waist cascades tiered skirt of translucent yellow chiffon and tulle with scalloped lace hems, layered over a subtle petticoat, paired with delicate golden strappy sandals and sheer ankle socks, paired with floating golden sunflowers and ethereal glowing pollen particles, along with a delicate golden floral bracelet and a vine-wrapped rustic wooden frame accessory.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing sheer golden-yellow bodice with intricate embroidered sunflower motifs, a sweetheart neckline framed by.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with a lush sunflower crown adorned with golden petals and delicate beaded vines, accented by trailing green ribbons and tiny floral hairpins.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Sheer golden-yellow bodice with intricate embroidered sunflower motifs, a sweetheart neckline framed by ruffled organza, and detached arm cuffs featuring pearl-encrusted lace and fluttering chiffon streamers.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Tiered skirt of translucent yellow chiffon and tulle with scalloped lace hems, layered over a subtle petticoat, paired with delicate golden strappy sandals and sheer ankle socks, accompanied by floating golden sunflowers and ethereal glowing pollen particles, along with a delicate golden.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of sunflower-embroidered sheer organza, gilded lace trim, iridescent pearl beading, layered silk chiffon across a Golden Yellow, Cream White, Antique Gold palette: at her crown sits a lush sunflower crown adorned with golden petals and delicate beaded vines, accented by trailing green ribbons and tiny floral hairpins; her upper torso is cinched into sheer golden-yellow bodice with embroidered sunflower motifs, a sweetheart neckline framed by ruffled organza, and detached arm cuffs featuring pearl-encrusted lace and fluttering chiffon streamers, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs tiered skirt of translucent yellow chiffon and tulle with scalloped lace hems, layered over a subtle petticoat, paired with delicate golden strappy sandals and sheer ankle socks, weighing down with real fabric gravity alongside floating golden sunflowers and glowing pollen particles, along with a delicate golden floral bracelet and a vine-wrapped rustic wooden frame accessory.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with lilac-silver floating wavy long hair and large starlight-cyan eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of sunflower-embroidered sheer organza, gilded lace trim, iridescent pearl beading, layered silk chiffon across a Golden Yellow, Cream White, Antique Gold palette: at her crown sits a lush sunflower crown adorned with golden petals and delicate beaded vines, accented by trailing green ribbons and tiny floral hairpins; her upper torso is cinched into sheer golden-yellow bodice with embroidered sunflower motifs, a sweetheart neckline framed by ruffled organza, and detached arm cuffs featuring pearl-encrusted lace and fluttering chiffon streamers, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs tiered skirt of translucent yellow chiffon and tulle with scalloped lace hems, layered over a subtle petticoat, paired with delicate golden strappy sandals and sheer ankle socks, weighing down with real fabric gravity alongside floating golden sunflowers and glowing pollen particles, along with a delicate golden floral bracelet and a vine-wrapped rustic wooden frame accessory. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Sunflower Chronicle",
+  "向阳花纪"
+ ],
+ "images": [
+  "images/Sexy/sunflower-chronicle/wardrobe_1.jpg"
+ ]
+}

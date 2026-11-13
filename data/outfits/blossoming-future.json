@@ -1,0 +1,48 @@
+{
+ "slug": "blossoming-future",
+ "title": "Blossoming Future",
+ "cn_name": "未来绽放",
+ "rarity": 4,
+ "style": "Sweet",
+ "labels": [
+  "Romance",
+  "Fashion"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Sweet/blossoming-future/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Sweet/blossoming-future/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "星河碎钻甜梦纱裙",
+  "silhouette": "A cropped diamond-quilted bustier top paired with a flared, multi-tiered skater skirt, sheer detachable sleeves, and a tulle underlayer creating a voluminous, youthful A-line silhouette.",
+  "headpiece_and_hair_ornaments": "A delicate silver butterfly hairpin with crystal wings, subtle pearl-tipped pins, and a translucent organza ribbon headband.",
+  "upper_garment_and_sleeves": "A sweetheart-neckline cropped corset in iridescent blue satin with diamond lattice smocking, pearl and crystal chain straps, and detached sheer organza sleeves with lace cuffs and metallic arm bands.",
+  "lower_garment_and_legwear": "A high-waisted flared mini skirt with a glittering tulle overlay, ruffled white lace hem, layered petticoat, and a crystal rhinestone garter over sheer stockings with platform ankle boots.",
+  "signature_props_and_motifs": "Glowing crystal butterflies, floating holographic bubbles, and a sparkling musical-note motif that hovers around the wearer.",
+  "color_palette": [
+   "iridescent ice blue",
+   "crystal white",
+   "silver",
+   "sheer lilac"
+  ],
+  "key_materials": [
+   "diamond-quilted satin",
+   "pearl-encrusted sheer tulle",
+   "rhinestone chain mesh",
+   "holographic organza"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with ash-silver high ribbon-bound ponytail and pale turquoise eyes standing with serene watchful gaze in a softly lit atmospheric studio. Adorning her head: A delicate silver butterfly hairpin with crystal wings, subtle pearl-tipped pins, and a translucent organza ribbon headband. For her upper attire, she wears A sweetheart-neckline cropped corset in iridescent blue satin with diamond lattice smocking, pearl and crystal chain straps, and detached sheer organza sleeves with lace cuffs and metallic arm bands, rendered in iridescent ice blue, crystal white, silver tones. Below the waist, A high-waisted flared mini skirt with a glittering tulle overlay, ruffled white lace hem, layered petticoat, and a crystal rhinestone garter over sheer stockings with platform ankle boots, accompanied by Glowing crystal butterflies, floating holographic bubbles, and a sparkling musical-note motif that hovers around the wearer.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with ash-silver high ribbon-bound ponytail and pale turquoise eyes dressed in a iridescent ice blue, crystal white, silver haute-couture ensemble featuring A sweetheart-neckline cropped corset in iridescent blue satin with diamond lattice smocking, pearl and.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"A delicate silver butterfly hairpin with crystal wings, subtle pearl-tipped pins, and a translucent organza ribbon headband.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"A sweetheart-neckline cropped corset in iridescent blue satin with diamond lattice smocking, pearl and crystal chain straps, and detached sheer organza sleeves with lace cuffs and metallic arm bands.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"A high-waisted flared mini skirt with a glittering tulle overlay, ruffled white lace hem, layered petticoat, and a crystal rhinestone garter over sheer stockings with platform ankle boots, accented with Glowing crystal butterflies, floating holographic bubbles, and a sparkling musical-note motif.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with a delicate silver butterfly hairpin with crystal wings, subtle pearl-tipped pins, and a translucent organza ribbon headband, standing against a quiet neutral studio backdrop. Dressed in a iridescent ice blue, crystal white, silver haute-couture outfit, she wears a sweetheart-neckline cropped corset in iridescent blue satin with diamond lattice smocking, pearl and crystal chain straps, and detached sheer organza sleeves with lace cuffs and metallic arm bands. From her cinched waist cascades a high-waisted flared mini skirt with a glittering tulle overlay, ruffled white lace hem, layered petticoat, and a crystal rhinestone garter over sheer stockings with platform ankle boots, paired with glowing crystal butterflies, floating holographic bubbles, and a sparkling musical-note motif that hovers around the wearer.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing a sweetheart-neckline cropped corset in iridescent blue satin with diamond lattice smocking, pearl and.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with a delicate silver butterfly hairpin with crystal wings, subtle pearl-tipped pins, and a translucent organza ribbon headband.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"A sweetheart-neckline cropped corset in iridescent blue satin with diamond lattice smocking, pearl and crystal chain straps, and detached sheer organza sleeves with lace cuffs and metallic arm bands.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"A high-waisted flared mini skirt with a glittering tulle overlay, ruffled white lace hem, layered petticoat, and a crystal rhinestone garter over sheer stockings with platform ankle boots, accompanied by glowing crystal butterflies, floating holographic bubbles, and a sparkling musical-note motif.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of diamond-quilted satin, pearl-encrusted sheer tulle, rhinestone chain mesh, holographic organza across a iridescent ice blue, crystal white, silver palette: at her crown sits a delicate silver butterfly hairpin with crystal wings, subtle pearl-tipped pins, and a translucent organza ribbon headband; her upper torso is cinched into a sweetheart-neckline cropped corset in iridescent blue satin with diamond lattice smocking, pearl and crystal chain straps, and detached sheer organza sleeves with lace cuffs and metallic arm bands, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a high-waisted flared mini skirt with a glittering tulle overlay, ruffled white lace hem, layered petticoat, and a crystal rhinestone garter over sheer stockings with platform ankle boots, weighing down with real fabric gravity alongside glowing crystal butterflies, floating holographic bubbles, and a sparkling musical-note motif that hovers around the wearer.",
+ "krea2_full_prompt": "the camera sits level with her collarbone at a slight three-quarter angle, so that the wide translucent drape of her sleeves and the layered collar-to-waist embroidery fill the center of the composition. a young woman with ash-silver high ribbon-bound ponytail and large pale turquoise eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of diamond-quilted satin, pearl-encrusted sheer tulle, rhinestone chain mesh, holographic organza across a iridescent ice blue, crystal white, silver palette: at her crown sits a delicate silver butterfly hairpin with crystal wings, subtle pearl-tipped pins, and a translucent organza ribbon headband; her upper torso is cinched into a sweetheart-neckline cropped corset in iridescent blue satin with diamond lattice smocking, pearl and crystal chain straps, and detached sheer organza sleeves with lace cuffs and metallic arm bands, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a high-waisted flared mini skirt with a glittering tulle overlay, ruffled white lace hem, layered petticoat, and a crystal rhinestone garter over sheer stockings with platform ankle boots, weighing down with real fabric gravity alongside glowing crystal butterflies, floating holographic bubbles, and a sparkling musical-note motif that hovers around the wearer. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Blossoming Future",
+  "未来绽放"
+ ],
+ "images": [
+  "images/Sweet/blossoming-future/wardrobe_1.jpg"
+ ]
+}

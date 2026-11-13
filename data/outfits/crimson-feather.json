@@ -1,0 +1,53 @@
+{
+ "slug": "crimson-feather",
+ "title": "Crimson Feather",
+ "cn_name": "炽羽不渝",
+ "rarity": 5,
+ "style": "Cool",
+ "labels": [
+  "Ballroom",
+  "Trendy"
+ ],
+ "local_sprite": "images/Cool/crimson-feather/sprite.png",
+ "local_wardrobe": [
+  "images/Cool/crimson-feather/wardrobe_1.jpg",
+  "images/Cool/crimson-feather/wardrobe_2.jpg",
+  "images/Cool/crimson-feather/wardrobe_3.jpg"
+ ],
+ "local_main": "images/Cool/crimson-feather/wardrobe_1.jpg",
+ "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+ "outfit_card": {
+  "aesthetic_tag_zh": "暗夜炽羽哥特礼裙",
+  "silhouette": "Dramatic asymmetrical A-line couture ballgown featuring structured layered feather corsetry, sprawling multi-tiered skirt volume, and an expansive silhouette framed by grand avian wings.",
+  "headpiece_and_hair_ornaments": "Floating fractured black crystal halo, a sparkling feather-embroidered lace blindfold, and dangling blackened metal filigree earrings set with teardrop crimson stones.",
+  "upper_garment_and_sleeves": "Strapless sweetheart bodice draped in metallic-sheened feathers, adorned with a high victorian lace choker with a crimson gem pendant, completed by sheer glitter-dusted opera gloves and avian cuff embroidery.",
+  "lower_garment_and_legwear": "Expansive multi-tiered ballgown skirt structured with cascading feather-plume panels, glowing crimson-trimmed scalloped tulle underskirts, dark crystalline dust embroidery, and elegant feather-embossed pointed evening pumps.",
+  "signature_props_and_motifs": "Vast dark-feathered angel wings infused with glowing crimson light, drifting luminous ember flecks, and levitating shattered obsidian geometric shards.",
+  "color_palette": [
+   "obsidian black",
+   "crimson red",
+   "starlight silver",
+   "smoky charcoal"
+  ],
+  "key_materials": [
+   "feather-embroidered silk organza",
+   "crystal-dusted pleated tulle",
+   "blackened guipure lace",
+   "faceted teardrop rubies"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with ink-black cloud-swept traditional chignon and vermilion-tinted amber eyes standing with noble dignified bearing in a softly lit atmospheric studio. Adorning her head: Floating fractured black crystal halo, a sparkling feather-embroidered lace blindfold, and dangling blackened metal filigree earrings set with teardrop crimson stones. For her upper attire, she wears Strapless sweetheart bodice draped in metallic-sheened feathers, adorned with a high victorian lace choker with a crimson gem pendant, completed by sheer glitter-dusted opera gloves and avian cuff embroidery, rendered in obsidian black, crimson red, starlight silver tones. Below the waist, Expansive multi-tiered ballgown skirt structured with cascading feather-plume panels, glowing crimson-trimmed scalloped tulle underskirts, dark crystalline dust embroidery, and elegant feather-embossed pointed evening pumps, accompanied by Vast dark-feathered angel wings infused with glowing crimson light, drifting luminous ember flecks, and levitating shattered obsidian geometric shards.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with ink-black cloud-swept traditional chignon and vermilion-tinted amber eyes dressed in a obsidian black, crimson red, starlight silver haute-couture ensemble featuring Strapless sweetheart bodice draped in metallic-sheened feathers, adorned with a high victorian lace.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Floating fractured black crystal halo, a sparkling feather-embroidered lace blindfold, and dangling blackened metal filigree earrings set with teardrop crimson stones.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Strapless sweetheart bodice draped in metallic-sheened feathers, adorned with a high victorian lace choker with a crimson gem pendant, completed by sheer glitter-dusted opera gloves and avian cuff embroidery.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Expansive multi-tiered ballgown skirt structured with cascading feather-plume panels, glowing crimson-trimmed scalloped tulle underskirts, dark crystalline dust embroidery, and elegant feather-embossed pointed evening pumps, accented with Vast dark-feathered angel wings infused with glowing crimson light, drifting luminous ember.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with floating fractured black crystal halo, a sparkling feather-embroidered lace blindfold, and dangling blackened metal filigree earrings set with teardrop crimson stones, standing against a quiet neutral studio backdrop. Dressed in a obsidian black, crimson red, starlight silver haute-couture outfit, she wears strapless sweetheart bodice draped in metallic-sheened feathers, adorned with a high victorian lace choker with a crimson gem pendant, completed by sheer glitter-dusted opera gloves and avian cuff embroidery. From her cinched waist cascades expansive multi-tiered ballgown skirt structured with cascading feather-plume panels, glowing crimson-trimmed scalloped tulle underskirts, dark crystalline dust embroidery, and elegant feather-embossed pointed evening pumps, paired with vast dark-feathered angel wings infused with glowing crimson light, drifting luminous ember flecks, and levitating shattered obsidian geometric shards.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing strapless sweetheart bodice draped in metallic-sheened feathers, adorned with a high victorian lace.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with floating fractured black crystal halo, a sparkling feather-embroidered lace blindfold, and dangling blackened metal filigree earrings set with teardrop crimson stones.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Strapless sweetheart bodice draped in metallic-sheened feathers, adorned with a high victorian lace choker with a crimson gem pendant, completed by sheer glitter-dusted opera gloves and avian cuff embroidery.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Expansive multi-tiered ballgown skirt structured with cascading feather-plume panels, glowing crimson-trimmed scalloped tulle underskirts, dark crystalline dust embroidery, and elegant feather-embossed pointed evening pumps, accompanied by vast dark-feathered angel wings infused with glowing crimson light, drifting luminous ember.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of feather-embroidered silk organza, crystal-dusted pleated tulle, blackened guipure lace, faceted teardrop rubies across a obsidian black, crimson red, starlight silver palette: at her crown sits floating fractured black crystal halo, a sparkling feather-embroidered lace blindfold, and dangling blackened metal filigree earrings set with teardrop crimson stones; her upper torso is cinched into strapless sweetheart bodice draped in metallic-sheened feathers, adorned with a high victorian lace choker with a crimson gem pendant, completed by sheer glitter-dusted opera gloves and avian cuff embroidery, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs expansive multi-tiered ballgown skirt structured with cascading feather-plume panels, glowing crimson-trimmed scalloped tulle underskirts, dark crystalline dust embroidery, and elegant feather-embossed pointed evening pumps, weighing down with real fabric gravity alongside vast dark-feathered angel wings infused with glowing crimson light, drifting luminous ember flecks, and levitating shattered obsidian geometric shards.",
+ "krea2_full_prompt": "the camera sits at chest height shifted slightly to her left, so that the overlapping fabric folds at her cinched waist and her raised forearm sleeves form the dominant diagonal across the canvas. a young woman with ink-black cloud-swept traditional chignon and large vermilion-tinted amber eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of feather-embroidered silk organza, crystal-dusted pleated tulle, blackened guipure lace, faceted teardrop rubies across a obsidian black, crimson red, starlight silver palette: at her crown sits floating fractured black crystal halo, a sparkling feather-embroidered lace blindfold, and dangling blackened metal filigree earrings set with teardrop crimson stones; her upper torso is cinched into strapless sweetheart bodice draped in metallic-sheened feathers, adorned with a high victorian lace choker with a crimson gem pendant, completed by sheer glitter-dusted opera gloves and avian cuff embroidery, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs expansive multi-tiered ballgown skirt structured with cascading feather-plume panels, glowing crimson-trimmed scalloped tulle underskirts, dark crystalline dust embroidery, and elegant feather-embossed pointed evening pumps, weighing down with real fabric gravity alongside vast dark-feathered angel wings infused with glowing crimson light, drifting luminous ember flecks, and levitating shattered obsidian geometric shards. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Crimson Feather",
+  "炽羽不渝"
+ ],
+ "images": [
+  "images/Cool/crimson-feather/sprite.png",
+  "images/Cool/crimson-feather/wardrobe_1.jpg",
+  "images/Cool/crimson-feather/wardrobe_2.jpg",
+  "images/Cool/crimson-feather/wardrobe_3.jpg"
+ ]
+}

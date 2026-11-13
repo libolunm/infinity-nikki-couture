@@ -1,0 +1,53 @@
+{
+ "slug": "she-is-wildfire",
+ "title": "She Is Wildfire",
+ "cn_name": "她是不驯火",
+ "rarity": 5,
+ "style": "Cool",
+ "labels": [
+  "Playful",
+  "Spirited"
+ ],
+ "local_sprite": "images/Cool/she-is-wildfire/sprite.png",
+ "local_wardrobe": [
+  "images/Cool/she-is-wildfire/wardrobe_1.jpg",
+  "images/Cool/she-is-wildfire/wardrobe_2.jpg",
+  "images/Cool/she-is-wildfire/wardrobe_3.jpg"
+ ],
+ "local_main": "images/Cool/she-is-wildfire/wardrobe_1.jpg",
+ "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+ "outfit_card": {
+  "aesthetic_tag_zh": "蒸汽猎装赤金篷裙",
+  "silhouette": "Steampunk Little Red Riding Hood silhouette featuring a voluminous pointed-ear capelet, structured underbust corset, tiered bell crinoline skirt, and layered leather utility harness accents.",
+  "headpiece_and_hair_ornaments": "Crimson velvet beast-eared hood adorned with a leather-strapped brass goggle set, featuring an ornate sculpted golden rose and a filigree heart-lens motif.",
+  "upper_garment_and_sleeves": "Pleated white chemise bodice beneath a lace-up dark underbust corset, layered beneath a scalloped crimson brocade capelet detailed with gilded rose embroidery and bell cuffs.",
+  "lower_garment_and_legwear": "Multi-tiered crimson damask bustled skirt over cascading ivory lace petticoats, cinched with buckled leather gear and clockwork charms, paired with lace-up leather hunting boots.",
+  "signature_props_and_motifs": "Vintage brass hunting blunderbuss rifle, thorny wild rose appliques, clockwork gear elements, buckled utility belts, and floating crimson embers.",
+  "color_palette": [
+   "crimson red",
+   "antique bronze",
+   "burnished gold",
+   "ivory white"
+  ],
+  "key_materials": [
+   "embossed crimson velvet",
+   "gilded floral jacquard",
+   "antiqued brass filigree",
+   "scalloped cotton eyelet lace"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with honey-blonde victorian ringlets and cerulean-blue eyes standing with delicate poised smile in a softly lit atmospheric studio. Adorning her head: Crimson velvet beast-eared hood adorned with a leather-strapped brass goggle set, featuring an ornate sculpted golden rose and a filigree heart-lens motif. For her upper attire, she wears Pleated white chemise bodice beneath a lace-up dark underbust corset, layered beneath a scalloped crimson brocade capelet detailed with gilded rose embroidery and bell cuffs, rendered in crimson red, antique bronze, burnished gold tones. Below the waist, Multi-tiered crimson damask bustled skirt over cascading ivory lace petticoats, cinched with buckled leather gear and clockwork charms, paired with lace-up leather hunting boots, accompanied by Vintage brass hunting blunderbuss rifle, thorny wild rose appliques, clockwork gear elements, buckled utility belts, and floating crimson embers.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with honey-blonde victorian ringlets and cerulean-blue eyes dressed in a crimson red, antique bronze, burnished gold haute-couture ensemble featuring Pleated white chemise bodice beneath a lace-up dark underbust corset, layered beneath a scalloped.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Crimson velvet beast-eared hood adorned with a leather-strapped brass goggle set, featuring an ornate sculpted golden rose and a filigree heart-lens motif.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Pleated white chemise bodice beneath a lace-up dark underbust corset, layered beneath a scalloped crimson brocade capelet detailed with gilded rose embroidery and bell cuffs.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Multi-tiered crimson damask bustled skirt over cascading ivory lace petticoats, cinched with buckled leather gear and clockwork charms, paired with lace-up leather hunting boots, accented with Vintage brass hunting blunderbuss rifle, thorny wild rose appliques, clockwork gear elements.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with crimson velvet beast-eared hood adorned with a leather-strapped brass goggle set, featuring an ornate sculpted golden rose and a filigree heart-lens motif, standing against a quiet neutral studio backdrop. Dressed in a crimson red, antique bronze, burnished gold haute-couture outfit, she wears pleated white chemise bodice beneath a lace-up dark underbust corset, layered beneath a scalloped crimson brocade capelet detailed with gilded rose embroidery and bell cuffs. From her cinched waist cascades multi-tiered crimson damask bustled skirt over cascading ivory lace petticoats, cinched with buckled leather gear and clockwork charms, paired with lace-up leather hunting boots, paired with vintage brass hunting blunderbuss rifle, thorny wild rose appliques, clockwork gear elements, buckled utility belts, and floating crimson embers.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing pleated white chemise bodice beneath a lace-up dark underbust corset, layered beneath a scalloped.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with crimson velvet beast-eared hood adorned with a leather-strapped brass goggle set, featuring an ornate sculpted golden rose and a filigree heart-lens motif.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Pleated white chemise bodice beneath a lace-up dark underbust corset, layered beneath a scalloped crimson brocade capelet detailed with gilded rose embroidery and bell cuffs.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Multi-tiered crimson damask bustled skirt over cascading ivory lace petticoats, cinched with buckled leather gear and clockwork charms, paired with lace-up leather hunting boots, accompanied by vintage brass hunting blunderbuss rifle, thorny wild rose appliques, clockwork gear elements.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of embossed crimson velvet, gilded floral jacquard, antiqued brass filigree, scalloped cotton eyelet lace across a crimson red, antique bronze, burnished gold palette: at her crown sits crimson velvet beast-eared hood adorned with a leather-strapped brass goggle set, featuring an sculpted golden rose and a filigree heart-lens motif; her upper torso is cinched into pleated white chemise bodice beneath a lace-up dark underbust corset, layered beneath a scalloped crimson brocade capelet with gilded rose embroidery and bell cuffs, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs multi-tiered crimson damask bustled skirt over cascading ivory lace petticoats, cinched with buckled leather gear and clockwork charms, paired with lace-up leather hunting boots, weighing down with real fabric gravity alongside vintage brass hunting blunderbuss rifle, thorny wild rose appliques, clockwork gear elements, buckled utility belts, and floating crimson embers.",
+ "krea2_full_prompt": "the camera sits just below waist level with almost zero lens distortion, letting the floor-sweeping hemline of her gown anchor the lower half of the picture while her framed shoulders and headpiece hold the upper third. a young woman with honey-blonde victorian ringlets and large cerulean-blue eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of embossed crimson velvet, gilded floral jacquard, antiqued brass filigree, scalloped cotton eyelet lace across a crimson red, antique bronze, burnished gold palette: at her crown sits crimson velvet beast-eared hood adorned with a leather-strapped brass goggle set, featuring an sculpted golden rose and a filigree heart-lens motif; her upper torso is cinched into pleated white chemise bodice beneath a lace-up dark underbust corset, layered beneath a scalloped crimson brocade capelet with gilded rose embroidery and bell cuffs, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs multi-tiered crimson damask bustled skirt over cascading ivory lace petticoats, cinched with buckled leather gear and clockwork charms, paired with lace-up leather hunting boots, weighing down with real fabric gravity alongside vintage brass hunting blunderbuss rifle, thorny wild rose appliques, clockwork gear elements, buckled utility belts, and floating crimson embers. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "She Is Wildfire",
+  "她是不驯火"
+ ],
+ "images": [
+  "images/Cool/she-is-wildfire/sprite.png",
+  "images/Cool/she-is-wildfire/wardrobe_1.jpg",
+  "images/Cool/she-is-wildfire/wardrobe_2.jpg",
+  "images/Cool/she-is-wildfire/wardrobe_3.jpg"
+ ]
+}

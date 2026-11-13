@@ -1,0 +1,50 @@
+{
+ "slug": "flutter-storm",
+ "title": "Flutter Storm",
+ "cn_name": "蝶屿风袭",
+ "rarity": 5,
+ "style": "Sexy",
+ "labels": [
+  "Romance",
+  "Ballroom",
+  "舞会"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Sexy/flutter-storm/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Sexy/flutter-storm/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "蝶屿风袭星辉舞裙",
+  "silhouette": "A strapless draped bodice with pleated tulle gathers into a flowing A-line skirt, layered with sheer organza panels, voluminous tulle layers, and a soft, flowing train.",
+  "headpiece_and_hair_ornaments": "A delicate silver floral vine tiara adorned with tiny glittering crystals and pearl-tipped branch motifs, paired with a sheer, trailing net veil.",
+  "upper_garment_and_sleeves": "A strapless sweetheart bodice wrapped in metallic silver lace with crystal beadwork, featuring a pleated center drape and detached sheer tulle sleeves with lace cuffs.",
+  "lower_garment_and_legwear": "A multi-layered ballgown skirt with petal-like pleats, gradient organza ruffles, tulle underlayers, and sheer stockings paired with iridescent silver pointed heels.",
+  "signature_props_and_motifs": "Translucent blue butterfly accents, delicate wing-like tulle, and trailing sparkles of frost and starlight scattered around the flowing design.",
+  "color_palette": [
+   "icy blue",
+   "silver white",
+   "iridescent pearl",
+   "deep navy"
+  ],
+  "key_materials": [
+   "pleated sheer organza",
+   "crystal-embellished metallic lace",
+   "iridescent butterfly wing embroidery",
+   "fine tulle",
+   "glittering pearl-beaded trim"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with dark-espresso sleek hime-cut long hair and warm amber-gold eyes standing with poised theatrical grace in a softly lit atmospheric studio. Adorning her head: A delicate silver floral vine tiara adorned with tiny glittering crystals and pearl-tipped branch motifs, paired with a sheer, trailing net veil. For her upper attire, she wears A strapless sweetheart bodice wrapped in metallic silver lace with crystal beadwork, featuring a pleated center drape and detached sheer tulle sleeves with lace cuffs, rendered in icy blue, silver white, iridescent pearl tones. Below the waist, A multi-layered ballgown skirt with petal-like pleats, gradient organza ruffles, tulle underlayers, and sheer stockings paired with iridescent silver pointed heels, accompanied by Translucent blue butterfly accents, delicate wing-like tulle, and trailing sparkles of frost and starlight scattered around the flowing design.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with dark-espresso sleek hime-cut long hair and warm amber-gold eyes dressed in a icy blue, silver white, iridescent pearl haute-couture ensemble featuring A strapless sweetheart bodice wrapped in metallic silver lace with crystal beadwork, featuring a pleated.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"A delicate silver floral vine tiara adorned with tiny glittering crystals and pearl-tipped branch motifs, paired with a sheer, trailing net veil.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"A strapless sweetheart bodice wrapped in metallic silver lace with crystal beadwork, featuring a pleated center drape and detached sheer tulle sleeves with lace cuffs.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"A multi-layered ballgown skirt with petal-like pleats, gradient organza ruffles, tulle underlayers, and sheer stockings paired with iridescent silver pointed heels, accented with Translucent blue butterfly accents, delicate wing-like tulle, and trailing sparkles of frost.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with a delicate silver floral vine tiara adorned with tiny glittering crystals and pearl-tipped branch motifs, paired with a sheer, trailing net veil, standing against a quiet neutral studio backdrop. Dressed in a icy blue, silver white, iridescent pearl haute-couture outfit, she wears a strapless sweetheart bodice wrapped in metallic silver lace with crystal beadwork, featuring a pleated center drape and detached sheer tulle sleeves with lace cuffs. From her cinched waist cascades a multi-layered ballgown skirt with petal-like pleats, gradient organza ruffles, tulle underlayers, and sheer stockings paired with iridescent silver pointed heels, paired with translucent blue butterfly accents, delicate wing-like tulle, and trailing sparkles of frost and starlight scattered around the flowing design.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing a strapless sweetheart bodice wrapped in metallic silver lace with crystal beadwork, featuring a pleated.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with a delicate silver floral vine tiara adorned with tiny glittering crystals and pearl-tipped branch motifs, paired with a sheer, trailing net veil.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"A strapless sweetheart bodice wrapped in metallic silver lace with crystal beadwork, featuring a pleated center drape and detached sheer tulle sleeves with lace cuffs.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"A multi-layered ballgown skirt with petal-like pleats, gradient organza ruffles, tulle underlayers, and sheer stockings paired with iridescent silver pointed heels, accompanied by translucent blue butterfly accents, delicate wing-like tulle, and trailing sparkles of frost.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of pleated sheer organza, crystal-embellished metallic lace, iridescent butterfly wing embroidery, fine tulle across a icy blue, silver white, iridescent pearl palette: at her crown sits a delicate silver floral vine tiara adorned with tiny glittering crystals and pearl-tipped branch motifs, paired with a sheer, trailing net veil; her upper torso is cinched into a strapless sweetheart bodice wrapped in metallic silver lace with crystal beadwork, featuring a pleated center drape and detached sheer tulle sleeves with lace cuffs, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a multi-layered ballgown skirt with petal-like pleats, gradient organza ruffles, tulle underlayers, and sheer stockings paired with iridescent silver pointed heels, weighing down with real fabric gravity alongside translucent blue butterfly accents, delicate wing-like tulle, and trailing sparkles of frost and starlight scattered around the flowing design.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with dark-espresso sleek hime-cut long hair and large warm amber-gold eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of pleated sheer organza, crystal-embellished metallic lace, iridescent butterfly wing embroidery, fine tulle across a icy blue, silver white, iridescent pearl palette: at her crown sits a delicate silver floral vine tiara adorned with tiny glittering crystals and pearl-tipped branch motifs, paired with a sheer, trailing net veil; her upper torso is cinched into a strapless sweetheart bodice wrapped in metallic silver lace with crystal beadwork, featuring a pleated center drape and detached sheer tulle sleeves with lace cuffs, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a multi-layered ballgown skirt with petal-like pleats, gradient organza ruffles, tulle underlayers, and sheer stockings paired with iridescent silver pointed heels, weighing down with real fabric gravity alongside translucent blue butterfly accents, delicate wing-like tulle, and trailing sparkles of frost and starlight scattered around the flowing design. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Flutter Storm",
+  "蝶屿风袭"
+ ],
+ "images": [
+  "images/Sexy/flutter-storm/wardrobe_1.jpg"
+ ]
+}

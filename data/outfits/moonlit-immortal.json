@@ -1,0 +1,51 @@
+{
+ "slug": "moonlit-immortal",
+ "title": "Moonlit Immortal",
+ "cn_name": "翩月飞仙",
+ "rarity": 4,
+ "style": "Sweet",
+ "labels": [
+  "Terra",
+  "Ballroom",
+  "大地",
+  "舞会"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Sweet/moonlit-immortal/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Sweet/moonlit-immortal/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "粉纱飞仙月华流裳",
+  "silhouette": "Layered flowing robe with high-waisted corset, voluminous tiered maxi skirt, asymmetrical draped overskirt, and wide bell sleeves.",
+  "headpiece_and_hair_ornaments": "Gold filigree crown with pearl finial, flowing ribbon streamers in pale blue.",
+  "upper_garment_and_sleeves": "Sheer pink organza bodice with sweetheart neckline, gold floral embroidery and pearl droplets, wide trumpet sleeves with layered chiffon ruffles.",
+  "lower_garment_and_legwear": "Layered floor-length skirt with teal and pink chiffon tiers, gold waist chain, pearl garters, and pale pointed heels.",
+  "signature_props_and_motifs": "Floating cherry blossom petals, moonlight glow, delicate gold butterfly hairpin.",
+  "color_palette": [
+   "soft pink",
+   "pale teal",
+   "gold",
+   "sheer ivory"
+  ],
+  "key_materials": [
+   "sheer organza",
+   "chiffon",
+   "gold thread embroidery",
+   "pearl beads",
+   "silk ribbon"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with flaxen-gold loose French-braided crown hair and periwinkle-blue eyes standing with regal composed demeanor in a softly lit atmospheric studio. Adorning her head: Gold filigree crown with pearl finial, flowing ribbon streamers in pale blue. For her upper attire, she wears Sheer pink organza bodice with sweetheart neckline, gold floral embroidery and pearl droplets, wide trumpet sleeves with layered chiffon ruffles, rendered in soft pink, pale teal, gold tones. Below the waist, Layered floor-length skirt with teal and pink chiffon tiers, gold waist chain, pearl garters, and pale pointed heels, accompanied by Floating cherry blossom petals, moonlight glow, delicate gold butterfly hairpin.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with flaxen-gold loose French-braided crown hair and periwinkle-blue eyes dressed in a soft pink, pale teal, gold haute-couture ensemble featuring Sheer pink organza bodice with sweetheart neckline, gold floral embroidery and pearl droplets, wide.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Gold filigree crown with pearl finial, flowing ribbon streamers in pale blue.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Sheer pink organza bodice with sweetheart neckline, gold floral embroidery and pearl droplets, wide trumpet sleeves with layered chiffon ruffles.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Layered floor-length skirt with teal and pink chiffon tiers, gold waist chain, pearl garters, and pale pointed heels, accented with Floating cherry blossom petals, moonlight glow, delicate gold butterfly hairpin.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with gold filigree crown with pearl finial, flowing ribbon streamers in pale blue, standing against a quiet neutral studio backdrop. Dressed in a soft pink, pale teal, gold haute-couture outfit, she wears sheer pink organza bodice with sweetheart neckline, gold floral embroidery and pearl droplets, wide trumpet sleeves with layered chiffon ruffles. From her cinched waist cascades layered floor-length skirt with teal and pink chiffon tiers, gold waist chain, pearl garters, and pale pointed heels, paired with floating cherry blossom petals, moonlight glow, delicate gold butterfly hairpin.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing sheer pink organza bodice with sweetheart neckline, gold floral embroidery and pearl droplets, wide.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with gold filigree crown with pearl finial, flowing ribbon streamers in pale blue.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Sheer pink organza bodice with sweetheart neckline, gold floral embroidery and pearl droplets, wide trumpet sleeves with layered chiffon ruffles.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Layered floor-length skirt with teal and pink chiffon tiers, gold waist chain, pearl garters, and pale pointed heels, accompanied by floating cherry blossom petals, moonlight glow, delicate gold butterfly hairpin.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of sheer organza, chiffon, gold thread embroidery, pearl beads across a soft pink, pale teal, gold palette: at her crown sits gold filigree crown with pearl finial, flowing ribbon streamers in pale blue; her upper torso is cinched into sheer pink organza bodice with sweetheart neckline, gold floral embroidery and pearl droplets, wide trumpet sleeves with layered chiffon ruffles, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs layered floor-length skirt with teal and pink chiffon tiers, gold waist chain, pearl garters, and pale pointed heels, weighing down with real fabric gravity alongside floating cherry blossom petals, moonlight glow, delicate gold butterfly hairpin.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with flaxen-gold loose French-braided crown hair and large periwinkle-blue eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of sheer organza, chiffon, gold thread embroidery, pearl beads across a soft pink, pale teal, gold palette: at her crown sits gold filigree crown with pearl finial, flowing ribbon streamers in pale blue; her upper torso is cinched into sheer pink organza bodice with sweetheart neckline, gold floral embroidery and pearl droplets, wide trumpet sleeves with layered chiffon ruffles, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs layered floor-length skirt with teal and pink chiffon tiers, gold waist chain, pearl garters, and pale pointed heels, weighing down with real fabric gravity alongside floating cherry blossom petals, moonlight glow, delicate gold butterfly hairpin. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Moonlit Immortal",
+  "翩月飞仙"
+ ],
+ "images": [
+  "images/Sweet/moonlit-immortal/wardrobe_1.jpg"
+ ]
+}

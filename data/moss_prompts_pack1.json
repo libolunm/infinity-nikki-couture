@@ -1,0 +1,433 @@
+[
+  {
+    "id": "01_crimson_rhapsody",
+    "suit_en": "Crimson Rhapsody",
+    "suit_cn": "绯夜狂想录",
+    "style_note": "推荐画风：hikkikomori17 style（古典哥特剧院画框）或单跑 Base",
+    "canvas": "832 × 1248",
+    "layout": {
+      "summary": {
+        "meta": [
+          "anime illustration",
+          "hikkikomori17 style",
+          "ornate border",
+          "full body"
+        ],
+        "canvas": "single",
+        "caption": "An ornate anime illustration in hikkikomori17 style depicts a theatrical doll-like girl with long dark espresso wavy hair and warm amber-rose eyes dancing gracefully on a velvet stage. Crowning her curls is an oversized crimson-and-gold harlequin diamond-print headbow trimmed with antique ivory lace and pearl drop pins. She wears a boned deep crimson crushed-velvet corset bodice featuring a diamond-patterned center panel, a gilded heart brooch, multi-strand pearl chains, and gathered off-shoulder puff sleeves with ruffled lace cuffs. Her sweeping open-front crimson velvet ballgown overskirt flares wide to reveal voluminous tiered cream-and-gold harlequin petticoats printed with vintage storybook bears, paired with diamond-patterned stockings and bow-adorned mary jane heels. Floating beside her outstretched left hand is a whimsical stitched plush jester doll wearing a tiny pointed cone hat, framed within a delicate antique gold floral filigree border."
+      },
+      "items": [
+        {
+          "label": "character",
+          "caption": "A graceful girl with dark espresso wavy hair and amber-rose eyes wearing an oversized crimson harlequin headbow, boned crimson velvet corset bodice, and sweeping split ballgown over cream diamond-print petticoats.",
+          "bbox": [
+            -545,
+            -345,
+            580,
+            320
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "An oversized layered headbow in crimson-and-gold harlequin diamond silk trimmed with antique ivory scalloped lace and dangling pearl hairpins.",
+          "bbox": [
+            -555,
+            -170,
+            -330,
+            140
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "A fitted deep crimson crushed-velvet corset bodice with a beige diamond-patterned front panel, gilded heart brooch, draped pearl chains, and ruffled off-shoulder puff sleeves.",
+          "bbox": [
+            -285,
+            -195,
+            25,
+            165
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "A voluminous open-front crimson velvet ballgown skirt parting over multi-tiered cream-and-gold harlequin diamond petticoats edged in heavy pleated lace.",
+          "bbox": [
+            -10,
+            -355,
+            575,
+            330
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "A floating stitched charcoal plush jester doll wearing a miniature pointed harlequin cone hat, ruffled collar, and button-accented tail.",
+          "bbox": [
+            -210,
+            120,
+            120,
+            385
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "An intricate antique gold floral and geometric filigree decorative frame bordering the illustration.",
+          "bbox": [
+            -608,
+            -402,
+            608,
+            402
+          ]
+        }
+      ],
+      "bbox_coord_space": "abs_centralized",
+      "bbox_format": "yxyx"
+    },
+    "word_count": 135,
+    "single_line_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"hikkikomori17 style\", \"ornate border\", \"full body\"], \"canvas\": \"single\", \"caption\": \"An ornate anime illustration in hikkikomori17 style depicts a theatrical doll-like girl with long dark espresso wavy hair and warm amber-rose eyes dancing gracefully on a velvet stage. Crowning her curls is an oversized crimson-and-gold harlequin diamond-print headbow trimmed with antique ivory lace and pearl drop pins. She wears a boned deep crimson crushed-velvet corset bodice featuring a diamond-patterned center panel, a gilded heart brooch, multi-strand pearl chains, and gathered off-shoulder puff sleeves with ruffled lace cuffs. Her sweeping open-front crimson velvet ballgown overskirt flares wide to reveal voluminous tiered cream-and-gold harlequin petticoats printed with vintage storybook bears, paired with diamond-patterned stockings and bow-adorned mary jane heels. Floating beside her outstretched left hand is a whimsical stitched plush jester doll wearing a tiny pointed cone hat, framed within a delicate antique gold floral filigree border.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A graceful girl with dark espresso wavy hair and amber-rose eyes wearing an oversized crimson harlequin headbow, boned crimson velvet corset bodice, and sweeping split ballgown over cream diamond-print petticoats.\", \"bbox\": [-545, -345, 580, 320]}, {\"label\": \"object\", \"caption\": \"An oversized layered headbow in crimson-and-gold harlequin diamond silk trimmed with antique ivory scalloped lace and dangling pearl hairpins.\", \"bbox\": [-555, -170, -330, 140]}, {\"label\": \"object\", \"caption\": \"A fitted deep crimson crushed-velvet corset bodice with a beige diamond-patterned front panel, gilded heart brooch, draped pearl chains, and ruffled off-shoulder puff sleeves.\", \"bbox\": [-285, -195, 25, 165]}, {\"label\": \"object\", \"caption\": \"A voluminous open-front crimson velvet ballgown skirt parting over multi-tiered cream-and-gold harlequin diamond petticoats edged in heavy pleated lace.\", \"bbox\": [-10, -355, 575, 330]}, {\"label\": \"object\", \"caption\": \"A floating stitched charcoal plush jester doll wearing a miniature pointed harlequin cone hat, ruffled collar, and button-accented tail.\", \"bbox\": [-210, 120, 120, 385]}, {\"label\": \"object\", \"caption\": \"An intricate antique gold floral and geometric filigree decorative frame bordering the illustration.\", \"bbox\": [-608, -402, 608, 402]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}"
+  },
+  {
+    "id": "02_forever_bond",
+    "suit_en": "Forever Bond",
+    "suit_cn": "缘缘长相念",
+    "style_note": "推荐画风：painterly 东方华彩厚涂（珠帘半遮面 + 景泰蓝彩蝶抹胸）",
+    "canvas": "832 × 1248",
+    "layout": {
+      "summary": {
+        "meta": [
+          "anime illustration",
+          "painterly",
+          "painterly rendering",
+          "ornate decorative illustration",
+          "full body"
+        ],
+        "canvas": "single",
+        "caption": "A painterly anime-style illustration portrays an ethereal fox-spirit maiden with silver-blush updo hair, heterochromatic golden-and-jade eyes, and plush white fox ears standing amidst drifting red lotus petals. Adorning her hair are ruby-enameled lotus hairpins and gold filigree sticks, while a delicate multi-strand crystal-and-pearl face veil drapes across her nose and lips. She wears an intricate cloisonne enamel butterfly-shaped chest bodice in shimmering vermilion, gold, and turquoise, tied beneath the bust with a royal cornflower-blue silk ribbon bow, framed by sculptural blooming red lotus shoulder pads and sheer coral organza petal sleeves. Her floor-length ombre vermilion-and-cream pleated silk skirt cascades in lotus-petal tiers with gilded cloud brocade and beaded tassels, while her right hand clad in sharp gilded fingertip armor holds a pleated red folding fan."
+      },
+      "items": [
+        {
+          "label": "character",
+          "caption": "An ethereal fox-spirit maiden with plush white fox ears, heterochromatic gold-and-jade eyes, pearl face veil, cloisonne butterfly bodice, royal blue waist ribbon, and layered vermilion lotus-petal silk robes.",
+          "bbox": [
+            -565,
+            -360,
+            585,
+            365
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "Plush white fox ears paired with blooming ruby lotus hairpins, gold filigree hair sticks, and a translucent cascading crystal-pearl veil covering the lower face.",
+          "bbox": [
+            -560,
+            -210,
+            -195,
+            220
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "An ornate multi-colored cloisonne enamel butterfly bodice encrusted with pearls and gold wirework, tied with a cornflower-blue silk bow between sculptural red lotus shoulder ornaments.",
+          "bbox": [
+            -225,
+            -260,
+            85,
+            255
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "Slender fingers sheathed in sharp articulated gilded fingertip claws delicately holding a pleated vermilion silk folding fan.",
+          "bbox": [
+            -185,
+            -380,
+            95,
+            -95
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "Cascading floor-length ombre vermilion and champagne silk brocade skirts layered like lotus petals with gilded cloud embroidery and long royal-blue sash tails.",
+          "bbox": [
+            45,
+            -365,
+            585,
+            365
+          ]
+        }
+      ],
+      "bbox_coord_space": "abs_centralized",
+      "bbox_format": "yxyx"
+    },
+    "word_count": 125,
+    "single_line_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"painterly rendering\", \"ornate decorative illustration\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A painterly anime-style illustration portrays an ethereal fox-spirit maiden with silver-blush updo hair, heterochromatic golden-and-jade eyes, and plush white fox ears standing amidst drifting red lotus petals. Adorning her hair are ruby-enameled lotus hairpins and gold filigree sticks, while a delicate multi-strand crystal-and-pearl face veil drapes across her nose and lips. She wears an intricate cloisonne enamel butterfly-shaped chest bodice in shimmering vermilion, gold, and turquoise, tied beneath the bust with a royal cornflower-blue silk ribbon bow, framed by sculptural blooming red lotus shoulder pads and sheer coral organza petal sleeves. Her floor-length ombre vermilion-and-cream pleated silk skirt cascades in lotus-petal tiers with gilded cloud brocade and beaded tassels, while her right hand clad in sharp gilded fingertip armor holds a pleated red folding fan.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"An ethereal fox-spirit maiden with plush white fox ears, heterochromatic gold-and-jade eyes, pearl face veil, cloisonne butterfly bodice, royal blue waist ribbon, and layered vermilion lotus-petal silk robes.\", \"bbox\": [-565, -360, 585, 365]}, {\"label\": \"object\", \"caption\": \"Plush white fox ears paired with blooming ruby lotus hairpins, gold filigree hair sticks, and a translucent cascading crystal-pearl veil covering the lower face.\", \"bbox\": [-560, -210, -195, 220]}, {\"label\": \"object\", \"caption\": \"An ornate multi-colored cloisonne enamel butterfly bodice encrusted with pearls and gold wirework, tied with a cornflower-blue silk bow between sculptural red lotus shoulder ornaments.\", \"bbox\": [-225, -260, 85, 255]}, {\"label\": \"object\", \"caption\": \"Slender fingers sheathed in sharp articulated gilded fingertip claws delicately holding a pleated vermilion silk folding fan.\", \"bbox\": [-185, -380, 95, -95]}, {\"label\": \"object\", \"caption\": \"Cascading floor-length ombre vermilion and champagne silk brocade skirts layered like lotus petals with gilded cloud embroidery and long royal-blue sash tails.\", \"bbox\": [45, -365, 585, 365]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}"
+  },
+  {
+    "id": "03_clouded_loong",
+    "suit_en": "Clouded Loong",
+    "suit_cn": "龙隐云墨间",
+    "style_note": "推荐画风：painterly 清冷仙侠水墨织金（冰晶龙角银冠 + 拂袖持半面龙纹面具）",
+    "canvas": "832 × 1248",
+    "layout": {
+      "summary": {
+        "meta": [
+          "anime illustration",
+          "painterly",
+          "painterly rendering",
+          "full body"
+        ],
+        "canvas": "single",
+        "caption": "A refined painterly anime-style illustration depicts a serene dragon-sovereign lady with jet-black traditional looped hair buns and luminous violet-blue eyes poised amidst swirling mist. Atop her head rises a luminous frosted-crystal dragon antler crown intertwined with silver mountain filigree, turquoise blossoms, and intricate beaded chandelier earrings. She wears a high-collared moonlight-white jacquard silk crossover hanfu bodice layered beneath an embroidered celadon-blue cloud shoulder capelet with silver tassel fringe, a jade-studded brocade waist girdle, and sweeping floor-length sheer cloud-mist wide sleeves. Her multi-layered azure-and-ivory pleated skirt trails turquoise silk ribbons and crimson bead cords, while her raised left hand holds an ornate frosted-silver half-dragon masquerade mask accented with vermilion lacquer."
+      },
+      "items": [
+        {
+          "label": "character",
+          "caption": "A serene lady with jet-black hair buns and violet-blue eyes crowned with glowing frosted dragon antlers, wearing a moonlight-white and celadon-blue embroidered silk hanfu with sweeping sheer sleeves.",
+          "bbox": [
+            -570,
+            -370,
+            585,
+            375
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "Translucent glowing ice-crystal dragon antlers fused with a sculpted silver landscape crown, forehead turquoise drop, and multi-strand pearl-and-turquoise tassel earrings.",
+          "bbox": [
+            -575,
+            -265,
+            -205,
+            265
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "An ornate sculpted frosted-silver and celadon dragon masquerade mask accented with vermilion red filigree held gracefully beside her cheek.",
+          "bbox": [
+            -310,
+            45,
+            -20,
+            380
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "A layered celadon-blue jacquard cloud-shoulder mantle with silver fringe over a white gold-couched silk crossover bodice and jade-medallion waist sash with hanging blue tassels.",
+          "bbox": [
+            -210,
+            -365,
+            575,
+            365
+          ]
+        }
+      ],
+      "bbox_coord_space": "abs_centralized",
+      "bbox_format": "yxyx"
+    },
+    "word_count": 109,
+    "single_line_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"painterly rendering\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a serene dragon-sovereign lady with jet-black traditional looped hair buns and luminous violet-blue eyes poised amidst swirling mist. Atop her head rises a luminous frosted-crystal dragon antler crown intertwined with silver mountain filigree, turquoise blossoms, and intricate beaded chandelier earrings. She wears a high-collared moonlight-white jacquard silk crossover hanfu bodice layered beneath an embroidered celadon-blue cloud shoulder capelet with silver tassel fringe, a jade-studded brocade waist girdle, and sweeping floor-length sheer cloud-mist wide sleeves. Her multi-layered azure-and-ivory pleated skirt trails turquoise silk ribbons and crimson bead cords, while her raised left hand holds an ornate frosted-silver half-dragon masquerade mask accented with vermilion lacquer.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A serene lady with jet-black hair buns and violet-blue eyes crowned with glowing frosted dragon antlers, wearing a moonlight-white and celadon-blue embroidered silk hanfu with sweeping sheer sleeves.\", \"bbox\": [-570, -370, 585, 375]}, {\"label\": \"object\", \"caption\": \"Translucent glowing ice-crystal dragon antlers fused with a sculpted silver landscape crown, forehead turquoise drop, and multi-strand pearl-and-turquoise tassel earrings.\", \"bbox\": [-575, -265, -205, 265]}, {\"label\": \"object\", \"caption\": \"An ornate sculpted frosted-silver and celadon dragon masquerade mask accented with vermilion red filigree held gracefully beside her cheek.\", \"bbox\": [-310, 45, -20, 380]}, {\"label\": \"object\", \"caption\": \"A layered celadon-blue jacquard cloud-shoulder mantle with silver fringe over a white gold-couched silk crossover bodice and jade-medallion waist sash with hanging blue tassels.\", \"bbox\": [-210, -365, 575, 365]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}"
+  },
+  {
+    "id": "04_enchanted_encounter",
+    "suit_en": "Enchanted Encounter",
+    "suit_cn": "仙踪绮遇",
+    "style_note": "推荐画风：yume335 style（高密度梦幻粉彩童话仙子 + 维多利亚蕾丝边框）",
+    "canvas": "832 × 1248",
+    "layout": {
+      "summary": {
+        "meta": [
+          "anime illustration",
+          "yume335 style",
+          "ornate decorative illustration",
+          "decorative border",
+          "full body"
+        ],
+        "canvas": "single",
+        "caption": "A vibrant and ornate pastel anime illustration in yume335 style depicts a dreamy fairy princess with soft lavender spiral curls and sparkling sapphire eyes floating gently in a starlit meadow. She wears a tall pointed blush-pink fairytale hennin cone hat encrusted with pearl filigree and topped with a golden star, trailing gossamer lavender tulle veils. Her stiffened pastel-pink satin corset bodice gleams with golden sunburst embroidery, off-shoulder ruffled organza petal sleeves, and iridescent fairy wings unfurling from her back. Below her cinched waist blooms a massive crinoline ballgown of prismatic pink-and-lavender pleated satin overlaid with scalloped lace peplums and golden starlight motifs, while her raised right hand waves a crystal snowflake star wand framed by delicate white Victorian filigree."
+      },
+      "items": [
+        {
+          "label": "character",
+          "caption": "A dreamy fairy girl with lavender curls wearing a pointed pink hennin cone hat, gold-embroidered pastel pink corset, translucent fairy wings, and a voluminous iridescent ballgown.",
+          "bbox": [
+            -545,
+            -365,
+            580,
+            365
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "A pointed blush-pink fairytale hennin cap adorned with white pearl lace filigree, a glowing star finial, and flowing translucent lavender organza veils.",
+          "bbox": [
+            -560,
+            -140,
+            -225,
+            290
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "Multi-layered iridescent pink-and-violet crystalline fairy wings paired with a raised silver star-wand trailing ribbons of sparkling stardust.",
+          "bbox": [
+            -520,
+            -385,
+            -30,
+            385
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "A grand bell-shaped crinoline ballgown skirt in prismatic pastel pink satin with scalloped white Chantilly lace overlays and golden starburst embroidery.",
+          "bbox": [
+            -15,
+            -375,
+            580,
+            375
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "An intricate white Victorian lace and starry filigree decorative border framing the corners of the canvas.",
+          "bbox": [
+            -608,
+            -402,
+            608,
+            402
+          ]
+        }
+      ],
+      "bbox_coord_space": "abs_centralized",
+      "bbox_format": "yxyx"
+    },
+    "word_count": 119,
+    "single_line_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"yume335 style\", \"ornate decorative illustration\", \"decorative border\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A vibrant and ornate pastel anime illustration in yume335 style depicts a dreamy fairy princess with soft lavender spiral curls and sparkling sapphire eyes floating gently in a starlit meadow. She wears a tall pointed blush-pink fairytale hennin cone hat encrusted with pearl filigree and topped with a golden star, trailing gossamer lavender tulle veils. Her stiffened pastel-pink satin corset bodice gleams with golden sunburst embroidery, off-shoulder ruffled organza petal sleeves, and iridescent fairy wings unfurling from her back. Below her cinched waist blooms a massive crinoline ballgown of prismatic pink-and-lavender pleated satin overlaid with scalloped lace peplums and golden starlight motifs, while her raised right hand waves a crystal snowflake star wand framed by delicate white Victorian filigree.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A dreamy fairy girl with lavender curls wearing a pointed pink hennin cone hat, gold-embroidered pastel pink corset, translucent fairy wings, and a voluminous iridescent ballgown.\", \"bbox\": [-545, -365, 580, 365]}, {\"label\": \"object\", \"caption\": \"A pointed blush-pink fairytale hennin cap adorned with white pearl lace filigree, a glowing star finial, and flowing translucent lavender organza veils.\", \"bbox\": [-560, -140, -225, 290]}, {\"label\": \"object\", \"caption\": \"Multi-layered iridescent pink-and-violet crystalline fairy wings paired with a raised silver star-wand trailing ribbons of sparkling stardust.\", \"bbox\": [-520, -385, -30, 385]}, {\"label\": \"object\", \"caption\": \"A grand bell-shaped crinoline ballgown skirt in prismatic pastel pink satin with scalloped white Chantilly lace overlays and golden starburst embroidery.\", \"bbox\": [-15, -375, 580, 375]}, {\"label\": \"object\", \"caption\": \"An intricate white Victorian lace and starry filigree decorative border framing the corners of the canvas.\", \"bbox\": [-608, -402, 608, 402]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}"
+  },
+  {
+    "id": "05_crimson_feather",
+    "suit_en": "Crimson Feather",
+    "suit_cn": "炽羽不渝",
+    "style_note": "推荐画风：vurdv8a8gbgrctd style（暗黑哥特厚涂张力 + 黑蕾丝蒙眼罩 + 灰烬炽羽）",
+    "canvas": "832 × 1248",
+    "layout": {
+      "summary": {
+        "meta": [
+          "anime illustration",
+          "vurdv8a8gbgrctd style",
+          "painterly rendering",
+          "full body"
+        ],
+        "canvas": "single",
+        "caption": "A dramatic painterly anime-style illustration in vurdv8a8gbgrctd style portrays a fallen seraphic noblewoman with long ash-blonde hair floating amidst drifting embers in a shadowed cathedral. Hovering above her crown is a fractured black-crystal halo burning with crimson sparks, while an intricate black guipure-lace feather blindfold masks her eyes above a serene pale visage. She wears a strapless sweetheart corset sculpted from overlapping obsidian plumes, a Victorian black lace ruby choker, and sheer starlight-dusted black opera gloves. Her asymmetrical multi-tiered couture gown cascades in charcoal feather-embroidered organza and scalloped tulle glowing with smoldering crimson-red ember hems, flanked by two vast dark-feathered angel wings veined with incandescent rose-red fire."
+      },
+      "items": [
+        {
+          "label": "character",
+          "caption": "A poised ash-blonde noblewoman wearing a fractured crimson-lit black halo, black lace blindfold, strapless obsidian feather corset, sheer opera gloves, and ember-edged black couture ballgown.",
+          "bbox": [
+            -550,
+            -340,
+            580,
+            340
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "A levitating shattered obsidian-and-crimson halo crowning her head above an ornate black feather-embroidered lace blindfold and ruby drop earrings.",
+          "bbox": [
+            -565,
+            -175,
+            -265,
+            175
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "Two vast sweeping dark-feathered angel wings spanning across her back with incandescent crimson-pink ember light glowing along the primary flight feathers.",
+          "bbox": [
+            -260,
+            -408,
+            220,
+            408
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "An asymmetrical tiered couture ballgown of black crystal-dusted tulle and silver-embroidered crimson ember hems cascading toward pointed feathered heels.",
+          "bbox": [
+            -40,
+            -345,
+            580,
+            345
+          ]
+        }
+      ],
+      "bbox_coord_space": "abs_centralized",
+      "bbox_format": "yxyx"
+    },
+    "word_count": 107,
+    "single_line_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"vurdv8a8gbgrctd style\", \"painterly rendering\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A dramatic painterly anime-style illustration in vurdv8a8gbgrctd style portrays a fallen seraphic noblewoman with long ash-blonde hair floating amidst drifting embers in a shadowed cathedral. Hovering above her crown is a fractured black-crystal halo burning with crimson sparks, while an intricate black guipure-lace feather blindfold masks her eyes above a serene pale visage. She wears a strapless sweetheart corset sculpted from overlapping obsidian plumes, a Victorian black lace ruby choker, and sheer starlight-dusted black opera gloves. Her asymmetrical multi-tiered couture gown cascades in charcoal feather-embroidered organza and scalloped tulle glowing with smoldering crimson-red ember hems, flanked by two vast dark-feathered angel wings veined with incandescent rose-red fire.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A poised ash-blonde noblewoman wearing a fractured crimson-lit black halo, black lace blindfold, strapless obsidian feather corset, sheer opera gloves, and ember-edged black couture ballgown.\", \"bbox\": [-550, -340, 580, 340]}, {\"label\": \"object\", \"caption\": \"A levitating shattered obsidian-and-crimson halo crowning her head above an ornate black feather-embroidered lace blindfold and ruby drop earrings.\", \"bbox\": [-565, -175, -265, 175]}, {\"label\": \"object\", \"caption\": \"Two vast sweeping dark-feathered angel wings spanning across her back with incandescent crimson-pink ember light glowing along the primary flight feathers.\", \"bbox\": [-260, -408, 220, 408]}, {\"label\": \"object\", \"caption\": \"An asymmetrical tiered couture ballgown of black crystal-dusted tulle and silver-embroidered crimson ember hems cascading toward pointed feathered heels.\", \"bbox\": [-40, -345, 580, 345]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}"
+  },
+  {
+    "id": "06_sonnet_floral_rebirth",
+    "suit_en": "Floral Rebirth (Sonnet Edition)",
+    "suit_cn": "栖骨生花 · Sonnet 专属换装版",
+    "style_note": "专属适配：挂载女鹅 LoRA sonnet_v2_gbc_step0600 (权重 0.85)，硬锚点已逐字锁定",
+    "canvas": "832 × 1248",
+    "layout": {
+      "summary": {
+        "meta": [
+          "anime illustration",
+          "painterly",
+          "full body"
+        ],
+        "canvas": "single",
+        "caption": "A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet adorned with delicate silver crystal-vine chains, standing against a quiet twilight-violet studio backdrop. Dressed in a radiant crystal-couture gown, she wears a high-necked white Chantilly-lace corset bodice encrusted with faceted lavender-and-clear rhinestones, sheer lace long sleeves, and sculpted translucent iridescent petal wings rising gracefully from her shoulders. Her floor-sweeping mermaid skirt shimmers with skeletal silver-ribbed peplum ridges and cascading pearl-beaded sheer organza, while both hands gently cradle a glowing translucent amethyst glass lotus blossom."
+      },
+      "items": [
+        {
+          "label": "character",
+          "caption": "A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing a crystal-beaded white lace petal-winged couture gown.",
+          "bbox": [
+            -560,
+            -340,
+            585,
+            345
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "Sculpted translucent iridescent white-and-ice-blue petal wings flaring upward from her shoulders around a rhinestone-encrusted high-collar white Chantilly lace bodice.",
+          "bbox": [
+            -300,
+            -330,
+            60,
+            330
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "A large glowing translucent violet-and-silver crystalline lotus blossom cradled gently in both lace-cuffed hands.",
+          "bbox": [
+            -170,
+            -335,
+            130,
+            55
+          ]
+        },
+        {
+          "label": "object",
+          "caption": "A floor-length shimmering white organza gown sculpted with silver skeletal petal-ribbed peplum tiers and cascading crystal bead embroidery.",
+          "bbox": [
+            35,
+            -310,
+            585,
+            320
+          ]
+        }
+      ],
+      "bbox_coord_space": "abs_centralized",
+      "bbox_format": "yxyx"
+    },
+    "word_count": 101,
+    "single_line_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet adorned with delicate silver crystal-vine chains, standing against a quiet twilight-violet studio backdrop. Dressed in a radiant crystal-couture gown, she wears a high-necked white Chantilly-lace corset bodice encrusted with faceted lavender-and-clear rhinestones, sheer lace long sleeves, and sculpted translucent iridescent petal wings rising gracefully from her shoulders. Her floor-sweeping mermaid skirt shimmers with skeletal silver-ribbed peplum ridges and cascading pearl-beaded sheer organza, while both hands gently cradle a glowing translucent amethyst glass lotus blossom.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing a crystal-beaded white lace petal-winged couture gown.\", \"bbox\": [-560, -340, 585, 345]}, {\"label\": \"object\", \"caption\": \"Sculpted translucent iridescent white-and-ice-blue petal wings flaring upward from her shoulders around a rhinestone-encrusted high-collar white Chantilly lace bodice.\", \"bbox\": [-300, -330, 60, 330]}, {\"label\": \"object\", \"caption\": \"A large glowing translucent violet-and-silver crystalline lotus blossom cradled gently in both lace-cuffed hands.\", \"bbox\": [-170, -335, 130, 55]}, {\"label\": \"object\", \"caption\": \"A floor-length shimmering white organza gown sculpted with silver skeletal petal-ribbed peplum tiers and cascading crystal bead embroidery.\", \"bbox\": [35, -310, 585, 320]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}"
+  }
+]

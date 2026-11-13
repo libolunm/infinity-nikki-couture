@@ -1,0 +1,49 @@
+{
+ "slug": "gilded-memories",
+ "title": "Gilded Memories",
+ "cn_name": "鎏金旧事",
+ "rarity": 4,
+ "style": "Elegant",
+ "labels": [
+  "Intellectual",
+  "Royal",
+  "知性"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Elegant/gilded-memories/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Elegant/gilded-memories/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "鎏金宫廷织锦长裙",
+  "silhouette": "A regal off-shoulder gown with a structured corseted bodice, voluminous tiered skirt, and sheer draped cape sleeves. Layered gold lace and organza create an asymmetrical, aristocratic elegance.",
+  "headpiece_and_hair_ornaments": "An intricate gold filigree tiara with cascading chains and green gemstone drops, accompanied by a delicate forehead chain and trailing vine-like hairpins.",
+  "upper_garment_and_sleeves": "Off-shoulder bodice in gilded silk jacquard with crystal-embellished lace appliqué, a high sheer lace choker collar, and draped tulle sleeves with gold embroidery and pearl fringing.",
+  "lower_garment_and_legwear": "A multi-tiered golden skirt with pleated organza, tulle overlays, and lace trim. The hem features floral embroidery and pearl accents, paired with matching gold heeled boots.",
+  "signature_props_and_motifs": "Floating golden petals, delicate light particles, and a small ornate hand fan or jewelry box, with leaf and vine motifs woven into the lace and embroidery.",
+  "color_palette": [
+   "gold",
+   "champagne",
+   "crystal",
+   "emerald green"
+  ],
+  "key_materials": [
+   "gilded silk jacquard",
+   "pearl-encrusted sheer organza",
+   "Chantilly lace",
+   "crystal beadwork"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with lilac-silver floating wavy long hair and starlight-cyan eyes standing with dreamlike distant gaze in a softly lit atmospheric studio. Adorning her head: An intricate gold filigree tiara with cascading chains and green gemstone drops, accompanied by a delicate forehead chain and trailing vine-like hairpins. For her upper attire, she wears Off-shoulder bodice in gilded silk jacquard with crystal-embellished lace appliqué, a high sheer lace choker collar, and draped tulle sleeves with gold embroidery and pearl fringing, rendered in gold, champagne, crystal tones. Below the waist, A multi-tiered golden skirt with pleated organza, tulle overlays, and lace trim. The hem features floral embroidery and pearl accents, paired with matching gold heeled boots, accompanied by Floating golden petals, delicate light particles, and a small ornate hand fan or jewelry box, with leaf and vine motifs woven into the lace and embroidery.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with lilac-silver floating wavy long hair and starlight-cyan eyes dressed in a gold, champagne, crystal haute-couture ensemble featuring Off-shoulder bodice in gilded silk jacquard with crystal-embellished lace appliqué, a high sheer lace.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"An intricate gold filigree tiara with cascading chains and green gemstone drops, accompanied by a delicate forehead chain and trailing vine-like hairpins.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Off-shoulder bodice in gilded silk jacquard with crystal-embellished lace appliqué, a high sheer lace choker collar, and draped tulle sleeves with gold embroidery and pearl fringing.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"A multi-tiered golden skirt with pleated organza, tulle overlays, and lace trim. The hem features floral embroidery and pearl accents, paired with matching gold heeled boots, accented with Floating golden petals, delicate light particles, and a small ornate hand fan or jewelry box.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with an intricate gold filigree tiara with cascading chains and green gemstone drops, accompanied by a delicate forehead chain and trailing vine-like hairpins, standing against a quiet neutral studio backdrop. Dressed in a gold, champagne, crystal haute-couture outfit, she wears off-shoulder bodice in gilded silk jacquard with crystal-embellished lace appliqué, a high sheer lace choker collar, and draped tulle sleeves with gold embroidery and pearl fringing. From her cinched waist cascades a multi-tiered golden skirt with pleated organza, tulle overlays, and lace trim. the hem features floral embroidery and pearl accents, paired with matching gold heeled boots, paired with floating golden petals, delicate light particles, and a small ornate hand fan or jewelry box, with leaf and vine motifs woven into the lace and embroidery.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing off-shoulder bodice in gilded silk jacquard with crystal-embellished lace appliqué, a high sheer lace.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with an intricate gold filigree tiara with cascading chains and green gemstone drops, accompanied by a delicate forehead chain and trailing vine-like hairpins.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Off-shoulder bodice in gilded silk jacquard with crystal-embellished lace appliqué, a high sheer lace choker collar, and draped tulle sleeves with gold embroidery and pearl fringing.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"A multi-tiered golden skirt with pleated organza, tulle overlays, and lace trim. The hem features floral embroidery and pearl accents, paired with matching gold heeled boots, accompanied by floating golden petals, delicate light particles, and a small ornate hand fan or jewelry box.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of gilded silk jacquard, pearl-encrusted sheer organza, Chantilly lace, crystal beadwork across a gold, champagne, crystal palette: at her crown sits an gold filigree tiara with cascading chains and green gemstone drops, accompanied by a delicate forehead chain and trailing vine-like hairpins; her upper torso is cinched into off-shoulder bodice in gilded silk jacquard with crystal-embellished lace appliqué, a high sheer lace choker collar, and draped tulle sleeves with gold embroidery and pearl fringing, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a multi-tiered golden skirt with pleated organza, tulle overlays, and lace trim. the hem features floral embroidery and pearl accents, paired with matching gold heeled boots, weighing down with real fabric gravity alongside floating golden petals, delicate light particles, and a small hand fan or jewelry box, with leaf and vine motifs woven into the lace and embroidery.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with lilac-silver floating wavy long hair and large starlight-cyan eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of gilded silk jacquard, pearl-encrusted sheer organza, Chantilly lace, crystal beadwork across a gold, champagne, crystal palette: at her crown sits an gold filigree tiara with cascading chains and green gemstone drops, accompanied by a delicate forehead chain and trailing vine-like hairpins; her upper torso is cinched into off-shoulder bodice in gilded silk jacquard with crystal-embellished lace appliqué, a high sheer lace choker collar, and draped tulle sleeves with gold embroidery and pearl fringing, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a multi-tiered golden skirt with pleated organza, tulle overlays, and lace trim. the hem features floral embroidery and pearl accents, paired with matching gold heeled boots, weighing down with real fabric gravity alongside floating golden petals, delicate light particles, and a small hand fan or jewelry box, with leaf and vine motifs woven into the lace and embroidery. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Gilded Memories",
+  "鎏金旧事"
+ ],
+ "images": [
+  "images/Elegant/gilded-memories/wardrobe_1.jpg"
+ ]
+}

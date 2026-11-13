@@ -1,0 +1,3635 @@
+[
+  {
+    "id": "S0330",
+    "title": "Clouded Loong",
+    "cn_name": "龙隐云墨间",
+    "ja_name": "龍は雲墨に帰す",
+    "rarity": 5,
+    "type": "",
+    "style": "Cool",
+    "labels": [
+      "Linlang",
+      "Royal"
+    ],
+    "ability": "Roaming Loong",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Inkwoven Bonds",
+    "pre_evolution": "",
+    "evolution": "Clouded Loong: Misty Celadon",
+    "is_evolution": false,
+    "description": "Cloud ink shaped the Loong's roar, a name bestowed with strokes. Brief strokes, the gentlest pact in the world. No matter how vast the skies, calling its name would reveal the shimmer within its scales beneath the moonlight.",
+    "parts": [
+      "Snow Script",
+      "Among Clouds",
+      "Silk Silhouette",
+      "Water's Omen",
+      "Loong Pattern",
+      "White Streak",
+      "Clouds in Motion",
+      "White Loong Pool",
+      "Loong's Chant",
+      "Celestial Sweep"
+    ],
+    "version": "1.8",
+    "slug": "clouded-loong",
+    "local_sprite": "images/Cool/clouded-loong/sprite.png",
+    "local_wardrobe": [
+      "images/Cool/clouded-loong/wardrobe_1.jpg",
+      "images/Cool/clouded-loong/wardrobe_2.jpg",
+      "images/Cool/clouded-loong/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Cool/clouded-loong/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Cool/clouded-loong/wardrobe_2.jpg",
+      "images/Cool/clouded-loong/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0331",
+    "title": "Forever Bond",
+    "cn_name": "缘缘长相念",
+    "ja_name": "共縁は夢魂に巡る",
+    "rarity": 5,
+    "type": "",
+    "style": "Sexy",
+    "labels": [
+      "Linlang",
+      "Fantasy"
+    ],
+    "ability": "Purification",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Palette of Destiny",
+    "pre_evolution": "",
+    "evolution": "Forever Bond: Among Flora",
+    "is_evolution": false,
+    "description": "Through a crack in the dream, she glimpsed the past, dusk covering the long street. Old memories echoed within, the land broken into shards of longing. Fate slipped through her fingers as she reached out in vain for a past that faded like smoke.",
+    "parts": [
+      "Fanciful Dream",
+      "Fingertip Blood",
+      "Memory Traces",
+      "Bloodied Pond",
+      "Inked Longing",
+      "Joyful Rendezvous",
+      "Still Flow",
+      "Ancient Scrolls",
+      "Weeping Rivers",
+      "Frostbite Calamity"
+    ],
+    "version": "1.8",
+    "slug": "forever-bond",
+    "local_sprite": "images/Sexy/forever-bond/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/forever-bond/wardrobe_1.jpg",
+      "images/Sexy/forever-bond/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sexy/forever-bond/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sexy/forever-bond/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "S0353",
+    "title": "Chroma's Mortal Heart",
+    "cn_name": "九色亦尘心",
+    "ja_name": "人心を有す九色",
+    "rarity": 5,
+    "type": "",
+    "style": "Elegant",
+    "labels": [
+      "Divine",
+      "Forest"
+    ],
+    "ability": "Celestial Deer",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Traces of Chroma",
+    "pre_evolution": "",
+    "evolution": "Chroma's Mortal Heart: Seared",
+    "is_evolution": false,
+    "description": "Mountain mist brushed lightly against jade-born form; morning dew seeped into nascent spirit. From clear stream and forest haze, jade took shape, and true essence stirred. Gentle luster spread across verdant peaks, soft radiance drifting among clouds. The breath of mountains and rivers enfolded Her like wind in an embrace, half awake, half dreaming, aware yet unknowing.",
+    "parts": [
+      "Dew Radiance",
+      "Sudden Clarity",
+      "Hazy Contemplation",
+      "Earthbound Jade",
+      "Glazed Sighs",
+      "Rosy Light",
+      "Drinking Dew",
+      "Mortal Spring",
+      "Treading Lotus",
+      "Jiuhua Radiance"
+    ],
+    "version": "2.2",
+    "slug": "chroma-s-mortal-heart",
+    "local_sprite": "images/Elegant/chroma-s-mortal-heart/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/chroma-s-mortal-heart/wardrobe_1.jpg",
+      "images/Elegant/chroma-s-mortal-heart/wardrobe_2.jpg",
+      "images/Elegant/chroma-s-mortal-heart/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Elegant/chroma-s-mortal-heart/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Elegant/chroma-s-mortal-heart/wardrobe_2.jpg",
+      "images/Elegant/chroma-s-mortal-heart/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0151",
+    "title": "Radiant Crown",
+    "cn_name": "烛金日冕",
+    "ja_name": "金彩の日輪",
+    "rarity": 5,
+    "type": "",
+    "style": "Elegant",
+    "labels": [
+      "Glow",
+      "Royal"
+    ],
+    "ability": "",
+    "how_to_obtain": "Event",
+    "resonance": "",
+    "pre_evolution": "",
+    "evolution": "",
+    "is_evolution": false,
+    "description": "When enveloped in darkness, her heart burns bright like a torch. The old sun has set, but she will bring new light.",
+    "parts": [
+      "Hometown View",
+      "Seeking Gaze",
+      "Divine Light",
+      "Valley of Hope",
+      "Night Escape",
+      "Above the Abyss",
+      "Firefly's Light",
+      "Revelation of Solitude",
+      "Burning Will",
+      "Become Light"
+    ],
+    "version": "2.0",
+    "slug": "radiant-crown",
+    "local_sprite": "images/Elegant/radiant-crown/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/radiant-crown/wardrobe_1.jpg",
+      "images/Elegant/radiant-crown/wardrobe_2.jpg",
+      "images/Elegant/radiant-crown/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Elegant/radiant-crown/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Elegant/radiant-crown/wardrobe_2.jpg",
+      "images/Elegant/radiant-crown/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0154",
+    "title": "Enchanted Encounter",
+    "cn_name": "仙踪绮遇",
+    "ja_name": "フェアリーノート",
+    "rarity": 5,
+    "type": "",
+    "style": "Elegant",
+    "labels": [
+      "Fairy",
+      "Ballroom"
+    ],
+    "ability": "Animal-Grooming",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Fairy's Secret",
+    "pre_evolution": "",
+    "evolution": "Enchanted Encounter: Snowcrest",
+    "is_evolution": false,
+    "description": "In a distant land of dreams, the little fairy apprentice, who had long toiled for the wishes of others, finally welcomed a miracle of her own. The dear friend who brought it crossed the Celestial River between reality and fantasy, standing watch over the secret they shared.",
+    "parts": [
+      "Luminous Wingbeat",
+      "Radiant Voyage",
+      "Foreign Wanderings",
+      "Star Gaze",
+      "Whispers of Dream",
+      "Calling Light",
+      "Dreamy Reverie",
+      "Tangled Heartbeats",
+      "Hope's Embrace",
+      "Birth of Miracles"
+    ],
+    "version": "1.6",
+    "slug": "enchanted-encounter",
+    "local_sprite": "images/Elegant/enchanted-encounter/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/enchanted-encounter/wardrobe_1.jpg",
+      "images/Elegant/enchanted-encounter/wardrobe_2.jpg",
+      "images/Elegant/enchanted-encounter/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Elegant/enchanted-encounter/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Elegant/enchanted-encounter/wardrobe_2.jpg",
+      "images/Elegant/enchanted-encounter/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0223",
+    "title": "Crimson Rhapsody",
+    "cn_name": "绯夜狂想录",
+    "ja_name": "緋い夜の狂想",
+    "rarity": 5,
+    "type": "",
+    "style": "Elegant",
+    "labels": [
+      "Playful",
+      "Royal"
+    ],
+    "ability": "Transformation",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Into the Illusion",
+    "pre_evolution": "",
+    "evolution": "Crimson Rhapsody: Delusion",
+    "is_evolution": false,
+    "description": "She had long been documenting every detail of the story behind the Esseling, transforming it into a precious treasure. She witnessed how the owner once cherished the doll, and now, she saw how the doll's yearning for love had slowly blossomed into a fiery red.",
+    "parts": [
+      "Fading Longing",
+      "Tender Stitches",
+      "Marks of Time",
+      "Faded Sprout",
+      "Crimson Dream",
+      "Smoothing Time",
+      "Past Glare",
+      "Forgotten Corners",
+      "Twisted Path",
+      "Lost in Doubt"
+    ],
+    "version": "1.4",
+    "slug": "crimson-rhapsody",
+    "local_sprite": "images/Elegant/crimson-rhapsody/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/crimson-rhapsody/wardrobe_1.jpg",
+      "images/Elegant/crimson-rhapsody/wardrobe_2.jpg",
+      "images/Elegant/crimson-rhapsody/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Elegant/crimson-rhapsody/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Elegant/crimson-rhapsody/wardrobe_2.jpg",
+      "images/Elegant/crimson-rhapsody/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0382",
+    "title": "Rippling Reverie",
+    "cn_name": "梦是心之涟",
+    "ja_name": "夢は心の波紋",
+    "rarity": 5,
+    "type": "",
+    "style": "Sweet",
+    "labels": [
+      "Glow",
+      "Spirited"
+    ],
+    "ability": "Celestial Tide",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Refrain of Reunion",
+    "pre_evolution": "",
+    "evolution": "Rippling Reverie: Ensemble",
+    "is_evolution": false,
+    "description": "This land filled with miracles is a song gifted by the world itself, where every note is a dreamlike first encounter, and each turn stirs endless ripples within the heart. Set forth once more, and sing your part, whether it's gentle or lively, resplendent or hushed.",
+    "parts": [
+      "Bubble Messenger",
+      "Secret Hours",
+      "Through the Fingers",
+      "Dreamy Stars",
+      "Hearty Thoughts",
+      "Dappled Shadows",
+      "Breezy Fairytale",
+      "Shimmering Moment",
+      "In the Heart",
+      "Melody of Memory"
+    ],
+    "version": "2.7",
+    "slug": "rippling-reverie",
+    "local_sprite": "images/Sweet/rippling-reverie/sprite.png",
+    "local_wardrobe": [
+      "images/Sweet/rippling-reverie/wardrobe_1.jpg",
+      "images/Sweet/rippling-reverie/wardrobe_2.jpg",
+      "images/Sweet/rippling-reverie/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Sweet/rippling-reverie/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sweet/rippling-reverie/wardrobe_2.jpg",
+      "images/Sweet/rippling-reverie/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0355",
+    "title": "Dreamtime Bestowed",
+    "cn_name": "予梦心时",
+    "ja_name": "夢見る心のひと時",
+    "rarity": 5,
+    "type": "",
+    "style": "Sweet",
+    "labels": [
+      "Whimsy",
+      "Glow"
+    ],
+    "ability": "Mount",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "In Colors I Bloom",
+    "pre_evolution": "",
+    "evolution": "Dreamtime Bestowed: Hollow Rumor",
+    "is_evolution": false,
+    "description": "Far beyond the rainbow's end lay a distant realm, where people once lived in a world of muted gray. Then she arrived, radiant as a rainbow itself, bringing beauty and color back to the world. As little Roucoco opened her fairy-tale book, the path of dreams slowly unfolded with the girl's journey.",
+    "parts": [
+      "Wandering Reverie",
+      "Faraway View",
+      "Gifted Sunlight",
+      "Blooming Echo",
+      "Fragrant Dawn",
+      "Opening Waltz",
+      "Fragrant Dream",
+      "Rainbow Chorus",
+      "Dawning Star",
+      "Honeyed Reverie"
+    ],
+    "version": "2.3",
+    "slug": "dreamtime-bestowed",
+    "local_sprite": "images/Sweet/dreamtime-bestowed/sprite.png",
+    "local_wardrobe": [
+      "images/Sweet/dreamtime-bestowed/wardrobe_1.jpg",
+      "images/Sweet/dreamtime-bestowed/wardrobe_2.jpg",
+      "images/Sweet/dreamtime-bestowed/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Sweet/dreamtime-bestowed/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sweet/dreamtime-bestowed/wardrobe_2.jpg",
+      "images/Sweet/dreamtime-bestowed/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0239",
+    "title": "Echoed Dreams",
+    "cn_name": "咏叙的旧梦",
+    "ja_name": "アリオーソの旧夢",
+    "rarity": 5,
+    "type": "",
+    "style": "Sweet",
+    "labels": [
+      "Ballroom",
+      "Royal"
+    ],
+    "ability": "Dance of Verses",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Finale of Dreams",
+    "pre_evolution": "",
+    "evolution": "Echoed Dreams: Future Tone",
+    "is_evolution": false,
+    "description": "The curtains in the box rose layer by layer, and a familiar melody flowed like a stream. That long-faded dream, that figure enchanted by song, at last, was reunited with old companions.",
+    "parts": [
+      "Untamable Bird",
+      "Lost Warmth",
+      "Floral Duet",
+      "Feathered Melody",
+      "Song of Spring",
+      "Three-Line Recitative",
+      "Eternal Freedom",
+      "Wind Gone By",
+      "Sunset Reunion",
+      "Journey of Dreams"
+    ],
+    "version": "1.9",
+    "slug": "echoed-dreams",
+    "local_sprite": "images/Sweet/echoed-dreams/sprite.png",
+    "local_wardrobe": [
+      "images/Sweet/echoed-dreams/wardrobe_1.jpg",
+      "images/Sweet/echoed-dreams/wardrobe_2.jpg",
+      "images/Sweet/echoed-dreams/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Sweet/echoed-dreams/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sweet/echoed-dreams/wardrobe_2.jpg",
+      "images/Sweet/echoed-dreams/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0290",
+    "title": "Floral Rebirth",
+    "cn_name": "栖骨生花",
+    "ja_name": "枯骨に咲く花",
+    "rarity": 5,
+    "type": "",
+    "style": "Fresh",
+    "labels": [
+      "Classical",
+      "Divine"
+    ],
+    "ability": "Bug-Catching",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Eternal Cycle, Buried Past",
+    "pre_evolution": "",
+    "evolution": "Floral Rebirth: Emerald Reverie",
+    "is_evolution": false,
+    "description": "When do the flowers bloom? Amidst the God of Reincarnation's countless falls and rebirths, as the dragons take up the mantle of Their authority and repeat the long cycles of vigil. Through it all, the blossoms continue to whisper the chronicles of the past—stories of inheritance, the tides of reincarnation, and vows that never wither.",
+    "parts": [
+      "Lingering Wind",
+      "Authority of Destiny",
+      "Silent Breath",
+      "Beyond the Bloom",
+      "Echoes in the Wind",
+      "Spiritual Transit",
+      "Requiem Chant",
+      "Floral Enigma",
+      "Timeless Bloom",
+      "Eternal Silence"
+    ],
+    "version": "2.5",
+    "slug": "floral-rebirth",
+    "local_sprite": "images/Fresh/floral-rebirth/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/floral-rebirth/wardrobe_1.jpg",
+      "images/Fresh/floral-rebirth/wardrobe_2.jpg",
+      "images/Fresh/floral-rebirth/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Fresh/floral-rebirth/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Fresh/floral-rebirth/wardrobe_2.jpg",
+      "images/Fresh/floral-rebirth/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0231",
+    "title": "Tide of Tears",
+    "cn_name": "落入泪之潮",
+    "ja_name": "涙影は潮に落ちて",
+    "rarity": 5,
+    "type": "",
+    "style": "Fresh",
+    "labels": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "ability": "World Rhythms",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "In Tears, We Meet Again",
+    "pre_evolution": "",
+    "evolution": "Tide of Tears: Lament",
+    "is_evolution": false,
+    "description": "A faint gentle glow and a cold silent current create an eternal scene in the ancient water abyss. A girl who slipped and fell into its depths unknowingly shattered the long-lasting solitude.",
+    "parts": [
+      "Day of Silence",
+      "Serpent's Dream",
+      "Crystal Drop",
+      "Deepwater Secrets",
+      "Azure Scale",
+      "Into Deepwater",
+      "Cold Jade",
+      "Guiding Glow",
+      "Day of Birth",
+      "Fateful Soul"
+    ],
+    "version": "1.7",
+    "slug": "tide-of-tears",
+    "local_sprite": "images/Fresh/tide-of-tears/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/tide-of-tears/wardrobe_1.jpg",
+      "images/Fresh/tide-of-tears/wardrobe_2.jpg",
+      "images/Fresh/tide-of-tears/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Fresh/tide-of-tears/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Fresh/tide-of-tears/wardrobe_2.jpg",
+      "images/Fresh/tide-of-tears/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0001",
+    "title": "Dance Till Dawn",
+    "cn_name": "绽响黎明前",
+    "ja_name": "夜明け前の躍動",
+    "rarity": 5,
+    "type": "",
+    "style": "Fresh",
+    "labels": [
+      "Cute",
+      "Fantasy"
+    ],
+    "ability": "Gliding",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Fireworks Prelude",
+    "pre_evolution": "",
+    "evolution": "Dance Till Dawn: Nightlight",
+    "is_evolution": false,
+    "description": "Friends, come along and embrace the joy! Watch as it awakens the earth, heralds the dawn, scatters happiness, nurtures hope, and when time signals, the fireworks will bloom once more.",
+    "parts": [
+      "Swaying Heart",
+      "Wistful Vigil",
+      "Singing with Joy",
+      "Dawn's Dance",
+      "Honeyed Melody",
+      "Tender Affection",
+      "Signal of Time",
+      "Prelude to Dawn",
+      "Ceremonial Blaze",
+      "Fervent Desire"
+    ],
+    "version": "1.2",
+    "slug": "dance-till-dawn",
+    "local_sprite": "images/Fresh/dance-till-dawn/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/dance-till-dawn/wardrobe_1.jpg",
+      "images/Fresh/dance-till-dawn/wardrobe_2.jpg",
+      "images/Fresh/dance-till-dawn/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Fresh/dance-till-dawn/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Fresh/dance-till-dawn/wardrobe_2.jpg",
+      "images/Fresh/dance-till-dawn/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0289",
+    "title": "Nameless, Selfless",
+    "cn_name": "无名亦无我",
+    "ja_name": "無名無我",
+    "rarity": 5,
+    "type": "",
+    "style": "Sexy",
+    "labels": [
+      "Royal",
+      "Formal"
+    ],
+    "ability": "Candlelit Echoes (Ability)",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "The Path That Is Chosen",
+    "pre_evolution": "",
+    "evolution": "Nameless, Selfless: Azure Sky",
+    "is_evolution": false,
+    "description": "She listened closely to the faint murmur of moonlight, which told her that scattered memories wandered through the empty courtyard. Amidst the endless chants, she gathered one name after another, each belonging to herself.",
+    "parts": [
+      "Soul and Butterfly",
+      "Dust's Cry",
+      "Never Expected",
+      "Things Entrusted",
+      "Unfading Shadow",
+      "Tomorrow No More",
+      "Against the Gale",
+      "Veiled Sea",
+      "Gentle Rain",
+      "Lying in Wait"
+    ],
+    "version": "1.11",
+    "slug": "nameless-selfless",
+    "local_sprite": "images/Sexy/nameless-selfless/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/nameless-selfless/wardrobe_1.jpg",
+      "images/Sexy/nameless-selfless/wardrobe_2.jpg",
+      "images/Sexy/nameless-selfless/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Sexy/nameless-selfless/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sexy/nameless-selfless/wardrobe_2.jpg",
+      "images/Sexy/nameless-selfless/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0145",
+    "title": "Whispers of Waves",
+    "cn_name": "谕浪希声",
+    "ja_name": "波間のささやき",
+    "rarity": 5,
+    "type": "",
+    "style": "Sexy",
+    "labels": [
+      "Formal",
+      "Fashion"
+    ],
+    "ability": "",
+    "how_to_obtain": "Permanent Resonance",
+    "resonance": "Distant Sea",
+    "pre_evolution": "",
+    "evolution": "Whispers of Waves: Echoes",
+    "is_evolution": false,
+    "description": "In a small cottage by the seaside, the sound of waves crashing against the rocks echoes endlessly. The old sailor in the house speaks slowly, claiming he's but a messenger for the sea, narrating the cherished tales of this coastline.",
+    "parts": [
+      "Glistening Beads",
+      "Kiss of the Waves",
+      "Azure Heart",
+      "Wave Dance Steps",
+      "Billowing Shadows",
+      "Pearl Gift",
+      "Mermaid Fairy Tale",
+      "Silver Branch",
+      "Boundless Blue"
+    ],
+    "version": "1.0",
+    "slug": "whispers-of-waves",
+    "local_sprite": "images/Sexy/whispers-of-waves/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/whispers-of-waves/wardrobe_1.jpg",
+      "images/Sexy/whispers-of-waves/wardrobe_2.jpg",
+      "images/Sexy/whispers-of-waves/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Sexy/whispers-of-waves/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sexy/whispers-of-waves/wardrobe_2.jpg",
+      "images/Sexy/whispers-of-waves/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0268",
+    "title": "She Is Wildfire",
+    "cn_name": "她是不驯火",
+    "ja_name": "彼女は不縛の炎",
+    "rarity": 5,
+    "type": "",
+    "style": "Cool",
+    "labels": [
+      "Playful",
+      "Spirited"
+    ],
+    "ability": "Battle Companion",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Call of the Forest",
+    "pre_evolution": "",
+    "evolution": "She Is Wildfire: Forest",
+    "is_evolution": false,
+    "description": "In a land far, far away, this ancient fairytale also wanders. Thorns are walls, mist is a window, and the forest is as mute as a prisoner. Two hunters feast upon the sun and the moon. Until the moonlight shatters, they hunt, and hunt, until death.",
+    "parts": [
+      "Crimson-Bound Life",
+      "Emberwood Wanderings",
+      "Burning Thorns",
+      "Crimson Moonlight",
+      "Unrestrained Fairytale",
+      "Hunting Memories",
+      "Deep Wood Traces",
+      "Crimson Obsidian",
+      "Misty Twilight Woodsong",
+      "Thorn Walker",
+      "Wild Blaze of Roses"
+    ],
+    "version": "2.4",
+    "slug": "she-is-wildfire",
+    "local_sprite": "images/Cool/she-is-wildfire/sprite.png",
+    "local_wardrobe": [
+      "images/Cool/she-is-wildfire/wardrobe_1.jpg",
+      "images/Cool/she-is-wildfire/wardrobe_2.jpg",
+      "images/Cool/she-is-wildfire/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Cool/she-is-wildfire/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Cool/she-is-wildfire/wardrobe_2.jpg",
+      "images/Cool/she-is-wildfire/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0178",
+    "title": "Crimson Feather",
+    "cn_name": "炽羽不渝",
+    "ja_name": "一途な炎翼",
+    "rarity": 5,
+    "type": "",
+    "style": "Cool",
+    "labels": [
+      "Ballroom",
+      "Trendy"
+    ],
+    "ability": "Winged Hover",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Unfading Heart",
+    "pre_evolution": "",
+    "evolution": "Crimson Feather: Ember",
+    "is_evolution": false,
+    "description": "Weighed down by exhaustion, she moves forward, crossing an invisible valley. At last, a bird looks up at the solitary moon, drawn to its flaw, mirroring her own. The Seer, with a compassionate gaze, holds this fleeting moment in memory before it slips away forever.",
+    "parts": [
+      "Raspy Harmony",
+      "Echoes of Illusion",
+      "Will of Thorns",
+      "Crimson Tears",
+      "Drifting Thoughts",
+      "Feather Remnants",
+      "Eternal Blaze",
+      "Timid Fruit",
+      "Fringe Realm",
+      "Awakening Cradle",
+      "By Her Name"
+    ],
+    "version": "1.5",
+    "slug": "crimson-feather",
+    "local_sprite": "images/Cool/crimson-feather/sprite.png",
+    "local_wardrobe": [
+      "images/Cool/crimson-feather/wardrobe_1.jpg",
+      "images/Cool/crimson-feather/wardrobe_2.jpg",
+      "images/Cool/crimson-feather/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Cool/crimson-feather/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Cool/crimson-feather/wardrobe_2.jpg",
+      "images/Cool/crimson-feather/wardrobe_3.jpg"
+    ]
+  },
+  {
+    "id": "S0300",
+    "title": "Dawning Heartlight",
+    "cn_name": "",
+    "ja_name": "|ko  =",
+    "rarity": 5,
+    "type": "",
+    "style": "Elegant",
+    "labels": [
+      "Whimsy",
+      "Glow"
+    ],
+    "ability": "Mount",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "At Dreams' Dawn",
+    "pre_evolution": "",
+    "evolution": "Dawning Heartlight: Empty Cocoon",
+    "is_evolution": false,
+    "description": "\"Even if I never became the person I dreamed of as a child, she still shines, warm and radiant... enough to light up my weary soul.\"",
+    "parts": [
+      "Before Tomorrow",
+      "Weightless Dream",
+      "Past Prophecy",
+      "Resounding Silence",
+      "Before Ideals Soar",
+      "Mote-Carved Light",
+      "The World Awaits",
+      "Beyond the Dreams",
+      "All Dreams & All Wishes",
+      "Fate's Light"
+    ],
+    "version": "2.8",
+    "slug": "dawning-heartlight",
+    "local_sprite": "images/Elegant/dawning-heartlight/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/dawning-heartlight/wardrobe_1.jpg",
+      "images/Elegant/dawning-heartlight/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Elegant/dawning-heartlight/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Elegant/dawning-heartlight/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "S0294",
+    "title": "Florabound Promise",
+    "cn_name": "",
+    "ja_name": "|ko  =",
+    "rarity": 5,
+    "type": "",
+    "style": "Sweet",
+    "labels": [
+      "Whimsy",
+      "Classical"
+    ],
+    "ability": "Sylvan Glow",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Where Flowers Wake",
+    "pre_evolution": "",
+    "evolution": "Florabound Promise: Blazing Heart",
+    "is_evolution": false,
+    "description": "Legend tells of a ring of vines and flowers hidden deep within the midnight forest, marking the path to the fairy's dwelling. Those with shimmering convictions may catch a glimpse of the fairy dancing within the ring and receive her gift. But once that gift is bestowed, where will those radiant convictions ultimately lead?",
+    "parts": [
+      "Balmy Breeze",
+      "Sleepless Blossom",
+      "Moonlight Nectar",
+      "Floral Adagio",
+      "Fading Glowpetal",
+      "Wishwoven Reverie",
+      "Moonveil Weave",
+      "Lost Dreampath",
+      "Ethereal Bloomchime",
+      "Lonedream Wanderer"
+    ],
+    "version": "2.9",
+    "slug": "florabound-promise",
+    "local_sprite": "images/Sweet/florabound-promise/sprite.png",
+    "local_wardrobe": [
+      "images/Sweet/florabound-promise/wardrobe_1.jpg",
+      "images/Sweet/florabound-promise/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sweet/florabound-promise/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sweet/florabound-promise/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "S0350",
+    "title": "Behind Prayers",
+    "cn_name": "隐于祷音",
+    "ja_name": "秘せし祈りの調べ",
+    "rarity": 5,
+    "type": "",
+    "style": "Sweet",
+    "labels": [
+      "Divine",
+      "Royal"
+    ],
+    "ability": "Sticky Claw",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Eclipsing Prayers",
+    "pre_evolution": "",
+    "evolution": "Behind Prayers: Bright Moon",
+    "is_evolution": false,
+    "description": "Donning robes and a crown, she was the divine maiden chosen by her people, embodying their hope to bring back their god. The stone altar was cold, the stars hung low, and no one heard the ceaseless prayers from the tower above. From then on, her own name was lost to the world.",
+    "parts": [
+      "Eternal Night",
+      "Starlight Crown",
+      "Pure Hope",
+      "Prayers of Light",
+      "Golden Ode",
+      "Devout Prayers",
+      "Solace in Stars",
+      "Unfading Heart (Choker)",
+      "Golden Yesterday",
+      "Wordless Oath"
+    ],
+    "version": "2.0",
+    "slug": "behind-prayers",
+    "local_sprite": "images/Sweet/behind-prayers/sprite.png",
+    "local_wardrobe": [
+      "images/Sweet/behind-prayers/wardrobe_1.jpg",
+      "images/Sweet/behind-prayers/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sweet/behind-prayers/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sweet/behind-prayers/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "S0293",
+    "title": "Forest Ripple",
+    "cn_name": "森之涟",
+    "ja_name": "森のさざめき",
+    "rarity": 5,
+    "type": "",
+    "style": "Fresh",
+    "labels": [
+      "Forest",
+      "Fairy"
+    ],
+    "ability": "Flourish Walk",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Unwithering Poems",
+    "pre_evolution": "",
+    "evolution": "Forest Ripple: Mistlit",
+    "is_evolution": false,
+    "description": "Where does the dew fall? Which tree must be struck for its fruit to drop? How does one endure the long night alone? So many mysteries remain, yet Papa whispers only in the rustle of the wind.",
+    "parts": [
+      "Firefly Veil",
+      "Tender Thoughts",
+      "Dawn and Dusk Alike",
+      "Hanging Echo",
+      "Glimmering Ode",
+      "At Dawn's Beginning",
+      "Fluttering Chase",
+      "Unwoken Dreams",
+      "Quiet Rest",
+      "A Thousand Winds"
+    ],
+    "version": "2.1",
+    "slug": "forest-ripple",
+    "local_sprite": "images/Fresh/forest-ripple/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/forest-ripple/wardrobe_1.jpg",
+      "images/Fresh/forest-ripple/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Fresh/forest-ripple/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Fresh/forest-ripple/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "S0093",
+    "title": "Blossoming Stars",
+    "cn_name": "群星绽放时",
+    "ja_name": "燦然と輝く星々",
+    "rarity": 5,
+    "type": "",
+    "style": "Fresh",
+    "labels": [
+      "Romance",
+      "Pastoral"
+    ],
+    "ability": "",
+    "how_to_obtain": "Permanent Resonance",
+    "resonance": "Distant Sea",
+    "pre_evolution": "",
+    "evolution": "Blossoming Stars: Dreamfall",
+    "is_evolution": false,
+    "description": "How long does it take to go from nobody to somebody? If a small star is not bright enough to illuminate the night sky, what about gathering thousands of them and weaving them into a splendid Milky Way?",
+    "parts": [
+      "Astral Petals",
+      "Distant Twinkle",
+      "Starlit Dreams",
+      "Blossom Promenade",
+      "Starry Pathway",
+      "Starry Splendor",
+      "Blooming Pact",
+      "Bloom Together",
+      "Imminent Bloom"
+    ],
+    "version": "1.0",
+    "slug": "blossoming-stars",
+    "local_sprite": "images/Fresh/blossoming-stars/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/blossoming-stars/wardrobe_1.jpg",
+      "images/Fresh/blossoming-stars/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Fresh/blossoming-stars/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Fresh/blossoming-stars/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "S0364",
+    "title": "Guide of No Return",
+    "cn_name": "渡者无归",
+    "ja_name": "無帰の渡り手",
+    "rarity": 5,
+    "type": "",
+    "style": "Sexy",
+    "labels": [
+      "Classical",
+      "Glow"
+    ],
+    "ability": "Archery",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Evertide of No Return",
+    "pre_evolution": "",
+    "evolution": "Guide of No Return: Commitment",
+    "is_evolution": false,
+    "description": "Where twilight meets the dawn, the God of Reincarnation descends upon the mountain peak. They are the final witness, brushing the frost of the world from souls as they depart. They are the guide at the journey's end, ferrying faded stars toward the river of rebirth.",
+    "parts": [
+      "Light and Dark",
+      "Their Arrival",
+      "Divine Oracle",
+      "The Mountains Bow",
+      "Lament of Tears",
+      "Fading Warmth",
+      "Prayer of New Life",
+      "Heartward Bound",
+      "Breath of Serenity",
+      "Final Prelude"
+    ],
+    "version": "2.5",
+    "slug": "guide-of-no-return",
+    "local_sprite": "images/Sexy/guide-of-no-return/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/guide-of-no-return/wardrobe_1.jpg",
+      "images/Sexy/guide-of-no-return/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sexy/guide-of-no-return/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sexy/guide-of-no-return/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "S0352",
+    "title": "Where Wanxiang Weaves Life",
+    "cn_name": "万相渡浮生",
+    "ja_name": "浮生を渡る万相",
+    "rarity": 5,
+    "type": "",
+    "style": "Sexy",
+    "labels": [
+      "Terra",
+      "Aesthetic"
+    ],
+    "ability": "Shapeshifting",
+    "how_to_obtain": "Limited-Time Resonance",
+    "resonance": "Echoes of Wanxiang",
+    "pre_evolution": "",
+    "evolution": "Where Wanxiang Weaves Life: Benevolence",
+    "is_evolution": false,
+    "description": "Fate gave rise to the Chromafaces, unbound by any fixed nature. It was the mortal world that tempered their forms and revealed their true selves. Fortunate were they to receive Lady Chroma's instruction, worldly knowledge passed down in turn. Thus, they came to learn that the crafts of a hundred trades could steady restless spirits, and the warmth of mortal life could soothe wandering hearts.",
+    "parts": [
+      "Chronicle of Birth",
+      "Spirits Dispersed",
+      "Chroma's Arrival",
+      "The Marketplace",
+      "On Myriad Faces",
+      "Hundred Trades",
+      "Mortal Mirage",
+      "Generational Riddle",
+      "Thousand Thoughts",
+      "Fleeting Play"
+    ],
+    "version": "2.2",
+    "slug": "where-wanxiang-weaves-life",
+    "local_sprite": "images/Sexy/where-wanxiang-weaves-life/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/where-wanxiang-weaves-life/wardrobe_1.jpg",
+      "images/Sexy/where-wanxiang-weaves-life/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sexy/where-wanxiang-weaves-life/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sexy/where-wanxiang-weaves-life/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "S0263",
+    "title": "Providence Immemorial",
+    "cn_name": "谒灵",
+    "ja_name": "謁霊",
+    "rarity": 5,
+    "type": "Miracle Outfits",
+    "style": "Sexy",
+    "labels": [
+      "Divine",
+      "Aesthetic"
+    ],
+    "ability": "World Rhythms",
+    "how_to_obtain": "Crafting",
+    "resonance": "",
+    "pre_evolution": "",
+    "evolution": "Providence Immemorial: Shackles",
+    "is_evolution": false,
+    "description": "At the meeting of day and night, the God of Reincarnation awakens—embodying both the end and the beginning. With each breath, life and death, growth and decay flow in endless rhythm.",
+    "parts": [
+      "Dawnlight Dream",
+      "Oracle's Awakening",
+      "Sacred Cycle",
+      "Divine Veil",
+      "Cycled Traces",
+      "Spring Breath",
+      "Crown of Glimmers",
+      "Dragon's Shadow",
+      "Melting Moonlight",
+      "Mark in Time"
+    ],
+    "version": "2.0",
+    "slug": "providence-immemorial",
+    "local_sprite": "images/Sexy/providence-immemorial/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/providence-immemorial/wardrobe_1.jpg",
+      "images/Sexy/providence-immemorial/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sexy/providence-immemorial/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Sexy/providence-immemorial/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "S0304",
+    "title": "Hymn to Dusk",
+    "cn_name": "",
+    "ja_name": "|ko  =",
+    "rarity": 5,
+    "type": "Miracle Outfits",
+    "style": "Cool",
+    "labels": [
+      "Divine",
+      "Terra"
+    ],
+    "ability": "Whimsicality",
+    "how_to_obtain": "Crafting",
+    "resonance": "",
+    "pre_evolution": "",
+    "evolution": "Hymn to Dusk: Aurum",
+    "is_evolution": false,
+    "description": "In Itzaland, there was but one race that did not pray to the gods. With wills of iron and fire, they forged a path toward tomorrow. In time, that will endured beyond death and followed their souls into reincarnation, marking the beginning of the intertwined fate between the God of Reincarnation and the Titans.",
+    "parts": [
+      "Torrent of Fate",
+      "Lightbearer's Fall",
+      "Dust and Fire",
+      "Divine Glimpse",
+      "Lingering Flame",
+      "Fire Oath",
+      "Flame Renewed",
+      "Everlit Form",
+      "Dawnward Hope",
+      "Unfading Sunlight"
+    ],
+    "version": "2.8",
+    "slug": "hymn-to-dusk",
+    "local_sprite": "images/Cool/hymn-to-dusk/sprite.png",
+    "local_wardrobe": [
+      "images/Cool/hymn-to-dusk/wardrobe_1.jpg",
+      "images/Cool/hymn-to-dusk/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Cool/hymn-to-dusk/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Cool/hymn-to-dusk/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "BW_001",
+    "title": "Blooming Dreams",
+    "cn_name": "花漾梦萦",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Fairy",
+      "Fantasy",
+      "精灵"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "《花灵童话》一经面世就成了时下最畅销的童书。人们疑惑，那位籍籍无名的作家为何能在停笔一年后写出如此佳作？对此，作家回答：“于我而言，这不止是一个童话。”",
+    "parts": [
+      "Sea of Pearls",
+      "Blooming Crown",
+      "Chasing Petals",
+      "Mystic Woods",
+      "Path of Flowers",
+      "Flower Melody",
+      "Feathered Dreamscape",
+      "Fairy Song",
+      "Embracing Vines",
+      "Wings of Wish"
+    ],
+    "slug": "blooming-dreams",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/blooming-dreams/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/blooming-dreams/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_002",
+    "title": "Rainfall & Blossoms",
+    "cn_name": "如雨坠，如花开",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Royal",
+      "Fairy",
+      "精灵"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "雨水浸透了每一寸砖石，风声填满了每一段记忆。孩子们出生起便在涟漪里学步，在雨线中穿行。世界给予他们潮湿的重量，他们回报以生命的诗行。",
+    "parts": [
+      "Cradle of Rain",
+      "Rainy Garden Bloom",
+      "Moonlit Greenhouse",
+      "Rainline Spindle",
+      "Damp Lullaby",
+      "Song of Misty Isle",
+      "White Ripples",
+      "First Dance",
+      "Sleepless Rain Waves",
+      "Rainy Season Delirium"
+    ],
+    "slug": "rainfall-blossoms",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/rainfall-blossoms/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/rainfall-blossoms/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_003",
+    "title": "Stardust Flare",
+    "cn_name": "缀夜希光",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Romance",
+      "Ballroom",
+      "舞会"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "幽深的夜色吞没来路，觊觎她走向黑夜的脚步。点点火光在遥远处蔓延，迷路少女的心头，燃起最初的花焰。从此，除了家，她也有了新的归处。",
+    "parts": [
+      "Sparkling Spirit",
+      "Beacon of Hope",
+      "Winding Crossroads",
+      "Eternal Starlight",
+      "Flower Dream",
+      "Lingering Slumber",
+      "Dazzling Rain",
+      "Gleaming Nightfall",
+      "Ember Call",
+      "Ember Echoes"
+    ],
+    "slug": "stardust-flare",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/stardust-flare/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/stardust-flare/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_004",
+    "title": "Flutter Storm",
+    "cn_name": "蝶屿风袭",
+    "rarity": 5,
+    "style": "Sexy",
+    "labels": [
+      "Romance",
+      "Ballroom",
+      "舞会"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "再不可知那座流浪的孤岛已飞向何处，也许岛屿上的神女仍咀嚼着永恒时间里温暖的须臾。在那里，一只蝴蝶扇动翅膀，试图抵达遥远的人间，掠起谁心间的飓风。",
+    "parts": [
+      "Offshore Breeze",
+      "Fluttering Twist",
+      "Delicate Wings",
+      "Fluttermist Isle",
+      "Frigid Branches",
+      "Silent Perch",
+      "Windhowl Tears",
+      "Sealing Cocoon",
+      "Windborne Memories"
+    ],
+    "slug": "flutter-storm",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/flutter-storm/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/flutter-storm/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_005",
+    "title": "Slumber by Blossoms",
+    "cn_name": "眠于花畔",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Classical",
+      "Glow",
+      "流彩"
+    ],
+    "how_to_obtain": "无限之心",
+    "is_evolution": false,
+    "description": "它们是诞生在神明指尖的微光，以光为怀抱，拭去灵魂所有的痛苦与执念。听，那指引灵魂归途的歌谣。",
+    "parts": [
+      "Stardust Wreath",
+      "Divine Kiss",
+      "Dangling Blooms",
+      "Glimmers and Longing",
+      "Cradled Past Dreams",
+      "Dewfall Breeze",
+      "Into the Light",
+      "Farshore Blossoms",
+      "Breeze Whispers"
+    ],
+    "slug": "slumber-by-blossoms",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/slumber-by-blossoms/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/slumber-by-blossoms/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_006",
+    "title": "Fairytale Swan",
+    "cn_name": "天鹅童话",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Formal",
+      "Ballroom",
+      "舞会"
+    ],
+    "how_to_obtain": "遥远之海",
+    "is_evolution": false,
+    "description": "天鹅衔来湖畔最娇美的花朵，又拂落最柔软的绒羽，让她怀着受神明祝福的梦想，步步走向华美得令人迷惘的邀约。",
+    "parts": [
+      "Morning Sunlight",
+      "Blooming Grace",
+      "Ripple Tracker",
+      "Feathered Gleam",
+      "Swaying Ode",
+      "Fluttering Feathers",
+      "Starry Guidance",
+      "Interwoven with Love",
+      "Swan Sonata"
+    ],
+    "slug": "fairytale-swan",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/fairytale-swan/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/fairytale-swan/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_007",
+    "title": "Wishful Aurosa",
+    "cn_name": "心愿金蔷薇",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Formal",
+      "Retro"
+    ],
+    "how_to_obtain": "无限之心",
+    "is_evolution": false,
+    "description": "曾有一个种族的生命被愿望唤醒，而今，愿望创造的奇迹仍在继续：生活因愿望而亮起光彩，就如沉睡的精灵在金蔷薇盛开时苏醒过来。",
+    "parts": [
+      "Vibrant Goldvines",
+      "Aurosa Bloom",
+      "Aurosa Traces",
+      "Goldleaf Ascent",
+      "Golden Butterfly",
+      "Golden Diadem",
+      "Goldbud Promise",
+      "Radiant Blossom"
+    ],
+    "slug": "wishful-aurosa",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/wishful-aurosa/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/wishful-aurosa/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_008",
+    "title": "Silvergale's Aria",
+    "cn_name": "咏叹银夜莺",
+    "rarity": 5,
+    "style": "Fresh",
+    "labels": [
+      "Ballroom",
+      "Fairy",
+      "舞会",
+      "精灵"
+    ],
+    "how_to_obtain": "无限之心",
+    "is_evolution": false,
+    "description": "盘桓于原野之上的夜莺，羽毛曾拂过每一寸盛放的愿景，最终祂决意栖息，以月光与歌声浇灌一颗真心，直至愿望凋零，爱已惘然。",
+    "parts": [
+      "Silvermoon Serenade",
+      "Echoing Silverwings",
+      "Silverweaving Star",
+      "Silverspring Love",
+      "Song of the Silvergale",
+      "Silver Shattering",
+      "Silver Nightglow",
+      "Moonveil Mirror"
+    ],
+    "slug": "silvergale-s-aria",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/silvergale-s-aria/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/silvergale-s-aria/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_009",
+    "title": "Timeless Melody",
+    "cn_name": "古典乐章",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Retro",
+      "Playful"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "一圈又一圈地拧紧古铜色发条，尘封的诗页再次翻动，静止的舞步重新摇曳。小小的精灵们再一次跳呀跳，伴随着那古老的、杂夹着吱呀吱呀声的交响乐章。",
+    "parts": [
+      "Time's Warmth",
+      "Wind's Song",
+      "Frozen Rhythm",
+      "Resounding Melodies",
+      "Melody Restarted",
+      "Tap-Tap Rhythm",
+      "Tracing Soundtracks",
+      "Moonlight Reminiscence",
+      "Whispered Serenade",
+      "Core Key"
+    ],
+    "slug": "timeless-melody",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/timeless-melody/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/timeless-melody/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_010",
+    "title": "Wings of Wishes",
+    "cn_name": "翩翩愿飞去",
+    "rarity": 5,
+    "style": "Cool",
+    "labels": [
+      "Fantasy",
+      "Playful"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "纸折而成的羽翼渐渐舒展，不知是谁的歌声开始在晴空下回荡。风中的纸鹤飘呀飘，衔起所有的愿望。",
+    "parts": [
+      "Awaiting Dawnlight",
+      "Breeze Call",
+      "Toward Tomorrow",
+      "Sunlit Letter",
+      "Featherlight Wish",
+      "Sealed Wish",
+      "Folded Wishes",
+      "Pure Feather",
+      "Folded Wings",
+      "Trails Aloft"
+    ],
+    "slug": "wings-of-wishes",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Cool/wings-of-wishes/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Cool/wings-of-wishes/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_011",
+    "title": "Born Flawless",
+    "cn_name": "生于无瑕",
+    "rarity": 5,
+    "style": "Cool",
+    "labels": [
+      "Aesthetic",
+      "Fantasy",
+      "唯美"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "无瑕的女儿也曾支离破碎。可她满身的伤痕从不是污瑕——宝石刻面万千，命运璀璨如光。",
+    "parts": [
+      "Newborn Condolence",
+      "Silent Prophecy",
+      "Lady of Fate",
+      "From the Depths",
+      "Wandering Souls",
+      "Edge of Fairytales",
+      "Cuts of Fate",
+      "Empty Wish",
+      "Innocent Harmony",
+      "Flawless Dance"
+    ],
+    "slug": "born-flawless",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Cool/born-flawless/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Cool/born-flawless/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_012",
+    "title": "Sea of Stars",
+    "cn_name": "星之海",
+    "rarity": 5,
+    "style": "Sexy",
+    "labels": [
+      "Adventure",
+      "Fantasy",
+      "冒险"
+    ],
+    "how_to_obtain": "无限之心",
+    "is_evolution": false,
+    "description": "她的裙摆漾出浩瀚星河，她的舞步点旋漫漫星轨。时空在名为“命运”的舞曲中交织，静候重启的黎明。",
+    "parts": [
+      "Dancing Star",
+      "Starhaze",
+      "Eye of Stars",
+      "Starbell",
+      "Starry Cascade",
+      "Star Sea",
+      "Stage of Stars"
+    ],
+    "slug": "sea-of-stars",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/sea-of-stars/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/sea-of-stars/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_013",
+    "title": "雪境长歌",
+    "cn_name": "雪境长歌",
+    "rarity": 5,
+    "style": "Fresh",
+    "labels": [
+      "清凉",
+      "精灵"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "谁在世界尽头呼雪，又堆砌纯白高墙？是那雪鲛的女王，坐拥无冕荣光，将守护的誓约传唱。可永恒是时光的残响，毁灭是一瞬的绝望。好在旅者温柔眷顾，将这微亮留下。",
+    "parts": [
+      "初雪引吭",
+      "恒长霜泪",
+      "无瑕柔软",
+      "未来诗音",
+      "盈雪入梦",
+      "絮语祝愿",
+      "绽光颂声",
+      "融雪千丝",
+      "踏雪有声",
+      "雪歌祝祷",
+      "鱼吻白霜"
+    ],
+    "slug": "cn-suit-013",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/cn-suit-013/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/cn-suit-013/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_014",
+    "title": "Crystal Poems",
+    "cn_name": "晶莹诗集",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Summer",
+      "Cute",
+      "清凉",
+      "甜心"
+    ],
+    "how_to_obtain": "遥远之海",
+    "is_evolution": false,
+    "description": "《冰雪的女儿》是一位无名的旅行家在环游世界后整理的叙事诗集。诗篇中神秘洁白的少女，究竟是亲历的见闻还是相传的童话？每每被问起，旅行家总是笑而不语。",
+    "parts": [
+      "Nordic Rhyme",
+      "Winter Collection",
+      "Freezing Moment",
+      "Wind's Gift",
+      "Crown of Frost",
+      "Frozen Vow",
+      "Silver Glow",
+      "Winter Reflection",
+      "Pearly Flowers",
+      "Trace of Snow"
+    ],
+    "slug": "crystal-poems",
+    "local_sprite": "images/Sweet/crystal-poems/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Sweet/crystal-poems/sprite.png",
+    "local_closeups": []
+  },
+  {
+    "id": "S0207",
+    "title": "Tonight's Wind and Moon",
+    "cn_name": "今宵风月",
+    "ja_name": "今宵の風月",
+    "rarity": 4,
+    "type": "",
+    "style": "Fresh",
+    "labels": [
+      "Linlang",
+      "Aesthetic"
+    ],
+    "ability": "",
+    "how_to_obtain": "Store",
+    "resonance": "",
+    "pre_evolution": "",
+    "evolution": "Tonight's Wind and Moon: Unfettered",
+    "is_evolution": false,
+    "description": "Deep within the palace, the silhouette of a startled swan remains forever held. She was a dancer of the court, confined between the vermilion railings and jade masonry—until a night of crystalline wind and brilliant moonlight. In that hour, a wandering melody plucked at her heartstrings, and the ripples of fate began to stir in the silence.",
+    "parts": [
+      "Jade Step Silhouette",
+      "Vanishing Bloom",
+      "Moonlit Dreams",
+      "Dancing in Glimmers",
+      "The Near Horizon",
+      "Roaming Song of Strings",
+      "Hazy Moment",
+      "Crystalline Tones",
+      "The World as a Score"
+    ],
+    "version": "2.5",
+    "slug": "tonight-s-wind-and-moon",
+    "local_sprite": "images/Fresh/tonight-s-wind-and-moon/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/tonight-s-wind-and-moon/wardrobe_1.jpg",
+      "images/Fresh/tonight-s-wind-and-moon/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Fresh/tonight-s-wind-and-moon/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Fresh/tonight-s-wind-and-moon/wardrobe_2.jpg"
+    ]
+  },
+  {
+    "id": "S0220",
+    "title": "Endless Longing",
+    "cn_name": "长相思",
+    "ja_name": "久遠の想思",
+    "rarity": 4,
+    "type": "",
+    "style": "Elegant",
+    "labels": [
+      "Linlang"
+    ],
+    "ability": "Pipa",
+    "how_to_obtain": "Crafting",
+    "resonance": "",
+    "pre_evolution": "",
+    "evolution": "Endless Longing: Ethereal",
+    "is_evolution": false,
+    "description": "Dreams adrift, shadows adrift, a tune of longing, eyes brim with tears. Who shares this love of mine?",
+    "parts": [
+      "Timeless Charm",
+      "Twin Blooms",
+      "Falling Tears",
+      "Faded Glow",
+      "Deep Feelings",
+      "Moonlight Lingers",
+      "Verdant Veil",
+      "Snow Embrace",
+      "Gentle Verdure"
+    ],
+    "version": "1.2",
+    "slug": "endless-longing",
+    "local_sprite": "images/Elegant/endless-longing/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/endless-longing/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/endless-longing/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Elegant/endless-longing/sprite.png"
+    ]
+  },
+  {
+    "id": "S0059",
+    "title": "Scaly Dream",
+    "cn_name": "幽鳞渡梦生",
+    "ja_name": "夢渡りの幽鱗",
+    "rarity": 4,
+    "type": "",
+    "style": "Cool",
+    "labels": [
+      "Linlang"
+    ],
+    "ability": "",
+    "how_to_obtain": "Store",
+    "resonance": "",
+    "pre_evolution": "",
+    "evolution": "Scaly Dream: Icy Depths",
+    "is_evolution": false,
+    "description": "The tail fin gleams like clouds and mist, unfolding abruptly, resembling an ink-splashed landscape awakening from ancient scriptures.",
+    "parts": [
+      "Endless Streams",
+      "Sunseeking Loong",
+      "Horn of Spring",
+      "Pathfinder's Trail",
+      "Thunder Terrain",
+      "Breaking Dawn",
+      "Bloodscale Loong",
+      "Fleeting Dreaminisce",
+      "Serene Nightlord"
+    ],
+    "version": "1.0",
+    "slug": "scaly-dream",
+    "local_sprite": "images/Cool/scaly-dream/sprite.png",
+    "local_wardrobe": [
+      "images/Cool/scaly-dream/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Cool/scaly-dream/wardrobe_1.jpg",
+    "local_closeups": [
+      "images/Cool/scaly-dream/sprite.png"
+    ]
+  },
+  {
+    "id": "BW_015",
+    "title": "Thousand Flames",
+    "cn_name": "花明千焰",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Linlang",
+      "Romance"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "俗尘碌碌双转毂，几履步、青石路。一点灵通迷津处，浑蒙初醒，拨云拂雾，月满天心幕。",
+    "parts": [
+      "Bluestone Eaves",
+      "Heavenly Hues",
+      "Cloudwoven Silk",
+      "Candlelit Dreams",
+      "Jade Grace",
+      "Jeweled Silk",
+      "Clouded Splendor",
+      "Full Radiance"
+    ],
+    "slug": "thousand-flames",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/thousand-flames/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/thousand-flames/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_016",
+    "title": "Gossamer Moonfairy",
+    "cn_name": "绮语月仙",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Linlang",
+      "Fairy",
+      "精灵"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "可叹她笑靥如花，却又爱变化无常。讹兽机巧，狡免能言，寻寻觅觅，行行且止，愿酬丹青，赓续干秋。",
+    "parts": [
+      "Lonely World",
+      "Evening Glow",
+      "Earthly Blessing",
+      "Moonwalk Breeze",
+      "Fleeting Ages",
+      "Dreamlike Life",
+      "Vanishing Splendor",
+      "Hanging Dew"
+    ],
+    "slug": "gossamer-moonfairy",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/gossamer-moonfairy/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/gossamer-moonfairy/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_017",
+    "title": "Lifetime Yin Yuan",
+    "cn_name": "三生因缘",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Linlang",
+      "Romance"
+    ],
+    "how_to_obtain": "限时活动",
+    "is_evolution": false,
+    "description": "夜夜飞花入梦频，为簪落红点香魂。千年借得因缘尽，还与馥郁寄故人。",
+    "parts": [
+      "Peachbloom Promise",
+      "Spring in Wuling",
+      "Peachland Ferry",
+      "Distant Reverie",
+      "Lifelong Mark",
+      "Rouge Button",
+      "Distant Snow",
+      "Pillow of Dusk"
+    ],
+    "slug": "lifetime-yin-yuan",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/lifetime-yin-yuan/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/lifetime-yin-yuan/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_018",
+    "title": "Danqing Craft",
+    "cn_name": "造化丹青",
+    "rarity": 4,
+    "style": "Cool",
+    "labels": [
+      "Linlang",
+      "Fantasy"
+    ],
+    "how_to_obtain": "无限之心",
+    "is_evolution": false,
+    "description": "开卷落墨，摹尽心中思绪，执聿挥毫，细绘眼前山水，好景一一呈诸笔端。",
+    "parts": [
+      "Enchanting Ink",
+      "Veil of Paper",
+      "Spilling Ink",
+      "Ink Journey",
+      "Dabs of Light",
+      "Brush and Scent",
+      "Picturesque Lands"
+    ],
+    "slug": "danqing-craft",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Cool/danqing-craft/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Cool/danqing-craft/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_019",
+    "title": "Song Beyond",
+    "cn_name": "尘外羽歌",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Linlang",
+      "Spirited",
+      "灵动"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "栖烟霞、饮风露，惯看寰宇，久望灯火人间。婵娟里、扶疏前，一瞥惊鸿，已题红尘命卷。",
+    "parts": [
+      "Faraway World",
+      "Night Lantern",
+      "Singing on Dew",
+      "Feather's Trace",
+      "Traceless Wind",
+      "Fleeting Clouds",
+      "Midnight Dwelling",
+      "Dew of the World"
+    ],
+    "slug": "song-beyond",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/song-beyond/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/song-beyond/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_020",
+    "title": "New Bloom Blessings",
+    "cn_name": "朝岁贺禧",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Linlang",
+      "Warm",
+      "保暖"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "朱红为裳，金线绣福，贺新岁之至，祈愿家和业兴，喜悦长伴，岁岁年年皆安康。",
+    "parts": [
+      "Beast's Blessings",
+      "Rolling in Fortune",
+      "Warm Embrace",
+      "Joyful Rhythms",
+      "Gleaming Blessings",
+      "Hall of Joy",
+      "Filled with Joy",
+      "Sweet New Bloom"
+    ],
+    "slug": "new-bloom-blessings",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/new-bloom-blessings/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/new-bloom-blessings/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_021",
+    "title": "Lotus Heart",
+    "cn_name": "渡我莲心",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Linlang",
+      "Summer",
+      "清凉"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "孤影寒波，濯尘出清漪；因缘造化，起意羡红尘。人间遥望，骤雨声催，幻梦方醒，问天地，可否渡此莲心？",
+    "parts": [
+      "Dreaming Ripples",
+      "Sparkling Thoughts",
+      "Water Hue",
+      "Faraway Goodbye",
+      "Distant Yin Yuan",
+      "Fragrant Feast",
+      "Sweet Night",
+      "Chilled Ripples"
+    ],
+    "slug": "lotus-heart",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/lotus-heart/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/lotus-heart/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_022",
+    "title": "Perfect Moment",
+    "cn_name": "裁佳期",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Linlang",
+      "Cute",
+      "甜心"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "意迟迟、言怯怯，慧心儿闺中藏。银刀剪彩功夫异，纤手翻新纸花样，自筑韶光赏佳期，红尘外别有红纸洞天栖。",
+    "parts": [
+      "Idle Daytime",
+      "Longing for Reunion",
+      "Moon Longing",
+      "Art of Cutting",
+      "Heart's Flowers",
+      "New Designs",
+      "Following the Moon",
+      "Careful Crafting"
+    ],
+    "slug": "perfect-moment",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/perfect-moment/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/perfect-moment/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_023",
+    "title": "Sword Master",
+    "cn_name": "剑雨侠客",
+    "rarity": 4,
+    "style": "Cool",
+    "labels": [
+      "Linlang",
+      "Adventure",
+      "冒险"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "君言故乡化劫灰，我道青山墨里存。笔底烟波干载活，梦中柳月几回。",
+    "parts": [
+      "Homelands Spring",
+      "Sparrow's Touch",
+      "Wandering Journey",
+      "Drizzling Ink",
+      "Farewell Step",
+      "Tearful Dreams",
+      "Daybreak Parting",
+      "Before the Sketch"
+    ],
+    "slug": "sword-master",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Cool/sword-master/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Cool/sword-master/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_024",
+    "title": "New Year's Dawn",
+    "cn_name": "新岁曈曈",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Linlang"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "斜倚在朝岁不眠的夜，举头看漫天绯红烟火，闲来横笛一曲，任凭这旋律流淌过万家灯火，于再熟悉不过的巷陌。",
+    "parts": [
+      "Chasing Sparks",
+      "Old Alleys",
+      "Thousand Lights",
+      "Into the Ordinary",
+      "Auspicious Song",
+      "Poetic Grandeur",
+      "Golden Radiance",
+      "Rainbow Glow"
+    ],
+    "slug": "new-year-s-dawn",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/new-year-s-dawn/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/new-year-s-dawn/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_025",
+    "title": "Thought in Bloom",
+    "cn_name": "一念生芳",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Intellectual",
+      "Linlang",
+      "知性"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "在医者的苗圃里，药草也习染悲慈的赤忱。为幼蝶投下雨中的荫蔽，点拨一株初芽的迷惘，终化作伤痍大地的一抹生机。而根须仍长眠大地，亦如世间不绝的仁心。",
+    "parts": [
+      "Gentle Tending",
+      "Dwelling Place",
+      "Weaving Rain",
+      "Souls' Yin Yuan",
+      "Clear Radiance",
+      "Healing Watch",
+      "Mourning Drift",
+      "Veiled Vines"
+    ],
+    "slug": "thought-in-bloom",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/thought-in-bloom/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/thought-in-bloom/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_026",
+    "title": "Tasting the World",
+    "cn_name": "寻味烟火间",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Linlang"
+    ],
+    "how_to_obtain": "限时活动",
+    "is_evolution": false,
+    "description": "足下穿行万里烟，舌尖尝遍四海鲜。脍细羹浓一过嘴，便将百味辨毫巅。舌如剑，笔如椽，食谱漫评三千篇。大小庖厨争献宴，求她金口传美言。",
+    "parts": [
+      "Craving the Moon",
+      "Jade Banquet",
+      "Exquisite Cuisine",
+      "Savory Intent",
+      "Roaming Chopsticks",
+      "Legendary Dishes",
+      "Seeking Flavors",
+      "Wanxiang Dumpling"
+    ],
+    "slug": "tasting-the-world",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/tasting-the-world/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/tasting-the-world/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_027",
+    "title": "Enchanted Writing",
+    "cn_name": "愿笔生花",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Fantasy",
+      "Retro"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "在她时隐时现的梦中，有着欢畅的音乐和舞蹈，而在那舞池中央，有一位人类少女，和一只蹦跳的小羊。当梦又一次浮现时，她决定拿起笔，将梦境变为流淌的文字……",
+    "parts": [
+      "Lingering Thoughts",
+      "Graceful Radiance",
+      "Drifting Strokes",
+      "Whimsy Taps",
+      "Dreambound Writing",
+      "Smooth Scribbles",
+      "Flowing Script",
+      "Ceaseless Reverie",
+      "Thoughtful Reading"
+    ],
+    "slug": "enchanted-writing",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/enchanted-writing/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/enchanted-writing/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_028",
+    "title": "Woodland Nesting",
+    "cn_name": "林深栖羽",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Fairy",
+      "Pastoral",
+      "精灵"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "少女轻拨低垂的枝桠，踏入这场因遗失物而发生的偶然冒险。青色鸟儿自林间衔来新绿，羽翼掠过树隙的天光。不如就随它振翅，让微风指引一段新的旅程。",
+    "parts": [
+      "Forest Dew",
+      "Birds' Blessing",
+      "Feather Fall",
+      "Emerald Traces",
+      "Tangled Trail",
+      "Light Feathers",
+      "Entwined Leaves",
+      "Green Adventure"
+    ],
+    "slug": "woodland-nesting",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/woodland-nesting/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/woodland-nesting/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_029",
+    "title": "Silent Ode",
+    "cn_name": "无声颂歌",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Divine",
+      "Retro",
+      "神谕"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "她信仰虔诚，日夜在高塔下为圣女吟唱颂歌，未曾有一丝懈怠。彼时的她曾多次仰望高塔与圣女对视，却从未读懂过圣女眼眸中的黯淡，但她相信终有一日她会明白。",
+    "parts": [
+      "Dome of Light",
+      "Sunset Prayers",
+      "Sacred Song",
+      "Devout Gaze",
+      "Midnight Ode",
+      "Unsolved Feelings",
+      "Vow to Stay",
+      "Divine Arrival"
+    ],
+    "slug": "silent-ode",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/silent-ode/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/silent-ode/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_030",
+    "title": "Poem of Emberlight",
+    "cn_name": "叙火长诗",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Classical",
+      "Formal"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "她聆听着森林的传说，将守护的炽愿种进憧憬的土壤里；她茫然于世俗的质疑，任声音把忧愁绕进了稚嫩的心底；直到，火芒递来指引，直到，微光点亮沉寂。",
+    "parts": [
+      "Nocturnal Lyrics",
+      "Mist Whispers",
+      "Ember Secrets",
+      "A Gentle Invite",
+      "First Song of Bloom",
+      "Moonlight Thoughts",
+      "Quiet Longing",
+      "Forest's Message"
+    ],
+    "slug": "poem-of-emberlight",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/poem-of-emberlight/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/poem-of-emberlight/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_031",
+    "title": "Formless Truth",
+    "cn_name": "真意无形",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Divine",
+      "Fantasy",
+      "神谕"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "匠人铺开画稿，笔尖在无数矛盾的记述之间游移，濡湿复枯涩，断墨难再续。空沉吟穷尽稽考真容何处觅，怕只怕草图未就胸中无成竹，铁画银钩两踌躇。",
+    "parts": [
+      "Reverent Memory",
+      "Ever Radiant",
+      "Roadside Song",
+      "Shared Remembrance",
+      "Dream Guided",
+      "Dewlit Peaks",
+      "Beyond Thought",
+      "Nowhere Found"
+    ],
+    "slug": "formless-truth",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/formless-truth/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/formless-truth/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_032",
+    "title": "Moonlight Oath",
+    "cn_name": "辉月诺言",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Fantasy"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "星空的奥秘、辉月下的承诺，都已随着那场流星雨的结束一同沉寂。诞生于星月的生命决定不再驻足时，森林彻底陷入静谧。",
+    "parts": [
+      "Moonlit Threads",
+      "Journey Home",
+      "Celestial Starfall",
+      "Starlit Moon",
+      "Moonlit Mist",
+      "Moonbathed Bloom",
+      "Astral Embrace",
+      "Celestial Radiance",
+      "Laurel Guardian",
+      "Astral Entanglement"
+    ],
+    "slug": "moonlight-oath",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/moonlight-oath/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/moonlight-oath/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_033",
+    "title": "Graceful Elegance",
+    "cn_name": "淑雅格调",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Royal"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "懵懂的小公主步入陌生的礼仪教室，她好奇地打量着周围的一切，眼眸中闪烁着期待的光。",
+    "parts": [
+      "Elegant Style",
+      "Graceful Gaze",
+      "Afternoon Tea Break",
+      "Tranquil Melody",
+      "Gentle Raise",
+      "Casual Moments",
+      "Tranquil Grace",
+      "Charming Curtsy",
+      "Serene Steps",
+      "Gentle Sunlight"
+    ],
+    "slug": "graceful-elegance",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/graceful-elegance/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/graceful-elegance/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_034",
+    "title": "Timeless Echo",
+    "cn_name": "吟谣故梦",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Retro"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "远渡重洋的少女，告别异乡的朋友，独自踏上回程的旅途。随着船只渐行渐远，熟悉的身影逐渐化作海平线上一个小小的光点。霎时，回忆如潮水般涌上心头。",
+    "parts": [
+      "Friendship's Bond",
+      "Heart Aligned",
+      "Steady Steps",
+      "Velvet Blend",
+      "Rewind Time",
+      "Curls of Grace",
+      "Candlelit Feast",
+      "Heartfelt Waves",
+      "Faraway Hour",
+      "Old Tale"
+    ],
+    "slug": "timeless-echo",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/timeless-echo/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/timeless-echo/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_035",
+    "title": "Dream in Glimpses",
+    "cn_name": "只影片梦",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Retro"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "多年前，那个橱窗前的身影对她说：“设计就像是拼图，先从四角的剪裁、造型、面料、色彩开始，一直拼到中心最关键的那一块——你的自白。”",
+    "parts": [
+      "Gilded Dream",
+      "Twilight Secrets",
+      "Modern Noir",
+      "Pearly Glow",
+      "Threaded Lace",
+      "Nocturnal Jewel",
+      "Veil Collage",
+      "Entwined Fingertips",
+      "Scented Journey",
+      "Handheld Romance"
+    ],
+    "slug": "dream-in-glimpses",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/dream-in-glimpses/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/dream-in-glimpses/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_036",
+    "title": "Starfall Radiance",
+    "cn_name": "流星绚烂时",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Romance"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "流星曾照耀大地，也正点亮着今世的夜空。听说，穿上这套裙装，双手交握在胸前祈祷，就会有星子滑过天幕哦。",
+    "parts": [
+      "Mumbled Dream",
+      "Stellar Waves",
+      "Stars of Oath",
+      "Milky Way Ripple",
+      "Celestial Nightfall",
+      "River of Stars",
+      "Star Dance",
+      "Turning Palm",
+      "Stardust Trail"
+    ],
+    "slug": "starfall-radiance",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/starfall-radiance/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/starfall-radiance/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_037",
+    "title": "Gilded Memories",
+    "cn_name": "鎏金旧事",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Intellectual",
+      "Royal",
+      "知性"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "庄园宏伟而静谧，仆妇们也低声细语，树林间的沙沙声勾人心绪，故作端庄的少女偷偷望去。时光被这对可爱的伙伴翻阅了一角，平静充实的生活填满了漫长岁月。",
+    "parts": [
+      "Bonded Hearts",
+      "Small Gift",
+      "Woven Crown",
+      "Petite Court",
+      "Secret Moon",
+      "Courtly Manners",
+      "Tender Twilight",
+      "Night Tune",
+      "Banquet Pearl"
+    ],
+    "slug": "gilded-memories",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/gilded-memories/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/gilded-memories/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_039",
+    "title": "Echoes Upon the Gale",
+    "cn_name": "风过遗音",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Forest",
+      "Fantasy",
+      "森林"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "森林的喧哗从耳边剥落，万物之声掉入她掌心，生长成莹润的珍珠，沾着晨露的野花，又或是倒流的瓶中山溪。女孩仰起头，风带走旧时的声音，一个故事已泛起涟漪。",
+    "parts": [
+      "Dangling Dream Gallery",
+      "Silent Valley Whispers",
+      "Voice of the Evening Wind",
+      "Playful Gift",
+      "Breath of Sound",
+      "Echoes of the Labyrinth",
+      "Blank Thoughts",
+      "Ripple of the Unspoken"
+    ],
+    "slug": "echoes-upon-the-gale",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/echoes-upon-the-gale/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/echoes-upon-the-gale/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_041",
+    "title": "Nightlight Whispers",
+    "cn_name": "漫夜灯语",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Romance",
+      "Fairy",
+      "精灵"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "想让朋友睡个好觉，独自守夜的时间就不再漫长。看你绵长的呼吸融化在晚风，夜灯也点亮了甜美的梦。我想守护的心意不用言语，因为静默跟随的刺绣蛾已替你知悉。",
+    "parts": [
+      "Puffy Moonlight",
+      "Folded Grace",
+      "Moth Whispers",
+      "Shadow-Chasing Moth",
+      "Resting Moth",
+      "Moth Pouch",
+      "Glimmering Mothfall",
+      "Glowing Scales"
+    ],
+    "slug": "nightlight-whispers",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/nightlight-whispers/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/nightlight-whispers/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_042",
+    "title": "Forest's Fluttering",
+    "cn_name": "林间戏蝶",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Pastoral",
+      "Adventure",
+      "冒险"
+    ],
+    "how_to_obtain": "遥远之海",
+    "is_evolution": false,
+    "description": "在茂密的森林里，翠绿的亮片蝶乘风起舞。一位昆虫学者目睹了蝴蝶的悠闲姿态，她拿起细网，捕获住这个令人陶醉的瞬间。",
+    "parts": [
+      "Daisy Goggles",
+      "Verdant Reverie",
+      "Meadow Explorer",
+      "Applebug's Chirp",
+      "Forest Sprint",
+      "Emerald Fluttering",
+      "Forest Adventures",
+      "Clover's Touch",
+      "Dappled Light",
+      "Forest Footprints"
+    ],
+    "slug": "forest-s-fluttering",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/forest-s-fluttering/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/forest-s-fluttering/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_043",
+    "title": "Pastoral Dance",
+    "cn_name": "花舞绵绵",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Pastoral",
+      "Warm",
+      "保暖"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "花匠绵羊今天又跑哪去了？当牧羊铃响被当成悦耳的音乐，慌乱的步伐被当成新奇舞步，一只误入舞池的小羊，和追逐小羊的少女，成了心愿精灵狂欢派对上的意外嘉宾……",
+    "parts": [
+      "Curled Horns",
+      "Fresh Buds",
+      "Echoing Bell",
+      "Silken Braids",
+      "Blossom Dance",
+      "Field's Embrace",
+      "Forest Steps",
+      "Drifting Tassels",
+      "Bells Chiming"
+    ],
+    "slug": "pastoral-dance",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/pastoral-dance/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/pastoral-dance/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_046",
+    "title": "Hometown Breeze",
+    "cn_name": "故乡的风",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Pastoral"
+    ],
+    "how_to_obtain": "唱诗蓝龙",
+    "is_evolution": false,
+    "description": "唯有那日夜不息的风永远不会离去，它在高耸的石树间盘旋，又轻轻地掠过广袤的原野。无论人们迁徙至何处，只要风起，便能听到故乡的呼唤。",
+    "parts": [
+      "Wishbird Return",
+      "Languid Windmill",
+      "Harvest's Blessing (Headwear)",
+      "Hopeful Knot",
+      "Homeland's Nostalgia",
+      "Song of Harvest",
+      "Windswept Wheat",
+      "Breezy Cotton"
+    ],
+    "slug": "hometown-breeze",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/hometown-breeze/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/hometown-breeze/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_047",
+    "title": "Floral Memory",
+    "cn_name": "飞花的追忆",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Retro"
+    ],
+    "how_to_obtain": "无限之心",
+    "is_evolution": false,
+    "description": "感觉自己好像变成了一片花瓣，在空中乘着风缓缓滑翔，飞过夜色与星光，在广阔田野上映出一片小小的影子。",
+    "parts": [
+      "Distant Memory",
+      "Sky Fall",
+      "Twilight Daydream",
+      "Blooming Cycles",
+      "Lingering Memory",
+      "Past Fragrance",
+      "Twilight's Veil",
+      "Wind's Caress"
+    ],
+    "slug": "floral-memory",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/floral-memory/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/floral-memory/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_049",
+    "title": "Sweet Waltz",
+    "cn_name": "甜野小圆舞",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Whimsy",
+      "Pastoral",
+      "绮想"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "落幕之日前，就已经有一群乐观可爱的菇菇人住在巨木之森。他们踏青、滚泥、挥舞捕虫网，一不小心撞上沉睡的巨兽，便开启了一场可爱又慌张的大逃亡。",
+    "parts": [
+      "Shroomcap Song",
+      "Leisurely Clouds",
+      "Fluttering Petals",
+      "Shroomling Wonder",
+      "Snowcapped Waltz",
+      "Dreamwish Catcher",
+      "Dancing Leaves",
+      "Shroomling's Escape"
+    ],
+    "slug": "sweet-waltz",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/sweet-waltz/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/sweet-waltz/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_051",
+    "title": "云朵白日梦",
+    "cn_name": "云朵白日梦",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Fantasy",
+      "Playful"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "多想做回无忧无虑的孩子，重温在热气氤氲的午后追逐云朵的时光。",
+    "parts": [
+      "多云遐想",
+      "多彩点缀",
+      "天际乐园",
+      "浮游奶泡",
+      "白云留影",
+      "软绵触感",
+      "轻盈着迷",
+      "重云警告"
+    ],
+    "slug": "cn-suit-051",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/cn-suit-051/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/cn-suit-051/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_052",
+    "title": "Momo Rain",
+    "cn_name": "遇上喵喵雨",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Playful",
+      "Romance"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "滴答滴答，雨滴落下，大喵的小小冒险开始啦！有什么在潮湿的道路尽头等着它？",
+    "parts": [
+      "Clear Sunshine",
+      "Rainy Cloud",
+      "Tiny Momo",
+      "Splashing Dance",
+      "Sunny Rainbow",
+      "Fluffy Tuft",
+      "Lazy Clouds"
+    ],
+    "slug": "momo-rain",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/momo-rain/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/momo-rain/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_053",
+    "title": "Blooming Brocade",
+    "cn_name": "折枝花锦",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Retro",
+      "Pastoral"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "每当清晨的阳光洒在窗棂，少女都会在晶莹剔透的玻璃花瓶中放上一朵盛放的鲜花，静静摆放在窗台。",
+    "parts": [
+      "Blossom Awakened",
+      "Shared Time",
+      "Misty Touch",
+      "Floral Mirage",
+      "Velvet Grass",
+      "Dappled Branches",
+      "Flower's Walk",
+      "Leaf Poems",
+      "Seasonal Memory",
+      "Home in Green"
+    ],
+    "slug": "blooming-brocade",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/blooming-brocade/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/blooming-brocade/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_054",
+    "title": "Whispered Dreams",
+    "cn_name": "梦隙灵语",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Glow",
+      "Fairy",
+      "流彩",
+      "精灵"
+    ],
+    "how_to_obtain": "唱诗蓝龙",
+    "is_evolution": false,
+    "description": "命运赠予的天赋化作疗愈的力量，她用双手去抚慰每一个不安的灵魂，如同月亮温柔地将光辉洒向世间万物。",
+    "parts": [
+      "Dawn Melody",
+      "Feathers and Leaves",
+      "Woodland Melody",
+      "Life's Insight",
+      "Veil of Moonlight",
+      "Distant Dreams",
+      "Lush Branches",
+      "Dawn to Dusk"
+    ],
+    "slug": "whispered-dreams",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/whispered-dreams/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/whispered-dreams/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_055",
+    "title": "Water's Echo",
+    "cn_name": "逐水聆音",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Pastoral",
+      "Retro"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "流水潺潺，足音沙沙，少女每日沿河岸奔跑，追逐着水的足迹。播种的时机，暴雨的讯息，她将水的预言递送给每一颗渴望丰收的心。",
+    "parts": [
+      "Vine Crown",
+      "Joyful Rippling",
+      "Shimmering Light",
+      "Flowing Whispers",
+      "Unfading Leaves",
+      "Soft Vines",
+      "Veil of Waters",
+      "Water's Companion"
+    ],
+    "slug": "water-s-echo",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/water-s-echo/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/water-s-echo/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_056",
+    "title": "Blossoming Future",
+    "cn_name": "未来绽放",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Romance",
+      "Fashion"
+    ],
+    "how_to_obtain": "限时活动",
+    "is_evolution": false,
+    "description": "舞台变幻莫测如海浪涌动，又似银河倾泻。一如那星光拥簇的皓月缓缓升起，她的歌声掌舵穿越时空，将斑斓声色织成幻梦的经纬。",
+    "parts": [
+      "Fresh Daydream",
+      "Freestyle Soul",
+      "Blossoming Future (Bottoms)",
+      "Prelude Overture",
+      "Beat of Light",
+      "Leaping Lights",
+      "Swaying Stars",
+      "Clear Aria",
+      "Crystal Flutter"
+    ],
+    "slug": "blossoming-future",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/blossoming-future/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/blossoming-future/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_058",
+    "title": "Courtyard Flowers",
+    "cn_name": "旧庭的花愿",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Cute",
+      "Romance",
+      "甜心"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "推开枝叶缠绕的门扉，是你用花朵与露水为我编织的童年秘境。你告诉我每一朵花的名字，也娓娓道来那属于远方的童话，芬芳的心愿慢慢在我心中发芽。",
+    "parts": [
+      "Butterfly Waves",
+      "Delicate Life",
+      "Winding Leaves",
+      "Sunny-Day Flowers",
+      "Fragrant Haven",
+      "Floral Reminiscence",
+      "Floral Notes",
+      "Dream Letters"
+    ],
+    "slug": "courtyard-flowers",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/courtyard-flowers/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/courtyard-flowers/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_060",
+    "title": "Rebirth Wish",
+    "cn_name": "祈愿新生",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Retro"
+    ],
+    "how_to_obtain": "唱诗蓝龙",
+    "is_evolution": false,
+    "description": "莉莉娜就任镇长的典礼在人们期盼的目光中开始，晨曦抚平了花愿镇的伤痕，纸鹤托举着新的故事展开了双翼。",
+    "parts": [
+      "Weaving Spring",
+      "Cradle of Wish",
+      "A New Dawn",
+      "Bright Tomorrow",
+      "Through the Storm",
+      "Paper Crane's Flight",
+      "Tomorrow's Vows",
+      "Blooming Path"
+    ],
+    "slug": "rebirth-wish",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/rebirth-wish/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/rebirth-wish/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_061",
+    "title": "Moonlit Immortal",
+    "cn_name": "翩月飞仙",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Terra",
+      "Ballroom",
+      "大地",
+      "舞会"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "魂兮灼灼，犹照倩影，魄兮不散，便与天地同旋，舞至七情震心颤，舞至六欲破颜开，纵使身朽形销，亦难乱其韵律。",
+    "parts": [
+      "Call of the Heart",
+      "Blazing Prime",
+      "Silent Watch",
+      "A Drifting Life",
+      "Veiled Dream",
+      "Flawed Jade",
+      "Moon of Obsession",
+      "Exiled Immortal"
+    ],
+    "slug": "moonlit-immortal",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/moonlit-immortal/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/moonlit-immortal/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_062",
+    "title": "Starlet Burst",
+    "cn_name": "迷你星芒",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Fantasy"
+    ],
+    "how_to_obtain": "无限之心",
+    "is_evolution": false,
+    "description": "听心愿精灵说，穿上它可以让大大的来访者变得小小，就像小星星一样！但是并不能一下子学会飞飞。",
+    "parts": [
+      "Gemini Spiral",
+      "Tiny Star Wish",
+      "Starry Steps",
+      "Gradient Sky",
+      "Glittering Change",
+      "Starry Trampoline",
+      "Subtle Gleam",
+      "Rising Star"
+    ],
+    "slug": "starlet-burst",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/starlet-burst/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/starlet-burst/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_063",
+    "title": "Glimmering Forest",
+    "cn_name": "森息浮光",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Cute",
+      "Fantasy",
+      "甜心"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "原来红色也会轻柔呼吸，此刻它正撑开一片小小的穹顶。上面跳动着会发光的孢子，如萤火星辰，浮游不息。两盏柔光摇曳身旁，点亮来自森林的传说。",
+    "parts": [
+      "Shroomling Home",
+      "Gentle Cap",
+      "Shroomling Heart",
+      "Sincere Heart",
+      "Crimson Waves",
+      "Land's Affection",
+      "Hazy Forest",
+      "Mushroom Caps"
+    ],
+    "slug": "glimmering-forest",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/glimmering-forest/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/glimmering-forest/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_064",
+    "title": "Forest's Song",
+    "cn_name": "青野漫林歌",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Forest",
+      "Fantasy",
+      "森林"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "落幕之日前，绒领鹿独行的身影就已经穿梭于伊赞之土，它的眼中倒映着这片大地的生机与温柔，却从不主动靠近，如同历史的旁观者。它只为行走、凝望、见证。",
+    "parts": [
+      "Antlered Dream",
+      "Emerald Radiance",
+      "Forest's Blessing",
+      "Breath of Nature",
+      "Verdant Woodsong",
+      "Breezy Veil",
+      "Wilderness Walk",
+      "Blessed Radiance"
+    ],
+    "slug": "forest-s-song",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/forest-s-song/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/forest-s-song/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_066",
+    "title": "Heartlake Ripples",
+    "cn_name": "心湖涟漪",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Romance",
+      "Fantasy"
+    ],
+    "how_to_obtain": "无限之心",
+    "is_evolution": false,
+    "description": "湖面起伏的涟漪，是少女倾诉的心事。在徘徊的天光与云影中，所有思绪都倾泻在万顷碧波里，随后便与潺潺流水一同尽数散去。",
+    "parts": [
+      "Lake Reflections",
+      "Wreathed in Clouds",
+      "Flowing Thoughts",
+      "Dreamlike Veil",
+      "Greeting of Rain",
+      "Glittering Light",
+      "Gentle Steps",
+      "Light Ripples",
+      "Beaded Rain",
+      "Feather Falls"
+    ],
+    "slug": "heartlake-ripples",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/heartlake-ripples/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/heartlake-ripples/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_067",
+    "title": "From the Depth",
+    "cn_name": "来自深海",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Romance",
+      "Fantasy"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "纺织海水的盲女未曾见过无际汪洋，却遇见无数迷茫的人类，如微渺的水滴，沉浮在浩瀚的命运之海。",
+    "parts": [
+      "Silken Tide",
+      "Wind Whispers",
+      "Why Fear Fate",
+      "Layered Ripples",
+      "Lightless Sea",
+      "Sheltered Slumber",
+      "Tides of Time",
+      "Boundless Thoughts",
+      "Visionless Envoy"
+    ],
+    "slug": "from-the-depth",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/from-the-depth/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/from-the-depth/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_068",
+    "title": "丰饶之赞",
+    "cn_name": "丰饶之赞",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Formal",
+      "Romance"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "丰收的喜悦在集会的篝火边洋溢，少女童年梦想中的累累硕果终于结在枝头，又被她亲手摘下。她抬头，看见那与自己互相鼓励的友人同样追梦归来。",
+    "parts": [
+      "叶脉秘语",
+      "叶落果熟时",
+      "披戴霞光",
+      "撷光季节",
+      "橘红共舞",
+      "沃野染尽",
+      "落叶缀梦",
+      "蔓生草色"
+    ],
+    "slug": "cn-suit-068",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/cn-suit-068/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/cn-suit-068/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_069",
+    "title": "Dreamy Glimmer",
+    "cn_name": "梦泽流光",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Formal"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "“是什么在福鸣之井的深处游荡？呱，呱，呱，呱……粉粉圆圆，吐着泡泡？呱，呱，呱，呱……”没有呱呱帽蛙知道这首小曲是什么时候在福鸣之井流传起来的。",
+    "parts": [
+      "Waterway Storm",
+      "Floating Tie",
+      "Gleaming Traces",
+      "Shadowless Corner",
+      "Radiant Sparkle",
+      "Tail of Purity",
+      "Soft White",
+      "Crystal Bubbles",
+      "Danger Ahead"
+    ],
+    "slug": "dreamy-glimmer",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/dreamy-glimmer/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/dreamy-glimmer/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_070",
+    "title": "Sunflower Chronicle",
+    "cn_name": "向阳花纪",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Forest",
+      "Pastoral",
+      "森林"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "当持续的甘霖再次降下，山顶燃起长存的火种，风送来粮食的种子……那些以血和泪浇灌的花儿，终将面向新生的太阳绽放，点亮这片大地的希望。",
+    "parts": [
+      "Sunny Fields",
+      "Divine Echoes",
+      "Watchers of Dawn",
+      "Blood Blossom",
+      "Fate's Guidance",
+      "Blazing Spark",
+      "Renewed Glow",
+      "Devout Steps",
+      "Call of the Wind"
+    ],
+    "slug": "sunflower-chronicle",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/sunflower-chronicle/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/sunflower-chronicle/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_071",
+    "title": "Spectral Mist",
+    "cn_name": "雾影飘灵",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Ballroom",
+      "舞会"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "午夜的薄雾恰似幽暗的纱幔，跨越无尽的时光。将时间的指针拨动回过去，跟随流动的光影探寻旧日的诗篇，传说中女王的那场舞会，会在每一个午夜再度开场。",
+    "parts": [
+      "Silver Sonata",
+      "Flowing Chant",
+      "Floral Echoes",
+      "Star Rhythm Poem",
+      "Night's Resonance",
+      "Midnight Roses",
+      "Searching for Light",
+      "Enchanting Dance",
+      "Shadowed Melody"
+    ],
+    "slug": "spectral-mist",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/spectral-mist/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/spectral-mist/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_072",
+    "title": "Daughter of the Lake",
+    "cn_name": "湖的女儿",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Fairy",
+      "精灵"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "当鱼尾化作双腿，一步，两步……她奔向属于她的自由，如流星追逐天空。唯有在潮湿的环境，抚摸身上新生的鳞片，她才依稀记起，曾是裙摆湖里一条平凡缎带鱼的过往。",
+    "parts": [
+      "Gift of Fish",
+      "Mortal Waters",
+      "Azure Whisper",
+      "Blue Teardrop",
+      "Lake Drops",
+      "Soft Murmurs",
+      "Farewell Tail",
+      "Dreamward"
+    ],
+    "slug": "daughter-of-the-lake",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/daughter-of-the-lake/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/daughter-of-the-lake/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_073",
+    "title": "Starwoven Dreams",
+    "cn_name": "揽星入梦",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Spirited",
+      "Ballroom",
+      "灵动",
+      "舞会"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "舞娘的足迹遍布大地，她无拘无束，随心而舞。她带着无数传奇见闻来到蜗牛城，小屋中的古怪少女像一个孤独的谜，吸引着一颗热情的心不自觉去靠近。",
+    "parts": [
+      "Flowing Strands",
+      "Greet the Sights",
+      "Soulful Dance",
+      "Moonlight Veil",
+      "Forest Dance",
+      "Forest Heartbeat",
+      "Feathered Journey",
+      "First Meeting"
+    ],
+    "slug": "starwoven-dreams",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/starwoven-dreams/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/starwoven-dreams/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_074",
+    "title": "Mistbound Whispers",
+    "cn_name": "林中雾语",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Fashion",
+      "Ballroom",
+      "舞会"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "在细雨和雾霭中，她显得如此美丽。轻轻一挥伞柄，就将迷途之人指引。然而一切终是雾中泡影，晨光来临时，昨夜的记忆都将消泯。",
+    "parts": [
+      "Wandering Melody",
+      "Hidden Treasure",
+      "Misty Thoughts",
+      "Hazy Affection",
+      "Never Replayed",
+      "Misty Scenery",
+      "Night Revelation",
+      "Misty Stroll"
+    ],
+    "slug": "mistbound-whispers",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/mistbound-whispers/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/mistbound-whispers/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_075",
+    "title": "Rosy Reverie",
+    "cn_name": "迷花燃梦",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Retro"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "梦想之都的欢呼如同潮水，从清晨便簇拥着她，一路蔓延到夜晚。当白日的喧嚣落幕，人潮散去，徒留一地灰烟，叩问着倦怠的灵魂。",
+    "parts": [
+      "Mystic Stardust",
+      "Yesterday's Bloom",
+      "Speechless",
+      "Shattered Reflections",
+      "Silent Reverie",
+      "Rosy Dance",
+      "Scented Shadows",
+      "Journey to Tomorrow"
+    ],
+    "slug": "rosy-reverie",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/rosy-reverie/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/rosy-reverie/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_076",
+    "title": "Night Capricorn Song",
+    "cn_name": "夜羯之歌",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Whimsy",
+      "Fantasy",
+      "绮想"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "占卜师模糊的呓语如同低垂的天鹅绒幕布，掩去夜空中黯淡的星点，少女接过已枯萎的预言，一步步向命运行去，足印彷徨而模糊。",
+    "parts": [
+      "Bewildering Omens",
+      "Star Vortex",
+      "Silent Moon",
+      "Fate's Path",
+      "Final Farewell",
+      "Catastrophic Illusion",
+      "Falling Star Melody",
+      "Foreseen Confusion"
+    ],
+    "slug": "night-capricorn-song",
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/night-capricorn-song/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/night-capricorn-song/wardrobe_1.jpg",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_038",
+    "title": "Wind of Purity",
+    "cn_name": "纯净之风",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Romance"
+    ],
+    "how_to_obtain": "无限之心",
+    "is_evolution": false,
+    "description": "也许春风是这世上第一位吟游诗人，诗句回荡在春天的原野之上，净化的力量为大地带来新生。",
+    "parts": [
+      "Spring Whispers",
+      "Pure Melody",
+      "Airborne Steps",
+      "Crowning Spring",
+      "Resurrected Shine",
+      "Windswept Plume",
+      "Blossom Verses",
+      "Monsoon Messenger"
+    ],
+    "slug": "wind-of-purity",
+    "local_sprite": "images/Elegant/wind-of-purity/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Elegant/wind-of-purity/sprite.png",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_040",
+    "title": "Cheering Heartbeat",
+    "cn_name": "应援的心跳",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Ballroom",
+      "Fantasy",
+      "舞会"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "有人踩着鼓点追逐偶像的宝座，而她敲开多巴胺热舞社的门，则是想要找回生活的热情，重新爱上自己。原来最动人的应援，是终于学会为自己喝彩。",
+    "parts": [
+      "Soft Rebellion",
+      "Zesty Lime",
+      "Tinkling bells",
+      "Fan Spirit",
+      "Rainbow Recast",
+      "Riotous Shine",
+      "After Sunset",
+      "Crownless Crest",
+      "Waving Moment"
+    ],
+    "slug": "cheering-heartbeat",
+    "local_sprite": "images/Fresh/cheering-heartbeat/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Fresh/cheering-heartbeat/sprite.png",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_044",
+    "title": "Honey Hunt",
+    "cn_name": "林间寻蜜",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Pastoral"
+    ],
+    "how_to_obtain": "限时活动",
+    "is_evolution": false,
+    "description": "它们在果园里驻足，知晓哪些花朵将长成格外甘甜的果实。蜜罗发现了这群美食家的喜好，从此蜂群聚集处亦有她的身影。",
+    "parts": [
+      "Veiled Fragrance",
+      "Beeswax Letter",
+      "Gourmet Letter",
+      "Blooming Season",
+      "Hidden Fruits",
+      "Nectar Coordinates",
+      "Honey Jar Gift",
+      "Handful of Pollen",
+      "Bee's Message"
+    ],
+    "slug": "honey-hunt",
+    "local_sprite": "images/Fresh/honey-hunt/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Fresh/honey-hunt/sprite.png",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_045",
+    "title": "Dream Banquet",
+    "cn_name": "宴梦奇缘",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Royal"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "童话里说，城堡里曾住着孤身一人的小公主，她独坐在华丽的茶桌前，在烛光里她看见丰盛的晚宴和喧嚣的人群，举起杯却无人相碰。",
+    "parts": [
+      "By the Window",
+      "When Candles Cry",
+      "Whispers of Breeze",
+      "Song of Solitude",
+      "Faded Reverie",
+      "Time Traveler",
+      "Eternal Strings",
+      "Gentle Glow",
+      "Candlelit Banquet"
+    ],
+    "slug": "dream-banquet",
+    "local_sprite": "images/Fresh/dream-banquet/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Fresh/dream-banquet/sprite.png",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_048",
+    "title": "Verdant Melodies",
+    "cn_name": "绿野轻歌",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Pastoral"
+    ],
+    "how_to_obtain": "限定共鸣",
+    "is_evolution": false,
+    "description": "漫步在裙摆湖畔，微风轻拂，湖面波光粼粼。采撷散落的芳香，在手中一枝枝结成浪漫的模样，以鲜妍的花枝装点野餐途中的处处斑斓。",
+    "parts": [
+      "Wooden Weave",
+      "Fleeting Dreams",
+      "Green Silhouette",
+      "Dreamy Bouquet",
+      "Ivory Lace",
+      "Radiant Glare",
+      "Luminous Haven",
+      "Verdant Path"
+    ],
+    "slug": "verdant-melodies",
+    "local_sprite": "images/Fresh/verdant-melodies/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Fresh/verdant-melodies/sprite.png",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_050",
+    "title": "Gleaming Dance",
+    "cn_name": "熠熠舞曲",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Ballroom",
+      "Summer",
+      "舞会",
+      "清凉"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "毕业舞会的璀璨灯光下，少女身着亲自设计的礼裙翩翩起舞，宛如一朵绽放的夜之花。",
+    "parts": [
+      "White Bird's Gift",
+      "Golden Glow",
+      "Radiant Dangle",
+      "Budding Vines",
+      "Whirling Blooms",
+      "Violet Veil",
+      "Dawn's Last Dance",
+      "Fading Footsteps"
+    ],
+    "slug": "gleaming-dance",
+    "local_sprite": "images/Fresh/gleaming-dance/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Fresh/gleaming-dance/sprite.png",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_057",
+    "title": "Purifying Wind",
+    "cn_name": "伊风祓舞",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Divine",
+      "神谕"
+    ],
+    "how_to_obtain": "任务",
+    "is_evolution": false,
+    "description": "弦上的箭羽轻轻颤动，森林忽然安静下来，仿佛万物屏息聆听。下一秒，破空而至的光芒便一扫前路的晦暗，最终消融在旷野的风声里。",
+    "parts": [
+      "Breezy Feathers",
+      "Circle of Light",
+      "Talking Breeze",
+      "Veil of Light",
+      "Spirit Call",
+      "Windy Reverb",
+      "Vines of Vows",
+      "Forest Navigator",
+      "Spiritual String"
+    ],
+    "slug": "purifying-wind",
+    "local_sprite": "images/Sweet/purifying-wind/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Sweet/purifying-wind/sprite.png",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_059",
+    "title": "Sweet Memories",
+    "cn_name": "流梦香甜忆",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Cute",
+      "Pastoral",
+      "甜心"
+    ],
+    "how_to_obtain": "商城（限时上架）",
+    "is_evolution": false,
+    "description": "草药的气息与母亲的影子一同随风消散，唯留蛋糕的甜香仍在空气中流转。抱持着思念，她擦干眼泪，想要守护这份香气，让它能够带着对母亲的怀念，抵御时间之风凛冽的吹拂。",
+    "parts": [
+      "Snow-Covered Forest",
+      "Eccentric Taste",
+      "Sweet Garnish",
+      "Soft Aroma",
+      "Memory Flavor",
+      "Layered Obsession",
+      "Secret of Flavor",
+      "Fading Breeze"
+    ],
+    "slug": "sweet-memories",
+    "local_sprite": "images/Sweet/sweet-memories/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Sweet/sweet-memories/sprite.png",
+    "local_closeups": []
+  },
+  {
+    "id": "BW_065",
+    "title": "Far and Away",
+    "cn_name": "远方的遥想",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Fantasy"
+    ],
+    "how_to_obtain": "限时活动",
+    "is_evolution": false,
+    "description": "娟秀的字迹留于日记本的扉页上：和未来的你——也就是未来的我约定好啦，一定要向着无限的可能启程！去追寻远方与最憧憬的梦吧！",
+    "parts": [
+      "Twinkling Stars",
+      "Morning Glow",
+      "Sparkling Beginnings",
+      "Shining Journey",
+      "Soft Feathers",
+      "Endless Horizons",
+      "Dream of Wonder",
+      "Days and Nights"
+    ],
+    "slug": "far-and-away",
+    "local_sprite": "images/Sweet/far-and-away/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Sweet/far-and-away/sprite.png",
+    "local_closeups": []
+  }
+]

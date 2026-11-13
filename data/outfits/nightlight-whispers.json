@@ -1,0 +1,49 @@
+{
+ "slug": "nightlight-whispers",
+ "title": "Nightlight Whispers",
+ "cn_name": "漫夜灯语",
+ "rarity": 4,
+ "style": "Fresh",
+ "labels": [
+  "Romance",
+  "Fairy",
+  "精灵"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Fresh/nightlight-whispers/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Fresh/nightlight-whispers/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "月白羽纱萤蛾仙裙",
+  "silhouette": "Off-shoulder ruffled mini dress with layered asymmetric tulle tiers, sheer balloon sleeves, and a trailing sash back; airy volume with delicate, floating hemline.",
+  "headpiece_and_hair_ornaments": "Pair of white moth-wing hair clips, sheer ribbon ties, and a small silver moth-shaped tiara nestled in soft waves.",
+  "upper_garment_and_sleeves": "Sheer white organza bodice with ruffled off-shoulder neckline, pearl-beaded embroidery, and voluminous sheer balloon sleeves with lace cuffs.",
+  "lower_garment_and_legwear": "Layered white tulle skirt with feathered moth-wing tiers, pearl drop trim, and sheer white lace stockings paired with silver butterfly heels.",
+  "signature_props_and_motifs": "Glowing moon-lantern pendant with moth wing accents, floating moth motifs, and a small moth-shaped pouch.",
+  "color_palette": [
+   "moon white",
+   "pale silver",
+   "pearl",
+   "translucent blue"
+  ],
+  "key_materials": [
+   "pearl-encrusted sheer organza",
+   "iridescent moth-wing feather embroidery",
+   "Chantilly lace",
+   "silver-thread tulle"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with snow-white twin braided loops with long trailing ribbons and deep cobalt eyes standing with hushed ceremonial grace in a softly lit atmospheric studio. Adorning her head: Pair of white moth-wing hair clips, sheer ribbon ties, and a small silver moth-shaped tiara nestled in soft waves. For her upper attire, she wears Sheer white organza bodice with ruffled off-shoulder neckline, pearl-beaded embroidery, and voluminous sheer balloon sleeves with lace cuffs, rendered in moon white, pale silver, pearl tones. Below the waist, Layered white tulle skirt with feathered moth-wing tiers, pearl drop trim, and sheer white lace stockings paired with silver butterfly heels, accompanied by Glowing moon-lantern pendant with moth wing accents, floating moth motifs, and a small moth-shaped pouch.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with snow-white twin braided loops with long trailing ribbons and deep cobalt eyes dressed in a moon white, pale silver, pearl haute-couture ensemble featuring Sheer white organza bodice with ruffled off-shoulder neckline, pearl-beaded embroidery, and voluminous.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Pair of white moth-wing hair clips, sheer ribbon ties, and a small silver moth-shaped tiara nestled in soft waves.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Sheer white organza bodice with ruffled off-shoulder neckline, pearl-beaded embroidery, and voluminous sheer balloon sleeves with lace cuffs.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Layered white tulle skirt with feathered moth-wing tiers, pearl drop trim, and sheer white lace stockings paired with silver butterfly heels, accented with Glowing moon-lantern pendant with moth wing accents, floating moth motifs, and a small.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with pair of white moth-wing hair clips, sheer ribbon ties, and a small silver moth-shaped tiara nestled in soft waves, standing against a quiet neutral studio backdrop. Dressed in a moon white, pale silver, pearl haute-couture outfit, she wears sheer white organza bodice with ruffled off-shoulder neckline, pearl-beaded embroidery, and voluminous sheer balloon sleeves with lace cuffs. From her cinched waist cascades layered white tulle skirt with feathered moth-wing tiers, pearl drop trim, and sheer white lace stockings paired with silver butterfly heels, paired with glowing moon-lantern pendant with moth wing accents, floating moth motifs, and a small moth-shaped pouch.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing sheer white organza bodice with ruffled off-shoulder neckline, pearl-beaded embroidery, and voluminous.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with pair of white moth-wing hair clips, sheer ribbon ties, and a small silver moth-shaped tiara nestled in soft waves.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Sheer white organza bodice with ruffled off-shoulder neckline, pearl-beaded embroidery, and voluminous sheer balloon sleeves with lace cuffs.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Layered white tulle skirt with feathered moth-wing tiers, pearl drop trim, and sheer white lace stockings paired with silver butterfly heels, accompanied by glowing moon-lantern pendant with moth wing accents, floating moth motifs, and a small.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of pearl-encrusted sheer organza, iridescent moth-wing feather embroidery, Chantilly lace, silver-thread tulle across a moon white, pale silver, pearl palette: at her crown sits pair of white moth-wing hair clips, sheer ribbon ties, and a small silver moth-shaped tiara nestled in soft waves; her upper torso is cinched into sheer white organza bodice with ruffled off-shoulder neckline, pearl-beaded embroidery, and voluminous sheer balloon sleeves with lace cuffs, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs layered white tulle skirt with feathered moth-wing tiers, pearl drop trim, and sheer white lace stockings paired with silver butterfly heels, weighing down with real fabric gravity alongside glowing moon-lantern pendant with moth wing accents, floating moth motifs, and a small moth-shaped pouch.",
+ "krea2_full_prompt": "the camera sits just below waist level with almost zero lens distortion, letting the floor-sweeping hemline of her gown anchor the lower half of the picture while her framed shoulders and headpiece hold the upper third. a young woman with snow-white twin braided loops with long trailing ribbons and large deep cobalt eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of pearl-encrusted sheer organza, iridescent moth-wing feather embroidery, Chantilly lace, silver-thread tulle across a moon white, pale silver, pearl palette: at her crown sits pair of white moth-wing hair clips, sheer ribbon ties, and a small silver moth-shaped tiara nestled in soft waves; her upper torso is cinched into sheer white organza bodice with ruffled off-shoulder neckline, pearl-beaded embroidery, and voluminous sheer balloon sleeves with lace cuffs, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs layered white tulle skirt with feathered moth-wing tiers, pearl drop trim, and sheer white lace stockings paired with silver butterfly heels, weighing down with real fabric gravity alongside glowing moon-lantern pendant with moth wing accents, floating moth motifs, and a small moth-shaped pouch. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Nightlight Whispers",
+  "漫夜灯语"
+ ],
+ "images": [
+  "images/Fresh/nightlight-whispers/wardrobe_1.jpg"
+ ]
+}

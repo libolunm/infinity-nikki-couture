@@ -1,0 +1,50 @@
+{
+ "slug": "woodland-nesting",
+ "title": "Woodland Nesting",
+ "cn_name": "林深栖羽",
+ "rarity": 4,
+ "style": "Elegant",
+ "labels": [
+  "Fairy",
+  "Pastoral",
+  "精灵"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Elegant/woodland-nesting/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Elegant/woodland-nesting/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "林深栖羽仙裙",
+  "silhouette": "Floor-length empire-waist gown with a fitted bodice, flowing A-line skirt, and a draped back panel that suggests soft wing-like volume without constructing a full cape.",
+  "headpiece_and_hair_ornaments": "Slender gold vine crown with tiny white blossoms and leaf-shaped hairpins nestled into the hair.",
+  "upper_garment_and_sleeves": "Halter-style bodice with a halter neckline, sheer mint organza overlay, pearl and gold vine embroidery, small fabric rosettes at the bust, and detached arm bands connected by fine gold chains.",
+  "lower_garment_and_legwear": "Layered skirt of pale mint chiffon over a white lace-trimmed petticoat, delicate vine embroidery at the hem, and matching pale heeled sandals with ankle ribbons.",
+  "signature_props_and_motifs": "Feather-shaped hair ornaments, tiny bird and nest motifs, floating leaf and feather accents, and a translucent wing-like back drape.",
+  "color_palette": [
+   "pale mint green",
+   "ivory white",
+   "antique gold",
+   "sheer aqua"
+  ],
+  "key_materials": [
+   "pearl-encrusted sheer organza",
+   "embroidered chiffon",
+   "Chantilly lace trim",
+   "gilded vine filigree",
+   "soft tulle"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with raven-black flowing ankle-length straight hair and misty-grey eyes standing with tranquil melancholic poise in a softly lit atmospheric studio. Adorning her head: Slender gold vine crown with tiny white blossoms and leaf-shaped hairpins nestled into the hair. For her upper attire, she wears Halter-style bodice with a halter neckline, sheer mint organza overlay, pearl and gold vine embroidery, small fabric rosettes at the bust, and detached arm bands connected by fine gold chains, rendered in pale mint green, ivory white, antique gold tones. Below the waist, Layered skirt of pale mint chiffon over a white lace-trimmed petticoat, delicate vine embroidery at the hem, and matching pale heeled sandals with ankle ribbons, accompanied by Feather-shaped hair ornaments, tiny bird and nest motifs, floating leaf and feather accents, and a translucent wing-like back drape.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with raven-black flowing ankle-length straight hair and misty-grey eyes dressed in a pale mint green, ivory white, antique gold haute-couture ensemble featuring Halter-style bodice with a halter neckline, sheer mint organza overlay, pearl and gold vine embroidery.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Slender gold vine crown with tiny white blossoms and leaf-shaped hairpins nestled into the hair.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Halter-style bodice with a halter neckline, sheer mint organza overlay, pearl and gold vine embroidery, small fabric rosettes at the bust, and detached arm bands connected by fine gold chains.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Layered skirt of pale mint chiffon over a white lace-trimmed petticoat, delicate vine embroidery at the hem, and matching pale heeled sandals with ankle ribbons, accented with Feather-shaped hair ornaments, tiny bird and nest motifs, floating leaf and feather accents.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with slender gold vine crown with tiny white blossoms and leaf-shaped hairpins nestled into the hair, standing against a quiet neutral studio backdrop. Dressed in a pale mint green, ivory white, antique gold haute-couture outfit, she wears halter-style bodice with a halter neckline, sheer mint organza overlay, pearl and gold vine embroidery, small fabric rosettes at the bust, and detached arm bands connected by fine gold chains. From her cinched waist cascades layered skirt of pale mint chiffon over a white lace-trimmed petticoat, delicate vine embroidery at the hem, and matching pale heeled sandals with ankle ribbons, paired with feather-shaped hair ornaments, tiny bird and nest motifs, floating leaf and feather accents, and a translucent wing-like back drape.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing halter-style bodice with a halter neckline, sheer mint organza overlay, pearl and gold vine embroidery.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with slender gold vine crown with tiny white blossoms and leaf-shaped hairpins nestled into the hair.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Halter-style bodice with a halter neckline, sheer mint organza overlay, pearl and gold vine embroidery, small fabric rosettes at the bust, and detached arm bands connected by fine gold chains.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Layered skirt of pale mint chiffon over a white lace-trimmed petticoat, delicate vine embroidery at the hem, and matching pale heeled sandals with ankle ribbons, accompanied by feather-shaped hair ornaments, tiny bird and nest motifs, floating leaf and feather accents.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of pearl-encrusted sheer organza, embroidered chiffon, Chantilly lace trim, gilded vine filigree across a pale mint green, ivory white, antique gold palette: at her crown sits slender gold vine crown with tiny white blossoms and leaf-shaped hairpins nestled into the hair; her upper torso is cinched into halter-style bodice with a halter neckline, sheer mint organza overlay, pearl and gold vine embroidery, small fabric rosettes at the bust, and detached arm bands connected by fine gold chains, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs layered skirt of pale mint chiffon over a white lace-trimmed petticoat, delicate vine embroidery at the hem, and matching pale heeled sandals with ankle ribbons, weighing down with real fabric gravity alongside feather-shaped hair ornaments, tiny bird and nest motifs, floating leaf and feather accents, and a translucent wing-like back drape.",
+ "krea2_full_prompt": "the camera sits at chest height shifted slightly to her left, so that the overlapping fabric folds at her cinched waist and her raised forearm sleeves form the dominant diagonal across the canvas. a young woman with raven-black flowing ankle-length straight hair and large misty-grey eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of pearl-encrusted sheer organza, embroidered chiffon, Chantilly lace trim, gilded vine filigree across a pale mint green, ivory white, antique gold palette: at her crown sits slender gold vine crown with tiny white blossoms and leaf-shaped hairpins nestled into the hair; her upper torso is cinched into halter-style bodice with a halter neckline, sheer mint organza overlay, pearl and gold vine embroidery, small fabric rosettes at the bust, and detached arm bands connected by fine gold chains, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs layered skirt of pale mint chiffon over a white lace-trimmed petticoat, delicate vine embroidery at the hem, and matching pale heeled sandals with ankle ribbons, weighing down with real fabric gravity alongside feather-shaped hair ornaments, tiny bird and nest motifs, floating leaf and feather accents, and a translucent wing-like back drape. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Woodland Nesting",
+  "林深栖羽"
+ ],
+ "images": [
+  "images/Elegant/woodland-nesting/wardrobe_1.jpg"
+ ]
+}

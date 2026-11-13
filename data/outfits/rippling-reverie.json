@@ -1,0 +1,53 @@
+{
+ "slug": "rippling-reverie",
+ "title": "Rippling Reverie",
+ "cn_name": "梦是心之涟",
+ "rarity": 5,
+ "style": "Sweet",
+ "labels": [
+  "Glow",
+  "Spirited"
+ ],
+ "local_sprite": "images/Sweet/rippling-reverie/sprite.png",
+ "local_wardrobe": [
+  "images/Sweet/rippling-reverie/wardrobe_1.jpg",
+  "images/Sweet/rippling-reverie/wardrobe_2.jpg",
+  "images/Sweet/rippling-reverie/wardrobe_3.jpg"
+ ],
+ "local_main": "images/Sweet/rippling-reverie/wardrobe_1.jpg",
+ "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+ "outfit_card": {
+  "aesthetic_tag_zh": "晶莹幻彩水母仙裙",
+  "silhouette": "Jellyfish-inspired voluminous bell silhouette featuring a sculpted seashell corset, layered translucent rippling peplum, cascading fluid ribbons, and delicate spreading crystal wing architecture.",
+  "headpiece_and_hair_ornaments": "Floating splash-form liquid crystal tiara hovering overhead, accented with suspended droplets, shimmering bubbles, and delicate water-crystal hairpins.",
+  "upper_garment_and_sleeves": "Strapless seashell-scalloped corset encrusted with seed pearls, iridescent crystals, and sea-foam relief, complemented by detached translucent fluid cuffs draping down the wrists.",
+  "lower_garment_and_legwear": "Multi-tiered iridescent crinoline skirt mimicking an underwater jellyfish bell with trailing sheer aquatic ribbons, styled with spiraling crystal droplet leg vine wraps.",
+  "signature_props_and_motifs": "Luminescent crystalline fin-shaped fairy wings refracting prismatic light, surrounded by floating effervescent bubbles and dynamic aquatic ripple ribbons.",
+  "color_palette": [
+   "aquamarine blue",
+   "opalescent lilac",
+   "silver crystal shimmer",
+   "prismatic iridescent teal"
+  ],
+  "key_materials": [
+   "liquid-sheen iridescent organza",
+   "sculpted crystal resin",
+   "seed pearl embroidery",
+   "prismatic sheer tulle"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with pearl-ivory fluffy twin low chignons and rose-quartz pink eyes standing with soft faint smile in a softly lit atmospheric studio. Adorning her head: Floating splash-form liquid crystal tiara hovering overhead, accented with suspended droplets, shimmering bubbles, and delicate water-crystal hairpins. For her upper attire, she wears Strapless seashell-scalloped corset encrusted with seed pearls, iridescent crystals, and sea-foam relief, complemented by detached translucent fluid cuffs draping down the wrists, rendered in aquamarine blue, opalescent lilac, silver crystal shimmer tones. Below the waist, Multi-tiered iridescent crinoline skirt mimicking an underwater jellyfish bell with trailing sheer aquatic ribbons, styled with spiraling crystal droplet leg vine wraps, accompanied by Luminescent crystalline fin-shaped fairy wings refracting prismatic light, surrounded by floating effervescent bubbles and dynamic aquatic ripple ribbons.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with pearl-ivory fluffy twin low chignons and rose-quartz pink eyes dressed in a aquamarine blue, opalescent lilac, silver crystal shimmer haute-couture ensemble featuring Strapless seashell-scalloped corset encrusted with seed pearls, iridescent crystals, and sea-foam.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Floating splash-form liquid crystal tiara hovering overhead, accented with suspended droplets, shimmering bubbles, and delicate water-crystal hairpins.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Strapless seashell-scalloped corset encrusted with seed pearls, iridescent crystals, and sea-foam relief, complemented by detached translucent fluid cuffs draping down the wrists.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Multi-tiered iridescent crinoline skirt mimicking an underwater jellyfish bell with trailing sheer aquatic ribbons, styled with spiraling crystal droplet leg vine wraps, accented with Luminescent crystalline fin-shaped fairy wings refracting prismatic light, surrounded by.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with floating splash-form liquid crystal tiara hovering overhead, accented with suspended droplets, shimmering bubbles, and delicate water-crystal hairpins, standing against a quiet neutral studio backdrop. Dressed in a aquamarine blue, opalescent lilac, silver crystal shimmer haute-couture outfit, she wears strapless seashell-scalloped corset encrusted with seed pearls, iridescent crystals, and sea-foam relief, complemented by detached translucent fluid cuffs draping down the wrists. From her cinched waist cascades multi-tiered iridescent crinoline skirt mimicking an underwater jellyfish bell with trailing sheer aquatic ribbons, styled with spiraling crystal droplet leg vine wraps, paired with luminescent crystalline fin-shaped fairy wings refracting prismatic light, surrounded by floating effervescent bubbles and dynamic aquatic ripple ribbons.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing strapless seashell-scalloped corset encrusted with seed pearls, iridescent crystals, and sea-foam.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with floating splash-form liquid crystal tiara hovering overhead, accented with suspended droplets, shimmering bubbles, and delicate water-crystal hairpins.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Strapless seashell-scalloped corset encrusted with seed pearls, iridescent crystals, and sea-foam relief, complemented by detached translucent fluid cuffs draping down the wrists.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Multi-tiered iridescent crinoline skirt mimicking an underwater jellyfish bell with trailing sheer aquatic ribbons, styled with spiraling crystal droplet leg vine wraps, accompanied by luminescent crystalline fin-shaped fairy wings refracting prismatic light, surrounded by.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of liquid-sheen iridescent organza, sculpted crystal resin, seed pearl embroidery, prismatic sheer tulle across a aquamarine blue, opalescent lilac, silver crystal shimmer palette: at her crown sits floating splash-form liquid crystal tiara hovering overhead, accented with suspended droplets, shimmering bubbles, and delicate water-crystal hairpins; her upper torso is cinched into strapless seashell-scalloped corset encrusted with seed pearls, iridescent crystals, and sea-foam relief, complemented by detached translucent fluid cuffs draping down the wrists, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs multi-tiered iridescent crinoline skirt mimicking an underwater jellyfish bell with trailing sheer aquatic ribbons, styled with spiraling crystal droplet leg vine wraps, weighing down with real fabric gravity alongside luminescent crystalline fin-shaped fairy wings refracting prismatic light, surrounded by floating effervescent bubbles and dynamic aquatic ripple ribbons.",
+ "krea2_full_prompt": "the camera sits just below waist level with almost zero lens distortion, letting the floor-sweeping hemline of her gown anchor the lower half of the picture while her framed shoulders and headpiece hold the upper third. a young woman with pearl-ivory fluffy twin low chignons and large rose-quartz pink eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of liquid-sheen iridescent organza, sculpted crystal resin, seed pearl embroidery, prismatic sheer tulle across a aquamarine blue, opalescent lilac, silver crystal shimmer palette: at her crown sits floating splash-form liquid crystal tiara hovering overhead, accented with suspended droplets, shimmering bubbles, and delicate water-crystal hairpins; her upper torso is cinched into strapless seashell-scalloped corset encrusted with seed pearls, iridescent crystals, and sea-foam relief, complemented by detached translucent fluid cuffs draping down the wrists, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs multi-tiered iridescent crinoline skirt mimicking an underwater jellyfish bell with trailing sheer aquatic ribbons, styled with spiraling crystal droplet leg vine wraps, weighing down with real fabric gravity alongside luminescent crystalline fin-shaped fairy wings refracting prismatic light, surrounded by floating effervescent bubbles and dynamic aquatic ripple ribbons. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Rippling Reverie",
+  "梦是心之涟"
+ ],
+ "images": [
+  "images/Sweet/rippling-reverie/sprite.png",
+  "images/Sweet/rippling-reverie/wardrobe_1.jpg",
+  "images/Sweet/rippling-reverie/wardrobe_2.jpg",
+  "images/Sweet/rippling-reverie/wardrobe_3.jpg"
+ ]
+}

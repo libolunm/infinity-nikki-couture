@@ -1,0 +1,51 @@
+{
+ "slug": "hymn-to-dusk",
+ "title": "Hymn to Dusk",
+ "cn_name": "",
+ "rarity": 5,
+ "style": "Cool",
+ "labels": [
+  "Divine",
+  "Terra"
+ ],
+ "local_sprite": "images/Cool/hymn-to-dusk/sprite.png",
+ "local_wardrobe": [
+  "images/Cool/hymn-to-dusk/wardrobe_1.jpg",
+  "images/Cool/hymn-to-dusk/wardrobe_2.jpg"
+ ],
+ "local_main": "images/Cool/hymn-to-dusk/wardrobe_1.jpg",
+ "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+ "outfit_card": {
+  "aesthetic_tag_zh": "暮晖织金神殿战裳",
+  "silhouette": "Asymmetrical Grecian warrior silhouette featuring a draped chiton bodice, single sculpted pauldron, sweeping sunset-gradient half-cape, and a high-slit, tiered floor-length skirt.",
+  "headpiece_and_hair_ornaments": "Ornate gilded brow circlet set with multi-colored cabochons and hanging bead fringes, paired with dangling filigree chandelier earrings.",
+  "upper_garment_and_sleeves": "Crisscrossed ivory silk bodice over a deep bronze underlayer, accented with a golden right pauldron, jeweled choker, a ballooning puffed sleeve, and stacked geometric metal bangles.",
+  "lower_garment_and_legwear": "Multi-layered high-slit skirt blending ivory pleated silk with chocolate-brown diamond-quilted panels, fastened by an ornate sun-wheel girdle, revealing strappy bronze leather gladiator sandals.",
+  "signature_props_and_motifs": "A grand two-handed bronze ceremonial broadsword with filigree guard, accompanied by ancient celestial sun motifs and radiant ember particles.",
+  "color_palette": [
+   "Warm Ivory",
+   "Burnished Bronze",
+   "Imperial Gold",
+   "Dusk Terracotta"
+  ],
+  "key_materials": [
+   "gilded silk jacquard",
+   "pleated fine linen",
+   "engraved brass armor plating",
+   "terracotta gradient silk",
+   "cloisonné enamel"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with silver-white braided half-up long hair and ice-blue eyes standing with calm, unblinking poise in a softly lit atmospheric studio. Adorning her head: Ornate gilded brow circlet set with multi-colored cabochons and hanging bead fringes, paired with dangling filigree chandelier earrings. For her upper attire, she wears Crisscrossed ivory silk bodice over a deep bronze underlayer, accented with a golden right pauldron, jeweled choker, a ballooning puffed sleeve, and stacked geometric metal bangles, rendered in Warm Ivory, Burnished Bronze, Imperial Gold tones. Below the waist, Multi-layered high-slit skirt blending ivory pleated silk with chocolate-brown diamond-quilted panels, fastened by an ornate sun-wheel girdle, revealing strappy bronze leather gladiator sandals, accompanied by A grand two-handed bronze ceremonial broadsword with filigree guard, accompanied by ancient celestial sun motifs and radiant ember particles.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with silver-white braided half-up long hair and ice-blue eyes dressed in a Warm Ivory, Burnished Bronze, Imperial Gold haute-couture ensemble featuring Crisscrossed ivory silk bodice over a deep bronze underlayer, accented with a golden right pauldron.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Ornate gilded brow circlet set with multi-colored cabochons and hanging bead fringes, paired with dangling filigree chandelier earrings.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Crisscrossed ivory silk bodice over a deep bronze underlayer, accented with a golden right pauldron, jeweled choker, a ballooning puffed sleeve, and stacked geometric metal bangles.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Multi-layered high-slit skirt blending ivory pleated silk with chocolate-brown diamond-quilted panels, fastened by an ornate sun-wheel girdle, revealing strappy bronze leather gladiator sandals, accented with A grand two-handed bronze ceremonial broadsword with filigree guard, accompanied by ancient.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with ornate gilded brow circlet set with multi-colored cabochons and hanging bead fringes, paired with dangling filigree chandelier earrings, standing against a quiet neutral studio backdrop. Dressed in a warm ivory, burnished bronze, imperial gold haute-couture outfit, she wears crisscrossed ivory silk bodice over a deep bronze underlayer, accented with a golden right pauldron, jeweled choker, a ballooning puffed sleeve, and stacked geometric metal bangles. From her cinched waist cascades multi-layered high-slit skirt blending ivory pleated silk with chocolate-brown diamond-quilted panels, fastened by an ornate sun-wheel girdle, revealing strappy bronze leather gladiator sandals, paired with a grand two-handed bronze ceremonial broadsword with filigree guard, accompanied by ancient celestial sun motifs and radiant ember particles.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing crisscrossed ivory silk bodice over a deep bronze underlayer, accented with a golden right pauldron.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with ornate gilded brow circlet set with multi-colored cabochons and hanging bead fringes, paired with dangling filigree chandelier earrings.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Crisscrossed ivory silk bodice over a deep bronze underlayer, accented with a golden right pauldron, jeweled choker, a ballooning puffed sleeve, and stacked geometric metal bangles.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Multi-layered high-slit skirt blending ivory pleated silk with chocolate-brown diamond-quilted panels, fastened by an ornate sun-wheel girdle, revealing strappy bronze leather gladiator sandals, accompanied by a grand two-handed bronze ceremonial broadsword with filigree guard, accompanied by ancient.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of gilded silk jacquard, pleated fine linen, engraved brass armor plating, terracotta gradient silk across a Warm Ivory, Burnished Bronze, Imperial Gold palette: at her crown sits gilded brow circlet set with multi-colored cabochons and hanging bead fringes, paired with dangling filigree chandelier earrings; her upper torso is cinched into crisscrossed ivory silk bodice over a deep bronze underlayer, accented with a golden right pauldron, jeweled choker, a ballooning puffed sleeve, and stacked geometric metal bangles, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs multi-layered high-slit skirt blending ivory pleated silk with chocolate-brown diamond-quilted panels, fastened by an sun-wheel girdle, revealing strappy bronze leather gladiator sandals, weighing down with real fabric gravity alongside a grand two-handed bronze ceremonial broadsword with filigree guard, accompanied by ancient celestial sun motifs and radiant ember particles.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with silver-white braided half-up long hair and large ice-blue eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of gilded silk jacquard, pleated fine linen, engraved brass armor plating, terracotta gradient silk across a Warm Ivory, Burnished Bronze, Imperial Gold palette: at her crown sits gilded brow circlet set with multi-colored cabochons and hanging bead fringes, paired with dangling filigree chandelier earrings; her upper torso is cinched into crisscrossed ivory silk bodice over a deep bronze underlayer, accented with a golden right pauldron, jeweled choker, a ballooning puffed sleeve, and stacked geometric metal bangles, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs multi-layered high-slit skirt blending ivory pleated silk with chocolate-brown diamond-quilted panels, fastened by an sun-wheel girdle, revealing strappy bronze leather gladiator sandals, weighing down with real fabric gravity alongside a grand two-handed bronze ceremonial broadsword with filigree guard, accompanied by ancient celestial sun motifs and radiant ember particles. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Hymn to Dusk"
+ ],
+ "images": [
+  "images/Cool/hymn-to-dusk/sprite.png",
+  "images/Cool/hymn-to-dusk/wardrobe_1.jpg",
+  "images/Cool/hymn-to-dusk/wardrobe_2.jpg"
+ ]
+}

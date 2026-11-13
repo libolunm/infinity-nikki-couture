@@ -1,0 +1,3958 @@
+[
+  {
+    "slug": "clouded-loong",
+    "title": "Clouded Loong",
+    "cn_name": "龙隐云墨间",
+    "rarity": 5,
+    "style": "Cool",
+    "labels": [
+      "Linlang",
+      "Royal"
+    ],
+    "local_sprite": "images/Cool/clouded-loong/sprite.png",
+    "local_wardrobe": [
+      "images/Cool/clouded-loong/wardrobe_1.jpg",
+      "images/Cool/clouded-loong/wardrobe_2.jpg",
+      "images/Cool/clouded-loong/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Cool/clouded-loong/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "霜角云螭墨隐仙裳",
+      "silhouette": "Multi-layered traditional regal silhouette with flowing inner robes, fitted embroidered waist, expansive sweeping flared skirt, and sweeping crystalline-trimmed floor-length sheer draped outer sleeves.",
+      "headpiece_and_hair_ornaments": "Intricate crystalline dragon-antler crown integrated with silver filigree, floral hairpins, suspended beaded tassels, and dangling turquoise gemstone pendants.",
+      "upper_garment_and_sleeves": "Mandarin-collared crossover silk bodice embellished with gold couching, beaded breast chains, layered jacquard lapels, and ethereal sheer cloud-mist sleeves draped with delicate tassel fringe.",
+      "lower_garment_and_legwear": "Tiered floor-length pleated silk skirt overlaid with embroidered azure panels, adorned with dangling jade waist pendants, beaded ribbons, braided silk cording, and concealed embroidered slippers.",
+      "signature_props_and_motifs": "Handheld half-face dragon masquerade mask carved in frosted crystal with red filigree accents, accompanied by floating cyan silk ribbons.",
+      "color_palette": [
+        "moonlight white",
+        "celadon cyan",
+        "silver frost",
+        "vermilion red"
+      ],
+      "key_materials": [
+        "frosted crystalline acrylic",
+        "jacquard silk brocade",
+        "sheer iridescent organza",
+        "silver filigree with jade beads"
+      ]
+    }
+  },
+  {
+    "slug": "forever-bond",
+    "title": "Forever Bond",
+    "cn_name": "缘缘长相念",
+    "rarity": 5,
+    "style": "Sexy",
+    "labels": [
+      "Linlang",
+      "Fantasy"
+    ],
+    "local_sprite": "images/Sexy/forever-bond/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/forever-bond/wardrobe_1.jpg",
+      "images/Sexy/forever-bond/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sexy/forever-bond/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "灵狐珠缀莲华仙裳",
+      "silhouette": "Floor-length ceremonial robe featuring grand cascading bell-shaped tiers, layered flowing ribbons, architectural lotus shoulder pads, and a trailing voluminous train crowned by an oversized multi-tonal fox tail.",
+      "headpiece_and_hair_ornaments": "Plush white fox ears paired with ruby-enameled lotus hairpins, gold filigree hair sticks, and a dramatic cascading crystal pearl veil masking the lower face.",
+      "upper_garment_and_sleeves": "Ornate butterfly-shaped jeweled chest plate with cloisonné enamel, tied with royal blue sash ribbons over layered sheer organza sleeves that flare into petal-shaped drapery with gilded filigree borders.",
+      "lower_garment_and_legwear": "Multi-layered ombré pleated skirts flaring into wide lotus petal silhouettes, accented with embroidered swirling clouds, flowing tasseled sashes, delicate beaded fringes, and hidden embroidered silk platform slippers.",
+      "signature_props_and_motifs": "A massive iridescent multi-hued fox tail, sharp gilded fingertip claws, floating glowing red lotus blossoms, and an ornamental pleated handheld folding fan.",
+      "color_palette": [
+        "vermilion red",
+        "coral peach",
+        "burnished gold",
+        "cornflower blue accent"
+      ],
+      "key_materials": [
+        "pearl-strung mesh",
+        "gilded silk brocade",
+        "cloisonné metalwork",
+        "gradient pleated organza",
+        "iridescent plush faux fur"
+      ]
+    }
+  },
+  {
+    "slug": "chroma-s-mortal-heart",
+    "title": "Chroma's Mortal Heart",
+    "cn_name": "九色亦尘心",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Divine",
+      "Forest"
+    ],
+    "local_sprite": "images/Elegant/chroma-s-mortal-heart/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/chroma-s-mortal-heart/wardrobe_1.jpg",
+      "images/Elegant/chroma-s-mortal-heart/wardrobe_2.jpg",
+      "images/Elegant/chroma-s-mortal-heart/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Elegant/chroma-s-mortal-heart/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "金缕九色灵鹿神裳",
+      "silhouette": "Ethereal high-waisted celestial minidress featuring layered petal flounces, exaggerated trailing translucent trumpet sleeves, and an imposing floating gilded back halo.",
+      "headpiece_and_hair_ornaments": "Sculpted translucent golden deer antlers radiating auroral light, paired with dangling filigree bell earrings, jeweled hairpins, and an arching celestial back halo.",
+      "upper_garment_and_sleeves": "Strapless sweetheart bodice embroidered with Dunhuang polychrome arabesques, paired with multi-tiered gold-trimmed flared sleeves, an ornate jeweled collar necklace, and dangling gemstone-encrusted waist pendants.",
+      "lower_garment_and_legwear": "Multi-layered petal-cut silk chiffon miniskirt with pleated metallic gold undertiers, jewel-embroidered waist sash, delicate bare-leg styling, and crystalline barefoot sandals with golden anklets.",
+      "signature_props_and_motifs": "Floating luminous crescent-embellished halo mandorla, golden ribbon trails, ethereal deer-spirit auroras, and dangling jewel-tassel ornaments.",
+      "color_palette": [
+        "celestial gold",
+        "ivory white",
+        "gilded brass",
+        "jade green"
+      ],
+      "key_materials": [
+        "gilded silk organza",
+        "filigree metalwork",
+        "polychrome silk brocade",
+        "crystalline glass beads"
+      ]
+    }
+  },
+  {
+    "slug": "radiant-crown",
+    "title": "Radiant Crown",
+    "cn_name": "烛金日冕",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Glow",
+      "Royal"
+    ],
+    "local_sprite": "images/Elegant/radiant-crown/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/radiant-crown/wardrobe_1.jpg",
+      "images/Elegant/radiant-crown/wardrobe_2.jpg",
+      "images/Elegant/radiant-crown/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Elegant/radiant-crown/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "炽金神晖日冕礼服",
+      "silhouette": "Regal floor-length column gown paired with sweeping sheer cape-sleeves, structured solar cuirass bodice, flowing into an elongated A-line flared train silhouette.",
+      "headpiece_and_hair_ornaments": "Towering filigree gold crown featuring multi-tiered starburst finials, encrusted pearls, delicate draped chain swags, and a central forehead-suspended radiant star emblem.",
+      "upper_garment_and_sleeves": "High-neck ivory silk bodice overlaid with an ornate sculpted golden sunburst breastplate, structured metallic epaulets releasing floor-length flowing translucent cape streamers, and segmented golden forearm bracers.",
+      "lower_garment_and_legwear": "Voluminous floor-grazing golden lamé skirt paneled with ivory satin, detailed with intricate radiant sun motifs and filigree star hemline embroidery cascading into a fluid, majestic royal train.",
+      "signature_props_and_motifs": "Radiant solar halo iconography, eight-pointed celestial stars, luminous auric light accents, and intricate fluted architectural gold relief patterns.",
+      "color_palette": [
+        "Imperial gold",
+        "Radiant ivory",
+        "Polished brass",
+        "Luminous champagne"
+      ],
+      "key_materials": [
+        "gilded lamé silk",
+        "chiseled filigree metalwork",
+        "pearl-threaded chainwork",
+        "semi-sheer ivory organza"
+      ]
+    }
+  },
+  {
+    "slug": "enchanted-encounter",
+    "title": "Enchanted Encounter",
+    "cn_name": "仙踪绮遇",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Fairy",
+      "Ballroom"
+    ],
+    "local_sprite": "images/Elegant/enchanted-encounter/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/enchanted-encounter/wardrobe_1.jpg",
+      "images/Elegant/enchanted-encounter/wardrobe_2.jpg",
+      "images/Elegant/enchanted-encounter/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Elegant/enchanted-encounter/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星辉晶翼仙子礼服",
+      "silhouette": "A grand fairytale ballroom silhouette featuring an opulent bell-shaped ballgown skirt, fitted corset waist, scalloped wing-like peplum drapery, and ethereal flared multi-layered sheer sleeve cuffs.",
+      "headpiece_and_hair_ornaments": "A pointed fairytale hennin cap in pale pink, adorned with gold celestial filigree, lace-trimmed brim, and dangling crystal star earrings with delicate chains.",
+      "upper_garment_and_sleeves": "A stiffened corset bodice with celestial sunburst gold embroidery, framed by a delicate pleated lace collar, iridescent crystal choker, and billowy ruffled off-the-shoulder sheer organza sleeves.",
+      "lower_garment_and_legwear": "A voluminous layered crinoline ballgown skirt of shimmering pleated satin, overlaid with scalloped iridescent organza petal tiers and embellished with radiant golden starlight and starburst hem embroidery.",
+      "signature_props_and_motifs": "Multi-layered iridescent crystalline fairy wings extending from the back, paired with an ornate star-topped crystal wand trailing shimmering magical starlight.",
+      "color_palette": [
+        "blush pink",
+        "iridescent crystal white",
+        "celestial gold",
+        "prismatic pastel sheen"
+      ],
+      "key_materials": [
+        "iridescent pleated organza",
+        "gilded silk satin",
+        "embroidered Chantilly lace",
+        "faceted crystal beadwork"
+      ]
+    }
+  },
+  {
+    "slug": "crimson-rhapsody",
+    "title": "Crimson Rhapsody",
+    "cn_name": "绯夜狂想录",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Playful",
+      "Royal"
+    ],
+    "local_sprite": "images/Elegant/crimson-rhapsody/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/crimson-rhapsody/wardrobe_1.jpg",
+      "images/Elegant/crimson-rhapsody/wardrobe_2.jpg",
+      "images/Elegant/crimson-rhapsody/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Elegant/crimson-rhapsody/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "绯红菱格戏偶华服",
+      "silhouette": "A structured rococo ballgown featuring a fitted boned corset, ruffled off-shoulder puff sleeves, and an asymmetrical split overskirt flaring over a voluminous tiered petticoat.",
+      "headpiece_and_hair_ornaments": "An oversized layered headbow combining crimson harlequin-print fabric, golden lace trims, and delicate miniature side bows with pearl drop hairpins.",
+      "upper_garment_and_sleeves": "A deep crimson velvet corset bodice adorned with harlequin center panels, a golden heart brooch, multi-strand pearl chains, and gathered off-shoulder puff sleeves with ruffled lace cuffs.",
+      "lower_garment_and_legwear": "An open-front crimson velvet sweeping ballgown skirt revealing tiered cream-and-gold harlequin petticoats printed with vintage bear illustrations, paired with patterned argyle stockings and bow-accented heels.",
+      "signature_props_and_motifs": "A floating stitched plush doll wearing a tiny jester party hat and ruffled collar, surrounded by stage curtains, warm spotlights, and circus teddy motifs.",
+      "color_palette": [
+        "crimson red",
+        "antique cream",
+        "burnished gold",
+        "harlequin diamond beige"
+      ],
+      "key_materials": [
+        "crushed velvet",
+        "gilded jacquard",
+        "diamond-patterned silk",
+        "tiered ruffled lace"
+      ]
+    }
+  },
+  {
+    "slug": "rippling-reverie",
+    "title": "Rippling Reverie",
+    "cn_name": "梦是心之涟",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Glow",
+      "Spirited"
+    ],
+    "local_sprite": "images/Sweet/rippling-reverie/sprite.png",
+    "local_wardrobe": [
+      "images/Sweet/rippling-reverie/wardrobe_1.jpg",
+      "images/Sweet/rippling-reverie/wardrobe_2.jpg",
+      "images/Sweet/rippling-reverie/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Sweet/rippling-reverie/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "晶莹幻彩水母仙裙",
+      "silhouette": "Jellyfish-inspired voluminous bell silhouette featuring a sculpted seashell corset, layered translucent rippling peplum, cascading fluid ribbons, and delicate spreading crystal wing architecture.",
+      "headpiece_and_hair_ornaments": "Floating splash-form liquid crystal tiara hovering overhead, accented with suspended droplets, shimmering bubbles, and delicate water-crystal hairpins.",
+      "upper_garment_and_sleeves": "Strapless seashell-scalloped corset encrusted with seed pearls, iridescent crystals, and sea-foam relief, complemented by detached translucent fluid cuffs draping down the wrists.",
+      "lower_garment_and_legwear": "Multi-tiered iridescent crinoline skirt mimicking an underwater jellyfish bell with trailing sheer aquatic ribbons, styled with spiraling crystal droplet leg vine wraps.",
+      "signature_props_and_motifs": "Luminescent crystalline fin-shaped fairy wings refracting prismatic light, surrounded by floating effervescent bubbles and dynamic aquatic ripple ribbons.",
+      "color_palette": [
+        "aquamarine blue",
+        "opalescent lilac",
+        "silver crystal shimmer",
+        "prismatic iridescent teal"
+      ],
+      "key_materials": [
+        "liquid-sheen iridescent organza",
+        "sculpted crystal resin",
+        "seed pearl embroidery",
+        "prismatic sheer tulle"
+      ]
+    }
+  },
+  {
+    "slug": "dreamtime-bestowed",
+    "title": "Dreamtime Bestowed",
+    "cn_name": "予梦心时",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Whimsy",
+      "Glow"
+    ],
+    "local_sprite": "images/Sweet/dreamtime-bestowed/sprite.png",
+    "local_wardrobe": [
+      "images/Sweet/dreamtime-bestowed/wardrobe_1.jpg",
+      "images/Sweet/dreamtime-bestowed/wardrobe_2.jpg",
+      "images/Sweet/dreamtime-bestowed/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Sweet/dreamtime-bestowed/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "珠光虹彩童话蓬裙",
+      "silhouette": "Voluminous fairytale mini ballgown silhouette featuring a sculpted corset bodice, layered iridescent crinoline, oversized sheer back bustle bow, and detached ruffled cuffs.",
+      "headpiece_and_hair_ornaments": "Twin crystalline heart tiaras nestled in satin bows, cascading pearl strand garlands, and a floating halo of beaded ribbons and starburst sparkles.",
+      "upper_garment_and_sleeves": "Strapless iridescent ruffled organza sweetheart neckline over an embroidered pink corset, accented with a jeweled heart brooch, pearl shoulder swags, and detached gathered opera sleeves.",
+      "lower_garment_and_legwear": "Voluminous tiered glitter tulle mini skirt framed by scalloped pink overskirts, complemented by sheer lace ankle wraps and pearl-embellished translucent ribbon platform heels.",
+      "signature_props_and_motifs": "A magical pearlescent horned unicorn mount, trailing gossamer rainbow sashes, floating luminous bubbles, and delicate confectionery dreamscape accents.",
+      "color_palette": [
+        "iridescent pastel pink",
+        "pearlescent white",
+        "crystal rose gold",
+        "opalescent rainbow shimmer"
+      ],
+      "key_materials": [
+        "iridescent organza",
+        "glitter-dusted tulle",
+        "pearl beadwork",
+        "embossed pink jacquard"
+      ]
+    }
+  },
+  {
+    "slug": "echoed-dreams",
+    "title": "Echoed Dreams",
+    "cn_name": "咏叙的旧梦",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Ballroom",
+      "Royal"
+    ],
+    "local_sprite": "images/Sweet/echoed-dreams/sprite.png",
+    "local_wardrobe": [
+      "images/Sweet/echoed-dreams/wardrobe_1.jpg",
+      "images/Sweet/echoed-dreams/wardrobe_2.jpg",
+      "images/Sweet/echoed-dreams/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Sweet/echoed-dreams/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "翡翠织金宫廷蓬裙",
+      "silhouette": "Rococo-inspired grand ballgown featuring an architectural fitted corset bodice, wide pannier skirt silhouette, tiered lace ruffles, structured standing collar, and cascading voluminous draping.",
+      "headpiece_and_hair_ornaments": "Gilded architectural birdcage crown adorned with glowing spires, yellow and turquoise silk roses, delicate beaded circlets, and a sweeping tall white plume feather.",
+      "upper_garment_and_sleeves": "Fitted seafoam satin bodice with ornate gilded stomacher embroidery, scalloped standing fan collar of Chantilly lace, emerald drop jewels, and elbow-length pagoda sleeves ending in triple-tiered lace engageantes.",
+      "lower_garment_and_legwear": "Voluminous mint-green pannier overskirt draped with emerald jewel swags, opening over ivory pleated tulle underskirts, finished with golden ribbon rosettes, baroque hem embroidery, and concealed ornate court slippers.",
+      "signature_props_and_motifs": "Ornate gilded birdcage motifs, draped bead festoons, baroque filigree scrollwork, pastel floral accents, and floating musical score ribbons.",
+      "color_palette": [
+        "seafoam green",
+        "ivory white",
+        "antique gold",
+        "emerald green"
+      ],
+      "key_materials": [
+        "heavy silk duchess satin",
+        "gilded metallic bullion embroidery",
+        "scalloped Chantilly lace",
+        "faceted emerald beads",
+        "stiffened pleated organza"
+      ]
+    }
+  },
+  {
+    "slug": "floral-rebirth",
+    "title": "Floral Rebirth",
+    "cn_name": "栖骨生花",
+    "rarity": 5,
+    "style": "Fresh",
+    "labels": [
+      "Classical",
+      "Divine"
+    ],
+    "local_sprite": "images/Fresh/floral-rebirth/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/floral-rebirth/wardrobe_1.jpg",
+      "images/Fresh/floral-rebirth/wardrobe_2.jpg",
+      "images/Fresh/floral-rebirth/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Fresh/floral-rebirth/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "晶魄花灵幻羽仙裳",
+      "silhouette": "Ethereal column gown with high-standing fan-like petal wings framing the shoulders, sculpting a blooming silhouette that flows into a softly structured, floor-length skirt.",
+      "headpiece_and_hair_ornaments": "Filigree silver circlet with dangling crystal beads, paired with sculpted crystal-branch floral horns, miniature blossoms, and an ultra-fine sheer rhinestone veil.",
+      "upper_garment_and_sleeves": "Fitted corseted bodice embellished with crystal beadwork and floral lace, featuring an upright sheer collar, sculpted petal neckline accents, and sheer lace sleeves tapering to delicate wrist cuffs.",
+      "lower_garment_and_legwear": "Floor-sweeping column skirt draped in shimmering crystalline organza, accented with sculpted petal peplum ridges along the waist, fine iridescent thread embroidery, and matching jewel-encrusted heels.",
+      "signature_props_and_motifs": "Gigantic translucent iridescent petal wings, floating glowing miniature blossom spirits, skeletal floral veins, and suspended crystalline luminescence.",
+      "color_palette": [
+        "iridescent pure white",
+        "pale lavender mist",
+        "filigree silver",
+        "sheer icy blue"
+      ],
+      "key_materials": [
+        "crystal-encrusted sheer organza",
+        "sculpted iridescent resin petals",
+        "Chantilly lace",
+        "silver filigree wirework"
+      ]
+    }
+  },
+  {
+    "slug": "tide-of-tears",
+    "title": "Tide of Tears",
+    "cn_name": "落入泪之潮",
+    "rarity": 5,
+    "style": "Fresh",
+    "labels": [
+      "Fantasy",
+      "Adventure"
+    ],
+    "local_sprite": "images/Fresh/tide-of-tears/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/tide-of-tears/wardrobe_1.jpg",
+      "images/Fresh/tide-of-tears/wardrobe_2.jpg",
+      "images/Fresh/tide-of-tears/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Fresh/tide-of-tears/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "碧渊泪潮金缕鲛纱裙",
+      "silhouette": "Mermaid evening gown featuring a fitted velvet bodice, cascading wave-pleated center draping, sweeping floor-length side trains, and gossamer floating sleeves evoking abyssal elegance.",
+      "headpiece_and_hair_ornaments": "Delicate gilded coral-branch tiara adorned with dangling aquamarine teardrop gems, forehead filigree pendant, and matching cascading crystal-beaded ear cuffs.",
+      "upper_garment_and_sleeves": "Off-the-shoulder illusion bodice in pearl-dusted sheer mesh, structured dark velvet corsetry with gilded aquatic filigree, paired with embellished gloves and billowing translucent sleeve drapery.",
+      "lower_garment_and_legwear": "Floor-length column skirt featuring a central cascade of rippled emerald water-silk pleats, flanked by deep abyssal glitter velvet overlays and a fluid embroidered hem.",
+      "signature_props_and_motifs": "Floating ornate baroque filigree cage housing a glowing emerald aquatic core, encircled by swirling luminescent water ribbons and floating droplets.",
+      "color_palette": [
+        "abyssal black",
+        "emerald sea green",
+        "gilded pale gold",
+        "luminescent aqua teal"
+      ],
+      "key_materials": [
+        "glitter-dusted black velvet",
+        "water-ripple silk charmeuse",
+        "pearl-embroidered illusion tulle",
+        "gilded filigree metalwork"
+      ]
+    }
+  },
+  {
+    "slug": "dance-till-dawn",
+    "title": "Dance Till Dawn",
+    "cn_name": "绽响黎明前",
+    "rarity": 5,
+    "style": "Fresh",
+    "labels": [
+      "Cute",
+      "Fantasy"
+    ],
+    "local_sprite": "images/Fresh/dance-till-dawn/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/dance-till-dawn/wardrobe_1.jpg",
+      "images/Fresh/dance-till-dawn/wardrobe_2.jpg",
+      "images/Fresh/dance-till-dawn/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Fresh/dance-till-dawn/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "织金庆典马戏蓬蓬裙",
+      "silhouette": "Carnival-inspired flared silhouette featuring a fan-sculpted strapless bodice, cinched harlequin waistline, and a tiered, voluminous bell-shaped micro-crinoline skirt with asymmetric layered ruffles.",
+      "headpiece_and_hair_ornaments": "Miniature tilted top hat adorned with festive striping, metallic star charms, layered ribbons, and a delicate jeweled headband accent.",
+      "upper_garment_and_sleeves": "Strapless corset with metallic pleated fan pleats, harlequin checkered bow sash, jeweled choker with dangling ribbons, and detached sheer knit arm sleeves ending in flared, ruffled cuffs.",
+      "lower_garment_and_legwear": "Voluminous tiered mini skirt composed of star-embroidered organza, ribbon-bordered hems, harlequin ruffles, worn over patterned festive stockings and decorative, heeled carnival booties.",
+      "signature_props_and_motifs": "Shoulder-mounted plush teddy bear with balloon accents, carousel unicorn mount, cascading party streamers, and glowing carnival star motifs.",
+      "color_palette": [
+        "chocolate brown",
+        "creamy ivory",
+        "gilded gold",
+        "carnival crimson"
+      ],
+      "key_materials": [
+        "pleated metallic lamé",
+        "star-embroidered organza",
+        "harlequin woven jacquard",
+        "scalloped lace trim"
+      ]
+    }
+  },
+  {
+    "slug": "nameless-selfless",
+    "title": "Nameless, Selfless",
+    "cn_name": "无名亦无我",
+    "rarity": 5,
+    "style": "Sexy",
+    "labels": [
+      "Royal",
+      "Formal"
+    ],
+    "local_sprite": "images/Sexy/nameless-selfless/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/nameless-selfless/wardrobe_1.jpg",
+      "images/Sexy/nameless-selfless/wardrobe_2.jpg",
+      "images/Sexy/nameless-selfless/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Sexy/nameless-selfless/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "幽夜星辉哥特礼服",
+      "silhouette": "Voluminous dramatic ballgown featuring a corseted off-the-shoulder drop-waist bodice, sculpted crystalline spine cages around the hips, and an expansive cascading floor-sweeping train with asymmetrical draped gathers.",
+      "headpiece_and_hair_ornaments": "Sheer midnight-blue veil crowned with frosted velvet roses and dimensional lace scalloped edging, paired with a delicate sculpted filigree eye mask ornament.",
+      "upper_garment_and_sleeves": "Plunging off-the-shoulder sweetheart corset bodice crafted from starry brocade, adorned with crystal rib cage overlay, accompanied by sheer Chantilly lace long sleeves extending into fingerless wristlets.",
+      "lower_garment_and_legwear": "Multilayered navy-and-charcoal glittering tulle skirt with side draping, high slit showing sheer dark stockings, frosted rose clusters at the hip, and pointed stiletto pumps.",
+      "signature_props_and_motifs": "Triple-branched antique silver candelabra with glowing candles, translucent crystalline ribcage accents, and fluttering phantom butterfly motifs.",
+      "color_palette": [
+        "Midnight navy",
+        "Obsidian black",
+        "Frosted lavender",
+        "Starlight silver"
+      ],
+      "key_materials": [
+        "Stardust glitter tulle",
+        "Chantilly lace",
+        "Sculpted crystalline resin",
+        "Velvet rose applique"
+      ]
+    }
+  },
+  {
+    "slug": "whispers-of-waves",
+    "title": "Whispers of Waves",
+    "cn_name": "谕浪希声",
+    "rarity": 5,
+    "style": "Sexy",
+    "labels": [
+      "Formal",
+      "Fashion"
+    ],
+    "local_sprite": "images/Sexy/whispers-of-waves/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/whispers-of-waves/wardrobe_1.jpg",
+      "images/Sexy/whispers-of-waves/wardrobe_2.jpg",
+      "images/Sexy/whispers-of-waves/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Sexy/whispers-of-waves/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "碧海珠光浪纹礼裙",
+      "silhouette": "Asymmetrical mermaid evening gown featuring structured seashell-scalloped bustier lines, sculpted wave-form hip drapes, and an undulating cascade of organza ruffles pooling into a fitted silhouette.",
+      "headpiece_and_hair_ornaments": "Delicate floral branch tiara adorned with sculpted crystal blossom clusters, dangling pearl strands, and matching silver-set teardrop chandelier earrings framing the face.",
+      "upper_garment_and_sleeves": "Asymmetrical strapless neckline trimmed with frothy translucent organza ruffles, encrusted with intricate pearl beadwork over a boned corset bodice, paired with sheer fingerless lace sleevelet gloves embellished with pearl droplets.",
+      "lower_garment_and_legwear": "Fitted sheath skirt transitioning into swirling aqueous layered flounces, decorated with fish-scale pearl embroidery along the hip, extending into a gentle floor-sweeping train paired with sheer stockings.",
+      "signature_props_and_motifs": "Bioluminescent bubble motifs, cresting sea-wave contours, marine crystal flourishes, and an ornate multi-strand pearl choker centered with an azure gemstone.",
+      "color_palette": [
+        "cerulean blue",
+        "seafoam white",
+        "silver pearl luster",
+        "translucent aquamarine"
+      ],
+      "key_materials": [
+        "pearl-beaded silk crepe",
+        "translucent shimmer organza",
+        "scalloped lace mesh",
+        "sculpted crystal beading"
+      ]
+    }
+  },
+  {
+    "slug": "she-is-wildfire",
+    "title": "She Is Wildfire",
+    "cn_name": "她是不驯火",
+    "rarity": 5,
+    "style": "Cool",
+    "labels": [
+      "Playful",
+      "Spirited"
+    ],
+    "local_sprite": "images/Cool/she-is-wildfire/sprite.png",
+    "local_wardrobe": [
+      "images/Cool/she-is-wildfire/wardrobe_1.jpg",
+      "images/Cool/she-is-wildfire/wardrobe_2.jpg",
+      "images/Cool/she-is-wildfire/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Cool/she-is-wildfire/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "蒸汽猎装赤金篷裙",
+      "silhouette": "Steampunk Little Red Riding Hood silhouette featuring a voluminous pointed-ear capelet, structured underbust corset, tiered bell crinoline skirt, and layered leather utility harness accents.",
+      "headpiece_and_hair_ornaments": "Crimson velvet beast-eared hood adorned with a leather-strapped brass goggle set, featuring an ornate sculpted golden rose and a filigree heart-lens motif.",
+      "upper_garment_and_sleeves": "Pleated white chemise bodice beneath a lace-up dark underbust corset, layered beneath a scalloped crimson brocade capelet detailed with gilded rose embroidery and bell cuffs.",
+      "lower_garment_and_legwear": "Multi-tiered crimson damask bustled skirt over cascading ivory lace petticoats, cinched with buckled leather gear and clockwork charms, paired with lace-up leather hunting boots.",
+      "signature_props_and_motifs": "Vintage brass hunting blunderbuss rifle, thorny wild rose appliques, clockwork gear elements, buckled utility belts, and floating crimson embers.",
+      "color_palette": [
+        "crimson red",
+        "antique bronze",
+        "burnished gold",
+        "ivory white"
+      ],
+      "key_materials": [
+        "embossed crimson velvet",
+        "gilded floral jacquard",
+        "antiqued brass filigree",
+        "scalloped cotton eyelet lace"
+      ]
+    }
+  },
+  {
+    "slug": "crimson-feather",
+    "title": "Crimson Feather",
+    "cn_name": "炽羽不渝",
+    "rarity": 5,
+    "style": "Cool",
+    "labels": [
+      "Ballroom",
+      "Trendy"
+    ],
+    "local_sprite": "images/Cool/crimson-feather/sprite.png",
+    "local_wardrobe": [
+      "images/Cool/crimson-feather/wardrobe_1.jpg",
+      "images/Cool/crimson-feather/wardrobe_2.jpg",
+      "images/Cool/crimson-feather/wardrobe_3.jpg"
+    ],
+    "local_main": "images/Cool/crimson-feather/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "暗夜炽羽哥特礼裙",
+      "silhouette": "Dramatic asymmetrical A-line couture ballgown featuring structured layered feather corsetry, sprawling multi-tiered skirt volume, and an expansive silhouette framed by grand avian wings.",
+      "headpiece_and_hair_ornaments": "Floating fractured black crystal halo, a sparkling feather-embroidered lace blindfold, and dangling blackened metal filigree earrings set with teardrop crimson stones.",
+      "upper_garment_and_sleeves": "Strapless sweetheart bodice draped in metallic-sheened feathers, adorned with a high victorian lace choker with a crimson gem pendant, completed by sheer glitter-dusted opera gloves and avian cuff embroidery.",
+      "lower_garment_and_legwear": "Expansive multi-tiered ballgown skirt structured with cascading feather-plume panels, glowing crimson-trimmed scalloped tulle underskirts, dark crystalline dust embroidery, and elegant feather-embossed pointed evening pumps.",
+      "signature_props_and_motifs": "Vast dark-feathered angel wings infused with glowing crimson light, drifting luminous ember flecks, and levitating shattered obsidian geometric shards.",
+      "color_palette": [
+        "obsidian black",
+        "crimson red",
+        "starlight silver",
+        "smoky charcoal"
+      ],
+      "key_materials": [
+        "feather-embroidered silk organza",
+        "crystal-dusted pleated tulle",
+        "blackened guipure lace",
+        "faceted teardrop rubies"
+      ]
+    }
+  },
+  {
+    "slug": "dawning-heartlight",
+    "title": "Dawning Heartlight",
+    "cn_name": "",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Whimsy",
+      "Glow"
+    ],
+    "local_sprite": "images/Elegant/dawning-heartlight/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/dawning-heartlight/wardrobe_1.jpg",
+      "images/Elegant/dawning-heartlight/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Elegant/dawning-heartlight/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "鎏金羽翼圣辉礼裙",
+      "silhouette": "Grand Grecian-inspired A-line gown silhouette featuring sculptured asymmetrical draping, architectural gathered hip panniers, cascading cathedral train, and majestic feathered angel back-wings.",
+      "headpiece_and_hair_ornaments": "Gilded laurel circlet tiara with sculpted olive leaves, floating forehead bindi jewel drop, and an asymmetrical white plume feather pinned to the side.",
+      "upper_garment_and_sleeves": "Sweetheart metallic gold lamé corset bodice encrusted with leaf filigree embroidery, sheer illusion mesh sleeves with filigree gauntlets, and layered multi-strand pearl choker collar.",
+      "lower_garment_and_legwear": "Multi-layered draped crinkled gold silk jacquard skirt over an ivory pleated underskirt, cascading into an opulent scalloped hem train trimmed with micro-pearls.",
+      "signature_props_and_motifs": "Expansive dual-tone angelic wings in pearlescent white and brushed gold feathers, accompanied by radiant solar halo motifs and floating light flecks.",
+      "color_palette": [
+        "radiant gold",
+        "ivory white",
+        "brushed champagne metallic",
+        "pale celestial blue"
+      ],
+      "key_materials": [
+        "liquid gold lamé",
+        "pearl-encrusted tulle",
+        "sculpted gilded filigree",
+        "crinkled silk jacquard"
+      ]
+    }
+  },
+  {
+    "slug": "florabound-promise",
+    "title": "Florabound Promise",
+    "cn_name": "",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Whimsy",
+      "Classical"
+    ],
+    "local_sprite": "images/Sweet/florabound-promise/sprite.png",
+    "local_wardrobe": [
+      "images/Sweet/florabound-promise/wardrobe_1.jpg",
+      "images/Sweet/florabound-promise/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sweet/florabound-promise/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "薄绡花蔓仙灵礼服",
+      "silhouette": "Fairy-tale A-line gown featuring a structured floral corset, tiered asymmetric gossamer overskirt with petal-cut edges, and detached billowing butterfly-wing sheer sleeves.",
+      "headpiece_and_hair_ornaments": "An oversized gossamer organza bow veil paired with a delicate gold forehead chain set with dangling teardrop crystals and pearl tassels.",
+      "upper_garment_and_sleeves": "A pastel green structured corset bodice adorned with 3D floral beadwork and vine embroidery, featuring a sheer illusion halter neck and detached, crystalline flared organza flutter sleeves.",
+      "lower_garment_and_legwear": "A high-low ballgown skirt of multi-tiered mint and blush organza embroidered with botanical vine motifs and dimensional blossoms, paired with sheer crystal-dusted lace tights and strappy heeled sandals.",
+      "signature_props_and_motifs": "Entwined morning glory vines, dimensional crystal-dusted blossom appliqués, luminous dragonfly motifs, and trailing iridescent sheer ribbon streamers.",
+      "color_palette": [
+        "celadon mint green",
+        "blush petal pink",
+        "pearlescent gold",
+        "wisteria purple"
+      ],
+      "key_materials": [
+        "crystallized sheer organza",
+        "3D beaded floral lace",
+        "iridescent tulle",
+        "embroidered silk chiffon"
+      ]
+    }
+  },
+  {
+    "slug": "behind-prayers",
+    "title": "Behind Prayers",
+    "cn_name": "隐于祷音",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Divine",
+      "Royal"
+    ],
+    "local_sprite": "images/Sweet/behind-prayers/sprite.png",
+    "local_wardrobe": [
+      "images/Sweet/behind-prayers/wardrobe_1.jpg",
+      "images/Sweet/behind-prayers/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sweet/behind-prayers/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "珠绣圣咏金辉礼裙",
+      "silhouette": "Grand liturgical ballgown silhouette featuring a heavily structured corset, layered scalloped overskirts, grand cathedral train, and dramatic multi-tiered ruffled trumpet sleeves.",
+      "headpiece_and_hair_ornaments": "Towering golden halo aureole crown, cascading scalloped lace veil, and an intricate forehead chain veil dripping with dangling teardrop pearls and ruby crystals.",
+      "upper_garment_and_sleeves": "High-neck bejeweled choker collar, gold-embroidered corset bodice encrusted with rubies, and cascading flared multi-layer lace trumpet sleeves paired with embroidered forest-green devotional gloves.",
+      "lower_garment_and_legwear": "Multi-layered ivory dome skirt with quilted lattice panels, ornate embroidered liturgical heraldic tabards trimmed in pearls, deep ruffled hemline tiers, and concealed bridal petticoats.",
+      "signature_props_and_motifs": "Elaborate filigree prayer crests, suspended ruby drops, dangling pearl swags, liturgical iconography, and an ornate golden architectural reliquary lantern.",
+      "color_palette": [
+        "antique ivory",
+        "ceremonial gold",
+        "ruby red",
+        "patina teal"
+      ],
+      "key_materials": [
+        "gilded brocade jacquard",
+        "Chantilly lace",
+        "ruby cabochon embellishments",
+        "pearl-draped mesh",
+        "filigree metalwork"
+      ]
+    }
+  },
+  {
+    "slug": "forest-ripple",
+    "title": "Forest Ripple",
+    "cn_name": "森之涟",
+    "rarity": 5,
+    "style": "Fresh",
+    "labels": [
+      "Forest",
+      "Fairy"
+    ],
+    "local_sprite": "images/Fresh/forest-ripple/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/forest-ripple/wardrobe_1.jpg",
+      "images/Fresh/forest-ripple/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Fresh/forest-ripple/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "蝶羽晶露森仙轻纱裙",
+      "silhouette": "Ethereal fairy mini-ballgown silhouette featuring a crystalline butterfly corset, flared scalloped petal layers, asymmetrical flowing tulle drapery, and gossamer translucent cicada-like back wings.",
+      "headpiece_and_hair_ornaments": "Delicate silver circlet resembling budding dewdrop branches, crowned with glowing crystalline leaves, sculpted butterfly-wing barrettes, and draped beaded filigree forehead chains.",
+      "upper_garment_and_sleeves": "Fitted strapless sweetheart bodice sculpted with iridescent butterfly wings and crystal dewdrop embroidery, draped sheer tulle shoulder ruffles, detached vine-wrapped silver armlets, and a fur-trimmed choker.",
+      "lower_garment_and_legwear": "Scalloped petal mini-skirt of sparkling mint and seafoam organza tiers, layered over luminous sheer stockings dusted with starlight glitter, paired with crystal glass-slipper kitten heels.",
+      "signature_props_and_motifs": "Translucent filigree fairy wings veined with crystalline frost, glowing green forest fireflies, floating translucent butterflies, and budding dewdrop vine motifs.",
+      "color_palette": [
+        "pale mint green",
+        "celestial icy blue",
+        "silver crystal filigree",
+        "bioluminescent chartreuse"
+      ],
+      "key_materials": [
+        "iridescent crystal-embossed organza",
+        "frosted translucent resin",
+        "beaded metallic filigree embroidery",
+        "glittering gossamer tulle"
+      ]
+    }
+  },
+  {
+    "slug": "blossoming-stars",
+    "title": "Blossoming Stars",
+    "cn_name": "群星绽放时",
+    "rarity": 5,
+    "style": "Fresh",
+    "labels": [
+      "Romance",
+      "Pastoral"
+    ],
+    "local_sprite": "images/Fresh/blossoming-stars/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/blossoming-stars/wardrobe_1.jpg",
+      "images/Fresh/blossoming-stars/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Fresh/blossoming-stars/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星华繁花浅绿礼裙",
+      "silhouette": "Floor-length empire A-line gown with delicate off-the-shoulder draped straps, a structured boned bodice, and a vertical pleated flowing tulle skirt radiating soft pastoral elegance.",
+      "headpiece_and_hair_ornaments": "Delicate golden floral pins with dangling petal charms tucked into a braided updo, paired with matching bell-shaped gold blossom drop earrings.",
+      "upper_garment_and_sleeves": "Pastel green sweetheart bodice draped with sheer off-the-shoulder bands, intricately embroidered with golden starburst floras, vertical micro-pearl ribbing, and a filigree gold blossom collar necklace.",
+      "lower_garment_and_legwear": "Cascading A-line chiffon skirt finely gathered with vertical crystal-and-pearl strand cascades, dusted with three-dimensional pale yellow blossom appliqués scattering gracefully toward the sweeping floor-grazing hem.",
+      "signature_props_and_motifs": "Three-dimensional star-shaped blossom appliqués, cascading vertical pearl strands, golden floral wristlets, and shimmering woodland petal motifs.",
+      "color_palette": [
+        "pale mint green",
+        "soft buttercup yellow",
+        "polished gold",
+        "pearl white"
+      ],
+      "key_materials": [
+        "fine pleated silk chiffon",
+        "3D organza blossom appliqués",
+        "micro-pearl beadwork strands",
+        "gilded filigree metalwork"
+      ]
+    }
+  },
+  {
+    "slug": "guide-of-no-return",
+    "title": "Guide of No Return",
+    "cn_name": "渡者无归",
+    "rarity": 5,
+    "style": "Sexy",
+    "labels": [
+      "Classical",
+      "Glow"
+    ],
+    "local_sprite": "images/Sexy/guide-of-no-return/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/guide-of-no-return/wardrobe_1.jpg",
+      "images/Sexy/guide-of-no-return/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sexy/guide-of-no-return/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "幽冥霜晶羽翼祭袍",
+      "silhouette": "Dramatic A-line celestial gown with sweeping semi-sheer ombre train, asymmetric skeletal back wings, structured corset bodice, off-shoulder draped sleeves, and trailing diaphanous drapery.",
+      "headpiece_and_hair_ornaments": "Elaborate winged silver filigree mask, beaded chain tassels, sculpted horn-like hairpins, crystal brow ornament, and delicate dangling metallic earrings.",
+      "upper_garment_and_sleeves": "Sculpted black sweetheart corset with an enormous faceted icy-blue crystal centerpiece, draped sheer glittering tulle shoulders, beaded drop chains, and asymmetric segmented silver armor gauntlets on the arms.",
+      "lower_garment_and_legwear": "Cascading floor-length gown featuring a semi-sheer starry navy outer train over an ethereal translucent white pleated underskirt, lined with beaded crystalline hems and hidden elegant heels.",
+      "signature_props_and_motifs": "Oversized luminous recurve bow strung with starlight energy, ornate skeletal filigree wing structures projecting from the back, and floating suspended droplets.",
+      "color_palette": [
+        "midnight navy",
+        "translucent white",
+        "burnished silver",
+        "luminescent ice blue"
+      ],
+      "key_materials": [
+        "faceted raw crystal",
+        "stardust sheer tulle",
+        "polished silver filigree",
+        "ombre silk chiffon"
+      ]
+    }
+  },
+  {
+    "slug": "where-wanxiang-weaves-life",
+    "title": "Where Wanxiang Weaves Life",
+    "cn_name": "万相渡浮生",
+    "rarity": 5,
+    "style": "Sexy",
+    "labels": [
+      "Terra",
+      "Aesthetic"
+    ],
+    "local_sprite": "images/Sexy/where-wanxiang-weaves-life/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/where-wanxiang-weaves-life/wardrobe_1.jpg",
+      "images/Sexy/where-wanxiang-weaves-life/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sexy/where-wanxiang-weaves-life/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "万相织金浮生华裳",
+      "silhouette": "Floor-length flowing Dunhuang-inspired hanfu robe featuring an asymmetrical draped silhouette, voluminous dramatic trailing sleeves, an exposed shoulder, and an ornate, cinched bead-encrusted waistband.",
+      "headpiece_and_hair_ornaments": "Intricate filigree floral tiaras, dangling jade bead tassel hairpins, jeweled crescent-moon ornaments, and winding gold branches set with iridescent purple and teal enamel blossoms.",
+      "upper_garment_and_sleeves": "Embroidered halter-style du-dou camisole under an off-shoulder midnight teal flowing robe, accented by oversized bell sleeves lined in crimson and lavishly bordered with gilded brocade and jade crescent charms.",
+      "lower_garment_and_legwear": "Multi-layered high-slit gradient maxi skirt transitioning from teal to deep violet, detailed with shimmering star-dusted lamé, intricate celestial embroidery hems, cascading pearl sashes, and silk petticoat layers.",
+      "signature_props_and_motifs": "Floating diaphanous silk ribbons, ethereal glowing mask motifs, delicate jade pendant chains, crescent moons, and theatrical lantern-lit ambiance.",
+      "color_palette": [
+        "Midnight Teal",
+        "Gradient Celestial Violet",
+        "Gilded Antique Gold",
+        "Translucent Pale Jade"
+      ],
+      "key_materials": [
+        "gilded silk brocade",
+        "star-dusted sheer organza",
+        "fine jade beadwork tassels",
+        "iridescent purple-enameled filigree",
+        "embroidered satin damask"
+      ]
+    }
+  },
+  {
+    "slug": "providence-immemorial",
+    "title": "Providence Immemorial",
+    "cn_name": "谒灵",
+    "rarity": 5,
+    "style": "Sexy",
+    "labels": [
+      "Divine",
+      "Aesthetic"
+    ],
+    "local_sprite": "images/Sexy/providence-immemorial/sprite.png",
+    "local_wardrobe": [
+      "images/Sexy/providence-immemorial/wardrobe_1.jpg",
+      "images/Sexy/providence-immemorial/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Sexy/providence-immemorial/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "冰晶神辉流光仙裳",
+      "silhouette": "Slim, ethereal A-line ceremonial gown layered with trailing sheer celestial streamers, sculpted filigree shoulder pauldrons, a fitted bodice, and a dramatically flowing floor-length train.",
+      "headpiece_and_hair_ornaments": "Sculptural crystalline antler-like branches interwoven with frosted roses, radiant spires, suspended bead drops, and an intricate silver forehead tiara.",
+      "upper_garment_and_sleeves": "High-neck jeweled collar, fitted bodice adorned with silver filigree embroidery and beadwork, crowned by sculptural crystalline pauldrons, and finished with diaphanous floor-length draped sleeves edged in pearls.",
+      "lower_garment_and_legwear": "Floor-length multi-layered gown in ombré white-to-violet silk, enriched with sprawling silver vine beadwork, delicate crystal teardrop pendants, vertical pleating, and an ethereal sweeping train.",
+      "signature_props_and_motifs": "Glow-infused ethereal butterflies, suspended crystal beads, botanical ice branches, and floating starlight motifs accentuating the divine aesthetic.",
+      "color_palette": [
+        "iridescent lavender",
+        "moonlit silver",
+        "pure white",
+        "crystalline ice blue"
+      ],
+      "key_materials": [
+        "crystal-embossed sheer organza",
+        "silver filigree embroidery",
+        "ombré pleated silk",
+        "translucent sculpted resin"
+      ]
+    }
+  },
+  {
+    "slug": "hymn-to-dusk",
+    "title": "Hymn to Dusk",
+    "cn_name": "",
+    "rarity": 5,
+    "style": "Cool",
+    "labels": [
+      "Divine",
+      "Terra"
+    ],
+    "local_sprite": "images/Cool/hymn-to-dusk/sprite.png",
+    "local_wardrobe": [
+      "images/Cool/hymn-to-dusk/wardrobe_1.jpg",
+      "images/Cool/hymn-to-dusk/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Cool/hymn-to-dusk/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "暮晖织金神殿战裳",
+      "silhouette": "Asymmetrical Grecian warrior silhouette featuring a draped chiton bodice, single sculpted pauldron, sweeping sunset-gradient half-cape, and a high-slit, tiered floor-length skirt.",
+      "headpiece_and_hair_ornaments": "Ornate gilded brow circlet set with multi-colored cabochons and hanging bead fringes, paired with dangling filigree chandelier earrings.",
+      "upper_garment_and_sleeves": "Crisscrossed ivory silk bodice over a deep bronze underlayer, accented with a golden right pauldron, jeweled choker, a ballooning puffed sleeve, and stacked geometric metal bangles.",
+      "lower_garment_and_legwear": "Multi-layered high-slit skirt blending ivory pleated silk with chocolate-brown diamond-quilted panels, fastened by an ornate sun-wheel girdle, revealing strappy bronze leather gladiator sandals.",
+      "signature_props_and_motifs": "A grand two-handed bronze ceremonial broadsword with filigree guard, accompanied by ancient celestial sun motifs and radiant ember particles.",
+      "color_palette": [
+        "Warm Ivory",
+        "Burnished Bronze",
+        "Imperial Gold",
+        "Dusk Terracotta"
+      ],
+      "key_materials": [
+        "gilded silk jacquard",
+        "pleated fine linen",
+        "engraved brass armor plating",
+        "terracotta gradient silk",
+        "cloisonné enamel"
+      ]
+    }
+  },
+  {
+    "slug": "blooming-dreams",
+    "title": "Blooming Dreams",
+    "cn_name": "花漾梦萦",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Fairy",
+      "Fantasy",
+      "精灵"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/blooming-dreams/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/blooming-dreams/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "珠光花仙蝶翼纱裙",
+      "silhouette": "A layered couture gown with a sculpted corset bodice, voluminous tiered tulle skirt, and a fitted high-neck lace collar. The silhouette is accented by detached puff sleeves and sheer floating overskirt panels.",
+      "headpiece_and_hair_ornaments": "A delicate floral crown of lavender roses and sweet peas, entwined with miniature iridescent butterfly hairpins and trailing pearl-and-crystal vine ribbons.",
+      "upper_garment_and_sleeves": "A structured corset bodice of metallic filigree and floral embroidery, paired with a high-neck Chantilly lace collar. Detached sheer puff sleeves with pearl-encrusted cuffs cascade into flowing tulle arm drapes.",
+      "lower_garment_and_legwear": "A voluminous A-line skirt formed by layers of pleated tulle and iridescent organza, featuring a central split reveal. The hem is bordered with silver floral beadwork, worn over opaque white lace-trimmed stockings and pearl-embellished heeled sandals.",
+      "signature_props_and_motifs": "Translucent, vein-textured fairy wings with iridescent shimmer, floating luminescent butterflies, and a scattering of glowing petal motes that trail from the gown's hem.",
+      "color_palette": [
+        "Lavender Purple",
+        "Pearlescent White",
+        "Antique Silver",
+        "Iridescent Opal"
+      ],
+      "key_materials": [
+        "Pearl-encrusted sheer organza",
+        "Metallic filigree lace",
+        "Iridescent tulle",
+        "Chantilly lace",
+        "Gilded floral embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "rainfall-blossoms",
+    "title": "Rainfall & Blossoms",
+    "cn_name": "如雨坠，如花开",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Royal",
+      "Fairy",
+      "精灵"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/rainfall-blossoms/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/rainfall-blossoms/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "雨润花灵薄纱礼裙",
+      "silhouette": "High-waisted corset bodice with an off-shoulder ruffled neckline, a voluminous bell-shaped skirt and a cascading waterfall bustle; asymmetric petal-cut cape drapes over one shoulder.",
+      "headpiece_and_hair_ornaments": "Oversized wide-brimmed hat draped with sheer dotted tulle, clustered pearl strands, and sculpted white and green blossoms with gilded bell-shaped pendants.",
+      "upper_garment_and_sleeves": "Boned corset with a pale pearlescent diamond-lattice overlay, off-shoulder ruffles edged in pearl drop tassels, puffed tulle sleeves with scalloped lace cuffs and a bow at centre bust.",
+      "lower_garment_and_legwear": "Full gathered skirt with sheer organza overlay and pearl-tipped lace hem, layered over petticoat tiers; floral vine embroidery clings above white lace stockings and pearl-buckled slippers.",
+      "signature_props_and_motifs": "Iridescent dewdrop beads floating around the wrists, a rain-streaked petal umbrella, and loose lily-of-the-valley sashes trailing from the bustle.",
+      "color_palette": [
+        "ivory white",
+        "soft moss green",
+        "gilded pearl gold",
+        "sheer lavender-grey tulle"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer tulle",
+        "gilded silk jacquard ring mesh",
+        "lace-edged organza",
+        "beaded floral vine embroidery",
+        "Chantilly lace trim"
+      ]
+    }
+  },
+  {
+    "slug": "stardust-flare",
+    "title": "Stardust Flare",
+    "cn_name": "缀夜希光",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Romance",
+      "Ballroom",
+      "舞会"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/stardust-flare/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/stardust-flare/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星芒黑金舞会礼服",
+      "silhouette": "A fitted dark corset bodice flaring into a voluminous layered tulle skirt, with asymmetrical sheer sleeve draping and a sweeping back bustle.",
+      "headpiece_and_hair_ornaments": "A radiant gold sunburst tiara with embedded crystals and trailing starburst hairpins, plus delicate celestial ear cuffs and draped gemstone head chains.",
+      "upper_garment_and_sleeves": "A strapless corseted bodice in deep onyx with intricate gold starburst beadwork, paired with sheer organza sleeves embellished with jeweled constellations and a cascading gemstone choker.",
+      "lower_garment_and_legwear": "Layered tulle skirt with tiered gold starburst appliqués, a full bustle, and delicate lace-trimmed stockings with bejeweled garters, finished with gold-tipped stiletto heels.",
+      "signature_props_and_motifs": "A luminous crystal butterfly perched on the gloved hand, with floating stardust sparkles and comet-tail embroidery motifs on the skirt.",
+      "color_palette": [
+        "Deep Onyx Black",
+        "Antique Gold",
+        "Crystal Silver",
+        "Sheer Nude"
+      ],
+      "key_materials": [
+        "Gold-embroidered tulle",
+        "Sheer organza with crystal beadwork",
+        "Metallic silk jacquard",
+        "Chantilly lace",
+        "Sunburst crystal appliqué"
+      ]
+    }
+  },
+  {
+    "slug": "flutter-storm",
+    "title": "Flutter Storm",
+    "cn_name": "蝶屿风袭",
+    "rarity": 5,
+    "style": "Sexy",
+    "labels": [
+      "Romance",
+      "Ballroom",
+      "舞会"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/flutter-storm/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/flutter-storm/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "蝶屿风袭星辉舞裙",
+      "silhouette": "A strapless draped bodice with pleated tulle gathers into a flowing A-line skirt, layered with sheer organza panels, voluminous tulle layers, and a soft, flowing train.",
+      "headpiece_and_hair_ornaments": "A delicate silver floral vine tiara adorned with tiny glittering crystals and pearl-tipped branch motifs, paired with a sheer, trailing net veil.",
+      "upper_garment_and_sleeves": "A strapless sweetheart bodice wrapped in metallic silver lace with crystal beadwork, featuring a pleated center drape and detached sheer tulle sleeves with lace cuffs.",
+      "lower_garment_and_legwear": "A multi-layered ballgown skirt with petal-like pleats, gradient organza ruffles, tulle underlayers, and sheer stockings paired with iridescent silver pointed heels.",
+      "signature_props_and_motifs": "Translucent blue butterfly accents, delicate wing-like tulle, and trailing sparkles of frost and starlight scattered around the flowing design.",
+      "color_palette": [
+        "icy blue",
+        "silver white",
+        "iridescent pearl",
+        "deep navy"
+      ],
+      "key_materials": [
+        "pleated sheer organza",
+        "crystal-embellished metallic lace",
+        "iridescent butterfly wing embroidery",
+        "fine tulle",
+        "glittering pearl-beaded trim"
+      ]
+    }
+  },
+  {
+    "slug": "slumber-by-blossoms",
+    "title": "Slumber by Blossoms",
+    "cn_name": "眠于花畔",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Classical",
+      "Glow",
+      "流彩"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/slumber-by-blossoms/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/slumber-by-blossoms/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "幽蓝花灵星纱仙裙",
+      "silhouette": "Layered sheer tulle gown with a fitted corset bodice, voluminous off-shoulder draped sleeves, cascading ruffled skirt with a train, and an asymmetric petal-like capelet tier.",
+      "headpiece_and_hair_ornaments": "Gilded filigree crown with a central sapphire, surrounded by translucent ice-blue petal sprays, dangling pearl chains, and floral hairpins.",
+      "upper_garment_and_sleeves": "Sheer organza bodice with a high neckline, layered V-shaped gold embroidery, pearl and crystal beadwork, and puffed off-shoulder sleeves with trailing translucent ribbons.",
+      "lower_garment_and_legwear": "Tiered tulle skirt with frosted floral appliqués, a ruffled bustle, pleated underlayers, and hidden shimmering lace stockings with crystal-embellished heels.",
+      "signature_props_and_motifs": "Floating luminous pearl orb, winged star motifs, cascading petal-like translucent ornaments, and a delicate starry halo effect.",
+      "color_palette": [
+        "ice blue",
+        "pale silver",
+        "antique gold",
+        "translucent white"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "gilded silk jacquard",
+        "iridescent feather embroidery",
+        "frosted tulle",
+        "Chantilly lace"
+      ]
+    }
+  },
+  {
+    "slug": "fairytale-swan",
+    "title": "Fairytale Swan",
+    "cn_name": "天鹅童话",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Formal",
+      "Ballroom",
+      "舞会"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/fairytale-swan/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/fairytale-swan/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "羽纱天鹅芭蕾舞裙",
+      "silhouette": "A sculpted strapless corseted bodice flaring into a voluminous, multi-tiered tulle ballgown skirt with an asymmetrical layered overskirt, paired with sheer fitted sleeves and a sweeping feathered train.",
+      "headpiece_and_hair_ornaments": "A crystalline swan-wing tiara with delicate feather motifs, cascading pearl drop chains, and a sheer illusion veil.",
+      "upper_garment_and_sleeves": "A strapless blush corset bodice with a sweetheart neckline, textured with vertical pleats and adorned with a frosty white feather-embellished sweetheart overlay, sheer white lace opera gloves, and a pearl choker necklace.",
+      "lower_garment_and_legwear": "A layered ballgown skirt featuring a pleated dusty pink tulle base, a textured white feather-and-tulle peplum overskirt with silver embroidered scalloped edges, and a trailing sheer white tulle train.",
+      "signature_props_and_motifs": "Floating white swan feathers, crystalline wing-shaped back attachments, and a spark-laden magical trailing scarf.",
+      "color_palette": [
+        "Blush Pink",
+        "Pearl White",
+        "Silver",
+        "Sheer Ivory"
+      ],
+      "key_materials": [
+        "pleated silk tulle",
+        "frosted feather embroidery",
+        "pearl-encrusted lace",
+        "crystal beaded organza",
+        "iridescent sequin appliqué"
+      ]
+    }
+  },
+  {
+    "slug": "wishful-aurosa",
+    "title": "Wishful Aurosa",
+    "cn_name": "心愿金蔷薇",
+    "rarity": 5,
+    "style": "Elegant",
+    "labels": [
+      "Formal",
+      "Retro"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/wishful-aurosa/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/wishful-aurosa/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "金蔷薇藤蔓仙裙",
+      "silhouette": "A layered haute couture gown featuring an off-shoulder corseted bodice with a flared scalloped peplum, voluminous tiered tulle midi skirt, and sheer detached sleeves for an ethereal, asymmetrical volume.",
+      "headpiece_and_hair_ornaments": "A delicate golden rose-vine crown with thorned arches and a translucent wire frame, adorned with small pearl accents and a trailing decorative ribbon at the back.",
+      "upper_garment_and_sleeves": "Cream silk bodice with a ruffled high neck collar and a central embellished medallion. Features intricately embroidered golden rose vines, a fitted corset structure with floral lace appliqués, and sheer organza off-shoulder sleeves with flared cuffs.",
+      "lower_garment_and_legwear": "A voluminous tiered skirt of champagne tulle and gilded lace, featuring scalloped hems, intricate floral embroidery at the base, and a full petticoat structure. Styled with delicate floral garters and subtle golden strappy heels.",
+      "signature_props_and_motifs": "Floating golden rose petals, ethereal butterfly motifs, a sculpted golden rosebud accessory, and trailing golden vine ornaments that wrap around the ensemble.",
+      "color_palette": [
+        "champagne cream",
+        "antique gold",
+        "ivory white",
+        "translucent pearl"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "gilded silk jacquard",
+        "Chantilly lace",
+        "metallic thread embroidery",
+        "layered fine tulle"
+      ]
+    }
+  },
+  {
+    "slug": "silvergale-s-aria",
+    "title": "Silvergale's Aria",
+    "cn_name": "咏叹银夜莺",
+    "rarity": 5,
+    "style": "Fresh",
+    "labels": [
+      "Ballroom",
+      "Fairy",
+      "舞会",
+      "精灵"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/silvergale-s-aria/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/silvergale-s-aria/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "银月夜莺羽纱礼服",
+      "silhouette": "A layered ballgown with an off-shoulder plumed bodice and a voluminous tulle skirt. The dress features an asymmetrical feather shoulder cape and a sweeping floor-length train, evoking an ethereal bird-like form. The sleeves are sheer, fitted from shoulder to wrist.",
+      "headpiece_and_hair_ornaments": "An intricate silver tiara with a delicate crescent moon motif, accompanied by winged ear cuffs adorned with soft white feathers and cascading pearl chains.",
+      "upper_garment_and_sleeves": "A structured, strapless corset bodice in ivory silk, overlaid with sheer, embroidered organza. The neckline is adorned with a high, sheer lace collar, while the bodice is embellished with pearl and crystal beadwork. Fitted, sheer lace sleeves extend to the wrists.",
+      "lower_garment_and_legwear": "A voluminous, multi-tiered tulle ballgown skirt with a feathered hemline. The skirt is gathered at the waist with a metallic silver belt, and the silhouette is completed with a sweeping, embellished train and silver, pointed-toe heels.",
+      "signature_props_and_motifs": "Feathery wing-like shoulder accents, a floating crescent moon halo, and scattered iridescent feathers and pearl droplets that hover around the ensemble.",
+      "color_palette": [
+        "Ivory white",
+        "Silver grey",
+        "Metallic silver",
+        "Sheer pearlescent white"
+      ],
+      "key_materials": [
+        "Pearl-encrusted sheer organza",
+        "Iridescent feather embroidery",
+        "Silver Chantilly lace",
+        "Crystal beaded tulle",
+        "Gilded silk jacquard"
+      ]
+    }
+  },
+  {
+    "slug": "timeless-melody",
+    "title": "Timeless Melody",
+    "cn_name": "古典乐章",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Retro",
+      "Playful"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/timeless-melody/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/timeless-melody/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "古典乐章洛可可蓬裙",
+      "silhouette": "High-waisted bell gown with layered, voluminous asymmetric skirt; fitted corset bodice, puff sleeves, and a cascading lace-trimmed bustle train creating a retro doll-like silhouette.",
+      "headpiece_and_hair_ornaments": "Cream ruffled bonnet with lace trim and a crown of pastel blue ribbons, adorned with tiny pearls and musical-note hairpins.",
+      "upper_garment_and_sleeves": "Blue silk corset bodice with sweetheart neckline, gold filigree embroidery, pearl buttons, and sheer organza puff sleeves ending in lace cuffs with ribbon ties.",
+      "lower_garment_and_legwear": "Tiered skirt of pleated cream tulle over blue satin, edged with ruffled lace and gold musical-note appliqués; lace-trimmed stockings and pearl-encrusted heeled ankle boots.",
+      "signature_props_and_motifs": "Floating golden musical staff and note motifs, a small harp-like handheld accessory, and a companion creature wearing a matching blue ruffled bonnet.",
+      "color_palette": [
+        "powder blue",
+        "cream ivory",
+        "antique gold",
+        "pale lilac"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "gilded silk jacquard",
+        "Chantilly lace",
+        "pleated tulle",
+        "satin ribbon"
+      ]
+    }
+  },
+  {
+    "slug": "wings-of-wishes",
+    "title": "Wings of Wishes",
+    "cn_name": "翩翩愿飞去",
+    "rarity": 5,
+    "style": "Cool",
+    "labels": [
+      "Fantasy",
+      "Playful"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Cool/wings-of-wishes/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Cool/wings-of-wishes/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星纸折愿轻纱礼服",
+      "silhouette": "A layered couture gown with a fitted corseted bodice, voluminous puff sleeves, and a full skirt with sheer overskirts, featuring asymmetric folded-paper structural accents and a majestic, flowing train.",
+      "headpiece_and_hair_ornaments": "An elaborate ornate headpiece composed of folded paper stars, sheer ribbon bows, and delicate lace frills, arranged asymmetrically atop the hair.",
+      "upper_garment_and_sleeves": "A structured satin bodice with a high ruffled collar, adorned with a large golden bow and jeweled center. The voluminous puff sleeves are crafted from sheer organza with lace trims and metallic cuffs.",
+      "lower_garment_and_legwear": "A multi-tiered skirt with pleated layers, sheer tulle petticoats, and a prominent gold V-shaped waist panel. Includes delicate white lace stockings and elegant heeled boots with star motifs.",
+      "signature_props_and_motifs": "Floating origami paper stars, folded-paper wing structures, and delicate golden accents that appear to flutter around the ensemble like whispered wishes.",
+      "color_palette": [
+        "Pearl White",
+        "Sky Blue",
+        "Gilded Gold",
+        "Sheer Silver"
+      ],
+      "key_materials": [
+        "sheer organza",
+        "satin jacquard",
+        "Chantilly lace",
+        "folded paper",
+        "metallic thread embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "born-flawless",
+    "title": "Born Flawless",
+    "cn_name": "生于无瑕",
+    "rarity": 5,
+    "style": "Cool",
+    "labels": [
+      "Aesthetic",
+      "Fantasy",
+      "唯美"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Cool/born-flawless/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Cool/born-flawless/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "冰晶蝶翼幻纱仙裙",
+      "silhouette": "A layered ethereal gown with a fitted corset bodice, a flowing A-line skirt with cascading tulle tiers, and asymmetrical crystalline shoulder draping.",
+      "headpiece_and_hair_ornaments": "An intricate silver filigree tiara with a central star motif, paired with translucent ice-like wing-shaped hair accessories and floating crystal ornaments.",
+      "upper_garment_and_sleeves": "A strapless sweetheart bodice encrusted with silver beadwork and sequins, featuring a sheer organza overlay and delicate detached arm drapes of iridescent tulle.",
+      "lower_garment_and_legwear": "A voluminous layered skirt with pleated underlayers and a high-low hemline revealing diaphanous fabric, completed with sparkling crystal-embellished heels.",
+      "signature_props_and_motifs": "Translucent butterfly wing structures framing the head, floating diamond-shaped crystals, and trailing ribbons of starlight and frost.",
+      "color_palette": [
+        "icy blue",
+        "silver",
+        "pearl white",
+        "translucent cyan"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "iridescent tulle",
+        "silver filigree lace",
+        "crystal bead embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "sea-of-stars",
+    "title": "Sea of Stars",
+    "cn_name": "星之海",
+    "rarity": 5,
+    "style": "Sexy",
+    "labels": [
+      "Adventure",
+      "Fantasy",
+      "冒险"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/sea-of-stars/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/sea-of-stars/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星海夜穹紫晶礼服",
+      "silhouette": "A voluminous strapless ballgown with a corseted bodice and a dramatic, layered tulle skirt, accented by detached opera gloves and a sheer, star-strewn overlay that creates a celestial, flowing silhouette.",
+      "headpiece_and_hair_ornaments": "A delicate gold star-shaped hairpin with dangling, star-tipped chains on the left side, and a large, radiant golden starburst ornament floating near the hair.",
+      "upper_garment_and_sleeves": "Bodice of deep violet silk with a sweetheart neckline, trimmed in scalloped lace and gold filigree. The bodice is boned and features a jeweled pendant. Detached, elbow-length gloves in sheer, dark purple tulle.",
+      "lower_garment_and_legwear": "A full, tiered ballgown skirt in layers of purple tulle and organza, adorned with scattered golden star appliqués and a subtle, shimmering underskirt. The hem is finished with a delicate lace edge.",
+      "signature_props_and_motifs": "A floating, radiant golden starburst prop with a glowing core. Scattered, floating golden star motifs and a faint, ethereal starry haze that surrounds the figure.",
+      "color_palette": [
+        "deep royal purple",
+        "midnight indigo",
+        "antique gold",
+        "sheer lilac"
+      ],
+      "key_materials": [
+        "gilded star embroidery",
+        "scalloped lace trim",
+        "iridescent tulle",
+        "silk satin",
+        "crystal beadwork"
+      ]
+    }
+  },
+  {
+    "slug": "cn-suit-013",
+    "title": "雪境长歌",
+    "cn_name": "雪境长歌",
+    "rarity": 5,
+    "style": "Fresh",
+    "labels": [
+      "清凉",
+      "精灵"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/cn-suit-013/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/cn-suit-013/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "霜晶精灵冰纱长裙",
+      "silhouette": "A layered, trailing gown with a structured corset bodice, draped sheer overskirt, and voluminous tulle underlayers; asymmetric cape-like back panel with sheer sleeve wings.",
+      "headpiece_and_hair_ornaments": "Crystal-encrusted tiara with delicate frost-flower hairpins, cascading pearl and silver chain veils, and floral jeweled headpiece.",
+      "upper_garment_and_sleeves": "Silver-blue corset bodice with frosted floral embroidery, sheer organza draped panel, high jeweled collar, and asymmetric tulle sleeve draping over one shoulder.",
+      "lower_garment_and_legwear": "Tiered tulle skirt with sheer organza overlayer, pearl-encrusted hemline, and delicate lace stockings with crystal-studded heeled sandals.",
+      "signature_props_and_motifs": "Iridescent crystal wings, frost-flower motifs, floating snowflake ornaments, and a pearl-encrusted handheld crescent scepter.",
+      "color_palette": [
+        "ice blue",
+        "silver white",
+        "pearl silver",
+        "translucent opalescent"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "frosted silk tulle",
+        "crystal-beaded lace",
+        "iridescent feather embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "crystal-poems",
+    "title": "Crystal Poems",
+    "cn_name": "晶莹诗集",
+    "rarity": 5,
+    "style": "Sweet",
+    "labels": [
+      "Summer",
+      "Cute",
+      "清凉",
+      "甜心"
+    ],
+    "local_sprite": "images/Sweet/crystal-poems/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Sweet/crystal-poems/sprite.png",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "冰晶雪纱诗篇礼服",
+      "silhouette": "A-line gown with a fitted corset bodice, off-shoulder sheer puff sleeves, and a voluminous layered tulle skirt featuring an asymmetrical sheer overlay and a cascading back drape.",
+      "headpiece_and_hair_ornaments": "A delicate silver tiara adorned with crystal snowflakes and pearl clusters, accompanied by a sheer frosted tulle veil and trailing ribbon accents.",
+      "upper_garment_and_sleeves": "Off-shoulder bodice in pale ice-blue silk, overlaid with sheer organza featuring intricate silver snowflake embroidery, pearl beading, and a delicate lace choker neckline with crystalline pendants.",
+      "lower_garment_and_legwear": "Layered tulle skirt in gradient icy blue and white, with frosted lace appliqués, scattered pearl drops, and a wide sheer hem; paired with translucent lace stockings and silver crystal-embellished heels.",
+      "signature_props_and_motifs": "Floating crystalline snowflake motifs, a delicate ice-blade wand, and a trailing sheer tulle capelet embroidered with frosty floral patterns.",
+      "color_palette": [
+        "pale ice blue",
+        "frost white",
+        "silver",
+        "sheer iridescent"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "frosted Chantilly lace",
+        "gilded silver thread embroidery",
+        "iridescent tulle",
+        "silk jacquard"
+      ]
+    }
+  },
+  {
+    "slug": "tonight-s-wind-and-moon",
+    "title": "Tonight's Wind and Moon",
+    "cn_name": "今宵风月",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Linlang",
+      "Aesthetic"
+    ],
+    "local_sprite": "images/Fresh/tonight-s-wind-and-moon/sprite.png",
+    "local_wardrobe": [
+      "images/Fresh/tonight-s-wind-and-moon/wardrobe_1.jpg",
+      "images/Fresh/tonight-s-wind-and-moon/wardrobe_2.jpg"
+    ],
+    "local_main": "images/Fresh/tonight-s-wind-and-moon/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "青碧惊鸿缀玉霓裳",
+      "silhouette": "An ethereal high-waisted Xianxia silhouette featuring an empire-waist layered gown, detached sweeping floor-length open sleeves, and a split A-line skirt radiating flowing court elegance.",
+      "headpiece_and_hair_ornaments": "Filigree gold tiara featuring jade blossoms and pearls, complemented by dual flanking floral hairpins with dangling red beaded cord tassels.",
+      "upper_garment_and_sleeves": "Jade-green halter-neck brocade bodice framed with white fur collar trim, paired with voluminous detached ombre mint bell sleeves adorned with gilded embroidery and plush feathered cuffs.",
+      "lower_garment_and_legwear": "Multi-layered peach and ivory silk skirt with front slits, cinched by vermilion tasseled sashes suspending a carved jade medallion, worn over delicate strappy court slippers.",
+      "signature_props_and_motifs": "Slender golden staff topped with a sculpted white swan, floral branches, and long floating silk streamers; stylized lotus and crane embroidery motifs throughout.",
+      "color_palette": [
+        "celadon jade green",
+        "blossom pink",
+        "burnished gold",
+        "vermilion red"
+      ],
+      "key_materials": [
+        "gilded silk brocade",
+        "sheer gradient organza",
+        "plush white fur trim",
+        "carved jade and pearls"
+      ]
+    }
+  },
+  {
+    "slug": "endless-longing",
+    "title": "Endless Longing",
+    "cn_name": "长相思",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Linlang"
+    ],
+    "local_sprite": "images/Elegant/endless-longing/sprite.png",
+    "local_wardrobe": [
+      "images/Elegant/endless-longing/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/endless-longing/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "水色兰芝罗绡雅裳",
+      "silhouette": "High-waisted A-line silhouette featuring an inner empire-waist column gown draped beneath an ethereal, airy capelet with flared layered sheer sleeves.",
+      "headpiece_and_hair_ornaments": "Mint-green jade flower cluster hairpin, beaded floral sprigs, dual silver-tipped hair sticks, and matching drop earrings featuring luminous pearl teardrops.",
+      "upper_garment_and_sleeves": "Strapless celadon silk bodice featuring decorative frog clasps and subtle gold filigree, overlaid by an airy lattice-textured white tulle shawl with tiered flutter sleeves and hanging cyan neck ribbons.",
+      "lower_garment_and_legwear": "Flowing A-line celadon silk skirt embroidered with elegant green orchid foliage, finished with a sheer scalloped hemline, paired with ankle-wrapped satin Mary Jane kitten heels.",
+      "signature_props_and_motifs": "Handheld classical wooden pipa lute with jade peg accents and hanging tassel, complemented by delicate painted orchid and foliage motifs.",
+      "color_palette": [
+        "celadon aqua",
+        "pure white",
+        "soft leaf green",
+        "pale jade"
+      ],
+      "key_materials": [
+        "shimmering lattice tulle",
+        "celadon silk crepe",
+        "jade-carved floral pins",
+        "delicate thread embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "scaly-dream",
+    "title": "Scaly Dream",
+    "cn_name": "幽鳞渡梦生",
+    "rarity": 4,
+    "style": "Cool",
+    "labels": [
+      "Linlang"
+    ],
+    "local_sprite": "images/Cool/scaly-dream/sprite.png",
+    "local_wardrobe": [
+      "images/Cool/scaly-dream/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Cool/scaly-dream/wardrobe_1.jpg",
+    "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+    "outfit_card": {
+      "aesthetic_tag_zh": "墨鳞碧波织金云裳",
+      "silhouette": "Asymmetric layered martial-arts couture featuring an open-front pinstriped half-coat, cropped inner bodice, wide belted midriff, and structured pleated split skirt layered with sheer shimmering panels.",
+      "headpiece_and_hair_ornaments": "Sculpted silver loong hair ornament clasping a topknot, accompanied by a circular metallic braid ring and dangling jade bead hair drops.",
+      "upper_garment_and_sleeves": "High-collared cropped emerald bodice with frog buttons and scenic wave embroidery, layered under a structured black pinstriped coat featuring bell sleeves with tiered pleated organza ruffles.",
+      "lower_garment_and_legwear": "High-waisted geometric-patterned black pleated wrap skirt adorned with semi-translucent sparkling plissé godets, secured with a broad cinnabar-accented obi belt and hanging gilded loong tassel ornament.",
+      "signature_props_and_motifs": "Scaled dragon claw motifs, fingerless lace armwear, auspicious red bead wristlet, and gilded dragon buckle with suspended dangling chime pendants.",
+      "color_palette": [
+        "obsidian black",
+        "emerald green",
+        "antique gold",
+        "cinnabar red"
+      ],
+      "key_materials": [
+        "pinstriped wool twill",
+        "embroidered emerald silk satin",
+        "shimmering pleated plissé organza",
+        "fine patterned lace"
+      ]
+    }
+  },
+  {
+    "slug": "thousand-flames",
+    "title": "Thousand Flames",
+    "cn_name": "花明千焰",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Linlang",
+      "Romance"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/thousand-flames/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/thousand-flames/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "琳琅幻彩云肩仙裳",
+      "silhouette": "Layered Chinese-inspired couture with a fitted high-collar bodice, voluminous gradient wide sleeves, and a flowing sheer over-robe with asymmetric cloud-like shoulder panels.",
+      "headpiece_and_hair_ornaments": "Gilded floral hairpins with enameled blue petals, cascading bead chains, a filigree lantern tassel, and delicate pearl-and-gem forehead fringe.",
+      "upper_garment_and_sleeves": "High mandarin collar with gold filigree trim, sheer organza overlay embroidered with pearl and crystal beadwork, wide gradient sleeves edged in pale green silk and ornate metallic borders.",
+      "lower_garment_and_legwear": "Flowing floor-length skirt with gradient lilac-turquoise panels, layered sheer tulle over a structured petticoat, ornate waist sash with jade pendant, and concealed embroidered slippers.",
+      "signature_props_and_motifs": "Floating floral petals, filigree lantern tassel accessory, and iridescent cloud-and-flame motifs woven into the sheer textiles.",
+      "color_palette": [
+        "lilac",
+        "pale turquoise",
+        "gilded gold",
+        "pearl white"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "gilded silk jacquard",
+        "gradient-dyed tulle",
+        "enameled floral filigree"
+      ]
+    }
+  },
+  {
+    "slug": "gossamer-moonfairy",
+    "title": "Gossamer Moonfairy",
+    "cn_name": "绮语月仙",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Linlang",
+      "Fairy",
+      "精灵"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/gossamer-moonfairy/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/gossamer-moonfairy/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "绮语月仙流纱仙裙",
+      "silhouette": "Layered Hanfu-inspired couture with a fitted wrap bodice, flowing floor-length skirt tiers, sheer trailing side panels, and voluminous bell sleeves with asymmetric hem.",
+      "headpiece_and_hair_ornaments": "Floral hairpins with pearlescent buds, gilded leaf clips, delicate dangling bead tassels, and a translucent ribbon tied at the side of the head.",
+      "upper_garment_and_sleeves": "Pastel peach wrap bodice with a high crossed collar, gold thread embroidery, sheer organza overlay, tiny pearl buttons, and wide layered bell sleeves with scalloped cuffs.",
+      "lower_garment_and_legwear": "Tiered floor-length skirt in graduated pastel hues with pleated underlayers, sheer chiffon overskirt panels, subtle cloud embroidery, and delicate pearl-trimmed hem, paired with soft flat slippers.",
+      "signature_props_and_motifs": "Ornate gold filigree fan with moon and cloud motifs, floating translucent ribbon streamers, and scattered maple-leaf accents.",
+      "color_palette": [
+        "warm peach",
+        "pale mint green",
+        "antique gold",
+        "sheer ivory"
+      ],
+      "key_materials": [
+        "sheer silk organza",
+        "gilded thread embroidery",
+        "pearl-encrusted chiffon",
+        "soft crepe silk"
+      ]
+    }
+  },
+  {
+    "slug": "lifetime-yin-yuan",
+    "title": "Lifetime Yin Yuan",
+    "cn_name": "三生因缘",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Linlang",
+      "Romance"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/lifetime-yin-yuan/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/lifetime-yin-yuan/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "烟紫桃夭流仙裙",
+      "silhouette": "A layered, floor-sweeping ensemble featuring a sheer lavender outer robe with wide bell sleeves over a flowing white column skirt, creating a romantic, elongated A-line silhouette with delicate movement.",
+      "headpiece_and_hair_ornaments": "A delicate silver filigree hairpin with cascading pearl and pink floral drops, paired with trailing ribbon ties and subtle metal hair clips.",
+      "upper_garment_and_sleeves": "Crossed-collar lavender silk bodice partly concealed by a sheer organza outer robe, featuring intricate silver floral embroidery, bell-shaped sleeves with ruffled cuffs, and a hidden front button placket.",
+      "lower_garment_and_legwear": "A high-waisted white satin skirt with soft pleats, a sheer tulle overlay, and lower panel embroidery depicting a fan and peach blossoms, worn with simple flat shoes.",
+      "signature_props_and_motifs": "A folding paper fan with a bamboo frame, adorned with painted peach blossoms and tassels, held as a central accessory.",
+      "color_palette": [
+        "lavender",
+        "white",
+        "silver",
+        "peach blossom pink"
+      ],
+      "key_materials": [
+        "sheer silk organza",
+        "silver thread embroidery",
+        "satin-faced silk",
+        "pearl and bead embellishments"
+      ]
+    }
+  },
+  {
+    "slug": "danqing-craft",
+    "title": "Danqing Craft",
+    "cn_name": "造化丹青",
+    "rarity": 4,
+    "style": "Cool",
+    "labels": [
+      "Linlang",
+      "Fantasy"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Cool/danqing-craft/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Cool/danqing-craft/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "墨韵丹青幻梦裳",
+      "silhouette": "Layered Chinese-inspired ensemble with a sheer white duster coat over a high-collared jade bodice, asymmetrical layered skirt with a high-low hem, and slim column silhouette softened by flowing robe panels and wide sleeves.",
+      "headpiece_and_hair_ornaments": "Jade-tipped hairpin with a blue tassel and a small floral branch ornament, plus a thin metallic headband accent.",
+      "upper_garment_and_sleeves": "High-collared jade silk bodice with gold filigree embroidery, layered under a white sheer organza duster coat with wide bell sleeves and gold trim at cuffs, featuring a central dragon motif in gold thread.",
+      "lower_garment_and_legwear": "Asymmetrical layered skirt in translucent green and white organza with gold embroidered hem, over a short inner layer, paired with patterned sheer stockings and dark teal heeled boots with gold accents.",
+      "signature_props_and_motifs": "Floating ink-wash brushstroke motifs and a small jade pendant with a blue tassel hanging from the waist sash.",
+      "color_palette": [
+        "jade green",
+        "ivory white",
+        "gold",
+        "translucent mint"
+      ],
+      "key_materials": [
+        "sheer organza",
+        "gilded silk jacquard",
+        "embroidered tulle",
+        "satin ribbon",
+        "metallic thread"
+      ]
+    }
+  },
+  {
+    "slug": "song-beyond",
+    "title": "Song Beyond",
+    "cn_name": "尘外羽歌",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Linlang",
+      "Spirited",
+      "灵动"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/song-beyond/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/song-beyond/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "秋岚羽衣华裳",
+      "silhouette": "A high-necked, asymmetrical jacket with wide bell sleeves paired with a short circular skirt. The layered construction features a translucent organza overskirt and ribbon sashes, creating a voluminous, fluttering profile.",
+      "headpiece_and_hair_ornaments": "Twin looped buns secured with gilded hairpins, small floral clips, and dangling red tassels. A delicate beaded chain rests across the forehead.",
+      "upper_garment_and_sleeves": "A high mandarin collar with a gold frog closure and teardrop cutout. The bodice combines dark olive velvet with a gradient peach silk panel, adorned with white crane embroidery. Sleeves are wide, layered bell shapes in sheer cream chiffon.",
+      "lower_garment_and_legwear": "A short, pleated circular skirt in olive green with gold piping and crane motifs. A sheer, asymmetrical organza overlay extends to the knee. Sheer dark tights feature a prominent back-seam with a decorative bow and vertical line. Footwear is not visible.",
+      "signature_props_and_motifs": "Floating crane feathers and ornate tassels. The outfit includes a small, round lantern with a delicate frame, carried as a handheld accessory.",
+      "color_palette": [
+        "olive green",
+        "peach orange",
+        "gold",
+        "sheer cream"
+      ],
+      "key_materials": [
+        "gilded silk jacquard",
+        "sheer organza",
+        "embroidered velvet",
+        "satin ribbon",
+        "sheer tulle"
+      ]
+    }
+  },
+  {
+    "slug": "new-bloom-blessings",
+    "title": "New Bloom Blessings",
+    "cn_name": "朝岁贺禧",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Linlang",
+      "Warm",
+      "保暖"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/new-bloom-blessings/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/new-bloom-blessings/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "祥云绒边贺岁锦裳",
+      "silhouette": "A two-piece festive ensemble featuring a quilted golden vest with plush white fur trim layered over voluminous cream brocade sleeves, paired with a straight crimson ceremonial skirt. A cream hooded bonnet adds top-heavy volume.",
+      "headpiece_and_hair_ornaments": "A plush white bonnet with colorful auspicious floral embroidery, bordered in a thick furry tuft, complete with dangling jade-like beads and gold tassels.",
+      "upper_garment_and_sleeves": "Golden brocade vest with a plush white fur hem and collar, worn over cream sleeves adorned with intricate red and gold scrolling embroidery, fastened with a large red knot button and tassel.",
+      "lower_garment_and_legwear": "A straight, floor-length crimson skirt featuring a central gold vertical panel with geometric brocade trim and a festive goldfish motif near the hem, grounding the look with traditional gravity.",
+      "signature_props_and_motifs": "A gold openwork metal sticker held aloft, depicting an auspicious character, accompanied by a small dangling jade pendant tied with an emerald green tassel.",
+      "color_palette": [
+        "crimson red",
+        "golden yellow",
+        "cream white",
+        "emerald green"
+      ],
+      "key_materials": [
+        "plush faux-fur trim",
+        "gilded silk brocade",
+        "embossed jacquard weave",
+        "silk thread embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "lotus-heart",
+    "title": "Lotus Heart",
+    "cn_name": "渡我莲心",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Linlang",
+      "Summer",
+      "清凉"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/lotus-heart/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/lotus-heart/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "幽莲玄水蝶纱仙裳",
+      "silhouette": "Asymmetric layered robe silhouette with a short front hem and cascading back panels, paired with a high-waisted inner skirt and sheer wing-like sleeves, creating a voluminous, ethereal couture line.",
+      "headpiece_and_hair_ornaments": "Intricate silver lotus-and-butterfly hairpins with dangling pearl tassels, paired with a delicate forehead chain and small gemstone accents.",
+      "upper_garment_and_sleeves": "Deep-plunge cross-collar bodice with intricate silver filigree embroidery and beaded chains; wide sheer organza sleeves with gradient ink-wash patterns, layered over a structured inner blouse, finished with pearl-and-tassel trims.",
+      "lower_garment_and_legwear": "Layered silk skirt with a short, scalloped front hem featuring silver wave embroidery, over a long sheer petticoat; paired with dark, embroidered lace-up ankle boots with a subtle heel.",
+      "signature_props_and_motifs": "Translucent butterfly wings with iridescent accents, floating lotus motifs, and a small companion creature in a dark hooded cape.",
+      "color_palette": [
+        "midnight blue",
+        "silver",
+        "pearl white",
+        "sheer lavender-grey"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "silver filigree embroidery",
+        "gradient silk jacquard",
+        "Chantilly lace",
+        "iridescent tulle"
+      ]
+    }
+  },
+  {
+    "slug": "perfect-moment",
+    "title": "Perfect Moment",
+    "cn_name": "裁佳期",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Linlang",
+      "Cute",
+      "甜心"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/perfect-moment/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/perfect-moment/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "金线绣蝶云肩仙裳",
+      "silhouette": "A layered ceremonial ensemble with a fitted mandarin-collar bodice, a voluminous bell-shaped skirt with cascading pleats, and an asymmetrical butterfly-wing bustle draping over the back.",
+      "headpiece_and_hair_ornaments": "Intricate gold filigree hairpins featuring delicate floral motifs and sweeping red tassels, complemented by a pearl-studded comb and subtle red silk ribbons.",
+      "upper_garment_and_sleeves": "A high-collared golden bodice with sheer organza overlay and cap sleeves, lavishly adorned with embroidered floral medallions, gold corded piping, and ornate jadeite buttons.",
+      "lower_garment_and_legwear": "A full, multi-tiered tangerine and gold skirt embellished with intricate gold thread filigree, an elaborate corset-style waist panel, and hidden lace-trimmed tulle petticoats.",
+      "signature_props_and_motifs": "Large sculptural butterfly wing ornament attached at the waist, completed with gold cuffs, elaborate wrist lace, and delicate ribbon tassels.",
+      "color_palette": [
+        "Tangerine Gold",
+        "Rich Vermilion",
+        "Polished Gold",
+        "Sheer Ivory"
+      ],
+      "key_materials": [
+        "Gilded silk jacquard",
+        "Gold corded embroidery",
+        "Pearl-encrusted sheer organza",
+        "Sheer lace"
+      ]
+    }
+  },
+  {
+    "slug": "sword-master",
+    "title": "Sword Master",
+    "cn_name": "剑雨侠客",
+    "rarity": 4,
+    "style": "Cool",
+    "labels": [
+      "Linlang",
+      "Adventure",
+      "冒险"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Cool/sword-master/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Cool/sword-master/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "琳琅剑影青绸侠客裳",
+      "silhouette": "Layered wuxia-inspired ensemble with a fitted crossover jacket over a flowing pleated skirt and split side panels; asymmetric wrapped waist sash with long trailing ribbons; cape-like wide sleeves with inner sheer layers; elegant column silhouette with side slits and slight train.",
+      "headpiece_and_hair_ornaments": "Ornate silver filigree crown with blue enamel accents and dangling teardrop tassels, securing a high half-updo with a long, flowing black ribbon tail.",
+      "upper_garment_and_sleeves": "Crossover-collar silk jacket in gradient blue and white, featuring intricate silver thread embroidery of flowing water and clouds, fastened with a dark woven belt and a sculpted silver chest clasp; wide layered sleeves with sheer white organza inner cuffs.",
+      "lower_garment_and_legwear": "High-waisted pleated skirt with tiered ombre layers from deep teal to pale blue, embellished with silver scalloped embroidery at the hem; matching wide-leg undertrousers with lace trim; dark stockings and black leather pointed-toe flats.",
+      "signature_props_and_motifs": "A slender, elegant silver-hilted sword with a tassel; floating translucent sword-energy motifs and ink-wash cloud patterns; a small companion creature in a matching azure hat and cape.",
+      "color_palette": [
+        "deep teal blue",
+        "pale ice blue",
+        "silver",
+        "white organza"
+      ],
+      "key_materials": [
+        "silver-thread embroidered silk",
+        "sheer gradient organza",
+        "pleated silk crepe",
+        "silver filigree metalwork",
+        "dark woven leather"
+      ]
+    }
+  },
+  {
+    "slug": "new-year-s-dawn",
+    "title": "New Year's Dawn",
+    "cn_name": "新岁曈曈",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Linlang"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/new-year-s-dawn/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/new-year-s-dawn/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "绯金云锦笛仙裳",
+      "silhouette": "Layered traditional Chinese robes with a fitted high-waisted bodice, flared wide sleeves, and a sweeping floor-length skirt with asymmetric split panels and a flowing back drape.",
+      "headpiece_and_hair_ornaments": "Twin looped buns adorned with golden floral hairpins, delicate pearl drop tassels, and a translucent amber ribbon trailing from the back.",
+      "upper_garment_and_sleeves": "Sheer amber silk bodice with a high collar and crossover neckline, layered under a gilded silk jacquard over-robe with wide flared sleeves, embroidered with golden floral and cloud motifs and finished with pearl-button closures.",
+      "lower_garment_and_legwear": "Layered crimson and coral skirt panels with pleated tulle underskirts, sheer ombre organza overlays in sunset hues, and a sweeping back train; paired with golden embroidered silk slippers with pearl accents.",
+      "signature_props_and_motifs": "A slender bamboo dizi flute with a blue tassel and golden accents, accompanied by floating golden sparkles and a luminous halo of light trails.",
+      "color_palette": [
+        "amber orange",
+        "crimson red",
+        "gold",
+        "sheer rose"
+      ],
+      "key_materials": [
+        "gilded silk jacquard",
+        "sheer organza",
+        "pearl-encrusted embroidery",
+        "pleated tulle",
+        "iridescent silk"
+      ]
+    }
+  },
+  {
+    "slug": "thought-in-bloom",
+    "title": "Thought in Bloom",
+    "cn_name": "一念生芳",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Intellectual",
+      "Linlang",
+      "知性"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/thought-in-bloom/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/thought-in-bloom/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "琳琅点翠云雾仙裳",
+      "silhouette": "A layered hanfu-inspired couture ensemble with a fitted high-collar bodice, sheer organza over-robe with bell sleeves, and a voluminous multi-tiered pleated skirt with a soft bustle back.",
+      "headpiece_and_hair_ornaments": "A delicate silver floral hairpin with pearl drops and a thin misty white ribbon entwined in a side braid, accompanied by a petite jade comb.",
+      "upper_garment_and_sleeves": "High mandarin collar with gilded filigree embroidery, a sheer tulle front panel embellished with pearl and sequin floral beadwork, layered wide bell sleeves with scalloped lace cuffs and sheer silk under-sleeves.",
+      "lower_garment_and_legwear": "A multi-tiered skirt featuring crisp knife pleats and a tulle overskirt, a voluminous bustle with lace trim, and a decorative tasseled waist sash with jade droplets, paired with pointed silk brocade slippers.",
+      "signature_props_and_motifs": "Floating botanical motif of translucent petals and glowing orb-like dewdrops, silver tassel jewelry, and a delicate birdcage-shaped hand prop.",
+      "color_palette": [
+        "misty aqua",
+        "ivory white",
+        "gilded silver",
+        "translucent teal"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "gilded silk jacquard",
+        "iridescent feather embroidery",
+        "Chantilly lace",
+        "pleated silk chiffon"
+      ]
+    }
+  },
+  {
+    "slug": "tasting-the-world",
+    "title": "Tasting the World",
+    "cn_name": "寻味烟火间",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Linlang"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/tasting-the-world/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/tasting-the-world/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "墨绒桃韵盘扣旗袍",
+      "silhouette": "A fitted black qipao-style column dress with a flared pink fur-trimmed capelet and subtle side slit, layered over delicate stockings, featuring asymmetrical hemline and voluminous puffed sleeves.",
+      "headpiece_and_hair_ornaments": "A tilted woven straw boater hat with a wide brim, adorned with a small pink ribbon and floral accents, resting atop loose flowing hair.",
+      "upper_garment_and_sleeves": "A black velvet qipao bodice with a high mandarin collar and pink frog-button closures, enriched with embroidered peach blossom motifs and framed by a fluffy pink fur trim at the capelet and cuffs.",
+      "lower_garment_and_legwear": "A knee-length black velvet skirt with a side split and pink piping, paired with sheer white stockings adorned with pink garter details and crisscross ribbons, finishing in black block-heeled Mary Jane shoes.",
+      "signature_props_and_motifs": "A small handheld woven basket dangling from the wrist, decorated with a pink ribbon bow and peach motifs, echoing the floating peach blossom petals.",
+      "color_palette": [
+        "black",
+        "blush pink",
+        "gold",
+        "ivory"
+      ],
+      "key_materials": [
+        "velvet",
+        "sheer stockings",
+        "fur trim",
+        "embroidered silk",
+        "woven straw"
+      ]
+    }
+  },
+  {
+    "slug": "enchanted-writing",
+    "title": "Enchanted Writing",
+    "cn_name": "愿笔生花",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Fantasy",
+      "Retro"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/enchanted-writing/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/enchanted-writing/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "墨语星辉魔女斗篷",
+      "silhouette": "A layered magical scholar silhouette: oversized wide-brim pointed witch hat, structured dark coat with split tails over a pleated plaid mini skirt with lace-trimmed shorts, voluminous sleeves and cape-like back panels creating a dramatic, elegant A-line volumes.",
+      "headpiece_and_hair_ornaments": "A grand pointed witch hat featuring a wide folded brim with a starry navy underside, wrapped in an ornate purple ribbon with a gilded feather quill and brass buckles.",
+      "upper_garment_and_sleeves": "Fitted dark corset-style bodice worn under a tailored long coat, featuring sheer organza collars, gold embroidery, and ornate celestial motifs. Sleeves are voluminous, gathered at the shoulder with flared cuffs trimmed in lace, revealing detached white pleated chiffon sleeves.",
+      "lower_garment_and_legwear": "A dark tailcoat-style split robe with gold-framed edges and lapel chains, worn over a golden-brown plaid pleated mini skirt with a ruffled white petticoat hem and lace-trimmed tap shorts. Completed with sheer dark thigh-high stockings and sleek black heeled boots with silver buckles.",
+      "signature_props_and_motifs": "A floating enchanted quill pen, drifting starry ink motes, and phantom pages of glowing parchment that spiral around the wearer, alongside a celestial compass clasp and star-shaped brooches.",
+      "color_palette": [
+        "midnight black",
+        "starry navy blue",
+        "antique gold",
+        "cream white"
+      ],
+      "key_materials": [
+        "gilded silk jacquard",
+        "sheer organza",
+        "plaid wool tartan",
+        "Chantilly lace",
+        "iridescent star embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "woodland-nesting",
+    "title": "Woodland Nesting",
+    "cn_name": "林深栖羽",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Fairy",
+      "Pastoral",
+      "精灵"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/woodland-nesting/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/woodland-nesting/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "林深栖羽仙裙",
+      "silhouette": "Floor-length empire-waist gown with a fitted bodice, flowing A-line skirt, and a draped back panel that suggests soft wing-like volume without constructing a full cape.",
+      "headpiece_and_hair_ornaments": "Slender gold vine crown with tiny white blossoms and leaf-shaped hairpins nestled into the hair.",
+      "upper_garment_and_sleeves": "Halter-style bodice with a halter neckline, sheer mint organza overlay, pearl and gold vine embroidery, small fabric rosettes at the bust, and detached arm bands connected by fine gold chains.",
+      "lower_garment_and_legwear": "Layered skirt of pale mint chiffon over a white lace-trimmed petticoat, delicate vine embroidery at the hem, and matching pale heeled sandals with ankle ribbons.",
+      "signature_props_and_motifs": "Feather-shaped hair ornaments, tiny bird and nest motifs, floating leaf and feather accents, and a translucent wing-like back drape.",
+      "color_palette": [
+        "pale mint green",
+        "ivory white",
+        "antique gold",
+        "sheer aqua"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "embroidered chiffon",
+        "Chantilly lace trim",
+        "gilded vine filigree",
+        "soft tulle"
+      ]
+    }
+  },
+  {
+    "slug": "silent-ode",
+    "title": "Silent Ode",
+    "cn_name": "无声颂歌",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Divine",
+      "Retro",
+      "神谕"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/silent-ode/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/silent-ode/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "神谕圣颂金绣礼服",
+      "silhouette": "A layered, floor-length clerical gown with an open front robe over a columnar underdress, featuring voluminous bell sleeves and a wide, rounded hat, creating a statuesque, asymmetrical drape with a hint of a train.",
+      "headpiece_and_hair_ornaments": "A large, rounded mint-green bonnet with gold filigree trim, worn slightly back, with delicate gold hairpins and a fine chain accent near the ear.",
+      "upper_garment_and_sleeves": "High-necked bodice in pale mint silk with a front button placket; voluminous bell sleeves with layered white ruffles and gold embroidered cuffs; an open-front robe with metallic gold botanical embroidery and a pearl-trimmed collar.",
+      "lower_garment_and_legwear": "Columnar black skirt with gold damask motifs and a central metallic embroidery panel; an open split-front robe with gold-edged hem; black opaque stockings and pointed black heeled boots with gold toe caps.",
+      "signature_props_and_motifs": "An open illuminated hymnbook held in white-gloved hands, with floating musical notes and glowing green leaf motifs drifting around the figure.",
+      "color_palette": [
+        "mint green",
+        "black",
+        "antique gold",
+        "ivory white"
+      ],
+      "key_materials": [
+        "gilded silk jacquard",
+        "pearl-encrusted organza",
+        "metallic thread embroidery",
+        "Chantilly lace",
+        "satin-backed velvet"
+      ]
+    }
+  },
+  {
+    "slug": "poem-of-emberlight",
+    "title": "Poem of Emberlight",
+    "cn_name": "叙火长诗",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Classical",
+      "Formal"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/poem-of-emberlight/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/poem-of-emberlight/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "焰纹蕾丝古典长裙",
+      "silhouette": "A fitted, corseted bodice with a layered, voluminous mermaid-style skirt. Features an off-shoulder neckline with puffed, sheer cap sleeves. The asymmetric hem is gathered and swept to one side, creating a dramatic, sweeping train effect.",
+      "headpiece_and_hair_ornaments": "A delicate gold headband with a central red gem, complemented by small, sculpted red floral hairpins and a fine gold chain draping across the crown.",
+      "upper_garment_and_sleeves": "A deep red, off-shoulder bodice with a sweetheart neckline, intricately woven with gold floral jacquard and flame-like motifs. The short, puffed sleeves are made of sheer black organza, finished with a subtle, ruffled collar and a delicate red ribbon choker.",
+      "lower_garment_and_legwear": "A sweeping, layered skirt featuring a textured, voluminous red overskirt with a quilted, almost rose-like drape. Beneath, a black tulle underlayer is overlaid with a striking red and gold lattice-patterned sheer fabric, cascading into a dramatic, trailing hem.",
+      "signature_props_and_motifs": "A small, stylized black and white cat companion wearing a matching red and black cape. The outfit is accented with scattered red rose motifs and a fine, gold chain detailing trailing from the bodice.",
+      "color_palette": [
+        "Crimson Red",
+        "Midnight Black",
+        "Antique Gold",
+        "Sheer Charcoal"
+      ],
+      "key_materials": [
+        "gilded silk jacquard",
+        "sheer black organza",
+        "rosette-textured brocade",
+        "gold-threaded lattice tulle",
+        "velvet ribbon trim"
+      ]
+    }
+  },
+  {
+    "slug": "formless-truth",
+    "title": "Formless Truth",
+    "cn_name": "真意无形",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Divine",
+      "Fantasy",
+      "神谕"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/formless-truth/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/formless-truth/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "澄金神谕云纱仙裳",
+      "silhouette": "A layered column gown with a sculpted golden bustier over a flowing sheer overrobe, featuring voluminous split sleeves and a sweeping floor-length skirt with a delicate train.",
+      "headpiece_and_hair_ornaments": "A luminous halo-like golden crown with cascading metallic bead chains and a sheer white veil headpiece draping elegantly over the hair.",
+      "upper_garment_and_sleeves": "Structured golden bodice with sculpted metallic lily appliqués, jeweled neckline, and sheer organza sleeves that drape into wide, ethereal bell cuffs.",
+      "lower_garment_and_legwear": "Layered golden silk skirt with a sheer tulle overskirt, featuring delicate embroidered floral motifs at the hem and a soft, flowing train behind.",
+      "signature_props_and_motifs": "A floating, ornate golden censer held gently at the waist, with radiating light beams and scattered floral petals in the air.",
+      "color_palette": [
+        "pale gold",
+        "ivory white",
+        "antique gold",
+        "translucent pearl"
+      ],
+      "key_materials": [
+        "golden metallic appliqué",
+        "sheer silk organza",
+        "embroidered tulle",
+        "gilded filigree",
+        "pearl-beaded trim"
+      ]
+    }
+  },
+  {
+    "slug": "moonlight-oath",
+    "title": "Moonlight Oath",
+    "cn_name": "辉月诺言",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Fantasy"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/moonlight-oath/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/moonlight-oath/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "月辉星纱誓约仙裙",
+      "silhouette": "Floor-length column gown in sheer layered silk chiffon, fitted empire bodice, flowing integrated cape veil, asymmetric front slit, and draped shoulder panels.",
+      "headpiece_and_hair_ornaments": "Sheer white lace veil bonnet with scalloped edges, cascading wide lace trim, and a delicate gilded circlet of thin stars.",
+      "upper_garment_and_sleeves": "Pale aqua empire bodice with cowl neckline, fine gold armlets and celestial beadwork, draped sheer organza sleeve panels falling from the shoulder veil.",
+      "lower_garment_and_legwear": "Bias-cut layered chiffon skirt, deep blue-to-cyan gradient, sparsely scattered gold star embroidery, front split showing a second sheer petticoat, and silver heeled sandals.",
+      "signature_props_and_motifs": "Scattered floating silver stars and tiny glowing spheres, a large star motif on the skirt, and a translucent white veil trailing from the headpiece.",
+      "color_palette": [
+        "pale aqua blue",
+        "deep midnight blue",
+        "gold",
+        "white lace"
+      ],
+      "key_materials": [
+        "layered silk chiffon",
+        "gold metallic star embroidery",
+        "white Chantilly lace",
+        "sheer organza",
+        "pearlescent beadwork"
+      ]
+    }
+  },
+  {
+    "slug": "graceful-elegance",
+    "title": "Graceful Elegance",
+    "cn_name": "淑雅格调",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Royal"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/graceful-elegance/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/graceful-elegance/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "洛可可蕾丝茶会礼裙",
+      "silhouette": "A layered Rococo-style gown with a heavily gathered bell skirt over a pleated petticoat, a fitted corseted bodice, and an off-shoulder puff-sleeve architecture framed by an ornate gold-trimmed bonnet, creating a balanced and voluminous aristocratic shape.",
+      "headpiece_and_hair_ornaments": "A large, wide-brimmed straw bonnet draped in sheer ivory lace, adorned with a prominent cream rose and a trailing silk ribbon bow.",
+      "upper_garment_and_sleeves": "Bodice of pale gold silk featuring a sweetheart neckline lined with delicate ruffled lace, accented by a dark green velvet ribbon choker, billowing white tulle off-shoulder sleeves, and a structured dark green belt with a pearl buckle.",
+      "lower_garment_and_legwear": "A grand three-tiered bell skirt composed of shimmering pale gold fabric, horizontal bands of scalloped lace, and pleated cream underlayers, finished with a dark green scalloped hem, worn with elegant cream stockings and classic heeled pumps.",
+      "signature_props_and_motifs": "Detached sheer white lace gloves, a delicate lace parasol, and intricate rose floral motifs woven into the fabric's golden embroidery and bonnet decorations.",
+      "color_palette": [
+        "pale gold",
+        "cream ivory",
+        "dark forest green",
+        "sheer white"
+      ],
+      "key_materials": [
+        "gilded silk jacquard",
+        "scalloped Chantilly lace",
+        "sheer cotton tulle",
+        "velvet ribbon trim",
+        "pearl-embellished brocade"
+      ]
+    }
+  },
+  {
+    "slug": "timeless-echo",
+    "title": "Timeless Echo",
+    "cn_name": "吟谣故梦",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Retro"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/timeless-echo/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/timeless-echo/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "复古格纹学院洋装",
+      "silhouette": "Tea-length gathered plaid dress with a defined waistband and ruffled hem, layered over a ruffled petticoat, featuring short puff sleeves and a contrasting sailor-style collar.",
+      "headpiece_and_hair_ornaments": "Wide-brimmed straw boater hat tilted to the side, adorned with a brown ribbon bow and a gold brooch, paired with a dark velvet ribbon choker.",
+      "upper_garment_and_sleeves": "Plaid cotton bodice with a deep V-neck over a brown layering piece, accented by a dark sailor collar with white piping, gold buttons, and a circular brooch; short puff sleeves with ruffled cuffs and black armbands.",
+      "lower_garment_and_legwear": "Full A-line skirt in matching plaid, featuring a ruffled white lace hem and a gathered waist, worn over a crisp white petticoat, with opaque dark tights and brown leather ankle boots.",
+      "signature_props_and_motifs": "A vintage leather suitcase with brass corner reinforcements and a handle, held in one hand, serving as a nostalgic travel motif.",
+      "color_palette": [
+        "mustard yellow",
+        "chocolate brown",
+        "gold",
+        "ivory white"
+      ],
+      "key_materials": [
+        "plaid wool blend",
+        "cotton poplin",
+        "Chantilly lace trim",
+        "leather",
+        "grosgrain ribbon"
+      ]
+    }
+  },
+  {
+    "slug": "dream-in-glimpses",
+    "title": "Dream in Glimpses",
+    "cn_name": "只影片梦",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Retro"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/dream-in-glimpses/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/dream-in-glimpses/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星辉夜莺复古礼裙",
+      "silhouette": "A strapless, wide-skirted ball gown with a fitted corset bodice, voluminous layered tulle skirt, oversized dramatic hat, and elongated opera gloves, featuring a slight high-low hemline.",
+      "headpiece_and_hair_ornaments": "An oversized wide-brimmed dark hat with a celestial embossed brim, a satin ribbon bow, and a delicate floral accent at the crown.",
+      "upper_garment_and_sleeves": "A strapless, structured corset bodice with a sweetheart neckline, panelled with vertical pintuck pleats and intricate beaded embroidery, paired with sheer, elbow-length opera gloves.",
+      "lower_garment_and_legwear": "A voluminous, tiered tulle skirt heavily embellished with glittering starry sequins, revealing a subtle sheer black layered underskirt and finished with dark, pointed-toe heels.",
+      "signature_props_and_motifs": "A celestial motif of scattered stars and constellations, with floating diamond-shaped light particles and a delicate pendant necklace.",
+      "color_palette": [
+        "midnight black",
+        "deep indigo",
+        "silver starlight",
+        "sheer charcoal"
+      ],
+      "key_materials": [
+        "starry sequined tulle",
+        "structured pintuck satin",
+        "sheer opera gloves",
+        "embossed leather hat"
+      ]
+    }
+  },
+  {
+    "slug": "starfall-radiance",
+    "title": "Starfall Radiance",
+    "cn_name": "流星绚烂时",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Romance"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/starfall-radiance/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/starfall-radiance/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星陨夜纱洛可可礼服",
+      "silhouette": "A multi-layered ballgown with a high ruffled bonnet collar, voluminous puff sleeves, a fitted corset-style bodice, and a full A-line skirt with a sheer tulle overskirt cascading into a gentle train.",
+      "headpiece_and_hair_ornaments": "A ruffled dark lace bonnet with sheer organza trim, accented by a fabric rosette and cascading ribbon ties, worn over a delicate lace headband.",
+      "upper_garment_and_sleeves": "A dark velvet-like bodice with a high ruffled neckline, sheer lace overlay forming a sweetheart illusion, a jeweled brooch at the center, and large puff sleeves with lace cuffs.",
+      "lower_garment_and_legwear": "A layered skirt with a dark central panel decorated with star embroidery, a pleated white petticoat beneath, and a sheer tulle overskirt with glittering star motifs.",
+      "signature_props_and_motifs": "Floating star-shaped sparkles and a delicate handheld wand with a star finial, complementing the celestial theme.",
+      "color_palette": [
+        "midnight navy",
+        "soft ivory",
+        "silver starlight",
+        "sheer lavender-grey"
+      ],
+      "key_materials": [
+        "star-embroidered silk taffeta",
+        "ruffled Chantilly lace",
+        "glitter-dusted sheer tulle",
+        "velvet ribbon trim",
+        "pearlescent beadwork"
+      ]
+    }
+  },
+  {
+    "slug": "gilded-memories",
+    "title": "Gilded Memories",
+    "cn_name": "鎏金旧事",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Intellectual",
+      "Royal",
+      "知性"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/gilded-memories/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/gilded-memories/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "鎏金宫廷织锦长裙",
+      "silhouette": "A regal off-shoulder gown with a structured corseted bodice, voluminous tiered skirt, and sheer draped cape sleeves. Layered gold lace and organza create an asymmetrical, aristocratic elegance.",
+      "headpiece_and_hair_ornaments": "An intricate gold filigree tiara with cascading chains and green gemstone drops, accompanied by a delicate forehead chain and trailing vine-like hairpins.",
+      "upper_garment_and_sleeves": "Off-shoulder bodice in gilded silk jacquard with crystal-embellished lace appliqué, a high sheer lace choker collar, and draped tulle sleeves with gold embroidery and pearl fringing.",
+      "lower_garment_and_legwear": "A multi-tiered golden skirt with pleated organza, tulle overlays, and lace trim. The hem features floral embroidery and pearl accents, paired with matching gold heeled boots.",
+      "signature_props_and_motifs": "Floating golden petals, delicate light particles, and a small ornate hand fan or jewelry box, with leaf and vine motifs woven into the lace and embroidery.",
+      "color_palette": [
+        "gold",
+        "champagne",
+        "crystal",
+        "emerald green"
+      ],
+      "key_materials": [
+        "gilded silk jacquard",
+        "pearl-encrusted sheer organza",
+        "Chantilly lace",
+        "crystal beadwork"
+      ]
+    }
+  },
+  {
+    "slug": "echoes-upon-the-gale",
+    "title": "Echoes Upon the Gale",
+    "cn_name": "风过遗音",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Forest",
+      "Fantasy",
+      "森林"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Elegant/echoes-upon-the-gale/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Elegant/echoes-upon-the-gale/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "风语银铃羽纱仙裙",
+      "silhouette": "An ethereal off-shoulder gown with a layered tulle skirt, cascading asymmetric drapery, a structured corseted bodice, and detached sheer arm drapes.",
+      "headpiece_and_hair_ornaments": "A delicate silver chain circlet with a central blue gemstone, accented by a white feather and a small floral hairpin.",
+      "upper_garment_and_sleeves": "A strapless bodice with a sweetheart neckline, encrusted with silver filigree, crystal beads, and pearl embroidery, featuring sheer detached arm drapes and a choker with a gemstone.",
+      "lower_garment_and_legwear": "A flowing, layered tulle skirt with soft pleats and a sheer, trailing overskirt, paired with the suggestion of elegant, low-heeled silver slippers.",
+      "signature_props_and_motifs": "A large, luminous white feather floating nearby, along with scattered crystal droplets and trailing pearl chains that evoke wind and sound.",
+      "color_palette": [
+        "pale lavender",
+        "silver-white",
+        "pearl",
+        "ice blue"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "silver filigree lace",
+        "iridescent crystal beading",
+        "soft layered tulle",
+        "satin ribbon"
+      ]
+    }
+  },
+  {
+    "slug": "nightlight-whispers",
+    "title": "Nightlight Whispers",
+    "cn_name": "漫夜灯语",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Romance",
+      "Fairy",
+      "精灵"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/nightlight-whispers/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/nightlight-whispers/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "月白羽纱萤蛾仙裙",
+      "silhouette": "Off-shoulder ruffled mini dress with layered asymmetric tulle tiers, sheer balloon sleeves, and a trailing sash back; airy volume with delicate, floating hemline.",
+      "headpiece_and_hair_ornaments": "Pair of white moth-wing hair clips, sheer ribbon ties, and a small silver moth-shaped tiara nestled in soft waves.",
+      "upper_garment_and_sleeves": "Sheer white organza bodice with ruffled off-shoulder neckline, pearl-beaded embroidery, and voluminous sheer balloon sleeves with lace cuffs.",
+      "lower_garment_and_legwear": "Layered white tulle skirt with feathered moth-wing tiers, pearl drop trim, and sheer white lace stockings paired with silver butterfly heels.",
+      "signature_props_and_motifs": "Glowing moon-lantern pendant with moth wing accents, floating moth motifs, and a small moth-shaped pouch.",
+      "color_palette": [
+        "moon white",
+        "pale silver",
+        "pearl",
+        "translucent blue"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "iridescent moth-wing feather embroidery",
+        "Chantilly lace",
+        "silver-thread tulle"
+      ]
+    }
+  },
+  {
+    "slug": "forest-s-fluttering",
+    "title": "Forest's Fluttering",
+    "cn_name": "林间戏蝶",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Pastoral",
+      "Adventure",
+      "冒险"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/forest-s-fluttering/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/forest-s-fluttering/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "森语蝶翼探险装",
+      "silhouette": "A-line layered explorer coat-dress with a pinched waist corset, flared midi skirt, voluminous puffed sleeves, and an asymmetrical diagonal chest strap.",
+      "headpiece_and_hair_ornaments": "A structured cream newsboy cap adorned with round daisy-motif goggles, a gold-trimmed brim, and a delicate ribbon tassel hanging at the side.",
+      "upper_garment_and_sleeves": "Cream safari-style bodice with gold piping, a high collar, and a diagonal leather strap, overlaid with an emerald-green gathered corset featuring a large, translucent butterfly-wing motif and puffed half-sleeves with dark piping.",
+      "lower_garment_and_legwear": "A tiered cream midi skirt with utility pockets and gold button accents, paired with dark knee-high socks and sturdy forest-green lace-up hiking boots.",
+      "signature_props_and_motifs": "A transparent glass jar with a gold lid and a glowing butterfly inside, worn with a leather crossbody strap, alongside translucent butterfly accents and scattered daisy motifs.",
+      "color_palette": [
+        "cream",
+        "emerald green",
+        "gold",
+        "translucent iridescent green"
+      ],
+      "key_materials": [
+        "cream cotton twill",
+        "translucent organza butterfly appliqué",
+        "gold piping",
+        "leather utility straps"
+      ]
+    }
+  },
+  {
+    "slug": "pastoral-dance",
+    "title": "Pastoral Dance",
+    "cn_name": "花舞绵绵",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Pastoral",
+      "Warm",
+      "保暖"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/pastoral-dance/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/pastoral-dance/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "月影牧场蕾丝洋装",
+      "silhouette": "A layered pastoral ensemble featuring a cropped dark bolero jacket over a corseted bodice, paired with a voluminous bell-shaped skirt and an asymmetrical sheer lace apron overlay.",
+      "headpiece_and_hair_ornaments": "Large curled ram horns, braided hair ribbons, and a cluster of crystalline floral buds adorning the side of the head.",
+      "upper_garment_and_sleeves": "Fitted dark bodice with intricate silver embroidery and front button placket, topped by a sheer white lace capelet; sleeves are full puffed bishop styles ending in ruffled lace cuffs with delicate ribbon ties.",
+      "lower_garment_and_legwear": "Tiered dark underskirt with a pleated hem, overlaid by a prominent white lace apron featuring scalloped edges and a large central floral medallion, completed with sheer stockings and dark heeled boots.",
+      "signature_props_and_motifs": "A small silver handbell with a tassel, floating luminous butterflies, and scattered floral buds accenting the pastoral theme.",
+      "color_palette": [
+        "Midnight Blue",
+        "Ivory White",
+        "Antique Silver",
+        "Sheer Lavender"
+      ],
+      "key_materials": [
+        "Chantilly lace",
+        "Brushed wool blend",
+        "Silk ribbon",
+        "Embroidered tulle",
+        "Polished silver hardware"
+      ]
+    }
+  },
+  {
+    "slug": "hometown-breeze",
+    "title": "Hometown Breeze",
+    "cn_name": "故乡的风",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Pastoral"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/hometown-breeze/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/hometown-breeze/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "麦浪田园珠绣民俗裙",
+      "silhouette": "A layered pastoral ensemble with a fitted corset-style bodice, a pleated apron over a voluminous tiered skirt, and puffed sleeves, creating a balanced, rustic, and charming couture silhouette with a relaxed, airy volume.",
+      "headpiece_and_hair_ornaments": "A woven harvest crown of dried wheat, red roses, and green foliage, with a thin braided cord and a subtle ribbon trailing from the back, evoking a rustic pastoral charm.",
+      "upper_garment_and_sleeves": "A structured, ribbed wool bodice in warm amber, featuring a square neckline with ornate gold braid trim and central diamond-shaped embroidery, paired with sheer white cotton puffed sleeves with lace cuffs.",
+      "lower_garment_and_legwear": "A layered skirt featuring a cream pleated apron with floral embroidery and a lace hem, over a rust-orange tiered skirt adorned with wheat motifs, completed with a small embroidered pouch and simple rustic shoes.",
+      "signature_props_and_motifs": "A small embroidered harvest pouch at the waist, woven wheat motifs, and floating autumn leaves, bringing a nostalgic, rural field atmosphere to the design.",
+      "color_palette": [
+        "warm amber",
+        "cream white",
+        "antique gold",
+        "rust orange"
+      ],
+      "key_materials": [
+        "ribbed wool weave",
+        "pleated cotton apron",
+        "embroidered linen",
+        "woven wheat braid",
+        "Chantilly lace trim"
+      ]
+    }
+  },
+  {
+    "slug": "floral-memory",
+    "title": "Floral Memory",
+    "cn_name": "飞花的追忆",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Retro"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/floral-memory/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/floral-memory/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "飞花夜曲星芒纺裙",
+      "silhouette": "High-waisted fit-and-flare dress with a full, voluminous A-line skirt and a broad sculpted waist sash; smooth sleeveless bodice balances the sweeping skirt volume; a subtle back bustle adds couture dimension, paired with opera-length gloves and dark heels.",
+      "headpiece_and_hair_ornaments": "A large structured bow in charcoal grey silk tulle crowns the head, accented by tiny pearl-tipped pins and a whisper of star-shaped silver hair jewelry scattered across the crown.",
+      "upper_garment_and_sleeves": "Sleeveless high-neck bodice of white cotton-blend voile, featuring vertical pintuck pleats and a sheer organza neck ruffle; the high collar is finished with a black ribbon tie and pearl buttons; elbow-length charcoal suede gloves with a pearl wrist button.",
+      "lower_garment_and_legwear": "Full A-line skirt with soft sunray pleats, layered over a light petticoat; deep navy tulle overlay embellished with trailing silver starbursts and floral embroidery; a wide navy silk waist sash tied in a structured bow; ankle-strap navy heels with a modest block heel.",
+      "signature_props_and_motifs": "A luminous golden butterfly hovering above the gloved hand, scattering starry dust; translucent floating floral and star motifs; a constellation-embroidered sheer veil worn as a capelet.",
+      "color_palette": [
+        "deep navy blue",
+        "crisp white",
+        "silver starburst embroidery",
+        "charcoal grey suede"
+      ],
+      "key_materials": [
+        "crisp pleated cotton voile",
+        "star-embroidered sheer tulle",
+        "pearl-tipped silk ribbon",
+        "suede opera gloves"
+      ]
+    }
+  },
+  {
+    "slug": "sweet-waltz",
+    "title": "Sweet Waltz",
+    "cn_name": "甜野小圆舞",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Whimsy",
+      "Pastoral",
+      "绮想"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/sweet-waltz/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/sweet-waltz/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "蘑菇森系田园圆舞裙",
+      "silhouette": "A-line pinafore-style dress with a layered ruffled hem, worn over a puff-sleeve blouse, featuring a wide ruffled witch-style hat and a tiered bell-shaped skirt with scattered floral appliqué.",
+      "headpiece_and_hair_ornaments": "Oversized floppy bonnet with scalloped lace trim, topped with a white pom-pom and multicolored ribbon bows.",
+      "upper_garment_and_sleeves": "Sheer organza blouse with a high ruffled collar, puffed elbow-length sleeves, and a fitted underbust bodice adorned with red ribbon bows and scalloped lace edging.",
+      "lower_garment_and_legwear": "Tiered skirt with lace-trimmed ruffles and macaron appliqués, layered over a knee-length petticoat; finished with floral-embroidered white stockings and lace-up red-and-white ankle boots.",
+      "signature_props_and_motifs": "A large red-and-white spotted mushroom cap backpack, a floating golden butterfly, and scattered rose petals.",
+      "color_palette": [
+        "cream white",
+        "soft red",
+        "golden yellow",
+        "sky blue"
+      ],
+      "key_materials": [
+        "sheer cotton voile",
+        "ruffled tulle",
+        "embroidered satin ribbon",
+        "crochet lace",
+        "appliquéd macaron felt"
+      ]
+    }
+  },
+  {
+    "slug": "cn-suit-051",
+    "title": "云朵白日梦",
+    "cn_name": "云朵白日梦",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Fantasy",
+      "Playful"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/cn-suit-051/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/cn-suit-051/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "云朵马戏团蓬蓬裙",
+      "silhouette": "A tiered high-low puffball dress with a fitted corset bodice, voluminous striped balloon bloomers beneath, cascading asymmetrical lace apron panels, and ruffled puff sleeves.",
+      "headpiece_and_hair_ornaments": "A braided lace headband adorned with tiny crimson bows, a pale blue ribbon, and delicate pearl clusters resting on a cloud-like frilled base.",
+      "upper_garment_and_sleeves": "A pale cream corset bodice with a pleated sweetheart neckline, layered ruffled shoulder straps, crimson ribbon bows, and puffed cap sleeves trimmed with scalloped eyelet lace and thin gold chain swags.",
+      "lower_garment_and_legwear": "Voluminous striped balloon shorts in dusty pink and icy blue, draped with a ruffled lace overskirt, paired with sheer white pointelle tights with back seams and blue bow-trimmed heeled pumps.",
+      "signature_props_and_motifs": "A cluster of pastel helium balloons held on thin strings, floating iridescent soap bubbles, tiny star-shaped sparkles, and small pink ribbon rosettes on the skirt.",
+      "color_palette": [
+        "pale cream",
+        "dusty pink and icy blue stripes",
+        "antique gold and crimson",
+        "sheer white lace"
+      ],
+      "key_materials": [
+        "striped silk taffeta",
+        "scalloped eyelet lace",
+        "sheer pointelle knit",
+        "pearl-embellished ribbon trim"
+      ]
+    }
+  },
+  {
+    "slug": "momo-rain",
+    "title": "Momo Rain",
+    "cn_name": "遇上喵喵雨",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Playful",
+      "Romance"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Fresh/momo-rain/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Fresh/momo-rain/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "晴空喵雨萌趣洋装",
+      "silhouette": "A-line, knee-length tiered dress in lemon-yellow sheer organza with a ruffled, asymmetrical overskirt, a fitted bodice and voluminous hood, creating a playful, layered, and roomy outline.",
+      "headpiece_and_hair_ornaments": "An integrated lemon-yellow hood with sculpted cat ears, lined in soft tulle, with a red bow at the neckline and frosted lace trim.",
+      "upper_garment_and_sleeves": "A fitted yellow bodice with a rounded neckline, sheer organza overlay, white lace trim, a large red ribbon bow, gold screen-printed cloud motifs, and long puff sleeves with ruffled cuffs.",
+      "lower_garment_and_legwear": "A pleated lemon-yellow dress with tiered white lace petticoats and a sky-blue hem, paired with white socks, fluffy ankle cuffs, and tan Mary Jane shoes.",
+      "signature_props_and_motifs": "A small, floating rain-cloud accessory, scattered raindrop and paw-print motifs, a tiny cat companion, and a folded umbrella charm.",
+      "color_palette": [
+        "lemon yellow",
+        "cream white",
+        "gold",
+        "sky blue"
+      ],
+      "key_materials": [
+        "pearlized sheer organza",
+        "gilded silk jacquard",
+        "Chantilly lace",
+        "fluffy faux fur",
+        "iridescent bead embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "blooming-brocade",
+    "title": "Blooming Brocade",
+    "cn_name": "折枝花锦",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Retro",
+      "Pastoral"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/blooming-brocade/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/blooming-brocade/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "田园碎花织锦洋装",
+      "silhouette": "A layered Victorian-pastoral ensemble featuring a fitted white lace-trimmed bodice, voluminous puff sleeves, and a full-length tiered green jacquard skirt with white eyelet lace insets.",
+      "headpiece_and_hair_ornaments": "A wide-brimmed straw bonnet adorned with a cluster of pastel roses, green ribbon bows, and trailing white lace veils.",
+      "upper_garment_and_sleeves": "An off-shoulder white cotton blouse with semi-sheer organza insets, a high ruffled collar, and voluminous bishop sleeves ending in flared lace cuffs, detailed with floral appliqués.",
+      "lower_garment_and_legwear": "A floor-length green silk jacquard skirt with vertical pleats, a bustle back, and multiple tiers of white floral lace trimming, worn over a crisp white petticoat.",
+      "signature_props_and_motifs": "A woven brown wicker basket overflowing with pink roses, green foliage, and trailing ribbons.",
+      "color_palette": [
+        "sage green",
+        "ivory white",
+        "pastel pink",
+        "straw gold"
+      ],
+      "key_materials": [
+        "floral silk jacquard",
+        "eyelet embroidered cotton lace",
+        "sheer organza",
+        "satin ribbon",
+        "woven straw"
+      ]
+    }
+  },
+  {
+    "slug": "whispered-dreams",
+    "title": "Whispered Dreams",
+    "cn_name": "梦隙灵语",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Glow",
+      "Fairy",
+      "流彩",
+      "精灵"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/whispered-dreams/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/whispered-dreams/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "森语精灵流光纱裙",
+      "silhouette": "Airy A-line silhouette with a sheer, layered chiffon-overlay skirt, a fitted bodice with a draped off-shoulder neckline, and delicate trailing ribbon-like sleeve streamers; asymmetrical hem with translucent tulle panels adding ethereal volume.",
+      "headpiece_and_hair_ornaments": "A slender white feather and pearl hairpin with a tiny silver leaf, accompanied by a fine silver forehead chain with a teardrop gem.",
+      "upper_garment_and_sleeves": "A sheer mint-green chiffon bodice with a draped off-shoulder neckline, featuring a central embroidered leaf-and-vine motif in silver and pearl, a delicate metallic collar necklace with a teardrop pendant, and cascading ribbon streamers from the sleeves.",
+      "lower_garment_and_legwear": "A layered skirt of translucent mint and ivory chiffon with a scalloped tulle hem, worn over a subtle petticoat, with fine silver lace-up gladiator sandals wrapping the ankles and calves.",
+      "signature_props_and_motifs": "Floating white butterflies, tiny glowing motes, and a translucent trailing ribbon attached to the back, plus scattered leaf and vine embroidery motifs.",
+      "color_palette": [
+        "mint green",
+        "ivory white",
+        "silver",
+        "sheer aqua"
+      ],
+      "key_materials": [
+        "sheer chiffon",
+        "pearl-embellished tulle",
+        "silver thread embroidery",
+        "iridescent organza",
+        "delicate metallic lace"
+      ]
+    }
+  },
+  {
+    "slug": "water-s-echo",
+    "title": "Water's Echo",
+    "cn_name": "逐水聆音",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Pastoral",
+      "Retro"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/water-s-echo/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/water-s-echo/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "碧波藤蔓仙踪纱裙",
+      "silhouette": "Layered A-line gown with a fitted corset bodice, cascading sheer overskirt, asymmetrical draped tulle train, and slim detachable sleeves.",
+      "headpiece_and_hair_ornaments": "A woven crown of ivory blossoms and delicate vines, with trailing sheer ribbons and a gossamer veil cascading from the back.",
+      "upper_garment_and_sleeves": "Chiffon bodice with a sweetheart neckline, draped pearl chains and tiny gold-leaf embroidery, paired with airy detached sheer sleeves and a vine-wrapped armlet.",
+      "lower_garment_and_legwear": "Tiered organza skirt with leaf-shaped appliqués and a flowing asymmetric tulle train, revealing strappy gold-trimmed sandals with floral ankle ties.",
+      "signature_props_and_motifs": "A small bird companion perched on the shoulder, floating water-lily motifs, and a translucent veil that mimics rippling water.",
+      "color_palette": [
+        "Ivory white",
+        "Sage green",
+        "Antique gold",
+        "Sheer aqua"
+      ],
+      "key_materials": [
+        "pleated silk chiffon",
+        "pearl-embellished sheer organza",
+        "gilded vine embroidery",
+        "frothy tulle",
+        "soft woven linen"
+      ]
+    }
+  },
+  {
+    "slug": "blossoming-future",
+    "title": "Blossoming Future",
+    "cn_name": "未来绽放",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Romance",
+      "Fashion"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/blossoming-future/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/blossoming-future/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星河碎钻甜梦纱裙",
+      "silhouette": "A cropped diamond-quilted bustier top paired with a flared, multi-tiered skater skirt, sheer detachable sleeves, and a tulle underlayer creating a voluminous, youthful A-line silhouette.",
+      "headpiece_and_hair_ornaments": "A delicate silver butterfly hairpin with crystal wings, subtle pearl-tipped pins, and a translucent organza ribbon headband.",
+      "upper_garment_and_sleeves": "A sweetheart-neckline cropped corset in iridescent blue satin with diamond lattice smocking, pearl and crystal chain straps, and detached sheer organza sleeves with lace cuffs and metallic arm bands.",
+      "lower_garment_and_legwear": "A high-waisted flared mini skirt with a glittering tulle overlay, ruffled white lace hem, layered petticoat, and a crystal rhinestone garter over sheer stockings with platform ankle boots.",
+      "signature_props_and_motifs": "Glowing crystal butterflies, floating holographic bubbles, and a sparkling musical-note motif that hovers around the wearer.",
+      "color_palette": [
+        "iridescent ice blue",
+        "crystal white",
+        "silver",
+        "sheer lilac"
+      ],
+      "key_materials": [
+        "diamond-quilted satin",
+        "pearl-encrusted sheer tulle",
+        "rhinestone chain mesh",
+        "holographic organza"
+      ]
+    }
+  },
+  {
+    "slug": "courtyard-flowers",
+    "title": "Courtyard Flowers",
+    "cn_name": "旧庭的花愿",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Cute",
+      "Romance",
+      "甜心"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/courtyard-flowers/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/courtyard-flowers/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "柔粉花愿蝶影纱裙",
+      "silhouette": "A-line tea-length dress with a fitted corset bodice, tiered tulle skirt, and a sheer organza capelet with butterfly-wing back panels.",
+      "headpiece_and_hair_ornaments": "A layered white floral crown with soft tulle ribbons, a pearl-beaded headband, and trailing floral vines.",
+      "upper_garment_and_sleeves": "A sweetheart-neckline corset with lace trims, embroidered floral vines, and scalloped organza cap sleeves with pearl and chain accents.",
+      "lower_garment_and_legwear": "A tiered tulle skirt with a petticoat, a pleated waistband, scalloped lace hems, and sheer stockings with ribbon-tied heels.",
+      "signature_props_and_motifs": "Butterfly-wing back panels, a handheld bouquet of roses, floating petals, and a floral-themed charm bracelet.",
+      "color_palette": [
+        "blush pink",
+        "lavender",
+        "pearl white",
+        "sheer iridescent"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "layered tulle",
+        "Chantilly lace",
+        "satin ribbons",
+        "floral embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "rebirth-wish",
+    "title": "Rebirth Wish",
+    "cn_name": "祈愿新生",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Retro"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/rebirth-wish/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/rebirth-wish/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "橄榄绿复古祈愿礼裙",
+      "silhouette": "Retro couture ensemble with a fitted olive jacquard vest over a puff-sleeve blouse, layered over a full bell-shaped skirt featuring a split-front white pleated panel and tiered lace hems, finished with a structured jacket arching over the shoulders.",
+      "headpiece_and_hair_ornaments": "A miniature olive top hat perched atop the head, adorned with clustered white roses and trailing forest-green ribbons, accompanied by a brass-buckled hatpin and delicate earrings.",
+      "upper_garment_and_sleeves": "High-necked sheer white organza blouse with pintucks and bishop sleeves ending in ruffled cuffs; layered beneath a fitted olive silk jacquard vest with gold topstitching, star-shaped brass buttons, and a golden ribbon bow at the throat.",
+      "lower_garment_and_legwear": "Full olive skirt with an inverted front pleat revealing a white embroidered petticoat panel, edged with a checkered olive hem and ornate scalloped lace trim; worn with dark tights and buttoned olive ankle boots with vintage heels.",
+      "signature_props_and_motifs": "Floating origami paper cranes suspended on fine strings, a celestial star-and-cross motif, and a small handheld brass lantern charm, evoking wishful nostalgia.",
+      "color_palette": [
+        "olive green",
+        "creamy white",
+        "antique gold",
+        "forest green"
+      ],
+      "key_materials": [
+        "silk jacquard vest",
+        "sheer pintucked organza",
+        "embroidered cotton lace",
+        "brass filigree buttons",
+        "checkered wool twill"
+      ]
+    }
+  },
+  {
+    "slug": "moonlit-immortal",
+    "title": "Moonlit Immortal",
+    "cn_name": "翩月飞仙",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Terra",
+      "Ballroom",
+      "大地",
+      "舞会"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/moonlit-immortal/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/moonlit-immortal/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "粉纱飞仙月华流裳",
+      "silhouette": "Layered flowing robe with high-waisted corset, voluminous tiered maxi skirt, asymmetrical draped overskirt, and wide bell sleeves.",
+      "headpiece_and_hair_ornaments": "Gold filigree crown with pearl finial, flowing ribbon streamers in pale blue.",
+      "upper_garment_and_sleeves": "Sheer pink organza bodice with sweetheart neckline, gold floral embroidery and pearl droplets, wide trumpet sleeves with layered chiffon ruffles.",
+      "lower_garment_and_legwear": "Layered floor-length skirt with teal and pink chiffon tiers, gold waist chain, pearl garters, and pale pointed heels.",
+      "signature_props_and_motifs": "Floating cherry blossom petals, moonlight glow, delicate gold butterfly hairpin.",
+      "color_palette": [
+        "soft pink",
+        "pale teal",
+        "gold",
+        "sheer ivory"
+      ],
+      "key_materials": [
+        "sheer organza",
+        "chiffon",
+        "gold thread embroidery",
+        "pearl beads",
+        "silk ribbon"
+      ]
+    }
+  },
+  {
+    "slug": "starlet-burst",
+    "title": "Starlet Burst",
+    "cn_name": "迷你星芒",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Fantasy"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/starlet-burst/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/starlet-burst/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星芒幻梦云纱短裳",
+      "silhouette": "A-line layered babydoll tunic over puff bloomers, sheer ruffled capelet draping from shoulders, voluminous sleeves with ruffled cuffs, cinched empire waist with metallic clasp, asymmetric hem on tunic.",
+      "headpiece_and_hair_ornaments": "Puffed beret-style hat with golden star charms and fluffy pom-pom trim, small pearl hairpins, delicate star-shaped earrings, and a tiny celestial hair clip.",
+      "upper_garment_and_sleeves": "Sheer organza blouse with high ruffled collar and pleated neckline, metallic star-embellished brooch at chest, layered ruffle sleeves with sheer white tulle and gilded star embroidery, pearlescent buttons down placket.",
+      "lower_garment_and_legwear": "High-waisted bloomers with sheer lace trim and ruffled edges, tiered micro-pleated skirt overlay, white thigh-high stockings with gold star motifs and lace cuffs, strappy platform sandals with celestial accents.",
+      "signature_props_and_motifs": "Floating golden star ornaments, celestial constellation motifs, tiny hanging star charms, and a subtle sparkling aura of light dust.",
+      "color_palette": [
+        "pastel lavender",
+        "ivory white",
+        "gold",
+        "sheer iridescent blue"
+      ],
+      "key_materials": [
+        "star-embroidered sheer organza",
+        "gilded silk jacquard",
+        "ruffled tulle",
+        "pearl-embellished lace",
+        "iridescent chiffon"
+      ]
+    }
+  },
+  {
+    "slug": "glimmering-forest",
+    "title": "Glimmering Forest",
+    "cn_name": "森息浮光",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Cute",
+      "Fantasy",
+      "甜心"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/glimmering-forest/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/glimmering-forest/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "森语菇灵轻纱裙",
+      "silhouette": "A-line pinafore-style dress over a sheer high-neck blouse, featuring voluminous dual-layer sleeves and a flared knee-length skirt with soft ruffled tiers.",
+      "headpiece_and_hair_ornaments": "An oversized sculptural mushroom cap hat with ruffled underbrim, topped with a miniature mushroom cluster and accented by a dark ribbon bow.",
+      "upper_garment_and_sleeves": "Sheer organza high-neck blouse with lace trim and ribbon ties at the collar, layered under a fitted terracotta pinafore bodice with decorative buttons and full puff sleeves.",
+      "lower_garment_and_legwear": "Tiered knee-length skirt in rust and cream with scalloped lace edging, petticoat ruffles, and a front apron panel, paired with lace-trimmed stockings and ankle boots.",
+      "signature_props_and_motifs": "Floating glowing spore motes, miniature mushroom companions, and a woven basket or set accessory evoking a woodland forage.",
+      "color_palette": [
+        "terracotta red",
+        "cream white",
+        "golden brown",
+        "deep forest green"
+      ],
+      "key_materials": [
+        "pleated cotton-blend twill",
+        "sheer organza with lace appliqué",
+        "ribbed knit",
+        "brushed felt",
+        "satin ribbon"
+      ]
+    }
+  },
+  {
+    "slug": "forest-s-song",
+    "title": "Forest's Song",
+    "cn_name": "青野漫林歌",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Forest",
+      "Fantasy",
+      "森林"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sweet/forest-s-song/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sweet/forest-s-song/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "森灵鹿角翠金仙裙",
+      "silhouette": "A layered couture ensemble featuring a structured corset bodice, flowing sheer tulle overskirt, and trailing ribbons, with a distinct high-slit layered skirt revealing the legs and a draped, organic capelet structure.",
+      "headpiece_and_hair_ornaments": "Curved golden antler headpiece, delicate gold chain forehead drape with emerald drop, and small green leaf hair clips.",
+      "upper_garment_and_sleeves": "Strapless, structured bodice with gold filigree framing and emerald beadwork. A sheer, pleated green tulle overlay forms a draped capelet on the shoulders, paired with gold arm cuffs and delicate chains.",
+      "lower_garment_and_legwear": "Layered skirt with a high front slit, featuring a voluminous, translucent green tulle overskirt, a solid green mini-skirt beneath, and gold-trimmed strappy heels with floral accents.",
+      "signature_props_and_motifs": "A translucent green gemstone pendant, scattered gold and emerald floral hairpins, and delicate green leaf motifs.",
+      "color_palette": [
+        "emerald green",
+        "sunlit gold",
+        "pale mint",
+        "translucent pearl"
+      ],
+      "key_materials": [
+        "sheer pleated tulle",
+        "gilded filigree metalwork",
+        "emerald crystal beading",
+        "silk cord",
+        "iridescent organza"
+      ]
+    }
+  },
+  {
+    "slug": "heartlake-ripples",
+    "title": "Heartlake Ripples",
+    "cn_name": "心湖涟漪",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Romance",
+      "Fantasy"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/heartlake-ripples/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/heartlake-ripples/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "心湖涟漪仙纱礼服",
+      "silhouette": "An ethereal layered gown with a fitted bodice and a voluminous A-line skirt, paired with a sheer capelet jacket featuring scalloped lace edges and gently flared sleeves.",
+      "headpiece_and_hair_ornaments": "A delicate silver tiara with pearl accents and a cluster of translucent floral hairpins with small blue gemstones, along with dangling pearl drop earrings.",
+      "upper_garment_and_sleeves": "A soft blue bodice with a sweetheart neckline, adorned with a large ribbon bow and pearl beading, layered under a sheer white lace capelet with scalloped edges and flared sleeves.",
+      "lower_garment_and_legwear": "A flowing floor-length skirt with a shimmering sheer overlay, featuring delicate sequin embroidery and pleated tulle layers, finished with simple silver sandals.",
+      "signature_props_and_motifs": "Ethereal water ripple motifs, floating pearl-like droplets, and delicate feather-like accents, along with a translucent veil and a crescent moon motif glowing softly.",
+      "color_palette": [
+        "powder blue",
+        "white",
+        "silver",
+        "translucent pearl"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer tulle",
+        "gilded lace appliqué",
+        "iridescent silk chiffon",
+        "scalloped Chantilly lace"
+      ]
+    }
+  },
+  {
+    "slug": "from-the-depth",
+    "title": "From the Depth",
+    "cn_name": "来自深海",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Romance",
+      "Fantasy"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/from-the-depth/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/from-the-depth/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "深海珠泪雾纱仙裙",
+      "silhouette": "A layered A-line gown with a cascading asymmetric hemline, featuring a fitted corset bodice, sheer draped overlays, and off-shoulder draped sleeves that create a soft, ethereal volume.",
+      "headpiece_and_hair_ornaments": "A delicate pearl-encrusted blindfold with fine lace trim, paired with tiny pearl clusters and silver hairpins tucked into the flowing waves.",
+      "upper_garment_and_sleeves": "A strapless sweetheart bodice wrapped in sheer, shimmering blue organza with pearl and crystal beadwork, featuring draped off-shoulder sleeves of tulle with scalloped lace edging and cascading pearl chains.",
+      "lower_garment_and_legwear": "A tiered, floor-length skirt of iridescent blue chiffon with ruffled layers, finished with delicate scalloped lace trim and a subtle bustle effect at the back, worn with silver strappy heels.",
+      "signature_props_and_motifs": "Floating pearl strands, delicate silver chains, and translucent ribbon-like drapes that mimic ocean currents and sea foam.",
+      "color_palette": [
+        "ocean blue",
+        "pale aqua",
+        "pearl silver",
+        "translucent white"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "iridescent silk chiffon",
+        "scalloped Chantilly lace",
+        "crystal beaded tulle"
+      ]
+    }
+  },
+  {
+    "slug": "cn-suit-068",
+    "title": "丰饶之赞",
+    "cn_name": "丰饶之赞",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Formal",
+      "Romance"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/cn-suit-068/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/cn-suit-068/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "秋叶鎏金薄纱仙裙",
+      "silhouette": "A layered couture gown with a fitted, corset-style bodice and an asymmetrical draped skirt, featuring a puffed sleeve and long sheer sash, creating a voluminous yet fluid romantic silhouette.",
+      "headpiece_and_hair_ornaments": "Delicate gold leaf-shaped hairpins and vine-like metallic headpieces woven into an intricate braided updo, adorned with small amber and crystal bead drops.",
+      "upper_garment_and_sleeves": "An off-shoulder corset bodice in shimmering copper silk, featuring intricate gold leaf-vein embroidery, a draped sheer organza overlay, and a single voluminous puff sleeve with lace trim.",
+      "lower_garment_and_legwear": "A high-waisted, layered tulle skirt with cascading pleats and a sheer, asymmetrical front panel embroidered with falling leaf motifs, paired with gold strappy heeled sandals.",
+      "signature_props_and_motifs": "Floating, glowing golden leaf motifs and a translucent, gossamer cape-like drape attached at the shoulders, evoking an autumnal harvest breeze.",
+      "color_palette": [
+        "burnt orange",
+        "amber gold",
+        "antique bronze",
+        "sheer champagne"
+      ],
+      "key_materials": [
+        "gilded leaf-vein embroidery",
+        "shimmering copper silk",
+        "sheer organza",
+        "fine tulle",
+        "metallic thread lace"
+      ]
+    }
+  },
+  {
+    "slug": "dreamy-glimmer",
+    "title": "Dreamy Glimmer",
+    "cn_name": "梦泽流光",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Formal"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/dreamy-glimmer/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/dreamy-glimmer/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "粉纱流光名伶礼服",
+      "silhouette": "Strapless mermaid gown with a fitted structured bodice flaring into a layered, draped tulle skirt with a sheer asymmetric front split; oversized white fur stole draping off-shoulder, cascading floor-length.",
+      "headpiece_and_hair_ornaments": "No headpiece, but a silk ribbon choker with a beaded pendant, and elbow-length opera gloves featuring a pearl chain and crystal star charm.",
+      "upper_garment_and_sleeves": "Satin bodice in deep magenta and black with a sweetheart neckline, encrusted with ruby-red crystal brooch and intricate silver floral beadwork; detached black opera gloves with pearl-strung chains and star-shaped crystal accents.",
+      "lower_garment_and_legwear": "Floor-length pink tulle skirt with pleated draping, a sheer front slit revealing a pale pink petticoat, and black opera-length gloves with pearl chain details and star charms; no visible stockings.",
+      "signature_props_and_motifs": "Translucent pink heart-shaped bubbles floating around the dress, a crystal star charm dangling from the glove chain, and a white fur stole for dramatic volume.",
+      "color_palette": [
+        "hot pink",
+        "black",
+        "silver",
+        "white"
+      ],
+      "key_materials": [
+        "crystal-encrusted satin",
+        "pleated silk tulle",
+        "pearl-strung chain",
+        "fur stole"
+      ]
+    }
+  },
+  {
+    "slug": "sunflower-chronicle",
+    "title": "Sunflower Chronicle",
+    "cn_name": "向阳花纪",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Forest",
+      "Pastoral",
+      "森林"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/sunflower-chronicle/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/sunflower-chronicle/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "金蕊织梦田园仙裙",
+      "silhouette": "High-waisted flowing empire dress with a cascading asymmetric layered skirt, decorative ruffled shoulder straps, and a trailing sheer back panel creating a soft pastoral A-line volume.",
+      "headpiece_and_hair_ornaments": "A lush sunflower crown adorned with golden petals and delicate beaded vines, accented by trailing green ribbons and tiny floral hairpins.",
+      "upper_garment_and_sleeves": "Sheer golden-yellow bodice with intricate embroidered sunflower motifs, a sweetheart neckline framed by ruffled organza, and detached arm cuffs featuring pearl-encrusted lace and fluttering chiffon streamers.",
+      "lower_garment_and_legwear": "Tiered skirt of translucent yellow chiffon and tulle with scalloped lace hems, layered over a subtle petticoat, paired with delicate golden strappy sandals and sheer ankle socks.",
+      "signature_props_and_motifs": "Floating golden sunflowers and ethereal glowing pollen particles, along with a delicate golden floral bracelet and a vine-wrapped rustic wooden frame accessory.",
+      "color_palette": [
+        "Golden Yellow",
+        "Cream White",
+        "Antique Gold",
+        "Translucent Organza"
+      ],
+      "key_materials": [
+        "sunflower-embroidered sheer organza",
+        "gilded lace trim",
+        "iridescent pearl beading",
+        "layered silk chiffon",
+        "delicate floral embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "spectral-mist",
+    "title": "Spectral Mist",
+    "cn_name": "雾影飘灵",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Ballroom",
+      "舞会"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/spectral-mist/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/spectral-mist/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "幽蓝雾羽夜宴礼服",
+      "silhouette": "An off-shoulder gown with a fitted corset bodice, an asymmetric draped skirt that cascades into a feathered train, and voluminous white fur stole layered over the arms and back for a dramatic ballroom silhouette.",
+      "headpiece_and_hair_ornaments": "An intricate silver floral comb with dark sapphire crystals and petite pearl accents, positioned in an elegant up-swept hair style.",
+      "upper_garment_and_sleeves": "A strapless navy velvet bodice with a sweetheart neckline, enriched by a delicate silver chain and beadwork overlay. The sleeves are formed by a plush white fur stole that wraps around the shoulders and arms, with sheer black lace gloves visible beneath.",
+      "lower_garment_and_legwear": "The skirt features tiered layers of iridescent blue-black organza and chiffon, draped asymmetrically with a prominent white fabric rose at the hip. The hem extends into a dramatic, feather-like train, paired with lace-trimmed stockings and elegant dark pointed heels.",
+      "signature_props_and_motifs": "A flock of floating, ethereal blue butterflies flutters around the ensemble, with a subtle mist-like aura and scattered floral petals enhancing the magical, nightly atmosphere.",
+      "color_palette": [
+        "midnight navy",
+        "pure white",
+        "silver",
+        "translucent icy blue"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer organza",
+        "gilded silk jacquard",
+        "iridescent feather embroidery",
+        "Chantilly lace"
+      ]
+    }
+  },
+  {
+    "slug": "daughter-of-the-lake",
+    "title": "Daughter of the Lake",
+    "cn_name": "湖的女儿",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Fairy",
+      "精灵"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/daughter-of-the-lake/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/daughter-of-the-lake/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "冰蓝鳞纹人鱼泪纱裙",
+      "silhouette": "A fitted lace corset bodice flaring into a voluminous multi-tiered tulle and satin skirt, featuring dramatic sheer detached sleeves and a sweeping lace veil that creates a soft, aquatic asymmetry.",
+      "headpiece_and_hair_ornaments": "A scalloped Chantilly lace bonnet veiled in cascading sheer tulle, accented with a delicate silver fish-motif hairpin and pearl drop ornaments.",
+      "upper_garment_and_sleeves": "An off-shoulder sweetheart corset in pale aqua satin, heavily encrusted with silver filigree, opalescent sequins, and cascading pearl chains, paired with sheer, detached white lace sleeves gloved to the forearm.",
+      "lower_garment_and_legwear": "A layered A-line skirt of sheer aqua tulle over a pearlescent satin petticoat, featuring a high-low hemline, pearl fringe swags, and an asymmetrical trailing sash, finished with crystal-embellished pointed heels.",
+      "signature_props_and_motifs": "A large, sweeping tulle veil that mirrors the movement of water, alongside scattered floating pearl drops and delicate silver fish-scale motifs integrated into the ensemble.",
+      "color_palette": [
+        "pale aqua blue",
+        "frost white",
+        "silver",
+        "pearlescent white"
+      ],
+      "key_materials": [
+        "pearl-encrusted sheer aqua tulle",
+        "Chantilly lace",
+        "sequined silver filigree",
+        "iridescent satin",
+        "crystal beading"
+      ]
+    }
+  },
+  {
+    "slug": "starwoven-dreams",
+    "title": "Starwoven Dreams",
+    "cn_name": "揽星入梦",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Spirited",
+      "Ballroom",
+      "灵动",
+      "舞会"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/starwoven-dreams/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/starwoven-dreams/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星纱流苏幻舞裙",
+      "silhouette": "A layered bohemian ballroom ensemble featuring a cropped structured bustier with a cascading multi-tiered maxi skirt, asymmetric draped panels, and detached sheer arm sleeves.",
+      "headpiece_and_hair_ornaments": "A sheer lavender veil pinned with golden chains and beaded strands, draped over the head and falling around the face, paired with a beaded forehead chain.",
+      "upper_garment_and_sleeves": "A strapless bandeau bodice in lavender with a sweetheart neckline, adorned with butterfly and star motifs, gold beadwork, dangling chains at the waist, and detached sheer sleeves with armbands and elaborate trim.",
+      "lower_garment_and_legwear": "A voluminous tiered maxi skirt in violet with sheer overlay panels, scalloped lace hems, gold coin fringing, star appliqués, and feather accents, paired with strappy beaded sandals.",
+      "signature_props_and_motifs": "Floating golden star and butterfly embellishments, dangling feather charms, and delicate chain tassels that scatter light around the figure.",
+      "color_palette": [
+        "lavender",
+        "violet",
+        "gold",
+        "sheer white"
+      ],
+      "key_materials": [
+        "sheer chiffon",
+        "gilded beadwork",
+        "metallic thread embroidery",
+        "silk organza",
+        "feather embellishment"
+      ]
+    }
+  },
+  {
+    "slug": "mistbound-whispers",
+    "title": "Mistbound Whispers",
+    "cn_name": "林中雾语",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Fashion",
+      "Ballroom",
+      "舞会"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/mistbound-whispers/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/mistbound-whispers/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "雾隐银蕊蝶纱舞裙",
+      "silhouette": "Asymmetrical ballgown with corseted bodice, layered voluminous tulle skirt, and a cascading lace-trimmed overskirt veil; fitted lace sleeves with fingerless gloves.",
+      "headpiece_and_hair_ornaments": "Silver metallic floral fascinator with netted veil, feathery plumes, and trailing sheer ribbon streamers.",
+      "upper_garment_and_sleeves": "Strapless sweetheart bodice of sheer organza overlaid with intricate silver floral lace, pearl and crystal beadwork, and a sheer tulle neck ruffle; fitted lace gloves with scalloped edges.",
+      "lower_garment_and_legwear": "Full tiered tulle skirt with scattered sequins, asymmetric lace-trimmed overskirt, and delicate fishnet lace stockings; pointed silver heels with ankle straps.",
+      "signature_props_and_motifs": "Translucent glittering parasol with ornate handle and cascading mist-like tulle, accompanied by floating butterfly motifs.",
+      "color_palette": [
+        "silver mist",
+        "pearl white",
+        "crystal beadwork",
+        "charcoal lace"
+      ],
+      "key_materials": [
+        "silver lace",
+        "pearl-encrusted sheer organza",
+        "iridescent sequin tulle",
+        "Chantilly lace",
+        "metallic thread embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "rosy-reverie",
+    "title": "Rosy Reverie",
+    "cn_name": "迷花燃梦",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Retro"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/rosy-reverie/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/rosy-reverie/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "燃花金焰复古长袍",
+      "silhouette": "A floor-sweeping open-front robe with a fitted corseted interior, layered over a slim column skirt; voluminous fur-trimmed shawl collar and long fitted sleeves.",
+      "headpiece_and_hair_ornaments": "A gilded rose-and-feather hair comb pinned to one side, with a delicate jeweled chain draping across the forehead.",
+      "upper_garment_and_sleeves": "Deep crimson velvet bodice with a high neckline, dense gold floral embroidery, a sheer organza yoke, and long sleeves ending in dramatic black fur cuffs with dangling bead chains.",
+      "lower_garment_and_legwear": "Column skirt of sheer gold-flecked tulle over a satin underlayer, the open robe revealing a ruffled scarlet hem; soft fur-trimmed heeled mules.",
+      "signature_props_and_motifs": "A vintage bronze hand mirror with a rose-engraved back, floating rose petals, and a subtle gold filigree halo motif behind the shoulders.",
+      "color_palette": [
+        "deep crimson",
+        "antique gold",
+        "black",
+        "sheer ivory"
+      ],
+      "key_materials": [
+        "gold-flecked sheer tulle",
+        "embroidered velvet",
+        "fur trim",
+        "satin",
+        "Chantilly lace"
+      ]
+    }
+  },
+  {
+    "slug": "night-capricorn-song",
+    "title": "Night Capricorn Song",
+    "cn_name": "夜羯之歌",
+    "rarity": 4,
+    "style": "Sexy",
+    "labels": [
+      "Whimsy",
+      "Fantasy",
+      "绮想"
+    ],
+    "local_sprite": null,
+    "local_wardrobe": [
+      "images/Sexy/night-capricorn-song/wardrobe_1.jpg"
+    ],
+    "local_main": "images/Sexy/night-capricorn-song/wardrobe_1.jpg",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "星夜摩羯鎏金长裙",
+      "silhouette": "Floor-length layered gown with asymmetrical draped overskirt, fitted corseted bodice, flowing linear cape panels, and elongated bell sleeves with dramatic pointed cuffs.",
+      "headpiece_and_hair_ornaments": "Curved metallic ram-horn crown, silver crescent moon hairpins, layered pearl chains, and delicate forehead drop ornaments.",
+      "upper_garment_and_sleeves": "Metallic jacquard corset with a sheer tulle halter overlay, cascading metallic chains, delicate beaded fringe, and fitted long sleeves with dagger-point cuffs.",
+      "lower_garment_and_legwear": "Floor-sweeping skirt composed of layered satin drapery, a gold brocaded front panel, intricate constellation beadwork, and a voluminous gathered bustle.",
+      "signature_props_and_motifs": "Floating celestial tarot cards, dangling chain ornaments, crescent moon motifs, and star-shaped beaded trims scattered across the ensemble.",
+      "color_palette": [
+        "midnight blue",
+        "champagne gold",
+        "antique silver",
+        "sheer white tulle"
+      ],
+      "key_materials": [
+        "gilded silk jacquard",
+        "pearl-encrusted sheer tulle",
+        "liquid satin drapery",
+        "metallic chain fringe",
+        "constellation beadwork embroidery"
+      ]
+    }
+  },
+  {
+    "slug": "wind-of-purity",
+    "title": "Wind of Purity",
+    "cn_name": "纯净之风",
+    "rarity": 4,
+    "style": "Elegant",
+    "labels": [
+      "Romance"
+    ],
+    "local_sprite": "images/Elegant/wind-of-purity/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Elegant/wind-of-purity/sprite.png",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "晨曦微风仙裙",
+      "silhouette": "A-tiered, empire-waist chiffon dress with a fitted bodice, voluminous sheer bishop sleeves, and a floating, handkerchief-hem overskirt that reveals a shorter underskirt.",
+      "headpiece_and_hair_ornaments": "A delicate gold-tone circlet entwined with translucent white floral and leaf motifs with fine filigree branches.",
+      "upper_garment_and_sleeves": "An off-shoulder bodice with a slim gold choker, featuring a central sunburst brooch of gilded filigree and rhinestones, and sheer organza bishop sleeves with metallic cuffs.",
+      "lower_garment_and_legwear": "A layered skirt with a gradient hem from white to sage green, detailed with botanical embroidery, an asymmetrical sheer overlay, and a cinched waist with a leaf-shaped pendant.",
+      "signature_props_and_motifs": "Floating translucent feathers and ethereal leaf-like ribbons that trail from the waist and wrists.",
+      "color_palette": [
+        "ivory white",
+        "sage green",
+        "antique gold",
+        "translucent organza"
+      ],
+      "key_materials": [
+        "sheer organza",
+        "gilded filigree",
+        "feather embroidery",
+        "chiffon",
+        "rhinestone beading"
+      ]
+    }
+  },
+  {
+    "slug": "cheering-heartbeat",
+    "title": "Cheering Heartbeat",
+    "cn_name": "应援的心跳",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Ballroom",
+      "Fantasy",
+      "舞会"
+    ],
+    "local_sprite": "images/Fresh/cheering-heartbeat/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Fresh/cheering-heartbeat/sprite.png",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "糖果应援幻彩纱裙",
+      "silhouette": "A layered idol-inspired ensemble featuring a translucent oversized jacket over a pleated satin romper dress, cinched with a braided cord belt, creating a playful A-line volume with a flared scalloped hem.",
+      "headpiece_and_hair_ornaments": "A translucent blue beret with yellow tinted goggles, embellished with a braided candy-colored cord and a star-shaped jeweled pin.",
+      "upper_garment_and_sleeves": "Sleeveless satin bodice with a halter neckline, featuring a gradient yellow-to-blue chevron pattern, adorned with a multi-strand beaded necklace and a clear iridescent raincoat-style jacket with wide sleeves.",
+      "lower_garment_and_legwear": "High-waisted pleated mini skirt with a wavy, layered hemline in rainbow hues, worn over a sheer petticoat, paired with bare legs and chunky platform sneakers with candy-colored accents.",
+      "signature_props_and_motifs": "Two luminous star-shaped handheld wands with yellow glowing orbs, wrapped in holographic ribbons, complemented by floating pastel musical notes and scattered star confetti.",
+      "color_palette": [
+        "sky blue",
+        "lemon yellow",
+        "iridescent pearl",
+        "candy pink"
+      ],
+      "key_materials": [
+        "holographic vinyl",
+        "iridescent sheer organza",
+        "satin charmeuse",
+        "beaded acrylic",
+        "glitter mesh"
+      ]
+    }
+  },
+  {
+    "slug": "honey-hunt",
+    "title": "Honey Hunt",
+    "cn_name": "林间寻蜜",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Pastoral"
+    ],
+    "local_sprite": "images/Fresh/honey-hunt/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Fresh/honey-hunt/sprite.png",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "蜜色田园蜂巢蕾丝裙",
+      "silhouette": "A-line midi dress with layered apron-like overskirt, cinched waist, voluminous sheer bishop sleeves, and a wide-brimmed bonnet with trailing veil for a pastoral couture line.",
+      "headpiece_and_hair_ornaments": "Wide-brimmed straw hat with a gingham band, hexagonal honeycomb lace trim, and a long sheer tulle veil that drapes over the shoulders.",
+      "upper_garment_and_sleeves": "High-neck chiffon blouse under a honeycomb-patterned lace vest, featuring pintucked bodice, gold braided trim, faux pearl buttons, and sheer organza bishop sleeves with lace cuffs.",
+      "lower_garment_and_legwear": "Layered midi skirt with a white base and a yellow overlay featuring hexagonal lace applique, pleated waistband, and white lace-trimmed ankle socks paired with cream Mary Jane heels.",
+      "signature_props_and_motifs": "A bee-shaped brooch, honeycomb-patterned belt, and a woven straw basket with a honey jar and floral sprigs.",
+      "color_palette": [
+        "honey yellow",
+        "ivory white",
+        "antique gold",
+        "sheer cream"
+      ],
+      "key_materials": [
+        "honeycomb-patterned lace",
+        "sheer organza",
+        "pintucked cotton voile",
+        "gilded braid trim",
+        "woven straw"
+      ]
+    }
+  },
+  {
+    "slug": "dream-banquet",
+    "title": "Dream Banquet",
+    "cn_name": "宴梦奇缘",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Royal"
+    ],
+    "local_sprite": "images/Fresh/dream-banquet/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Fresh/dream-banquet/sprite.png",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "烛光花园洛可可洋装",
+      "silhouette": "A layered Rococo gown with a fitted corset bodice over a voluminous bell skirt, featuring a front split that reveals a contrasting petticoat. The dress showcases a prominent bustle at the back, with a high ruffled collar and puffed sleeves ending in lace cuffs, creating a structured, historically inspired, feminine couture shape.",
+      "headpiece_and_hair_ornaments": "A delicate ivory lace bonnet adorned with clusters of white fabric flowers and trailing ribbons, sitting atop soft wavy hair, finished with a sheer, airy veil or netting that adds ethereal elegance.",
+      "upper_garment_and_sleeves": "An ivory silk bodice with intricate floral embroidery and a deep V-neckline framed by a ruffled lace bertha collar. The center front features a brown velvet ribbon bow and gold-tone decorative buttons. The sleeves are puffed at the shoulder with tiers of sheer organza and lace, finished with ruffled cuffs and delicate pearl accents.",
+      "lower_garment_and_legwear": "A voluminous, tiered bell skirt in ivory silk, adorned with scattered floral motifs and extensive ruffled lace trim along the hem. The front split reveals a contrasting brown underlayer with ornate gold scrollwork embroidery. The skirt is gathered into a prominent bustle at the back. Footwear is not visible, but the delicate lace and ribbon detailing suggest elegant, heeled footwear.",
+      "signature_props_and_motifs": "A delicate gold necklace with a pendant and a pair of small, dangling earrings are visible. The design motifs include trailing floral vines, ribbons, and intricate scrollwork, evoking the ambiance of a candlelit banquet.",
+      "color_palette": [
+        "ivory",
+        "cocoa brown",
+        "antique gold",
+        "white lace"
+      ],
+      "key_materials": [
+        "silk taffeta",
+        "Chantilly lace",
+        "sheer organza",
+        "gold-thread embroidery",
+        "velvet ribbon"
+      ]
+    }
+  },
+  {
+    "slug": "verdant-melodies",
+    "title": "Verdant Melodies",
+    "cn_name": "绿野轻歌",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Pastoral"
+    ],
+    "local_sprite": "images/Fresh/verdant-melodies/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Fresh/verdant-melodies/sprite.png",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "草帽蕾丝田园轻歌裙",
+      "silhouette": "A pastoral layered ensemble featuring a mint pinafore with ruffled shoulder straps over a lace-trimmed ivory blouse, cinched at the waist with a sash, and paired with a voluminous bell skirt.",
+      "headpiece_and_hair_ornaments": "Wide-brimmed woven straw hat adorned with clustered pink roses, greenery, and a ruffled lavender ribbon trim.",
+      "upper_garment_and_sleeves": "Ivory lace blouse with a square neckline and sheer ruffled cap sleeves, overlaid with a mint green bodice featuring a pleated sweetheart neckline, a floral corsage, and a green gemstone choker.",
+      "lower_garment_and_legwear": "A full, tiered mint green skirt with scalloped lace hems and floral embroidery, draped with a pink ribbon sash that cascades down the front, revealing frilly ivory bloomers beneath.",
+      "signature_props_and_motifs": "Detached white lace gloves with ribbon ties at the wrist, a woven straw hat, and scattered rose motifs.",
+      "color_palette": [
+        "Mint Green",
+        "Ivory",
+        "Pink",
+        "Straw Beige"
+      ],
+      "key_materials": [
+        "woven straw",
+        "Chantilly lace",
+        "silk ribbon",
+        "embroidered cotton",
+        "sheer organza"
+      ]
+    }
+  },
+  {
+    "slug": "gleaming-dance",
+    "title": "Gleaming Dance",
+    "cn_name": "熠熠舞曲",
+    "rarity": 4,
+    "style": "Fresh",
+    "labels": [
+      "Ballroom",
+      "Summer",
+      "舞会",
+      "清凉"
+    ],
+    "local_sprite": "images/Fresh/gleaming-dance/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Fresh/gleaming-dance/sprite.png",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "紫羽星芒舞会纱裙",
+      "silhouette": "Strapless ball gown with a fitted, draped satin bodice and a voluminous tiered tulle skirt; a cascading back bustle and asymmetrical sheer tulle overskirt create a romantic, airy A-line silhouette.",
+      "headpiece_and_hair_ornaments": "A slender, feather-like white hairpin with delicate silver filigree and small pearl accents, placed asymmetrically to catch the light.",
+      "upper_garment_and_sleeves": "A strapless bodice of lustrous lavender satin, ruched and gathered with an ornate brooch of white feathers and pearl clusters at the center, paired with elbow-length pale lilac gloves.",
+      "lower_garment_and_legwear": "A full, layered skirt with a crisp white tulle base, overlaid with sheer lilac tulle and scattered pearl sprays and floral appliqué; a draped satin bustle falls to the back.",
+      "signature_props_and_motifs": "A luminous pearl-and-feather brooch, delicate trailing vine motifs, and subtle floating star-like sparkles that accompany the dance.",
+      "color_palette": [
+        "lavender",
+        "white",
+        "silver",
+        "pale lilac"
+      ],
+      "key_materials": [
+        "lustrous satin",
+        "sheer tulle",
+        "pearl-encrusted embroidery",
+        "silk organza",
+        "metallic filigree"
+      ]
+    }
+  },
+  {
+    "slug": "purifying-wind",
+    "title": "Purifying Wind",
+    "cn_name": "伊风祓舞",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Divine",
+      "神谕"
+    ],
+    "local_sprite": "images/Sweet/purifying-wind/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Sweet/purifying-wind/sprite.png",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "神谕赤金圣纱舞衣",
+      "silhouette": "Layered two-piece desert-temple couture with a cropped draped blouse, ornate golden waist cincher, and a voluminous, asymmetrical split-front skirt with thigh-high slit and sweeping sash.",
+      "headpiece_and_hair_ornaments": "White sheer veil headdress with gold-banded edge, beaded forehead chain, and dangling turquoise and gold earrings; no hair color defined.",
+      "upper_garment_and_sleeves": "Sheer white draped organza blouse with cowl neckline, layered gold collar necklace set with turquoise cabochons, ornate gold filigree arm cuffs and wrist bangles, short cap sleeves with hanging gold beads.",
+      "lower_garment_and_legwear": "Asymmetrical layered skirt with dark burgundy velvet panels, sheer red and gold leaf-patterned silk tiers, knife pleats, and a high thigh slit; gold chain belt with turquoise clasp, bare legs with gold anklets, and red-gold strappy sandals.",
+      "signature_props_and_motifs": "Floating golden feather and leaf motifs, a glowing circular halo ring behind the back, drifting translucent light veils, and a handheld ceremonial wind staff.",
+      "color_palette": [
+        "white",
+        "burgundy red",
+        "gold",
+        "turquoise"
+      ],
+      "key_materials": [
+        "sheer draped organza",
+        "velvet fabric with gold embroidery",
+        "gilded ornate metal filigree",
+        "turquoise cabochon inlay",
+        "transparent chiffon veil"
+      ]
+    }
+  },
+  {
+    "slug": "sweet-memories",
+    "title": "Sweet Memories",
+    "cn_name": "流梦香甜忆",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Cute",
+      "Pastoral",
+      "甜心"
+    ],
+    "local_sprite": "images/Sweet/sweet-memories/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Sweet/sweet-memories/sprite.png",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "红丝绒甜心蕾丝洋装",
+      "silhouette": "A tiered bell-shaped lolita dress with a fitted corset bodice, voluminous gathered skirt, heavily ruffled hemline, and short puff sleeves creating a doll-like pastoral couture silhouette.",
+      "headpiece_and_hair_ornaments": "A wide-brimmed red velvet bonnet trimmed with white ruffled lace, topped with a black and white striped bow and tiny floral corsages.",
+      "upper_garment_and_sleeves": "A deep red velvet corset bodice with gold braided trim, front ribbon lacing, and a heart-shaped centerpiece, paired with sheer white lace puff sleeves and a pleated tartan-style yoke collar with a ribbon tie.",
+      "lower_garment_and_legwear": "A multi-layered skirt featuring a red velvet overskirt, woven gold and cream checkered mid-panel, and a ruffled hemline adorned with scattered white floral appliqués, worn with white lace-trimmed stockings and Mary Jane heels.",
+      "signature_props_and_motifs": "White floral appliqués scattered across the skirt, a heart-shaped centerpiece on the bodice, and the recurring motif of black and white striped ribbons.",
+      "color_palette": [
+        "deep crimson red",
+        "creamy white",
+        "golden metallic trim",
+        "black and white stripes"
+      ],
+      "key_materials": [
+        "crushed velvet",
+        "Chantilly lace",
+        "woven gingham check",
+        "gold braided cord",
+        "sheer organza"
+      ]
+    }
+  },
+  {
+    "slug": "far-and-away",
+    "title": "Far and Away",
+    "cn_name": "远方的遥想",
+    "rarity": 4,
+    "style": "Sweet",
+    "labels": [
+      "Fantasy"
+    ],
+    "local_sprite": "images/Sweet/far-and-away/sprite.png",
+    "local_wardrobe": [],
+    "local_main": "images/Sweet/far-and-away/sprite.png",
+    "engine": "smolproxy/deepseek-v4-flash",
+    "outfit_card": {
+      "aesthetic_tag_zh": "红绒蝶结糖梦礼裙",
+      "silhouette": "Empire-waist babydoll dress with a high-busted red velvet overbodice flaring into petal panels over a full white tulle skirt, finished with sheer puff sleeves and a delicate bow at the center front.",
+      "headpiece_and_hair_ornaments": "Oversized red-and-gold plaid bow headpiece with a small jeweled crown at its center, paired with a fine choker necklace for a coquettish, storybook finishing touch.",
+      "upper_garment_and_sleeves": "Square-neck red velvet bodice with scalloped hem, sheer white organza puff sleeves with ruffled lace cuffs, and a gold ribbon bow with trailing tails at the center front accented by tiny pearl buttons.",
+      "lower_garment_and_legwear": "Layered white tulle skirt with soft gathered tiers, gold ribbon streamers falling from the waist, sheer white lace stockings, and white bow-festooned gloves finishing the ensemble.",
+      "signature_props_and_motifs": "Sheer white lace gloves with ribbon wrist ties, scattered starry sparkles, and a small plaid bow motif echoing the headpiece for a sweet, fantasy-themed look.",
+      "color_palette": [
+        "crimson red",
+        "ivory white",
+        "antique gold",
+        "sheer organza white"
+      ],
+      "key_materials": [
+        "plaid taffeta bow",
+        "soft velvet bodice",
+        "sheer organza puff sleeves",
+        "tiered tulle skirt",
+        "fine lace trim"
+      ]
+    }
+  }
+]

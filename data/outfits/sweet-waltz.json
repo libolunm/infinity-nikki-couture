@@ -1,0 +1,50 @@
+{
+ "slug": "sweet-waltz",
+ "title": "Sweet Waltz",
+ "cn_name": "甜野小圆舞",
+ "rarity": 4,
+ "style": "Fresh",
+ "labels": [
+  "Whimsy",
+  "Pastoral",
+  "绮想"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Fresh/sweet-waltz/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Fresh/sweet-waltz/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "蘑菇森系田园圆舞裙",
+  "silhouette": "A-line pinafore-style dress with a layered ruffled hem, worn over a puff-sleeve blouse, featuring a wide ruffled witch-style hat and a tiered bell-shaped skirt with scattered floral appliqué.",
+  "headpiece_and_hair_ornaments": "Oversized floppy bonnet with scalloped lace trim, topped with a white pom-pom and multicolored ribbon bows.",
+  "upper_garment_and_sleeves": "Sheer organza blouse with a high ruffled collar, puffed elbow-length sleeves, and a fitted underbust bodice adorned with red ribbon bows and scalloped lace edging.",
+  "lower_garment_and_legwear": "Tiered skirt with lace-trimmed ruffles and macaron appliqués, layered over a knee-length petticoat; finished with floral-embroidered white stockings and lace-up red-and-white ankle boots.",
+  "signature_props_and_motifs": "A large red-and-white spotted mushroom cap backpack, a floating golden butterfly, and scattered rose petals.",
+  "color_palette": [
+   "cream white",
+   "soft red",
+   "golden yellow",
+   "sky blue"
+  ],
+  "key_materials": [
+   "sheer cotton voile",
+   "ruffled tulle",
+   "embroidered satin ribbon",
+   "crochet lace",
+   "appliquéd macaron felt"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with ivory-gold layered butterfly-pinned waves and deep sapphire eyes standing with serene regal presence in a softly lit atmospheric studio. Adorning her head: Oversized floppy bonnet with scalloped lace trim, topped with a white pom-pom and multicolored ribbon bows. For her upper attire, she wears Sheer organza blouse with a high ruffled collar, puffed elbow-length sleeves, and a fitted underbust bodice adorned with red ribbon bows and scalloped lace edging, rendered in cream white, soft red, golden yellow tones. Below the waist, Tiered skirt with lace-trimmed ruffles and macaron appliqués, layered over a knee-length petticoat; finished with floral-embroidered white stockings and lace-up red-and-white ankle boots, accompanied by A large red-and-white spotted mushroom cap backpack, a floating golden butterfly, and scattered rose petals.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with ivory-gold layered butterfly-pinned waves and deep sapphire eyes dressed in a cream white, soft red, golden yellow haute-couture ensemble featuring Sheer organza blouse with a high ruffled collar, puffed elbow-length sleeves, and a fitted underbust.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Oversized floppy bonnet with scalloped lace trim, topped with a white pom-pom and multicolored ribbon bows.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Sheer organza blouse with a high ruffled collar, puffed elbow-length sleeves, and a fitted underbust bodice adorned with red ribbon bows and scalloped lace edging.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Tiered skirt with lace-trimmed ruffles and macaron appliqués, layered over a knee-length petticoat; finished with floral-embroidered white stockings and lace-up red-and-white ankle boots, accented with A large red-and-white spotted mushroom cap backpack, a floating golden butterfly, and.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with oversized floppy bonnet with scalloped lace trim, topped with a white pom-pom and multicolored ribbon bows, standing against a quiet neutral studio backdrop. Dressed in a cream white, soft red, golden yellow haute-couture outfit, she wears sheer organza blouse with a high ruffled collar, puffed elbow-length sleeves, and a fitted underbust bodice adorned with red ribbon bows and scalloped lace edging. From her cinched waist cascades tiered skirt with lace-trimmed ruffles and macaron appliqués, layered over a knee-length petticoat; finished with floral-embroidered white stockings and lace-up red-and-white ankle boots, paired with a large red-and-white spotted crystalline floral cap backpack, a floating golden butterfly, and scattered rose petals.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing sheer organza blouse with a high ruffled collar, puffed elbow-length sleeves, and a fitted underbust.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with oversized floppy bonnet with scalloped lace trim, topped with a white pom-pom and multicolored ribbon bows.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Sheer organza blouse with a high ruffled collar, puffed elbow-length sleeves, and a fitted underbust bodice adorned with red ribbon bows and scalloped lace edging.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Tiered skirt with lace-trimmed ruffles and macaron appliqués, layered over a knee-length petticoat; finished with floral-embroidered white stockings and lace-up red-and-white ankle boots, accompanied by a large red-and-white spotted crystalline floral cap backpack, a floating golden butterfly.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of sheer cotton voile, ruffled tulle, embroidered satin ribbon, crochet lace across a cream white, soft red, golden yellow palette: at her crown sits oversized floppy bonnet with scalloped lace trim, topped with a white pom-pom and multicolored ribbon bows; her upper torso is cinched into sheer organza blouse with a high ruffled collar, puffed elbow-length sleeves, and a fitted underbust bodice adorned with red ribbon bows and scalloped lace edging, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs tiered skirt with lace-trimmed ruffles and macaron appliqués, layered over a knee-length petticoat; finished with floral-embroidered white stockings and lace-up red-and-white ankle boots, weighing down with real fabric gravity alongside a large red-and-white spotted mushroom cap backpack, a floating golden butterfly, and scattered rose petals.",
+ "krea2_full_prompt": "the camera sits at chest height shifted slightly to her left, so that the overlapping fabric folds at her cinched waist and her raised forearm sleeves form the dominant diagonal across the canvas. a young woman with ivory-gold layered butterfly-pinned waves and large deep sapphire eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of sheer cotton voile, ruffled tulle, embroidered satin ribbon, crochet lace across a cream white, soft red, golden yellow palette: at her crown sits oversized floppy bonnet with scalloped lace trim, topped with a white pom-pom and multicolored ribbon bows; her upper torso is cinched into sheer organza blouse with a high ruffled collar, puffed elbow-length sleeves, and a fitted underbust bodice adorned with red ribbon bows and scalloped lace edging, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs tiered skirt with lace-trimmed ruffles and macaron appliqués, layered over a knee-length petticoat; finished with floral-embroidered white stockings and lace-up red-and-white ankle boots, weighing down with real fabric gravity alongside a large red-and-white spotted mushroom cap backpack, a floating golden butterfly, and scattered rose petals. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Sweet Waltz",
+  "甜野小圆舞"
+ ],
+ "images": [
+  "images/Fresh/sweet-waltz/wardrobe_1.jpg"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "slug": "scaly-dream",
+ "title": "Scaly Dream",
+ "cn_name": "幽鳞渡梦生",
+ "rarity": 4,
+ "style": "Cool",
+ "labels": [
+  "Linlang"
+ ],
+ "local_sprite": "images/Cool/scaly-dream/sprite.png",
+ "local_wardrobe": [
+  "images/Cool/scaly-dream/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Cool/scaly-dream/wardrobe_1.jpg",
+ "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+ "outfit_card": {
+  "aesthetic_tag_zh": "墨鳞碧波织金云裳",
+  "silhouette": "Asymmetric layered martial-arts couture featuring an open-front pinstriped half-coat, cropped inner bodice, wide belted midriff, and structured pleated split skirt layered with sheer shimmering panels.",
+  "headpiece_and_hair_ornaments": "Sculpted silver loong hair ornament clasping a topknot, accompanied by a circular metallic braid ring and dangling jade bead hair drops.",
+  "upper_garment_and_sleeves": "High-collared cropped emerald bodice with frog buttons and scenic wave embroidery, layered under a structured black pinstriped coat featuring bell sleeves with tiered pleated organza ruffles.",
+  "lower_garment_and_legwear": "High-waisted geometric-patterned black pleated wrap skirt adorned with semi-translucent sparkling plissé godets, secured with a broad cinnabar-accented obi belt and hanging gilded loong tassel ornament.",
+  "signature_props_and_motifs": "Scaled dragon claw motifs, fingerless lace armwear, auspicious red bead wristlet, and gilded dragon buckle with suspended dangling chime pendants.",
+  "color_palette": [
+   "obsidian black",
+   "emerald green",
+   "antique gold",
+   "cinnabar red"
+  ],
+  "key_materials": [
+   "pinstriped wool twill",
+   "embroidered emerald silk satin",
+   "shimmering pleated plissé organza",
+   "fine patterned lace"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with warm-taupe fluffy bobbed curls and olive-emerald eyes standing with gentle attentive look in a softly lit atmospheric studio. Adorning her head: Sculpted silver loong hair ornament clasping a topknot, accompanied by a circular metallic braid ring and dangling jade bead hair drops. For her upper attire, she wears High-collared cropped emerald bodice with frog buttons and scenic wave embroidery, layered under a structured black pinstriped coat featuring bell sleeves with tiered pleated organza ruffles, rendered in obsidian black, emerald green, antique gold tones. Below the waist, High-waisted geometric-patterned black pleated wrap skirt adorned with semi-translucent sparkling plissé godets, secured with a broad cinnabar-accented obi belt and hanging gilded loong tassel ornament, accompanied by Scaled dragon claw motifs, fingerless lace armwear, auspicious red bead wristlet, and gilded dragon buckle with suspended dangling chime pendants.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with warm-taupe fluffy bobbed curls and olive-emerald eyes dressed in a obsidian black, emerald green, antique gold haute-couture ensemble featuring High-collared cropped emerald bodice with frog buttons and scenic wave embroidery, layered under a.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Sculpted silver loong hair ornament clasping a topknot, accompanied by a circular metallic braid ring and dangling jade bead hair drops.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"High-collared cropped emerald bodice with frog buttons and scenic wave embroidery, layered under a structured black pinstriped coat featuring bell sleeves with tiered pleated organza ruffles.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"High-waisted geometric-patterned black pleated wrap skirt adorned with semi-translucent sparkling plissé godets, secured with a broad cinnabar-accented obi belt and hanging gilded loong tassel ornament, accented with Scaled dragon claw motifs, fingerless lace armwear, auspicious red bead wristlet, and gilded.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with sculpted silver loong hair ornament clasping a topknot, accompanied by a circular metallic braid ring and dangling jade bead hair drops, standing against a quiet neutral studio backdrop. Dressed in a obsidian black, emerald green, antique gold haute-couture outfit, she wears high-collared cropped emerald bodice with frog buttons and scenic wave embroidery, layered under a structured black pinstriped coat featuring bell sleeves with tiered pleated organza ruffles. From her cinched waist cascades high-waisted geometric-patterned black pleated wrap skirt adorned with semi-translucent sparkling plissé godets, secured with a broad cinnabar-accented obi belt and hanging gilded loong tassel ornament, paired with scaled dragon claw motifs, fingerless lace armwear, auspicious red bead wristlet, and gilded dragon buckle with suspended dangling chime pendants.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing high-collared cropped emerald bodice with frog buttons and scenic wave embroidery, layered under a.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with sculpted silver loong hair ornament clasping a topknot, accompanied by a circular metallic braid ring and dangling jade bead hair drops.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"High-collared cropped emerald bodice with frog buttons and scenic wave embroidery, layered under a structured black pinstriped coat featuring bell sleeves with tiered pleated organza ruffles.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"High-waisted geometric-patterned black pleated wrap skirt adorned with semi-translucent sparkling plissé godets, secured with a broad cinnabar-accented obi belt and hanging gilded loong tassel ornament, accompanied by scaled dragon claw motifs, fingerless lace armwear, auspicious red bead wristlet, and gilded.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of pinstriped wool twill, embroidered emerald silk satin, shimmering pleated plissé organza, fine patterned lace across a obsidian black, emerald green, antique gold palette: at her crown sits sculpted silver loong hair ornament clasping a topknot, accompanied by a circular metallic braid ring and dangling jade bead hair drops; her upper torso is cinched into high-collared cropped emerald bodice with frog buttons and scenic wave embroidery, layered under a structured black pinstriped coat featuring bell sleeves with tiered pleated organza ruffles, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs high-waisted geometric-patterned black pleated wrap skirt adorned with semi-translucent sparkling plissé godets, secured with a broad cinnabar-accented obi belt and hanging gilded loong tassel ornament, weighing down with real fabric gravity alongside scaled dragon claw motifs, fingerless lace armwear, auspicious red bead wristlet, and gilded dragon buckle with suspended dangling chime pendants.",
+ "krea2_full_prompt": "the camera sits level with her collarbone at a slight three-quarter angle, so that the wide translucent drape of her sleeves and the layered collar-to-waist embroidery fill the center of the composition. a young woman with warm-taupe fluffy bobbed curls and large olive-emerald eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of pinstriped wool twill, embroidered emerald silk satin, shimmering pleated plissé organza, fine patterned lace across a obsidian black, emerald green, antique gold palette: at her crown sits sculpted silver loong hair ornament clasping a topknot, accompanied by a circular metallic braid ring and dangling jade bead hair drops; her upper torso is cinched into high-collared cropped emerald bodice with frog buttons and scenic wave embroidery, layered under a structured black pinstriped coat featuring bell sleeves with tiered pleated organza ruffles, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs high-waisted geometric-patterned black pleated wrap skirt adorned with semi-translucent sparkling plissé godets, secured with a broad cinnabar-accented obi belt and hanging gilded loong tassel ornament, weighing down with real fabric gravity alongside scaled dragon claw motifs, fingerless lace armwear, auspicious red bead wristlet, and gilded dragon buckle with suspended dangling chime pendants. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Scaly Dream",
+  "幽鳞渡梦生"
+ ],
+ "images": [
+  "images/Cool/scaly-dream/sprite.png",
+  "images/Cool/scaly-dream/wardrobe_1.jpg"
+ ]
+}

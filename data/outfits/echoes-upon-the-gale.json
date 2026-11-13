@@ -1,0 +1,50 @@
+{
+ "slug": "echoes-upon-the-gale",
+ "title": "Echoes Upon the Gale",
+ "cn_name": "风过遗音",
+ "rarity": 4,
+ "style": "Elegant",
+ "labels": [
+  "Forest",
+  "Fantasy",
+  "森林"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Elegant/echoes-upon-the-gale/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Elegant/echoes-upon-the-gale/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "风语银铃羽纱仙裙",
+  "silhouette": "An ethereal off-shoulder gown with a layered tulle skirt, cascading asymmetric drapery, a structured corseted bodice, and detached sheer arm drapes.",
+  "headpiece_and_hair_ornaments": "A delicate silver chain circlet with a central blue gemstone, accented by a white feather and a small floral hairpin.",
+  "upper_garment_and_sleeves": "A strapless bodice with a sweetheart neckline, encrusted with silver filigree, crystal beads, and pearl embroidery, featuring sheer detached arm drapes and a choker with a gemstone.",
+  "lower_garment_and_legwear": "A flowing, layered tulle skirt with soft pleats and a sheer, trailing overskirt, paired with the suggestion of elegant, low-heeled silver slippers.",
+  "signature_props_and_motifs": "A large, luminous white feather floating nearby, along with scattered crystal droplets and trailing pearl chains that evoke wind and sound.",
+  "color_palette": [
+   "pale lavender",
+   "silver-white",
+   "pearl",
+   "ice blue"
+  ],
+  "key_materials": [
+   "pearl-encrusted sheer organza",
+   "silver filigree lace",
+   "iridescent crystal beading",
+   "soft layered tulle",
+   "satin ribbon"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with warm-taupe fluffy bobbed curls and olive-emerald eyes standing with gentle attentive look in a softly lit atmospheric studio. Adorning her head: A delicate silver chain circlet with a central blue gemstone, accented by a white feather and a small floral hairpin. For her upper attire, she wears A strapless bodice with a sweetheart neckline, encrusted with silver filigree, crystal beads, and pearl embroidery, featuring sheer detached arm drapes and a choker with a gemstone, rendered in pale lavender, silver-white, pearl tones. Below the waist, A flowing, layered tulle skirt with soft pleats and a sheer, trailing overskirt, paired with the suggestion of elegant, low-heeled silver slippers, accompanied by A large, luminous white feather floating nearby, along with scattered crystal droplets and trailing pearl chains that evoke wind and sound.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with warm-taupe fluffy bobbed curls and olive-emerald eyes dressed in a pale lavender, silver-white, pearl haute-couture ensemble featuring A strapless bodice with a sweetheart neckline, encrusted with silver filigree, crystal beads, and pearl.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"A delicate silver chain circlet with a central blue gemstone, accented by a white feather and a small floral hairpin.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"A strapless bodice with a sweetheart neckline, encrusted with silver filigree, crystal beads, and pearl embroidery, featuring sheer detached arm drapes and a choker with a gemstone.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"A flowing, layered tulle skirt with soft pleats and a sheer, trailing overskirt, paired with the suggestion of elegant, low-heeled silver slippers, accented with A large, luminous white feather floating nearby, along with scattered crystal droplets and.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with a delicate silver chain circlet with a central blue gemstone, accented by a white feather and a small floral hairpin, standing against a quiet neutral studio backdrop. Dressed in a pale lavender, silver-white, pearl haute-couture outfit, she wears a strapless bodice with a sweetheart neckline, encrusted with silver filigree, crystal beads, and pearl embroidery, featuring sheer detached arm drapes and a choker with a gemstone. From her cinched waist cascades a flowing, layered tulle skirt with soft pleats and a sheer, trailing overskirt, paired with the suggestion of elegant, low-heeled silver slippers, paired with a large, luminous white feather floating nearby, along with scattered crystal droplets and trailing pearl chains that evoke wind and sound.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing a strapless bodice with a sweetheart neckline, encrusted with silver filigree, crystal beads, and pearl.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with a delicate silver chain circlet with a central blue gemstone, accented by a white feather and a small floral hairpin.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"A strapless bodice with a sweetheart neckline, encrusted with silver filigree, crystal beads, and pearl embroidery, featuring sheer detached arm drapes and a choker with a gemstone.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"A flowing, layered tulle skirt with soft pleats and a sheer, trailing overskirt, paired with the suggestion of elegant, low-heeled silver slippers, accompanied by a large, luminous white feather floating nearby, along with scattered crystal droplets and.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of pearl-encrusted sheer organza, silver filigree lace, iridescent crystal beading, soft layered tulle across a pale lavender, silver-white, pearl palette: at her crown sits a delicate silver chain circlet with a central blue gemstone, accented by a white feather and a small floral hairpin; her upper torso is cinched into a strapless bodice with a sweetheart neckline, encrusted with silver filigree, crystal beads, and pearl embroidery, featuring sheer detached arm drapes and a choker with a gemstone, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a flowing, layered tulle skirt with soft pleats and a sheer, trailing overskirt, paired with the suggestion of elegant, low-heeled silver slippers, weighing down with real fabric gravity alongside a large, luminous white feather floating nearby, along with scattered crystal droplets and trailing pearl chains that evoke wind and sound.",
+ "krea2_full_prompt": "the camera sits level with her collarbone at a slight three-quarter angle, so that the wide translucent drape of her sleeves and the layered collar-to-waist embroidery fill the center of the composition. a young woman with warm-taupe fluffy bobbed curls and large olive-emerald eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of pearl-encrusted sheer organza, silver filigree lace, iridescent crystal beading, soft layered tulle across a pale lavender, silver-white, pearl palette: at her crown sits a delicate silver chain circlet with a central blue gemstone, accented by a white feather and a small floral hairpin; her upper torso is cinched into a strapless bodice with a sweetheart neckline, encrusted with silver filigree, crystal beads, and pearl embroidery, featuring sheer detached arm drapes and a choker with a gemstone, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a flowing, layered tulle skirt with soft pleats and a sheer, trailing overskirt, paired with the suggestion of elegant, low-heeled silver slippers, weighing down with real fabric gravity alongside a large, luminous white feather floating nearby, along with scattered crystal droplets and trailing pearl chains that evoke wind and sound. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Echoes Upon the Gale",
+  "风过遗音"
+ ],
+ "images": [
+  "images/Elegant/echoes-upon-the-gale/wardrobe_1.jpg"
+ ]
+}

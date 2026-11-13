@@ -1,0 +1,49 @@
+{
+ "slug": "forest-s-fluttering",
+ "title": "Forest's Fluttering",
+ "cn_name": "林间戏蝶",
+ "rarity": 4,
+ "style": "Fresh",
+ "labels": [
+  "Pastoral",
+  "Adventure",
+  "冒险"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Fresh/forest-s-fluttering/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Fresh/forest-s-fluttering/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "森语蝶翼探险装",
+  "silhouette": "A-line layered explorer coat-dress with a pinched waist corset, flared midi skirt, voluminous puffed sleeves, and an asymmetrical diagonal chest strap.",
+  "headpiece_and_hair_ornaments": "A structured cream newsboy cap adorned with round daisy-motif goggles, a gold-trimmed brim, and a delicate ribbon tassel hanging at the side.",
+  "upper_garment_and_sleeves": "Cream safari-style bodice with gold piping, a high collar, and a diagonal leather strap, overlaid with an emerald-green gathered corset featuring a large, translucent butterfly-wing motif and puffed half-sleeves with dark piping.",
+  "lower_garment_and_legwear": "A tiered cream midi skirt with utility pockets and gold button accents, paired with dark knee-high socks and sturdy forest-green lace-up hiking boots.",
+  "signature_props_and_motifs": "A transparent glass jar with a gold lid and a glowing butterfly inside, worn with a leather crossbody strap, alongside translucent butterfly accents and scattered daisy motifs.",
+  "color_palette": [
+   "cream",
+   "emerald green",
+   "gold",
+   "translucent iridescent green"
+  ],
+  "key_materials": [
+   "cream cotton twill",
+   "translucent organza butterfly appliqué",
+   "gold piping",
+   "leather utility straps"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with pale-apricot sweeping airy waves and seafoam-teal eyes standing with light buoyant elegance in a softly lit atmospheric studio. Adorning her head: A structured cream newsboy cap adorned with round daisy-motif goggles, a gold-trimmed brim, and a delicate ribbon tassel hanging at the side. For her upper attire, she wears Cream safari-style bodice with gold piping, a high collar, and a diagonal leather strap, overlaid with an emerald-green gathered corset featuring a large, translucent butterfly-wing motif and puffed half-sleeves with dark piping, rendered in cream, emerald green, gold tones. Below the waist, A tiered cream midi skirt with utility pockets and gold button accents, paired with dark knee-high socks and sturdy forest-green lace-up hiking boots, accompanied by A transparent glass jar with a gold lid and a glowing butterfly inside, worn with a leather crossbody strap, alongside translucent butterfly accents and scattered daisy motifs.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with pale-apricot sweeping airy waves and seafoam-teal eyes dressed in a cream, emerald green, gold haute-couture ensemble featuring Cream safari-style bodice with gold piping, a high collar, and a diagonal leather strap, overlaid with.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"A structured cream newsboy cap adorned with round daisy-motif goggles, a gold-trimmed brim, and a delicate ribbon tassel hanging at the side.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Cream safari-style bodice with gold piping, a high collar, and a diagonal leather strap, overlaid with an emerald-green gathered corset featuring a large, translucent butterfly-wing motif and puffed half-sleeves with dark piping.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"A tiered cream midi skirt with utility pockets and gold button accents, paired with dark knee-high socks and sturdy forest-green lace-up hiking boots, accented with A transparent glass jar with a gold lid and a glowing butterfly inside, worn with a leather.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with a structured cream newsboy cap adorned with round daisy-motif goggles, a gold-trimmed brim, and a delicate ribbon tassel hanging at the side, standing against a quiet neutral studio backdrop. Dressed in a cream, emerald green, gold haute-couture outfit, she wears cream safari-style bodice with gold piping, a high collar, and a diagonal leather strap, overlaid with an emerald-green gathered corset featuring a large, translucent butterfly-wing motif and puffed half-sleeves with dark piping. From her cinched waist cascades a tiered cream midi skirt with utility pockets and gold button accents, paired with dark knee-high socks and sturdy deep emerald-green lace-up hiking boots, paired with a transparent glass jar with a gold lid and a glowing butterfly inside, worn with a leather crossbody strap, alongside translucent butterfly accents and scattered daisy motifs.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing cream safari-style bodice with gold piping, a high collar, and a diagonal leather strap, overlaid with.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with a structured cream newsboy cap adorned with round daisy-motif goggles, a gold-trimmed brim, and a delicate ribbon tassel hanging at the side.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Cream safari-style bodice with gold piping, a high collar, and a diagonal leather strap, overlaid with an emerald-green gathered corset featuring a large, translucent butterfly-wing motif and puffed half-sleeves with dark piping.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"A tiered cream midi skirt with utility pockets and gold button accents, paired with dark knee-high socks and sturdy deep emerald-green lace-up hiking boots, accompanied by a transparent glass jar with a gold lid and a glowing butterfly inside, worn with a leather.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of cream cotton twill, translucent organza butterfly appliqué, gold piping, leather utility straps across a cream, emerald green, gold palette: at her crown sits a structured cream newsboy cap adorned with round daisy-motif goggles, a gold-trimmed brim, and a delicate ribbon tassel hanging at the side; her upper torso is cinched into cream safari-style bodice with gold piping, a high collar, and a diagonal leather strap, overlaid with an emerald-green gathered corset featuring a large, translucent butterfly-wing motif and puffed half-sleeves with dark piping, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a tiered cream midi skirt with utility pockets and gold button accents, paired with dark knee-high socks and sturdy forest-green lace-up hiking boots, weighing down with real fabric gravity alongside a transparent glass jar with a gold lid and a glowing butterfly inside, worn with a leather crossbody strap, alongside translucent butterfly accents and scattered daisy motifs.",
+ "krea2_full_prompt": "the camera sits at chest height shifted slightly to her left, so that the overlapping fabric folds at her cinched waist and her raised forearm sleeves form the dominant diagonal across the canvas. a young woman with pale-apricot sweeping airy waves and large seafoam-teal eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of cream cotton twill, translucent organza butterfly appliqué, gold piping, leather utility straps across a cream, emerald green, gold palette: at her crown sits a structured cream newsboy cap adorned with round daisy-motif goggles, a gold-trimmed brim, and a delicate ribbon tassel hanging at the side; her upper torso is cinched into cream safari-style bodice with gold piping, a high collar, and a diagonal leather strap, overlaid with an emerald-green gathered corset featuring a large, translucent butterfly-wing motif and puffed half-sleeves with dark piping, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a tiered cream midi skirt with utility pockets and gold button accents, paired with dark knee-high socks and sturdy forest-green lace-up hiking boots, weighing down with real fabric gravity alongside a transparent glass jar with a gold lid and a glowing butterfly inside, worn with a leather crossbody strap, alongside translucent butterfly accents and scattered daisy motifs. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Forest's Fluttering",
+  "林间戏蝶"
+ ],
+ "images": [
+  "images/Fresh/forest-s-fluttering/wardrobe_1.jpg"
+ ]
+}

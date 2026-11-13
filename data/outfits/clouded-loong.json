@@ -1,0 +1,53 @@
+{
+ "slug": "clouded-loong",
+ "title": "Clouded Loong",
+ "cn_name": "龙隐云墨间",
+ "rarity": 5,
+ "style": "Cool",
+ "labels": [
+  "Linlang",
+  "Royal"
+ ],
+ "local_sprite": "images/Cool/clouded-loong/sprite.png",
+ "local_wardrobe": [
+  "images/Cool/clouded-loong/wardrobe_1.jpg",
+  "images/Cool/clouded-loong/wardrobe_2.jpg",
+  "images/Cool/clouded-loong/wardrobe_3.jpg"
+ ],
+ "local_main": "images/Cool/clouded-loong/wardrobe_1.jpg",
+ "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+ "outfit_card": {
+  "aesthetic_tag_zh": "霜角云螭墨隐仙裳",
+  "silhouette": "Multi-layered traditional regal silhouette with flowing inner robes, fitted embroidered waist, expansive sweeping flared skirt, and sweeping crystalline-trimmed floor-length sheer draped outer sleeves.",
+  "headpiece_and_hair_ornaments": "Intricate crystalline dragon-antler crown integrated with silver filigree, floral hairpins, suspended beaded tassels, and dangling turquoise gemstone pendants.",
+  "upper_garment_and_sleeves": "Mandarin-collared crossover silk bodice embellished with gold couching, beaded breast chains, layered jacquard lapels, and ethereal sheer cloud-mist sleeves draped with delicate tassel fringe.",
+  "lower_garment_and_legwear": "Tiered floor-length pleated silk skirt overlaid with embroidered azure panels, adorned with dangling jade waist pendants, beaded ribbons, braided silk cording, and concealed embroidered slippers.",
+  "signature_props_and_motifs": "Handheld half-face dragon masquerade mask carved in frosted crystal with red filigree accents, accompanied by floating cyan silk ribbons.",
+  "color_palette": [
+   "moonlight white",
+   "celadon cyan",
+   "silver frost",
+   "vermilion red"
+  ],
+  "key_materials": [
+   "frosted crystalline acrylic",
+   "jacquard silk brocade",
+   "sheer iridescent organza",
+   "silver filigree with jade beads"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with silver-white braided half-up long hair and ice-blue eyes standing with calm, unblinking poise in a softly lit atmospheric studio. Adorning her head: Intricate crystalline dragon-antler crown integrated with silver filigree, floral hairpins, suspended beaded tassels, and dangling turquoise gemstone pendants. For her upper attire, she wears Mandarin-collared crossover silk bodice embellished with gold couching, beaded breast chains, layered jacquard lapels, and ethereal sheer cloud-mist sleeves draped with delicate tassel fringe, rendered in moonlight white, celadon cyan, silver frost tones. Below the waist, Tiered floor-length pleated silk skirt overlaid with embroidered azure panels, adorned with dangling jade waist pendants, beaded ribbons, braided silk cording, and concealed embroidered slippers, accompanied by Handheld half-face dragon masquerade mask carved in frosted crystal with red filigree accents, accompanied by floating cyan silk ribbons.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with silver-white braided half-up long hair and ice-blue eyes dressed in a moonlight white, celadon cyan, silver frost haute-couture ensemble featuring Mandarin-collared crossover silk bodice embellished with gold couching, beaded breast chains, layered.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Intricate crystalline dragon-antler crown integrated with silver filigree, floral hairpins, suspended beaded tassels, and dangling turquoise gemstone pendants.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Mandarin-collared crossover silk bodice embellished with gold couching, beaded breast chains, layered jacquard lapels, and ethereal sheer cloud-mist sleeves draped with delicate tassel fringe.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Tiered floor-length pleated silk skirt overlaid with embroidered azure panels, adorned with dangling jade waist pendants, beaded ribbons, braided silk cording, and concealed embroidered slippers, accented with Handheld half-face dragon masquerade mask carved in frosted crystal with red filigree accents.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with intricate crystalline dragon-antler crown integrated with silver filigree, floral hairpins, suspended beaded tassels, and dangling turquoise gemstone pendants, standing against a quiet neutral studio backdrop. Dressed in a moonlight white, celadon cyan, silver frost haute-couture outfit, she wears mandarin-collared crossover silk bodice embellished with gold couching, beaded breast chains, layered jacquard lapels, and ethereal sheer cloud-mist sleeves draped with delicate tassel fringe. From her cinched waist cascades tiered floor-length pleated silk skirt overlaid with embroidered azure panels, adorned with dangling jade waist pendants, beaded ribbons, braided silk cording, and concealed embroidered slippers, paired with handheld half-face dragon masquerade mask carved in frosted crystal with red filigree accents, accompanied by floating cyan silk ribbons.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing mandarin-collared crossover silk bodice embellished with gold couching, beaded breast chains, layered.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with intricate crystalline dragon-antler crown integrated with silver filigree, floral hairpins, suspended beaded tassels, and dangling turquoise gemstone pendants.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Mandarin-collared crossover silk bodice embellished with gold couching, beaded breast chains, layered jacquard lapels, and ethereal sheer cloud-mist sleeves draped with delicate tassel fringe.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Tiered floor-length pleated silk skirt overlaid with embroidered azure panels, adorned with dangling jade waist pendants, beaded ribbons, braided silk cording, and concealed embroidered slippers, accompanied by handheld half-face dragon masquerade mask carved in frosted crystal with red filigree accents.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of frosted crystalline acrylic, jacquard silk brocade, sheer iridescent organza, silver filigree with jade beads across a moonlight white, celadon cyan, silver frost palette: at her crown sits crystalline dragon-antler crown integrated with silver filigree, floral hairpins, suspended beaded tassels, and dangling turquoise gemstone pendants; her upper torso is cinched into mandarin-collared crossover silk bodice embellished with gold couching, beaded breast chains, layered jacquard lapels, and sheer cloud-mist sleeves draped with delicate tassel fringe, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs tiered floor-length pleated silk skirt overlaid with embroidered azure panels, adorned with dangling jade waist pendants, beaded ribbons, braided silk cording, and concealed embroidered slippers, weighing down with real fabric gravity alongside handheld half-face dragon masquerade mask carved in frosted crystal with red filigree accents, accompanied by floating cyan silk ribbons.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with silver-white braided half-up long hair and large ice-blue eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of frosted crystalline acrylic, jacquard silk brocade, sheer iridescent organza, silver filigree with jade beads across a moonlight white, celadon cyan, silver frost palette: at her crown sits crystalline dragon-antler crown integrated with silver filigree, floral hairpins, suspended beaded tassels, and dangling turquoise gemstone pendants; her upper torso is cinched into mandarin-collared crossover silk bodice embellished with gold couching, beaded breast chains, layered jacquard lapels, and sheer cloud-mist sleeves draped with delicate tassel fringe, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs tiered floor-length pleated silk skirt overlaid with embroidered azure panels, adorned with dangling jade waist pendants, beaded ribbons, braided silk cording, and concealed embroidered slippers, weighing down with real fabric gravity alongside handheld half-face dragon masquerade mask carved in frosted crystal with red filigree accents, accompanied by floating cyan silk ribbons. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Clouded Loong",
+  "龙隐云墨间"
+ ],
+ "images": [
+  "images/Cool/clouded-loong/sprite.png",
+  "images/Cool/clouded-loong/wardrobe_1.jpg",
+  "images/Cool/clouded-loong/wardrobe_2.jpg",
+  "images/Cool/clouded-loong/wardrobe_3.jpg"
+ ]
+}

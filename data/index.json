@@ -1,0 +1,2706 @@
+{
+ "name": "Infinity Nikki Couture Prompt Library",
+ "version": "2026.11.13",
+ "count": 104,
+ "license_note": "Outfit designs (c) Infold Games; prompt text free to reuse and adapt.",
+ "engines": {
+  "moss": "MOSS-Image nested-box JSON, 1024x1536 canvas, abs_centralized/yxyx bboxes",
+  "krea2": "Krea2 natural-language prose, camera-first, layered fabric physics"
+ },
+ "fields": {
+  "original_moss_json": "MOSS prompt with a fresh random girl (string of JSON)",
+  "sonnet_moss_json": "MOSS prompt with a fixed recurring character, for A/B compares",
+  "krea2_wardrobe_prose": "Krea2 outfit paragraph only, splice into your own scene",
+  "krea2_full_prompt": "Krea2 full prompt: camera + figure + outfit + light",
+  "outfit_card": "plain structure card: silhouette/headpiece/upper/lower/props/palette/materials"
+ },
+ "outfits": [
+  {
+   "slug": "clouded-loong",
+   "title": "Clouded Loong",
+   "cn_name": "龙隐云墨间",
+   "rarity": 5,
+   "style": "Cool",
+   "labels": [
+    "Linlang",
+    "Royal"
+   ],
+   "materials": [
+    "frosted crystalline acrylic",
+    "jacquard silk brocade",
+    "sheer iridescent organza",
+    "silver filigree with jade beads"
+   ],
+   "palette": [
+    "moonlight white",
+    "celadon cyan",
+    "silver frost",
+    "vermilion red"
+   ],
+   "gist_zh": "霜角云螭墨隐仙裳（moonlight white、celadon cyan、silver frost）",
+   "file": "data/outfits/clouded-loong.json"
+  },
+  {
+   "slug": "forever-bond",
+   "title": "Forever Bond",
+   "cn_name": "缘缘长相念",
+   "rarity": 5,
+   "style": "Sexy",
+   "labels": [
+    "Linlang",
+    "Fantasy"
+   ],
+   "materials": [
+    "pearl-strung mesh",
+    "gilded silk brocade",
+    "cloisonné metalwork",
+    "gradient pleated organza",
+    "iridescent plush faux fur"
+   ],
+   "palette": [
+    "vermilion red",
+    "coral peach",
+    "burnished gold",
+    "cornflower blue accent"
+   ],
+   "gist_zh": "灵狐珠缀莲华仙裳（vermilion red、coral peach、burnished gold）",
+   "file": "data/outfits/forever-bond.json"
+  },
+  {
+   "slug": "chroma-s-mortal-heart",
+   "title": "Chroma's Mortal Heart",
+   "cn_name": "九色亦尘心",
+   "rarity": 5,
+   "style": "Elegant",
+   "labels": [
+    "Divine",
+    "Forest"
+   ],
+   "materials": [
+    "gilded silk organza",
+    "filigree metalwork",
+    "polychrome silk brocade",
+    "crystalline glass beads"
+   ],
+   "palette": [
+    "celestial gold",
+    "ivory white",
+    "gilded brass",
+    "jade green"
+   ],
+   "gist_zh": "金缕九色灵鹿神裳（celestial gold、ivory white、gilded brass）",
+   "file": "data/outfits/chroma-s-mortal-heart.json"
+  },
+  {
+   "slug": "radiant-crown",
+   "title": "Radiant Crown",
+   "cn_name": "烛金日冕",
+   "rarity": 5,
+   "style": "Elegant",
+   "labels": [
+    "Glow",
+    "Royal"
+   ],
+   "materials": [
+    "gilded lamé silk",
+    "chiseled filigree metalwork",
+    "pearl-threaded chainwork",
+    "semi-sheer ivory organza"
+   ],
+   "palette": [
+    "Imperial gold",
+    "Radiant ivory",
+    "Polished brass",
+    "Luminous champagne"
+   ],
+   "gist_zh": "炽金神晖日冕礼服（Imperial gold、Radiant ivory、Polished brass）",
+   "file": "data/outfits/radiant-crown.json"
+  },
+  {
+   "slug": "enchanted-encounter",
+   "title": "Enchanted Encounter",
+   "cn_name": "仙踪绮遇",
+   "rarity": 5,
+   "style": "Elegant",
+   "labels": [
+    "Fairy",
+    "Ballroom"
+   ],
+   "materials": [
+    "iridescent pleated organza",
+    "gilded silk satin",
+    "embroidered Chantilly lace",
+    "faceted crystal beadwork"
+   ],
+   "palette": [
+    "blush pink",
+    "iridescent crystal white",
+    "celestial gold",
+    "prismatic pastel sheen"
+   ],
+   "gist_zh": "星辉晶翼仙子礼服（blush pink、iridescent crystal white、celestial gold）",
+   "file": "data/outfits/enchanted-encounter.json"
+  },
+  {
+   "slug": "crimson-rhapsody",
+   "title": "Crimson Rhapsody",
+   "cn_name": "绯夜狂想录",
+   "rarity": 5,
+   "style": "Elegant",
+   "labels": [
+    "Playful",
+    "Royal"
+   ],
+   "materials": [
+    "crushed velvet",
+    "gilded jacquard",
+    "diamond-patterned silk",
+    "tiered ruffled lace"
+   ],
+   "palette": [
+    "crimson red",
+    "antique cream",
+    "burnished gold",
+    "harlequin diamond beige"
+   ],
+   "gist_zh": "绯红菱格戏偶华服（crimson red、antique cream、burnished gold）",
+   "file": "data/outfits/crimson-rhapsody.json"
+  },
+  {
+   "slug": "rippling-reverie",
+   "title": "Rippling Reverie",
+   "cn_name": "梦是心之涟",
+   "rarity": 5,
+   "style": "Sweet",
+   "labels": [
+    "Glow",
+    "Spirited"
+   ],
+   "materials": [
+    "liquid-sheen iridescent organza",
+    "sculpted crystal resin",
+    "seed pearl embroidery",
+    "prismatic sheer tulle"
+   ],
+   "palette": [
+    "aquamarine blue",
+    "opalescent lilac",
+    "silver crystal shimmer",
+    "prismatic iridescent teal"
+   ],
+   "gist_zh": "晶莹幻彩水母仙裙（aquamarine blue、opalescent lilac、silver crystal shi",
+   "file": "data/outfits/rippling-reverie.json"
+  },
+  {
+   "slug": "dreamtime-bestowed",
+   "title": "Dreamtime Bestowed",
+   "cn_name": "予梦心时",
+   "rarity": 5,
+   "style": "Sweet",
+   "labels": [
+    "Whimsy",
+    "Glow"
+   ],
+   "materials": [
+    "iridescent organza",
+    "glitter-dusted tulle",
+    "pearl beadwork",
+    "embossed pink jacquard"
+   ],
+   "palette": [
+    "iridescent pastel pink",
+    "pearlescent white",
+    "crystal rose gold",
+    "opalescent rainbow shimmer"
+   ],
+   "gist_zh": "珠光虹彩童话蓬裙（iridescent pastel pink、pearlescent white、crystal ro",
+   "file": "data/outfits/dreamtime-bestowed.json"
+  },
+  {
+   "slug": "echoed-dreams",
+   "title": "Echoed Dreams",
+   "cn_name": "咏叙的旧梦",
+   "rarity": 5,
+   "style": "Sweet",
+   "labels": [
+    "Ballroom",
+    "Royal"
+   ],
+   "materials": [
+    "heavy silk duchess satin",
+    "gilded metallic bullion embroidery",
+    "scalloped Chantilly lace",
+    "faceted emerald beads",
+    "stiffened pleated organza"
+   ],
+   "palette": [
+    "seafoam green",
+    "ivory white",
+    "antique gold",
+    "emerald green"
+   ],
+   "gist_zh": "翡翠织金宫廷蓬裙（seafoam green、ivory white、antique gold）",
+   "file": "data/outfits/echoed-dreams.json"
+  },
+  {
+   "slug": "floral-rebirth",
+   "title": "Floral Rebirth",
+   "cn_name": "栖骨生花",
+   "rarity": 5,
+   "style": "Fresh",
+   "labels": [
+    "Classical",
+    "Divine"
+   ],
+   "materials": [
+    "crystal-encrusted sheer organza",
+    "sculpted iridescent resin petals",
+    "Chantilly lace",
+    "silver filigree wirework"
+   ],
+   "palette": [
+    "iridescent pure white",
+    "pale lavender mist",
+    "filigree silver",
+    "sheer icy blue"
+   ],
+   "gist_zh": "晶魄花灵幻羽仙裳（iridescent pure white、pale lavender mist、filigree s",
+   "file": "data/outfits/floral-rebirth.json"
+  },
+  {
+   "slug": "tide-of-tears",
+   "title": "Tide of Tears",
+   "cn_name": "落入泪之潮",
+   "rarity": 5,
+   "style": "Fresh",
+   "labels": [
+    "Fantasy",
+    "Adventure"
+   ],
+   "materials": [
+    "glitter-dusted black velvet",
+    "water-ripple silk charmeuse",
+    "pearl-embroidered illusion tulle",
+    "gilded filigree metalwork"
+   ],
+   "palette": [
+    "abyssal black",
+    "emerald sea green",
+    "gilded pale gold",
+    "luminescent aqua teal"
+   ],
+   "gist_zh": "碧渊泪潮金缕鲛纱裙（abyssal black、emerald sea green、gilded pale gold）",
+   "file": "data/outfits/tide-of-tears.json"
+  },
+  {
+   "slug": "dance-till-dawn",
+   "title": "Dance Till Dawn",
+   "cn_name": "绽响黎明前",
+   "rarity": 5,
+   "style": "Fresh",
+   "labels": [
+    "Cute",
+    "Fantasy"
+   ],
+   "materials": [
+    "pleated metallic lamé",
+    "star-embroidered organza",
+    "harlequin woven jacquard",
+    "scalloped lace trim"
+   ],
+   "palette": [
+    "chocolate brown",
+    "creamy ivory",
+    "gilded gold",
+    "carnival crimson"
+   ],
+   "gist_zh": "织金庆典马戏蓬蓬裙（chocolate brown、creamy ivory、gilded gold）",
+   "file": "data/outfits/dance-till-dawn.json"
+  },
+  {
+   "slug": "nameless-selfless",
+   "title": "Nameless, Selfless",
+   "cn_name": "无名亦无我",
+   "rarity": 5,
+   "style": "Sexy",
+   "labels": [
+    "Royal",
+    "Formal"
+   ],
+   "materials": [
+    "Stardust glitter tulle",
+    "Chantilly lace",
+    "Sculpted crystalline resin",
+    "Velvet rose applique"
+   ],
+   "palette": [
+    "Midnight navy",
+    "Obsidian black",
+    "Frosted lavender",
+    "Starlight silver"
+   ],
+   "gist_zh": "幽夜星辉哥特礼服（Midnight navy、Obsidian black、Frosted lavender）",
+   "file": "data/outfits/nameless-selfless.json"
+  },
+  {
+   "slug": "whispers-of-waves",
+   "title": "Whispers of Waves",
+   "cn_name": "谕浪希声",
+   "rarity": 5,
+   "style": "Sexy",
+   "labels": [
+    "Formal",
+    "Fashion"
+   ],
+   "materials": [
+    "pearl-beaded silk crepe",
+    "translucent shimmer organza",
+    "scalloped lace mesh",
+    "sculpted crystal beading"
+   ],
+   "palette": [
+    "cerulean blue",
+    "seafoam white",
+    "silver pearl luster",
+    "translucent aquamarine"
+   ],
+   "gist_zh": "碧海珠光浪纹礼裙（cerulean blue、seafoam white、silver pearl luster）",
+   "file": "data/outfits/whispers-of-waves.json"
+  },
+  {
+   "slug": "she-is-wildfire",
+   "title": "She Is Wildfire",
+   "cn_name": "她是不驯火",
+   "rarity": 5,
+   "style": "Cool",
+   "labels": [
+    "Playful",
+    "Spirited"
+   ],
+   "materials": [
+    "embossed crimson velvet",
+    "gilded floral jacquard",
+    "antiqued brass filigree",
+    "scalloped cotton eyelet lace"
+   ],
+   "palette": [
+    "crimson red",
+    "antique bronze",
+    "burnished gold",
+    "ivory white"
+   ],
+   "gist_zh": "蒸汽猎装赤金篷裙（crimson red、antique bronze、burnished gold）",
+   "file": "data/outfits/she-is-wildfire.json"
+  },
+  {
+   "slug": "crimson-feather",
+   "title": "Crimson Feather",
+   "cn_name": "炽羽不渝",
+   "rarity": 5,
+   "style": "Cool",
+   "labels": [
+    "Ballroom",
+    "Trendy"
+   ],
+   "materials": [
+    "feather-embroidered silk organza",
+    "crystal-dusted pleated tulle",
+    "blackened guipure lace",
+    "faceted teardrop rubies"
+   ],
+   "palette": [
+    "obsidian black",
+    "crimson red",
+    "starlight silver",
+    "smoky charcoal"
+   ],
+   "gist_zh": "暗夜炽羽哥特礼裙（obsidian black、crimson red、starlight silver）",
+   "file": "data/outfits/crimson-feather.json"
+  },
+  {
+   "slug": "dawning-heartlight",
+   "title": "Dawning Heartlight",
+   "cn_name": "",
+   "rarity": 5,
+   "style": "Elegant",
+   "labels": [
+    "Whimsy",
+    "Glow"
+   ],
+   "materials": [
+    "liquid gold lamé",
+    "pearl-encrusted tulle",
+    "sculpted gilded filigree",
+    "crinkled silk jacquard"
+   ],
+   "palette": [
+    "radiant gold",
+    "ivory white",
+    "brushed champagne metallic",
+    "pale celestial blue"
+   ],
+   "gist_zh": "鎏金羽翼圣辉礼裙（radiant gold、ivory white、brushed champagne metallic",
+   "file": "data/outfits/dawning-heartlight.json"
+  },
+  {
+   "slug": "florabound-promise",
+   "title": "Florabound Promise",
+   "cn_name": "",
+   "rarity": 5,
+   "style": "Sweet",
+   "labels": [
+    "Whimsy",
+    "Classical"
+   ],
+   "materials": [
+    "crystallized sheer organza",
+    "3D beaded floral lace",
+    "iridescent tulle",
+    "embroidered silk chiffon"
+   ],
+   "palette": [
+    "celadon mint green",
+    "blush petal pink",
+    "pearlescent gold",
+    "wisteria purple"
+   ],
+   "gist_zh": "薄绡花蔓仙灵礼服（celadon mint green、blush petal pink、pearlescent gol",
+   "file": "data/outfits/florabound-promise.json"
+  },
+  {
+   "slug": "behind-prayers",
+   "title": "Behind Prayers",
+   "cn_name": "隐于祷音",
+   "rarity": 5,
+   "style": "Sweet",
+   "labels": [
+    "Divine",
+    "Royal"
+   ],
+   "materials": [
+    "gilded brocade jacquard",
+    "Chantilly lace",
+    "ruby cabochon embellishments",
+    "pearl-draped mesh",
+    "filigree metalwork"
+   ],
+   "palette": [
+    "antique ivory",
+    "ceremonial gold",
+    "ruby red",
+    "patina teal"
+   ],
+   "gist_zh": "珠绣圣咏金辉礼裙（antique ivory、ceremonial gold、ruby red）",
+   "file": "data/outfits/behind-prayers.json"
+  },
+  {
+   "slug": "forest-ripple",
+   "title": "Forest Ripple",
+   "cn_name": "森之涟",
+   "rarity": 5,
+   "style": "Fresh",
+   "labels": [
+    "Forest",
+    "Fairy"
+   ],
+   "materials": [
+    "iridescent crystal-embossed organza",
+    "frosted translucent resin",
+    "beaded metallic filigree embroidery",
+    "glittering gossamer tulle"
+   ],
+   "palette": [
+    "pale mint green",
+    "celestial icy blue",
+    "silver crystal filigree",
+    "bioluminescent chartreuse"
+   ],
+   "gist_zh": "蝶羽晶露森仙轻纱裙（pale mint green、celestial icy blue、silver crystal ",
+   "file": "data/outfits/forest-ripple.json"
+  },
+  {
+   "slug": "blossoming-stars",
+   "title": "Blossoming Stars",
+   "cn_name": "群星绽放时",
+   "rarity": 5,
+   "style": "Fresh",
+   "labels": [
+    "Romance",
+    "Pastoral"
+   ],
+   "materials": [
+    "fine pleated silk chiffon",
+    "3D organza blossom appliqués",
+    "micro-pearl beadwork strands",
+    "gilded filigree metalwork"
+   ],
+   "palette": [
+    "pale mint green",
+    "soft buttercup yellow",
+    "polished gold",
+    "pearl white"
+   ],
+   "gist_zh": "星华繁花浅绿礼裙（pale mint green、soft buttercup yellow、polished gold",
+   "file": "data/outfits/blossoming-stars.json"
+  },
+  {
+   "slug": "guide-of-no-return",
+   "title": "Guide of No Return",
+   "cn_name": "渡者无归",
+   "rarity": 5,
+   "style": "Sexy",
+   "labels": [
+    "Classical",
+    "Glow"
+   ],
+   "materials": [
+    "faceted raw crystal",
+    "stardust sheer tulle",
+    "polished silver filigree",
+    "ombre silk chiffon"
+   ],
+   "palette": [
+    "midnight navy",
+    "translucent white",
+    "burnished silver",
+    "luminescent ice blue"
+   ],
+   "gist_zh": "幽冥霜晶羽翼祭袍（midnight navy、translucent white、burnished silver）",
+   "file": "data/outfits/guide-of-no-return.json"
+  },
+  {
+   "slug": "where-wanxiang-weaves-life",
+   "title": "Where Wanxiang Weaves Life",
+   "cn_name": "万相渡浮生",
+   "rarity": 5,
+   "style": "Sexy",
+   "labels": [
+    "Terra",
+    "Aesthetic"
+   ],
+   "materials": [
+    "gilded silk brocade",
+    "star-dusted sheer organza",
+    "fine jade beadwork tassels",
+    "iridescent purple-enameled filigree",
+    "embroidered satin damask"
+   ],
+   "palette": [
+    "Midnight Teal",
+    "Gradient Celestial Violet",
+    "Gilded Antique Gold",
+    "Translucent Pale Jade"
+   ],
+   "gist_zh": "万相织金浮生华裳（Midnight Teal、Gradient Celestial Violet、Gilded Anti",
+   "file": "data/outfits/where-wanxiang-weaves-life.json"
+  },
+  {
+   "slug": "providence-immemorial",
+   "title": "Providence Immemorial",
+   "cn_name": "谒灵",
+   "rarity": 5,
+   "style": "Sexy",
+   "labels": [
+    "Divine",
+    "Aesthetic"
+   ],
+   "materials": [
+    "crystal-embossed sheer organza",
+    "silver filigree embroidery",
+    "ombré pleated silk",
+    "translucent sculpted resin"
+   ],
+   "palette": [
+    "iridescent lavender",
+    "moonlit silver",
+    "pure white",
+    "crystalline ice blue"
+   ],
+   "gist_zh": "冰晶神辉流光仙裳（iridescent lavender、moonlit silver、pure white）",
+   "file": "data/outfits/providence-immemorial.json"
+  },
+  {
+   "slug": "hymn-to-dusk",
+   "title": "Hymn to Dusk",
+   "cn_name": "",
+   "rarity": 5,
+   "style": "Cool",
+   "labels": [
+    "Divine",
+    "Terra"
+   ],
+   "materials": [
+    "gilded silk jacquard",
+    "pleated fine linen",
+    "engraved brass armor plating",
+    "terracotta gradient silk",
+    "cloisonné enamel"
+   ],
+   "palette": [
+    "Warm Ivory",
+    "Burnished Bronze",
+    "Imperial Gold",
+    "Dusk Terracotta"
+   ],
+   "gist_zh": "暮晖织金神殿战裳（Warm Ivory、Burnished Bronze、Imperial Gold）",
+   "file": "data/outfits/hymn-to-dusk.json"
+  },
+  {
+   "slug": "blooming-dreams",
+   "title": "Blooming Dreams",
+   "cn_name": "花漾梦萦",
+   "rarity": 5,
+   "style": "Sweet",
+   "labels": [
+    "Fairy",
+    "Fantasy",
+    "精灵"
+   ],
+   "materials": [
+    "Pearl-encrusted sheer organza",
+    "Metallic filigree lace",
+    "Iridescent tulle",
+    "Chantilly lace",
+    "Gilded floral embroidery"
+   ],
+   "palette": [
+    "Lavender Purple",
+    "Pearlescent White",
+    "Antique Silver",
+    "Iridescent Opal"
+   ],
+   "gist_zh": "珠光花仙蝶翼纱裙（Lavender Purple、Pearlescent White、Antique Silver）",
+   "file": "data/outfits/blooming-dreams.json"
+  },
+  {
+   "slug": "rainfall-blossoms",
+   "title": "Rainfall & Blossoms",
+   "cn_name": "如雨坠，如花开",
+   "rarity": 5,
+   "style": "Elegant",
+   "labels": [
+    "Royal",
+    "Fairy",
+    "精灵"
+   ],
+   "materials": [
+    "pearl-encrusted sheer tulle",
+    "gilded silk jacquard ring mesh",
+    "lace-edged organza",
+    "beaded floral vine embroidery",
+    "Chantilly lace trim"
+   ],
+   "palette": [
+    "ivory white",
+    "soft moss green",
+    "gilded pearl gold",
+    "sheer lavender-grey tulle"
+   ],
+   "gist_zh": "雨润花灵薄纱礼裙（ivory white、soft moss green、gilded pearl gold）",
+   "file": "data/outfits/rainfall-blossoms.json"
+  },
+  {
+   "slug": "stardust-flare",
+   "title": "Stardust Flare",
+   "cn_name": "缀夜希光",
+   "rarity": 5,
+   "style": "Elegant",
+   "labels": [
+    "Romance",
+    "Ballroom",
+    "舞会"
+   ],
+   "materials": [
+    "Gold-embroidered tulle",
+    "Sheer organza with crystal beadwork",
+    "Metallic silk jacquard",
+    "Chantilly lace",
+    "Sunburst crystal appliqué"
+   ],
+   "palette": [
+    "Deep Onyx Black",
+    "Antique Gold",
+    "Crystal Silver",
+    "Sheer Nude"
+   ],
+   "gist_zh": "星芒黑金舞会礼服（Deep Onyx Black、Antique Gold、Crystal Silver）",
+   "file": "data/outfits/stardust-flare.json"
+  },
+  {
+   "slug": "flutter-storm",
+   "title": "Flutter Storm",
+   "cn_name": "蝶屿风袭",
+   "rarity": 5,
+   "style": "Sexy",
+   "labels": [
+    "Romance",
+    "Ballroom",
+    "舞会"
+   ],
+   "materials": [
+    "pleated sheer organza",
+    "crystal-embellished metallic lace",
+    "iridescent butterfly wing embroidery",
+    "fine tulle",
+    "glittering pearl-beaded trim"
+   ],
+   "palette": [
+    "icy blue",
+    "silver white",
+    "iridescent pearl",
+    "deep navy"
+   ],
+   "gist_zh": "蝶屿风袭星辉舞裙（icy blue、silver white、iridescent pearl）",
+   "file": "data/outfits/flutter-storm.json"
+  },
+  {
+   "slug": "slumber-by-blossoms",
+   "title": "Slumber by Blossoms",
+   "cn_name": "眠于花畔",
+   "rarity": 5,
+   "style": "Sweet",
+   "labels": [
+    "Classical",
+    "Glow",
+    "流彩"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "gilded silk jacquard",
+    "iridescent feather embroidery",
+    "frosted tulle",
+    "Chantilly lace"
+   ],
+   "palette": [
+    "ice blue",
+    "pale silver",
+    "antique gold",
+    "translucent white"
+   ],
+   "gist_zh": "幽蓝花灵星纱仙裙（ice blue、pale silver、antique gold）",
+   "file": "data/outfits/slumber-by-blossoms.json"
+  },
+  {
+   "slug": "fairytale-swan",
+   "title": "Fairytale Swan",
+   "cn_name": "天鹅童话",
+   "rarity": 5,
+   "style": "Elegant",
+   "labels": [
+    "Formal",
+    "Ballroom",
+    "舞会"
+   ],
+   "materials": [
+    "pleated silk tulle",
+    "frosted feather embroidery",
+    "pearl-encrusted lace",
+    "crystal beaded organza",
+    "iridescent sequin appliqué"
+   ],
+   "palette": [
+    "Blush Pink",
+    "Pearl White",
+    "Silver",
+    "Sheer Ivory"
+   ],
+   "gist_zh": "羽纱天鹅芭蕾舞裙（Blush Pink、Pearl White、Silver）",
+   "file": "data/outfits/fairytale-swan.json"
+  },
+  {
+   "slug": "wishful-aurosa",
+   "title": "Wishful Aurosa",
+   "cn_name": "心愿金蔷薇",
+   "rarity": 5,
+   "style": "Elegant",
+   "labels": [
+    "Formal",
+    "Retro"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "gilded silk jacquard",
+    "Chantilly lace",
+    "metallic thread embroidery",
+    "layered fine tulle"
+   ],
+   "palette": [
+    "champagne cream",
+    "antique gold",
+    "ivory white",
+    "translucent pearl"
+   ],
+   "gist_zh": "金蔷薇藤蔓仙裙（champagne cream、antique gold、ivory white）",
+   "file": "data/outfits/wishful-aurosa.json"
+  },
+  {
+   "slug": "silvergale-s-aria",
+   "title": "Silvergale's Aria",
+   "cn_name": "咏叹银夜莺",
+   "rarity": 5,
+   "style": "Fresh",
+   "labels": [
+    "Ballroom",
+    "Fairy",
+    "舞会",
+    "精灵"
+   ],
+   "materials": [
+    "Pearl-encrusted sheer organza",
+    "Iridescent feather embroidery",
+    "Silver Chantilly lace",
+    "Crystal beaded tulle",
+    "Gilded silk jacquard"
+   ],
+   "palette": [
+    "Ivory white",
+    "Silver grey",
+    "Metallic silver",
+    "Sheer pearlescent white"
+   ],
+   "gist_zh": "银月夜莺羽纱礼服（Ivory white、Silver grey、Metallic silver）",
+   "file": "data/outfits/silvergale-s-aria.json"
+  },
+  {
+   "slug": "timeless-melody",
+   "title": "Timeless Melody",
+   "cn_name": "古典乐章",
+   "rarity": 5,
+   "style": "Sweet",
+   "labels": [
+    "Retro",
+    "Playful"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "gilded silk jacquard",
+    "Chantilly lace",
+    "pleated tulle",
+    "satin ribbon"
+   ],
+   "palette": [
+    "powder blue",
+    "cream ivory",
+    "antique gold",
+    "pale lilac"
+   ],
+   "gist_zh": "古典乐章洛可可蓬裙（powder blue、cream ivory、antique gold）",
+   "file": "data/outfits/timeless-melody.json"
+  },
+  {
+   "slug": "wings-of-wishes",
+   "title": "Wings of Wishes",
+   "cn_name": "翩翩愿飞去",
+   "rarity": 5,
+   "style": "Cool",
+   "labels": [
+    "Fantasy",
+    "Playful"
+   ],
+   "materials": [
+    "sheer organza",
+    "satin jacquard",
+    "Chantilly lace",
+    "folded paper",
+    "metallic thread embroidery"
+   ],
+   "palette": [
+    "Pearl White",
+    "Sky Blue",
+    "Gilded Gold",
+    "Sheer Silver"
+   ],
+   "gist_zh": "星纸折愿轻纱礼服（Pearl White、Sky Blue、Gilded Gold）",
+   "file": "data/outfits/wings-of-wishes.json"
+  },
+  {
+   "slug": "born-flawless",
+   "title": "Born Flawless",
+   "cn_name": "生于无瑕",
+   "rarity": 5,
+   "style": "Cool",
+   "labels": [
+    "Aesthetic",
+    "Fantasy",
+    "唯美"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "iridescent tulle",
+    "silver filigree lace",
+    "crystal bead embroidery"
+   ],
+   "palette": [
+    "icy blue",
+    "silver",
+    "pearl white",
+    "translucent cyan"
+   ],
+   "gist_zh": "冰晶蝶翼幻纱仙裙（icy blue、silver、pearl white）",
+   "file": "data/outfits/born-flawless.json"
+  },
+  {
+   "slug": "sea-of-stars",
+   "title": "Sea of Stars",
+   "cn_name": "星之海",
+   "rarity": 5,
+   "style": "Sexy",
+   "labels": [
+    "Adventure",
+    "Fantasy",
+    "冒险"
+   ],
+   "materials": [
+    "gilded star embroidery",
+    "scalloped lace trim",
+    "iridescent tulle",
+    "silk satin",
+    "crystal beadwork"
+   ],
+   "palette": [
+    "deep royal purple",
+    "midnight indigo",
+    "antique gold",
+    "sheer lilac"
+   ],
+   "gist_zh": "星海夜穹紫晶礼服（deep royal purple、midnight indigo、antique gold）",
+   "file": "data/outfits/sea-of-stars.json"
+  },
+  {
+   "slug": "cn-suit-013",
+   "title": "雪境长歌",
+   "cn_name": "雪境长歌",
+   "rarity": 5,
+   "style": "Fresh",
+   "labels": [
+    "清凉",
+    "精灵"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "frosted silk tulle",
+    "crystal-beaded lace",
+    "iridescent feather embroidery"
+   ],
+   "palette": [
+    "ice blue",
+    "silver white",
+    "pearl silver",
+    "translucent opalescent"
+   ],
+   "gist_zh": "霜晶精灵冰纱长裙（ice blue、silver white、pearl silver）",
+   "file": "data/outfits/cn-suit-013.json"
+  },
+  {
+   "slug": "crystal-poems",
+   "title": "Crystal Poems",
+   "cn_name": "晶莹诗集",
+   "rarity": 5,
+   "style": "Sweet",
+   "labels": [
+    "Summer",
+    "Cute",
+    "清凉",
+    "甜心"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "frosted Chantilly lace",
+    "gilded silver thread embroidery",
+    "iridescent tulle",
+    "silk jacquard"
+   ],
+   "palette": [
+    "pale ice blue",
+    "frost white",
+    "silver",
+    "sheer iridescent"
+   ],
+   "gist_zh": "冰晶雪纱诗篇礼服（pale ice blue、frost white、silver）",
+   "file": "data/outfits/crystal-poems.json"
+  },
+  {
+   "slug": "tonight-s-wind-and-moon",
+   "title": "Tonight's Wind and Moon",
+   "cn_name": "今宵风月",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Linlang",
+    "Aesthetic"
+   ],
+   "materials": [
+    "gilded silk brocade",
+    "sheer gradient organza",
+    "plush white fur trim",
+    "carved jade and pearls"
+   ],
+   "palette": [
+    "celadon jade green",
+    "blossom pink",
+    "burnished gold",
+    "vermilion red"
+   ],
+   "gist_zh": "青碧惊鸿缀玉霓裳（celadon jade green、blossom pink、burnished gold）",
+   "file": "data/outfits/tonight-s-wind-and-moon.json"
+  },
+  {
+   "slug": "endless-longing",
+   "title": "Endless Longing",
+   "cn_name": "长相思",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Linlang"
+   ],
+   "materials": [
+    "shimmering lattice tulle",
+    "celadon silk crepe",
+    "jade-carved floral pins",
+    "delicate thread embroidery"
+   ],
+   "palette": [
+    "celadon aqua",
+    "pure white",
+    "soft leaf green",
+    "pale jade"
+   ],
+   "gist_zh": "水色兰芝罗绡雅裳（celadon aqua、pure white、soft leaf green）",
+   "file": "data/outfits/endless-longing.json"
+  },
+  {
+   "slug": "scaly-dream",
+   "title": "Scaly Dream",
+   "cn_name": "幽鳞渡梦生",
+   "rarity": 4,
+   "style": "Cool",
+   "labels": [
+    "Linlang"
+   ],
+   "materials": [
+    "pinstriped wool twill",
+    "embroidered emerald silk satin",
+    "shimmering pleated plissé organza",
+    "fine patterned lace"
+   ],
+   "palette": [
+    "obsidian black",
+    "emerald green",
+    "antique gold",
+    "cinnabar red"
+   ],
+   "gist_zh": "墨鳞碧波织金云裳（obsidian black、emerald green、antique gold）",
+   "file": "data/outfits/scaly-dream.json"
+  },
+  {
+   "slug": "thousand-flames",
+   "title": "Thousand Flames",
+   "cn_name": "花明千焰",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Linlang",
+    "Romance"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "gilded silk jacquard",
+    "gradient-dyed tulle",
+    "enameled floral filigree"
+   ],
+   "palette": [
+    "lilac",
+    "pale turquoise",
+    "gilded gold",
+    "pearl white"
+   ],
+   "gist_zh": "琳琅幻彩云肩仙裳（lilac、pale turquoise、gilded gold）",
+   "file": "data/outfits/thousand-flames.json"
+  },
+  {
+   "slug": "gossamer-moonfairy",
+   "title": "Gossamer Moonfairy",
+   "cn_name": "绮语月仙",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Linlang",
+    "Fairy",
+    "精灵"
+   ],
+   "materials": [
+    "sheer silk organza",
+    "gilded thread embroidery",
+    "pearl-encrusted chiffon",
+    "soft crepe silk"
+   ],
+   "palette": [
+    "warm peach",
+    "pale mint green",
+    "antique gold",
+    "sheer ivory"
+   ],
+   "gist_zh": "绮语月仙流纱仙裙（warm peach、pale mint green、antique gold）",
+   "file": "data/outfits/gossamer-moonfairy.json"
+  },
+  {
+   "slug": "lifetime-yin-yuan",
+   "title": "Lifetime Yin Yuan",
+   "cn_name": "三生因缘",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Linlang",
+    "Romance"
+   ],
+   "materials": [
+    "sheer silk organza",
+    "silver thread embroidery",
+    "satin-faced silk",
+    "pearl and bead embellishments"
+   ],
+   "palette": [
+    "lavender",
+    "white",
+    "silver",
+    "peach blossom pink"
+   ],
+   "gist_zh": "烟紫桃夭流仙裙（lavender、white、silver）",
+   "file": "data/outfits/lifetime-yin-yuan.json"
+  },
+  {
+   "slug": "danqing-craft",
+   "title": "Danqing Craft",
+   "cn_name": "造化丹青",
+   "rarity": 4,
+   "style": "Cool",
+   "labels": [
+    "Linlang",
+    "Fantasy"
+   ],
+   "materials": [
+    "sheer organza",
+    "gilded silk jacquard",
+    "embroidered tulle",
+    "satin ribbon",
+    "metallic thread"
+   ],
+   "palette": [
+    "jade green",
+    "ivory white",
+    "gold",
+    "translucent mint"
+   ],
+   "gist_zh": "墨韵丹青幻梦裳（jade green、ivory white、gold）",
+   "file": "data/outfits/danqing-craft.json"
+  },
+  {
+   "slug": "song-beyond",
+   "title": "Song Beyond",
+   "cn_name": "尘外羽歌",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Linlang",
+    "Spirited",
+    "灵动"
+   ],
+   "materials": [
+    "gilded silk jacquard",
+    "sheer organza",
+    "embroidered velvet",
+    "satin ribbon",
+    "sheer tulle"
+   ],
+   "palette": [
+    "olive green",
+    "peach orange",
+    "gold",
+    "sheer cream"
+   ],
+   "gist_zh": "秋岚羽衣华裳（olive green、peach orange、gold）",
+   "file": "data/outfits/song-beyond.json"
+  },
+  {
+   "slug": "new-bloom-blessings",
+   "title": "New Bloom Blessings",
+   "cn_name": "朝岁贺禧",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Linlang",
+    "Warm",
+    "保暖"
+   ],
+   "materials": [
+    "plush faux-fur trim",
+    "gilded silk brocade",
+    "embossed jacquard weave",
+    "silk thread embroidery"
+   ],
+   "palette": [
+    "crimson red",
+    "golden yellow",
+    "cream white",
+    "emerald green"
+   ],
+   "gist_zh": "祥云绒边贺岁锦裳（crimson red、golden yellow、cream white）",
+   "file": "data/outfits/new-bloom-blessings.json"
+  },
+  {
+   "slug": "lotus-heart",
+   "title": "Lotus Heart",
+   "cn_name": "渡我莲心",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Linlang",
+    "Summer",
+    "清凉"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "silver filigree embroidery",
+    "gradient silk jacquard",
+    "Chantilly lace",
+    "iridescent tulle"
+   ],
+   "palette": [
+    "midnight blue",
+    "silver",
+    "pearl white",
+    "sheer lavender-grey"
+   ],
+   "gist_zh": "幽莲玄水蝶纱仙裳（midnight blue、silver、pearl white）",
+   "file": "data/outfits/lotus-heart.json"
+  },
+  {
+   "slug": "perfect-moment",
+   "title": "Perfect Moment",
+   "cn_name": "裁佳期",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Linlang",
+    "Cute",
+    "甜心"
+   ],
+   "materials": [
+    "Gilded silk jacquard",
+    "Gold corded embroidery",
+    "Pearl-encrusted sheer organza",
+    "Sheer lace"
+   ],
+   "palette": [
+    "Tangerine Gold",
+    "Rich Vermilion",
+    "Polished Gold",
+    "Sheer Ivory"
+   ],
+   "gist_zh": "金线绣蝶云肩仙裳（Tangerine Gold、Rich Vermilion、Polished Gold）",
+   "file": "data/outfits/perfect-moment.json"
+  },
+  {
+   "slug": "sword-master",
+   "title": "Sword Master",
+   "cn_name": "剑雨侠客",
+   "rarity": 4,
+   "style": "Cool",
+   "labels": [
+    "Linlang",
+    "Adventure",
+    "冒险"
+   ],
+   "materials": [
+    "silver-thread embroidered silk",
+    "sheer gradient organza",
+    "pleated silk crepe",
+    "silver filigree metalwork",
+    "dark woven leather"
+   ],
+   "palette": [
+    "deep teal blue",
+    "pale ice blue",
+    "silver",
+    "white organza"
+   ],
+   "gist_zh": "琳琅剑影青绸侠客裳（deep teal blue、pale ice blue、silver）",
+   "file": "data/outfits/sword-master.json"
+  },
+  {
+   "slug": "new-year-s-dawn",
+   "title": "New Year's Dawn",
+   "cn_name": "新岁曈曈",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Linlang"
+   ],
+   "materials": [
+    "gilded silk jacquard",
+    "sheer organza",
+    "pearl-encrusted embroidery",
+    "pleated tulle",
+    "iridescent silk"
+   ],
+   "palette": [
+    "amber orange",
+    "crimson red",
+    "gold",
+    "sheer rose"
+   ],
+   "gist_zh": "绯金云锦笛仙裳（amber orange、crimson red、gold）",
+   "file": "data/outfits/new-year-s-dawn.json"
+  },
+  {
+   "slug": "thought-in-bloom",
+   "title": "Thought in Bloom",
+   "cn_name": "一念生芳",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Intellectual",
+    "Linlang",
+    "知性"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "gilded silk jacquard",
+    "iridescent feather embroidery",
+    "Chantilly lace",
+    "pleated silk chiffon"
+   ],
+   "palette": [
+    "misty aqua",
+    "ivory white",
+    "gilded silver",
+    "translucent teal"
+   ],
+   "gist_zh": "琳琅点翠云雾仙裳（misty aqua、ivory white、gilded silver）",
+   "file": "data/outfits/thought-in-bloom.json"
+  },
+  {
+   "slug": "tasting-the-world",
+   "title": "Tasting the World",
+   "cn_name": "寻味烟火间",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Linlang"
+   ],
+   "materials": [
+    "velvet",
+    "sheer stockings",
+    "fur trim",
+    "embroidered silk",
+    "woven straw"
+   ],
+   "palette": [
+    "black",
+    "blush pink",
+    "gold",
+    "ivory"
+   ],
+   "gist_zh": "墨绒桃韵盘扣旗袍（black、blush pink、gold）",
+   "file": "data/outfits/tasting-the-world.json"
+  },
+  {
+   "slug": "enchanted-writing",
+   "title": "Enchanted Writing",
+   "cn_name": "愿笔生花",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Fantasy",
+    "Retro"
+   ],
+   "materials": [
+    "gilded silk jacquard",
+    "sheer organza",
+    "plaid wool tartan",
+    "Chantilly lace",
+    "iridescent star embroidery"
+   ],
+   "palette": [
+    "midnight black",
+    "starry navy blue",
+    "antique gold",
+    "cream white"
+   ],
+   "gist_zh": "墨语星辉魔女斗篷（midnight black、starry navy blue、antique gold）",
+   "file": "data/outfits/enchanted-writing.json"
+  },
+  {
+   "slug": "woodland-nesting",
+   "title": "Woodland Nesting",
+   "cn_name": "林深栖羽",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Fairy",
+    "Pastoral",
+    "精灵"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "embroidered chiffon",
+    "Chantilly lace trim",
+    "gilded vine filigree",
+    "soft tulle"
+   ],
+   "palette": [
+    "pale mint green",
+    "ivory white",
+    "antique gold",
+    "sheer aqua"
+   ],
+   "gist_zh": "林深栖羽仙裙（pale mint green、ivory white、antique gold）",
+   "file": "data/outfits/woodland-nesting.json"
+  },
+  {
+   "slug": "silent-ode",
+   "title": "Silent Ode",
+   "cn_name": "无声颂歌",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Divine",
+    "Retro",
+    "神谕"
+   ],
+   "materials": [
+    "gilded silk jacquard",
+    "pearl-encrusted organza",
+    "metallic thread embroidery",
+    "Chantilly lace",
+    "satin-backed velvet"
+   ],
+   "palette": [
+    "mint green",
+    "black",
+    "antique gold",
+    "ivory white"
+   ],
+   "gist_zh": "神谕圣颂金绣礼服（mint green、black、antique gold）",
+   "file": "data/outfits/silent-ode.json"
+  },
+  {
+   "slug": "poem-of-emberlight",
+   "title": "Poem of Emberlight",
+   "cn_name": "叙火长诗",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Classical",
+    "Formal"
+   ],
+   "materials": [
+    "gilded silk jacquard",
+    "sheer black organza",
+    "rosette-textured brocade",
+    "gold-threaded lattice tulle",
+    "velvet ribbon trim"
+   ],
+   "palette": [
+    "Crimson Red",
+    "Midnight Black",
+    "Antique Gold",
+    "Sheer Charcoal"
+   ],
+   "gist_zh": "焰纹蕾丝古典长裙（Crimson Red、Midnight Black、Antique Gold）",
+   "file": "data/outfits/poem-of-emberlight.json"
+  },
+  {
+   "slug": "formless-truth",
+   "title": "Formless Truth",
+   "cn_name": "真意无形",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Divine",
+    "Fantasy",
+    "神谕"
+   ],
+   "materials": [
+    "golden metallic appliqué",
+    "sheer silk organza",
+    "embroidered tulle",
+    "gilded filigree",
+    "pearl-beaded trim"
+   ],
+   "palette": [
+    "pale gold",
+    "ivory white",
+    "antique gold",
+    "translucent pearl"
+   ],
+   "gist_zh": "澄金神谕云纱仙裳（pale gold、ivory white、antique gold）",
+   "file": "data/outfits/formless-truth.json"
+  },
+  {
+   "slug": "moonlight-oath",
+   "title": "Moonlight Oath",
+   "cn_name": "辉月诺言",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Fantasy"
+   ],
+   "materials": [
+    "layered silk chiffon",
+    "gold metallic star embroidery",
+    "white Chantilly lace",
+    "sheer organza",
+    "pearlescent beadwork"
+   ],
+   "palette": [
+    "pale aqua blue",
+    "deep midnight blue",
+    "gold",
+    "white lace"
+   ],
+   "gist_zh": "月辉星纱誓约仙裙（pale aqua blue、deep midnight blue、gold）",
+   "file": "data/outfits/moonlight-oath.json"
+  },
+  {
+   "slug": "graceful-elegance",
+   "title": "Graceful Elegance",
+   "cn_name": "淑雅格调",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Royal"
+   ],
+   "materials": [
+    "gilded silk jacquard",
+    "scalloped Chantilly lace",
+    "sheer cotton tulle",
+    "velvet ribbon trim",
+    "pearl-embellished brocade"
+   ],
+   "palette": [
+    "pale gold",
+    "cream ivory",
+    "dark forest green",
+    "sheer white"
+   ],
+   "gist_zh": "洛可可蕾丝茶会礼裙（pale gold、cream ivory、dark forest green）",
+   "file": "data/outfits/graceful-elegance.json"
+  },
+  {
+   "slug": "timeless-echo",
+   "title": "Timeless Echo",
+   "cn_name": "吟谣故梦",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Retro"
+   ],
+   "materials": [
+    "plaid wool blend",
+    "cotton poplin",
+    "Chantilly lace trim",
+    "leather",
+    "grosgrain ribbon"
+   ],
+   "palette": [
+    "mustard yellow",
+    "chocolate brown",
+    "gold",
+    "ivory white"
+   ],
+   "gist_zh": "复古格纹学院洋装（mustard yellow、chocolate brown、gold）",
+   "file": "data/outfits/timeless-echo.json"
+  },
+  {
+   "slug": "dream-in-glimpses",
+   "title": "Dream in Glimpses",
+   "cn_name": "只影片梦",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Retro"
+   ],
+   "materials": [
+    "starry sequined tulle",
+    "structured pintuck satin",
+    "sheer opera gloves",
+    "embossed leather hat"
+   ],
+   "palette": [
+    "midnight black",
+    "deep indigo",
+    "silver starlight",
+    "sheer charcoal"
+   ],
+   "gist_zh": "星辉夜莺复古礼裙（midnight black、deep indigo、silver starlight）",
+   "file": "data/outfits/dream-in-glimpses.json"
+  },
+  {
+   "slug": "starfall-radiance",
+   "title": "Starfall Radiance",
+   "cn_name": "流星绚烂时",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Romance"
+   ],
+   "materials": [
+    "star-embroidered silk taffeta",
+    "ruffled Chantilly lace",
+    "glitter-dusted sheer tulle",
+    "velvet ribbon trim",
+    "pearlescent beadwork"
+   ],
+   "palette": [
+    "midnight navy",
+    "soft ivory",
+    "silver starlight",
+    "sheer lavender-grey"
+   ],
+   "gist_zh": "星陨夜纱洛可可礼服（midnight navy、soft ivory、silver starlight）",
+   "file": "data/outfits/starfall-radiance.json"
+  },
+  {
+   "slug": "gilded-memories",
+   "title": "Gilded Memories",
+   "cn_name": "鎏金旧事",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Intellectual",
+    "Royal",
+    "知性"
+   ],
+   "materials": [
+    "gilded silk jacquard",
+    "pearl-encrusted sheer organza",
+    "Chantilly lace",
+    "crystal beadwork"
+   ],
+   "palette": [
+    "gold",
+    "champagne",
+    "crystal",
+    "emerald green"
+   ],
+   "gist_zh": "鎏金宫廷织锦长裙（gold、champagne、crystal）",
+   "file": "data/outfits/gilded-memories.json"
+  },
+  {
+   "slug": "echoes-upon-the-gale",
+   "title": "Echoes Upon the Gale",
+   "cn_name": "风过遗音",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Forest",
+    "Fantasy",
+    "森林"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "silver filigree lace",
+    "iridescent crystal beading",
+    "soft layered tulle",
+    "satin ribbon"
+   ],
+   "palette": [
+    "pale lavender",
+    "silver-white",
+    "pearl",
+    "ice blue"
+   ],
+   "gist_zh": "风语银铃羽纱仙裙（pale lavender、silver-white、pearl）",
+   "file": "data/outfits/echoes-upon-the-gale.json"
+  },
+  {
+   "slug": "nightlight-whispers",
+   "title": "Nightlight Whispers",
+   "cn_name": "漫夜灯语",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Romance",
+    "Fairy",
+    "精灵"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "iridescent moth-wing feather embroidery",
+    "Chantilly lace",
+    "silver-thread tulle"
+   ],
+   "palette": [
+    "moon white",
+    "pale silver",
+    "pearl",
+    "translucent blue"
+   ],
+   "gist_zh": "月白羽纱萤蛾仙裙（moon white、pale silver、pearl）",
+   "file": "data/outfits/nightlight-whispers.json"
+  },
+  {
+   "slug": "forest-s-fluttering",
+   "title": "Forest's Fluttering",
+   "cn_name": "林间戏蝶",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Pastoral",
+    "Adventure",
+    "冒险"
+   ],
+   "materials": [
+    "cream cotton twill",
+    "translucent organza butterfly appliqué",
+    "gold piping",
+    "leather utility straps"
+   ],
+   "palette": [
+    "cream",
+    "emerald green",
+    "gold",
+    "translucent iridescent green"
+   ],
+   "gist_zh": "森语蝶翼探险装（cream、emerald green、gold）",
+   "file": "data/outfits/forest-s-fluttering.json"
+  },
+  {
+   "slug": "pastoral-dance",
+   "title": "Pastoral Dance",
+   "cn_name": "花舞绵绵",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Pastoral",
+    "Warm",
+    "保暖"
+   ],
+   "materials": [
+    "Chantilly lace",
+    "Brushed wool blend",
+    "Silk ribbon",
+    "Embroidered tulle",
+    "Polished silver hardware"
+   ],
+   "palette": [
+    "Midnight Blue",
+    "Ivory White",
+    "Antique Silver",
+    "Sheer Lavender"
+   ],
+   "gist_zh": "月影牧场蕾丝洋装（Midnight Blue、Ivory White、Antique Silver）",
+   "file": "data/outfits/pastoral-dance.json"
+  },
+  {
+   "slug": "hometown-breeze",
+   "title": "Hometown Breeze",
+   "cn_name": "故乡的风",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Pastoral"
+   ],
+   "materials": [
+    "ribbed wool weave",
+    "pleated cotton apron",
+    "embroidered linen",
+    "woven wheat braid",
+    "Chantilly lace trim"
+   ],
+   "palette": [
+    "warm amber",
+    "cream white",
+    "antique gold",
+    "rust orange"
+   ],
+   "gist_zh": "麦浪田园珠绣民俗裙（warm amber、cream white、antique gold）",
+   "file": "data/outfits/hometown-breeze.json"
+  },
+  {
+   "slug": "floral-memory",
+   "title": "Floral Memory",
+   "cn_name": "飞花的追忆",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Retro"
+   ],
+   "materials": [
+    "crisp pleated cotton voile",
+    "star-embroidered sheer tulle",
+    "pearl-tipped silk ribbon",
+    "suede opera gloves"
+   ],
+   "palette": [
+    "deep navy blue",
+    "crisp white",
+    "silver starburst embroidery",
+    "charcoal grey suede"
+   ],
+   "gist_zh": "飞花夜曲星芒纺裙（deep navy blue、crisp white、silver starburst embroid",
+   "file": "data/outfits/floral-memory.json"
+  },
+  {
+   "slug": "sweet-waltz",
+   "title": "Sweet Waltz",
+   "cn_name": "甜野小圆舞",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Whimsy",
+    "Pastoral",
+    "绮想"
+   ],
+   "materials": [
+    "sheer cotton voile",
+    "ruffled tulle",
+    "embroidered satin ribbon",
+    "crochet lace",
+    "appliquéd macaron felt"
+   ],
+   "palette": [
+    "cream white",
+    "soft red",
+    "golden yellow",
+    "sky blue"
+   ],
+   "gist_zh": "蘑菇森系田园圆舞裙（cream white、soft red、golden yellow）",
+   "file": "data/outfits/sweet-waltz.json"
+  },
+  {
+   "slug": "cn-suit-051",
+   "title": "云朵白日梦",
+   "cn_name": "云朵白日梦",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Fantasy",
+    "Playful"
+   ],
+   "materials": [
+    "striped silk taffeta",
+    "scalloped eyelet lace",
+    "sheer pointelle knit",
+    "pearl-embellished ribbon trim"
+   ],
+   "palette": [
+    "pale cream",
+    "dusty pink and icy blue stripes",
+    "antique gold and crimson",
+    "sheer white lace"
+   ],
+   "gist_zh": "云朵马戏团蓬蓬裙（pale cream、dusty pink and icy blue stripes、antique ",
+   "file": "data/outfits/cn-suit-051.json"
+  },
+  {
+   "slug": "momo-rain",
+   "title": "Momo Rain",
+   "cn_name": "遇上喵喵雨",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Playful",
+    "Romance"
+   ],
+   "materials": [
+    "pearlized sheer organza",
+    "gilded silk jacquard",
+    "Chantilly lace",
+    "fluffy faux fur",
+    "iridescent bead embroidery"
+   ],
+   "palette": [
+    "lemon yellow",
+    "cream white",
+    "gold",
+    "sky blue"
+   ],
+   "gist_zh": "晴空喵雨萌趣洋装（lemon yellow、cream white、gold）",
+   "file": "data/outfits/momo-rain.json"
+  },
+  {
+   "slug": "blooming-brocade",
+   "title": "Blooming Brocade",
+   "cn_name": "折枝花锦",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Retro",
+    "Pastoral"
+   ],
+   "materials": [
+    "floral silk jacquard",
+    "eyelet embroidered cotton lace",
+    "sheer organza",
+    "satin ribbon",
+    "woven straw"
+   ],
+   "palette": [
+    "sage green",
+    "ivory white",
+    "pastel pink",
+    "straw gold"
+   ],
+   "gist_zh": "田园碎花织锦洋装（sage green、ivory white、pastel pink）",
+   "file": "data/outfits/blooming-brocade.json"
+  },
+  {
+   "slug": "whispered-dreams",
+   "title": "Whispered Dreams",
+   "cn_name": "梦隙灵语",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Glow",
+    "Fairy",
+    "流彩",
+    "精灵"
+   ],
+   "materials": [
+    "sheer chiffon",
+    "pearl-embellished tulle",
+    "silver thread embroidery",
+    "iridescent organza",
+    "delicate metallic lace"
+   ],
+   "palette": [
+    "mint green",
+    "ivory white",
+    "silver",
+    "sheer aqua"
+   ],
+   "gist_zh": "森语精灵流光纱裙（mint green、ivory white、silver）",
+   "file": "data/outfits/whispered-dreams.json"
+  },
+  {
+   "slug": "water-s-echo",
+   "title": "Water's Echo",
+   "cn_name": "逐水聆音",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Pastoral",
+    "Retro"
+   ],
+   "materials": [
+    "pleated silk chiffon",
+    "pearl-embellished sheer organza",
+    "gilded vine embroidery",
+    "frothy tulle",
+    "soft woven linen"
+   ],
+   "palette": [
+    "Ivory white",
+    "Sage green",
+    "Antique gold",
+    "Sheer aqua"
+   ],
+   "gist_zh": "碧波藤蔓仙踪纱裙（Ivory white、Sage green、Antique gold）",
+   "file": "data/outfits/water-s-echo.json"
+  },
+  {
+   "slug": "blossoming-future",
+   "title": "Blossoming Future",
+   "cn_name": "未来绽放",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Romance",
+    "Fashion"
+   ],
+   "materials": [
+    "diamond-quilted satin",
+    "pearl-encrusted sheer tulle",
+    "rhinestone chain mesh",
+    "holographic organza"
+   ],
+   "palette": [
+    "iridescent ice blue",
+    "crystal white",
+    "silver",
+    "sheer lilac"
+   ],
+   "gist_zh": "星河碎钻甜梦纱裙（iridescent ice blue、crystal white、silver）",
+   "file": "data/outfits/blossoming-future.json"
+  },
+  {
+   "slug": "courtyard-flowers",
+   "title": "Courtyard Flowers",
+   "cn_name": "旧庭的花愿",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Cute",
+    "Romance",
+    "甜心"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "layered tulle",
+    "Chantilly lace",
+    "satin ribbons",
+    "floral embroidery"
+   ],
+   "palette": [
+    "blush pink",
+    "lavender",
+    "pearl white",
+    "sheer iridescent"
+   ],
+   "gist_zh": "柔粉花愿蝶影纱裙（blush pink、lavender、pearl white）",
+   "file": "data/outfits/courtyard-flowers.json"
+  },
+  {
+   "slug": "rebirth-wish",
+   "title": "Rebirth Wish",
+   "cn_name": "祈愿新生",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Retro"
+   ],
+   "materials": [
+    "silk jacquard vest",
+    "sheer pintucked organza",
+    "embroidered cotton lace",
+    "brass filigree buttons",
+    "checkered wool twill"
+   ],
+   "palette": [
+    "olive green",
+    "creamy white",
+    "antique gold",
+    "forest green"
+   ],
+   "gist_zh": "橄榄绿复古祈愿礼裙（olive green、creamy white、antique gold）",
+   "file": "data/outfits/rebirth-wish.json"
+  },
+  {
+   "slug": "moonlit-immortal",
+   "title": "Moonlit Immortal",
+   "cn_name": "翩月飞仙",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Terra",
+    "Ballroom",
+    "大地",
+    "舞会"
+   ],
+   "materials": [
+    "sheer organza",
+    "chiffon",
+    "gold thread embroidery",
+    "pearl beads",
+    "silk ribbon"
+   ],
+   "palette": [
+    "soft pink",
+    "pale teal",
+    "gold",
+    "sheer ivory"
+   ],
+   "gist_zh": "粉纱飞仙月华流裳（soft pink、pale teal、gold）",
+   "file": "data/outfits/moonlit-immortal.json"
+  },
+  {
+   "slug": "starlet-burst",
+   "title": "Starlet Burst",
+   "cn_name": "迷你星芒",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Fantasy"
+   ],
+   "materials": [
+    "star-embroidered sheer organza",
+    "gilded silk jacquard",
+    "ruffled tulle",
+    "pearl-embellished lace",
+    "iridescent chiffon"
+   ],
+   "palette": [
+    "pastel lavender",
+    "ivory white",
+    "gold",
+    "sheer iridescent blue"
+   ],
+   "gist_zh": "星芒幻梦云纱短裳（pastel lavender、ivory white、gold）",
+   "file": "data/outfits/starlet-burst.json"
+  },
+  {
+   "slug": "glimmering-forest",
+   "title": "Glimmering Forest",
+   "cn_name": "森息浮光",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Cute",
+    "Fantasy",
+    "甜心"
+   ],
+   "materials": [
+    "pleated cotton-blend twill",
+    "sheer organza with lace appliqué",
+    "ribbed knit",
+    "brushed felt",
+    "satin ribbon"
+   ],
+   "palette": [
+    "terracotta red",
+    "cream white",
+    "golden brown",
+    "deep forest green"
+   ],
+   "gist_zh": "森语菇灵轻纱裙（terracotta red、cream white、golden brown）",
+   "file": "data/outfits/glimmering-forest.json"
+  },
+  {
+   "slug": "forest-s-song",
+   "title": "Forest's Song",
+   "cn_name": "青野漫林歌",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Forest",
+    "Fantasy",
+    "森林"
+   ],
+   "materials": [
+    "sheer pleated tulle",
+    "gilded filigree metalwork",
+    "emerald crystal beading",
+    "silk cord",
+    "iridescent organza"
+   ],
+   "palette": [
+    "emerald green",
+    "sunlit gold",
+    "pale mint",
+    "translucent pearl"
+   ],
+   "gist_zh": "森灵鹿角翠金仙裙（emerald green、sunlit gold、pale mint）",
+   "file": "data/outfits/forest-s-song.json"
+  },
+  {
+   "slug": "heartlake-ripples",
+   "title": "Heartlake Ripples",
+   "cn_name": "心湖涟漪",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Romance",
+    "Fantasy"
+   ],
+   "materials": [
+    "pearl-encrusted sheer tulle",
+    "gilded lace appliqué",
+    "iridescent silk chiffon",
+    "scalloped Chantilly lace"
+   ],
+   "palette": [
+    "powder blue",
+    "white",
+    "silver",
+    "translucent pearl"
+   ],
+   "gist_zh": "心湖涟漪仙纱礼服（powder blue、white、silver）",
+   "file": "data/outfits/heartlake-ripples.json"
+  },
+  {
+   "slug": "from-the-depth",
+   "title": "From the Depth",
+   "cn_name": "来自深海",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Romance",
+    "Fantasy"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "iridescent silk chiffon",
+    "scalloped Chantilly lace",
+    "crystal beaded tulle"
+   ],
+   "palette": [
+    "ocean blue",
+    "pale aqua",
+    "pearl silver",
+    "translucent white"
+   ],
+   "gist_zh": "深海珠泪雾纱仙裙（ocean blue、pale aqua、pearl silver）",
+   "file": "data/outfits/from-the-depth.json"
+  },
+  {
+   "slug": "cn-suit-068",
+   "title": "丰饶之赞",
+   "cn_name": "丰饶之赞",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Formal",
+    "Romance"
+   ],
+   "materials": [
+    "gilded leaf-vein embroidery",
+    "shimmering copper silk",
+    "sheer organza",
+    "fine tulle",
+    "metallic thread lace"
+   ],
+   "palette": [
+    "burnt orange",
+    "amber gold",
+    "antique bronze",
+    "sheer champagne"
+   ],
+   "gist_zh": "秋叶鎏金薄纱仙裙（burnt orange、amber gold、antique bronze）",
+   "file": "data/outfits/cn-suit-068.json"
+  },
+  {
+   "slug": "dreamy-glimmer",
+   "title": "Dreamy Glimmer",
+   "cn_name": "梦泽流光",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Formal"
+   ],
+   "materials": [
+    "crystal-encrusted satin",
+    "pleated silk tulle",
+    "pearl-strung chain",
+    "fur stole"
+   ],
+   "palette": [
+    "hot pink",
+    "black",
+    "silver",
+    "white"
+   ],
+   "gist_zh": "粉纱流光名伶礼服（hot pink、black、silver）",
+   "file": "data/outfits/dreamy-glimmer.json"
+  },
+  {
+   "slug": "sunflower-chronicle",
+   "title": "Sunflower Chronicle",
+   "cn_name": "向阳花纪",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Forest",
+    "Pastoral",
+    "森林"
+   ],
+   "materials": [
+    "sunflower-embroidered sheer organza",
+    "gilded lace trim",
+    "iridescent pearl beading",
+    "layered silk chiffon",
+    "delicate floral embroidery"
+   ],
+   "palette": [
+    "Golden Yellow",
+    "Cream White",
+    "Antique Gold",
+    "Translucent Organza"
+   ],
+   "gist_zh": "金蕊织梦田园仙裙（Golden Yellow、Cream White、Antique Gold）",
+   "file": "data/outfits/sunflower-chronicle.json"
+  },
+  {
+   "slug": "spectral-mist",
+   "title": "Spectral Mist",
+   "cn_name": "雾影飘灵",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Ballroom",
+    "舞会"
+   ],
+   "materials": [
+    "pearl-encrusted sheer organza",
+    "gilded silk jacquard",
+    "iridescent feather embroidery",
+    "Chantilly lace"
+   ],
+   "palette": [
+    "midnight navy",
+    "pure white",
+    "silver",
+    "translucent icy blue"
+   ],
+   "gist_zh": "幽蓝雾羽夜宴礼服（midnight navy、pure white、silver）",
+   "file": "data/outfits/spectral-mist.json"
+  },
+  {
+   "slug": "daughter-of-the-lake",
+   "title": "Daughter of the Lake",
+   "cn_name": "湖的女儿",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Fairy",
+    "精灵"
+   ],
+   "materials": [
+    "pearl-encrusted sheer aqua tulle",
+    "Chantilly lace",
+    "sequined silver filigree",
+    "iridescent satin",
+    "crystal beading"
+   ],
+   "palette": [
+    "pale aqua blue",
+    "frost white",
+    "silver",
+    "pearlescent white"
+   ],
+   "gist_zh": "冰蓝鳞纹人鱼泪纱裙（pale aqua blue、frost white、silver）",
+   "file": "data/outfits/daughter-of-the-lake.json"
+  },
+  {
+   "slug": "starwoven-dreams",
+   "title": "Starwoven Dreams",
+   "cn_name": "揽星入梦",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Spirited",
+    "Ballroom",
+    "灵动",
+    "舞会"
+   ],
+   "materials": [
+    "sheer chiffon",
+    "gilded beadwork",
+    "metallic thread embroidery",
+    "silk organza",
+    "feather embellishment"
+   ],
+   "palette": [
+    "lavender",
+    "violet",
+    "gold",
+    "sheer white"
+   ],
+   "gist_zh": "星纱流苏幻舞裙（lavender、violet、gold）",
+   "file": "data/outfits/starwoven-dreams.json"
+  },
+  {
+   "slug": "mistbound-whispers",
+   "title": "Mistbound Whispers",
+   "cn_name": "林中雾语",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Fashion",
+    "Ballroom",
+    "舞会"
+   ],
+   "materials": [
+    "silver lace",
+    "pearl-encrusted sheer organza",
+    "iridescent sequin tulle",
+    "Chantilly lace",
+    "metallic thread embroidery"
+   ],
+   "palette": [
+    "silver mist",
+    "pearl white",
+    "crystal beadwork",
+    "charcoal lace"
+   ],
+   "gist_zh": "雾隐银蕊蝶纱舞裙（silver mist、pearl white、crystal beadwork）",
+   "file": "data/outfits/mistbound-whispers.json"
+  },
+  {
+   "slug": "rosy-reverie",
+   "title": "Rosy Reverie",
+   "cn_name": "迷花燃梦",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Retro"
+   ],
+   "materials": [
+    "gold-flecked sheer tulle",
+    "embroidered velvet",
+    "fur trim",
+    "satin",
+    "Chantilly lace"
+   ],
+   "palette": [
+    "deep crimson",
+    "antique gold",
+    "black",
+    "sheer ivory"
+   ],
+   "gist_zh": "燃花金焰复古长袍（deep crimson、antique gold、black）",
+   "file": "data/outfits/rosy-reverie.json"
+  },
+  {
+   "slug": "night-capricorn-song",
+   "title": "Night Capricorn Song",
+   "cn_name": "夜羯之歌",
+   "rarity": 4,
+   "style": "Sexy",
+   "labels": [
+    "Whimsy",
+    "Fantasy",
+    "绮想"
+   ],
+   "materials": [
+    "gilded silk jacquard",
+    "pearl-encrusted sheer tulle",
+    "liquid satin drapery",
+    "metallic chain fringe",
+    "constellation beadwork embroidery"
+   ],
+   "palette": [
+    "midnight blue",
+    "champagne gold",
+    "antique silver",
+    "sheer white tulle"
+   ],
+   "gist_zh": "星夜摩羯鎏金长裙（midnight blue、champagne gold、antique silver）",
+   "file": "data/outfits/night-capricorn-song.json"
+  },
+  {
+   "slug": "wind-of-purity",
+   "title": "Wind of Purity",
+   "cn_name": "纯净之风",
+   "rarity": 4,
+   "style": "Elegant",
+   "labels": [
+    "Romance"
+   ],
+   "materials": [
+    "sheer organza",
+    "gilded filigree",
+    "feather embroidery",
+    "chiffon",
+    "rhinestone beading"
+   ],
+   "palette": [
+    "ivory white",
+    "sage green",
+    "antique gold",
+    "translucent organza"
+   ],
+   "gist_zh": "晨曦微风仙裙（ivory white、sage green、antique gold）",
+   "file": "data/outfits/wind-of-purity.json"
+  },
+  {
+   "slug": "cheering-heartbeat",
+   "title": "Cheering Heartbeat",
+   "cn_name": "应援的心跳",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Ballroom",
+    "Fantasy",
+    "舞会"
+   ],
+   "materials": [
+    "holographic vinyl",
+    "iridescent sheer organza",
+    "satin charmeuse",
+    "beaded acrylic",
+    "glitter mesh"
+   ],
+   "palette": [
+    "sky blue",
+    "lemon yellow",
+    "iridescent pearl",
+    "candy pink"
+   ],
+   "gist_zh": "糖果应援幻彩纱裙（sky blue、lemon yellow、iridescent pearl）",
+   "file": "data/outfits/cheering-heartbeat.json"
+  },
+  {
+   "slug": "honey-hunt",
+   "title": "Honey Hunt",
+   "cn_name": "林间寻蜜",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Pastoral"
+   ],
+   "materials": [
+    "honeycomb-patterned lace",
+    "sheer organza",
+    "pintucked cotton voile",
+    "gilded braid trim",
+    "woven straw"
+   ],
+   "palette": [
+    "honey yellow",
+    "ivory white",
+    "antique gold",
+    "sheer cream"
+   ],
+   "gist_zh": "蜜色田园蜂巢蕾丝裙（honey yellow、ivory white、antique gold）",
+   "file": "data/outfits/honey-hunt.json"
+  },
+  {
+   "slug": "dream-banquet",
+   "title": "Dream Banquet",
+   "cn_name": "宴梦奇缘",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Royal"
+   ],
+   "materials": [
+    "silk taffeta",
+    "Chantilly lace",
+    "sheer organza",
+    "gold-thread embroidery",
+    "velvet ribbon"
+   ],
+   "palette": [
+    "ivory",
+    "cocoa brown",
+    "antique gold",
+    "white lace"
+   ],
+   "gist_zh": "烛光花园洛可可洋装（ivory、cocoa brown、antique gold）",
+   "file": "data/outfits/dream-banquet.json"
+  },
+  {
+   "slug": "verdant-melodies",
+   "title": "Verdant Melodies",
+   "cn_name": "绿野轻歌",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Pastoral"
+   ],
+   "materials": [
+    "woven straw",
+    "Chantilly lace",
+    "silk ribbon",
+    "embroidered cotton",
+    "sheer organza"
+   ],
+   "palette": [
+    "Mint Green",
+    "Ivory",
+    "Pink",
+    "Straw Beige"
+   ],
+   "gist_zh": "草帽蕾丝田园轻歌裙（Mint Green、Ivory、Pink）",
+   "file": "data/outfits/verdant-melodies.json"
+  },
+  {
+   "slug": "gleaming-dance",
+   "title": "Gleaming Dance",
+   "cn_name": "熠熠舞曲",
+   "rarity": 4,
+   "style": "Fresh",
+   "labels": [
+    "Ballroom",
+    "Summer",
+    "舞会",
+    "清凉"
+   ],
+   "materials": [
+    "lustrous satin",
+    "sheer tulle",
+    "pearl-encrusted embroidery",
+    "silk organza",
+    "metallic filigree"
+   ],
+   "palette": [
+    "lavender",
+    "white",
+    "silver",
+    "pale lilac"
+   ],
+   "gist_zh": "紫羽星芒舞会纱裙（lavender、white、silver）",
+   "file": "data/outfits/gleaming-dance.json"
+  },
+  {
+   "slug": "purifying-wind",
+   "title": "Purifying Wind",
+   "cn_name": "伊风祓舞",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Divine",
+    "神谕"
+   ],
+   "materials": [
+    "sheer draped organza",
+    "velvet fabric with gold embroidery",
+    "gilded ornate metal filigree",
+    "turquoise cabochon inlay",
+    "transparent chiffon veil"
+   ],
+   "palette": [
+    "white",
+    "burgundy red",
+    "gold",
+    "turquoise"
+   ],
+   "gist_zh": "神谕赤金圣纱舞衣（white、burgundy red、gold）",
+   "file": "data/outfits/purifying-wind.json"
+  },
+  {
+   "slug": "sweet-memories",
+   "title": "Sweet Memories",
+   "cn_name": "流梦香甜忆",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Cute",
+    "Pastoral",
+    "甜心"
+   ],
+   "materials": [
+    "crushed velvet",
+    "Chantilly lace",
+    "woven gingham check",
+    "gold braided cord",
+    "sheer organza"
+   ],
+   "palette": [
+    "deep crimson red",
+    "creamy white",
+    "golden metallic trim",
+    "black and white stripes"
+   ],
+   "gist_zh": "红丝绒甜心蕾丝洋装（deep crimson red、creamy white、golden metallic trim",
+   "file": "data/outfits/sweet-memories.json"
+  },
+  {
+   "slug": "far-and-away",
+   "title": "Far and Away",
+   "cn_name": "远方的遥想",
+   "rarity": 4,
+   "style": "Sweet",
+   "labels": [
+    "Fantasy"
+   ],
+   "materials": [
+    "plaid taffeta bow",
+    "soft velvet bodice",
+    "sheer organza puff sleeves",
+    "tiered tulle skirt",
+    "fine lace trim"
+   ],
+   "palette": [
+    "crimson red",
+    "ivory white",
+    "antique gold",
+    "sheer organza white"
+   ],
+   "gist_zh": "红绒蝶结糖梦礼裙（crimson red、ivory white、antique gold）",
+   "file": "data/outfits/far-and-away.json"
+  }
+ ]
+}

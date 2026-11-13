@@ -1,0 +1,50 @@
+{
+ "slug": "pastoral-dance",
+ "title": "Pastoral Dance",
+ "cn_name": "花舞绵绵",
+ "rarity": 4,
+ "style": "Fresh",
+ "labels": [
+  "Pastoral",
+  "Warm",
+  "保暖"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Fresh/pastoral-dance/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Fresh/pastoral-dance/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "月影牧场蕾丝洋装",
+  "silhouette": "A layered pastoral ensemble featuring a cropped dark bolero jacket over a corseted bodice, paired with a voluminous bell-shaped skirt and an asymmetrical sheer lace apron overlay.",
+  "headpiece_and_hair_ornaments": "Large curled ram horns, braided hair ribbons, and a cluster of crystalline floral buds adorning the side of the head.",
+  "upper_garment_and_sleeves": "Fitted dark bodice with intricate silver embroidery and front button placket, topped by a sheer white lace capelet; sleeves are full puffed bishop styles ending in ruffled lace cuffs with delicate ribbon ties.",
+  "lower_garment_and_legwear": "Tiered dark underskirt with a pleated hem, overlaid by a prominent white lace apron featuring scalloped edges and a large central floral medallion, completed with sheer stockings and dark heeled boots.",
+  "signature_props_and_motifs": "A small silver handbell with a tassel, floating luminous butterflies, and scattered floral buds accenting the pastoral theme.",
+  "color_palette": [
+   "Midnight Blue",
+   "Ivory White",
+   "Antique Silver",
+   "Sheer Lavender"
+  ],
+  "key_materials": [
+   "Chantilly lace",
+   "Brushed wool blend",
+   "Silk ribbon",
+   "Embroidered tulle",
+   "Polished silver hardware"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with charcoal-black loosely pinned updo with wispy bangs and icy-violet eyes standing with quiet enigmatic poise in a softly lit atmospheric studio. Adorning her head: Large curled ram horns, braided hair ribbons, and a cluster of crystalline floral buds adorning the side of the head. For her upper attire, she wears Fitted dark bodice with intricate silver embroidery and front button placket, topped by a sheer white lace capelet; sleeves are full puffed bishop styles ending in ruffled lace cuffs with delicate ribbon ties, rendered in Midnight Blue, Ivory White, Antique Silver tones. Below the waist, Tiered dark underskirt with a pleated hem, overlaid by a prominent white lace apron featuring scalloped edges and a large central floral medallion, completed with sheer stockings and dark heeled boots, accompanied by A small silver handbell with a tassel, floating luminous butterflies, and scattered floral buds accenting the pastoral theme.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with charcoal-black loosely pinned updo with wispy bangs and icy-violet eyes dressed in a Midnight Blue, Ivory White, Antique Silver haute-couture ensemble featuring Fitted dark bodice with intricate silver embroidery and front button placket, topped by a sheer white.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Large curled ram horns, braided hair ribbons, and a cluster of crystalline floral buds adorning the side of the head.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Fitted dark bodice with intricate silver embroidery and front button placket, topped by a sheer white lace capelet; sleeves are full puffed bishop styles ending in ruffled lace cuffs with delicate ribbon ties.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Tiered dark underskirt with a pleated hem, overlaid by a prominent white lace apron featuring scalloped edges and a large central floral medallion, completed with sheer stockings and dark heeled boots, accented with A small silver handbell with a tassel, floating luminous butterflies, and scattered floral.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with large curled ram horns, braided hair ribbons, and a cluster of crystalline floral buds adorning the side of the head, standing against a quiet neutral studio backdrop. Dressed in a midnight blue, ivory white, antique silver haute-couture outfit, she wears fitted dark bodice with intricate silver embroidery and front button placket, topped by a sheer white lace capelet; sleeves are full puffed bishop styles ending in ruffled lace cuffs with delicate ribbon ties. From her cinched waist cascades tiered dark underskirt with a pleated hem, overlaid by a prominent white lace apron featuring scalloped edges and a large central floral medallion, completed with sheer stockings and dark heeled boots, paired with a small silver handbell with a tassel, floating luminous butterflies, and scattered floral buds accenting the pastoral theme.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing fitted dark bodice with intricate silver embroidery and front button placket, topped by a sheer white.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with large curled ram horns, braided hair ribbons, and a cluster of crystalline floral buds adorning the side of the head.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Fitted dark bodice with intricate silver embroidery and front button placket, topped by a sheer white lace capelet; sleeves are full puffed bishop styles ending in ruffled lace cuffs with delicate ribbon ties.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Tiered dark underskirt with a pleated hem, overlaid by a prominent white lace apron featuring scalloped edges and a large central floral medallion, completed with sheer stockings and dark heeled boots, accompanied by a small silver handbell with a tassel, floating luminous butterflies, and scattered floral.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of Chantilly lace, Brushed wool blend, Silk ribbon, Embroidered tulle across a Midnight Blue, Ivory White, Antique Silver palette: at her crown sits large curled ram horns, braided hair ribbons, and a cluster of crystalline floral buds adorning the side of the head; her upper torso is cinched into fitted dark bodice with silver embroidery and front button placket, topped by a sheer white lace capelet; sleeves are full puffed bishop styles ending in ruffled lace cuffs with delicate ribbon ties, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs tiered dark underskirt with a pleated hem, overlaid by a prominent white lace apron featuring scalloped edges and a large central floral medallion, completed with sheer stockings and dark heeled boots, weighing down with real fabric gravity alongside a small silver handbell with a tassel, floating luminous butterflies, and scattered floral buds accenting the pastoral theme.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with charcoal-black loosely pinned updo with wispy bangs and large icy-violet eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of Chantilly lace, Brushed wool blend, Silk ribbon, Embroidered tulle across a Midnight Blue, Ivory White, Antique Silver palette: at her crown sits large curled ram horns, braided hair ribbons, and a cluster of crystalline floral buds adorning the side of the head; her upper torso is cinched into fitted dark bodice with silver embroidery and front button placket, topped by a sheer white lace capelet; sleeves are full puffed bishop styles ending in ruffled lace cuffs with delicate ribbon ties, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs tiered dark underskirt with a pleated hem, overlaid by a prominent white lace apron featuring scalloped edges and a large central floral medallion, completed with sheer stockings and dark heeled boots, weighing down with real fabric gravity alongside a small silver handbell with a tassel, floating luminous butterflies, and scattered floral buds accenting the pastoral theme. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Pastoral Dance",
+  "花舞绵绵"
+ ],
+ "images": [
+  "images/Fresh/pastoral-dance/wardrobe_1.jpg"
+ ]
+}

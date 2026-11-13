@@ -1,0 +1,53 @@
+{
+ "slug": "nameless-selfless",
+ "title": "Nameless, Selfless",
+ "cn_name": "无名亦无我",
+ "rarity": 5,
+ "style": "Sexy",
+ "labels": [
+  "Royal",
+  "Formal"
+ ],
+ "local_sprite": "images/Sexy/nameless-selfless/sprite.png",
+ "local_wardrobe": [
+  "images/Sexy/nameless-selfless/wardrobe_1.jpg",
+  "images/Sexy/nameless-selfless/wardrobe_2.jpg",
+  "images/Sexy/nameless-selfless/wardrobe_3.jpg"
+ ],
+ "local_main": "images/Sexy/nameless-selfless/wardrobe_1.jpg",
+ "engine": "smolproxy/gemini-3.8-flash (smol/deepseek 503 fallback)",
+ "outfit_card": {
+  "aesthetic_tag_zh": "幽夜星辉哥特礼服",
+  "silhouette": "Voluminous dramatic ballgown featuring a corseted off-the-shoulder drop-waist bodice, sculpted crystalline spine cages around the hips, and an expansive cascading floor-sweeping train with asymmetrical draped gathers.",
+  "headpiece_and_hair_ornaments": "Sheer midnight-blue veil crowned with frosted velvet roses and dimensional lace scalloped edging, paired with a delicate sculpted filigree eye mask ornament.",
+  "upper_garment_and_sleeves": "Plunging off-the-shoulder sweetheart corset bodice crafted from starry brocade, adorned with crystal rib cage overlay, accompanied by sheer Chantilly lace long sleeves extending into fingerless wristlets.",
+  "lower_garment_and_legwear": "Multilayered navy-and-charcoal glittering tulle skirt with side draping, high slit showing sheer dark stockings, frosted rose clusters at the hip, and pointed stiletto pumps.",
+  "signature_props_and_motifs": "Triple-branched antique silver candelabra with glowing candles, translucent crystalline ribcage accents, and fluttering phantom butterfly motifs.",
+  "color_palette": [
+   "Midnight navy",
+   "Obsidian black",
+   "Frosted lavender",
+   "Starlight silver"
+  ],
+  "key_materials": [
+   "Stardust glitter tulle",
+   "Chantilly lace",
+   "Sculpted crystalline resin",
+   "Velvet rose applique"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with chestnut-brown soft braided side-plait over one shoulder and jade-green eyes standing with warm serene gaze in a softly lit atmospheric studio. Adorning her head: Sheer midnight-blue veil crowned with frosted velvet roses and dimensional lace scalloped edging, paired with a delicate sculpted filigree eye mask ornament. For her upper attire, she wears Plunging off-the-shoulder sweetheart corset bodice crafted from starry brocade, adorned with crystal rib cage overlay, accompanied by sheer Chantilly lace long sleeves extending into fingerless wristlets, rendered in Midnight navy, Obsidian black, Frosted lavender tones. Below the waist, Multilayered navy-and-charcoal glittering tulle skirt with side draping, high slit showing sheer dark stockings, frosted rose clusters at the hip, and pointed stiletto pumps, accompanied by Triple-branched antique silver candelabra with glowing candles, translucent crystalline ribcage accents, and fluttering phantom butterfly motifs.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with chestnut-brown soft braided side-plait over one shoulder and jade-green eyes dressed in a Midnight navy, Obsidian black, Frosted lavender haute-couture ensemble featuring Plunging off-the-shoulder sweetheart corset bodice crafted from starry brocade, adorned with crystal rib.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Sheer midnight-blue veil crowned with frosted velvet roses and dimensional lace scalloped edging, paired with a delicate sculpted filigree eye mask ornament.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"Plunging off-the-shoulder sweetheart corset bodice crafted from starry brocade, adorned with crystal rib cage overlay, accompanied by sheer Chantilly lace long sleeves extending into fingerless wristlets.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Multilayered navy-and-charcoal glittering tulle skirt with side draping, high slit showing sheer dark stockings, frosted rose clusters at the hip, and pointed stiletto pumps, accented with Triple-branched antique silver candelabra with glowing candles, translucent crystalline.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with sheer midnight-blue veil crowned with frosted velvet roses and dimensional lace scalloped edging, paired with a delicate sculpted filigree eye mask ornament, standing against a quiet neutral studio backdrop. Dressed in a midnight navy, obsidian black, frosted lavender haute-couture outfit, she wears plunging off-the-shoulder sweetheart corset bodice crafted from starry brocade, adorned with crystal rib cage overlay, accompanied by sheer chantilly lace long sleeves extending into fingerless wristlets. From her cinched waist cascades multilayered navy-and-charcoal glittering tulle skirt with side draping, high slit showing sheer dark stockings, frosted rose clusters at the hip, and pointed stiletto pumps, paired with triple-branched antique silver candelabra with glowing candles, translucent crystalline ribcage accents, and fluttering phantom butterfly motifs.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing plunging off-the-shoulder sweetheart corset bodice crafted from starry brocade, adorned with crystal rib.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with sheer midnight-blue veil crowned with frosted velvet roses and dimensional lace scalloped edging, paired with a delicate sculpted filigree eye mask ornament.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"Plunging off-the-shoulder sweetheart corset bodice crafted from starry brocade, adorned with crystal rib cage overlay, accompanied by sheer Chantilly lace long sleeves extending into fingerless wristlets.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Multilayered navy-and-charcoal glittering tulle skirt with side draping, high slit showing sheer dark stockings, frosted rose clusters at the hip, and pointed stiletto pumps, accompanied by triple-branched antique silver candelabra with glowing candles, translucent crystalline.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of Stardust glitter tulle, Chantilly lace, Sculpted crystalline resin, Velvet rose applique across a Midnight navy, Obsidian black, Frosted lavender palette: at her crown sits sheer midnight-blue veil crowned with frosted velvet roses and dimensional lace scalloped edging, paired with a delicate sculpted filigree eye mask ornament; her upper torso is cinched into plunging off-the-shoulder sweetheart corset bodice crafted from starry brocade, adorned with crystal rib cage overlay, accompanied by sheer chantilly lace long sleeves extending into fingerless wristlets, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs multilayered navy-and-charcoal glittering tulle skirt with side draping, high slit showing sheer dark stockings, frosted rose clusters at the hip, and pointed stiletto pumps, weighing down with real fabric gravity alongside triple-branched antique silver candelabra with glowing candles, translucent crystalline ribcage accents, and fluttering phantom butterfly motifs.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with chestnut-brown soft braided side-plait over one shoulder and large jade-green eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of Stardust glitter tulle, Chantilly lace, Sculpted crystalline resin, Velvet rose applique across a Midnight navy, Obsidian black, Frosted lavender palette: at her crown sits sheer midnight-blue veil crowned with frosted velvet roses and dimensional lace scalloped edging, paired with a delicate sculpted filigree eye mask ornament; her upper torso is cinched into plunging off-the-shoulder sweetheart corset bodice crafted from starry brocade, adorned with crystal rib cage overlay, accompanied by sheer chantilly lace long sleeves extending into fingerless wristlets, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs multilayered navy-and-charcoal glittering tulle skirt with side draping, high slit showing sheer dark stockings, frosted rose clusters at the hip, and pointed stiletto pumps, weighing down with real fabric gravity alongside triple-branched antique silver candelabra with glowing candles, translucent crystalline ribcage accents, and fluttering phantom butterfly motifs. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Nameless, Selfless",
+  "无名亦无我"
+ ],
+ "images": [
+  "images/Sexy/nameless-selfless/sprite.png",
+  "images/Sexy/nameless-selfless/wardrobe_1.jpg",
+  "images/Sexy/nameless-selfless/wardrobe_2.jpg",
+  "images/Sexy/nameless-selfless/wardrobe_3.jpg"
+ ]
+}

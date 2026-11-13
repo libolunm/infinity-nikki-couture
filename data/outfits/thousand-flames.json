@@ -1,0 +1,48 @@
+{
+ "slug": "thousand-flames",
+ "title": "Thousand Flames",
+ "cn_name": "花明千焰",
+ "rarity": 4,
+ "style": "Sweet",
+ "labels": [
+  "Linlang",
+  "Romance"
+ ],
+ "local_sprite": null,
+ "local_wardrobe": [
+  "images/Sweet/thousand-flames/wardrobe_1.jpg"
+ ],
+ "local_main": "images/Sweet/thousand-flames/wardrobe_1.jpg",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "琳琅幻彩云肩仙裳",
+  "silhouette": "Layered Chinese-inspired couture with a fitted high-collar bodice, voluminous gradient wide sleeves, and a flowing sheer over-robe with asymmetric cloud-like shoulder panels.",
+  "headpiece_and_hair_ornaments": "Gilded floral hairpins with enameled blue petals, cascading bead chains, a filigree lantern tassel, and delicate pearl-and-gem forehead fringe.",
+  "upper_garment_and_sleeves": "High mandarin collar with gold filigree trim, sheer organza overlay embroidered with pearl and crystal beadwork, wide gradient sleeves edged in pale green silk and ornate metallic borders.",
+  "lower_garment_and_legwear": "Flowing floor-length skirt with gradient lilac-turquoise panels, layered sheer tulle over a structured petticoat, ornate waist sash with jade pendant, and concealed embroidered slippers.",
+  "signature_props_and_motifs": "Floating floral petals, filigree lantern tassel accessory, and iridescent cloud-and-flame motifs woven into the sheer textiles.",
+  "color_palette": [
+   "lilac",
+   "pale turquoise",
+   "gilded gold",
+   "pearl white"
+  ],
+  "key_materials": [
+   "pearl-encrusted sheer organza",
+   "gilded silk jacquard",
+   "gradient-dyed tulle",
+   "enameled floral filigree"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with snow-white twin braided loops with long trailing ribbons and deep cobalt eyes standing with hushed ceremonial grace in a softly lit atmospheric studio. Adorning her head: Gilded floral hairpins with enameled blue petals, cascading bead chains, a filigree lantern tassel, and delicate pearl-and-gem forehead fringe. For her upper attire, she wears High mandarin collar with gold filigree trim, sheer organza overlay embroidered with pearl and crystal beadwork, wide gradient sleeves edged in pale green silk and ornate metallic borders, rendered in lilac, pale turquoise, gilded gold tones. Below the waist, Flowing floor-length skirt with gradient lilac-turquoise panels, layered sheer tulle over a structured petticoat, ornate waist sash with jade pendant, and concealed embroidered slippers, accompanied by Floating floral petals, filigree lantern tassel accessory, and iridescent cloud-and-flame motifs woven into the sheer textiles.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with snow-white twin braided loops with long trailing ribbons and deep cobalt eyes dressed in a lilac, pale turquoise, gilded gold haute-couture ensemble featuring High mandarin collar with gold filigree trim, sheer organza overlay embroidered with pearl and crystal.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"Gilded floral hairpins with enameled blue petals, cascading bead chains, a filigree lantern tassel, and delicate pearl-and-gem forehead fringe.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"High mandarin collar with gold filigree trim, sheer organza overlay embroidered with pearl and crystal beadwork, wide gradient sleeves edged in pale green silk and ornate metallic borders.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"Flowing floor-length skirt with gradient lilac-turquoise panels, layered sheer tulle over a structured petticoat, ornate waist sash with jade pendant, and concealed embroidered slippers, accented with Floating floral petals, filigree lantern tassel accessory, and iridescent cloud-and-flame.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with gilded floral hairpins with enameled blue petals, cascading bead chains, a filigree lantern tassel, and delicate pearl-and-gem forehead fringe, standing against a quiet neutral studio backdrop. Dressed in a lilac, pale turquoise, gilded gold haute-couture outfit, she wears high mandarin collar with gold filigree trim, sheer organza overlay embroidered with pearl and crystal beadwork, wide gradient sleeves edged in pale green silk and ornate metallic borders. From her cinched waist cascades flowing floor-length skirt with gradient lilac-turquoise panels, layered sheer tulle over a structured petticoat, ornate waist sash with jade pendant, and concealed embroidered slippers, paired with floating floral petals, filigree lantern tassel accessory, and iridescent cloud-and-flame motifs woven into the sheer textiles.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing high mandarin collar with gold filigree trim, sheer organza overlay embroidered with pearl and crystal.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with gilded floral hairpins with enameled blue petals, cascading bead chains, a filigree lantern tassel, and delicate pearl-and-gem forehead fringe.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"High mandarin collar with gold filigree trim, sheer organza overlay embroidered with pearl and crystal beadwork, wide gradient sleeves edged in pale green silk and ornate metallic borders.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"Flowing floor-length skirt with gradient lilac-turquoise panels, layered sheer tulle over a structured petticoat, ornate waist sash with jade pendant, and concealed embroidered slippers, accompanied by floating floral petals, filigree lantern tassel accessory, and iridescent cloud-and-flame.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of pearl-encrusted sheer organza, gilded silk jacquard, gradient-dyed tulle, enameled floral filigree across a lilac, pale turquoise, gilded gold palette: at her crown sits gilded floral hairpins with enameled blue petals, cascading bead chains, a filigree lantern tassel, and delicate pearl-and-gem forehead fringe; her upper torso is cinched into high mandarin collar with gold filigree trim, sheer organza overlay embroidered with pearl and crystal beadwork, wide gradient sleeves edged in pale green silk and metallic borders, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs flowing floor-length skirt with gradient lilac-turquoise panels, layered sheer tulle over a structured petticoat, waist sash with jade pendant, and concealed embroidered slippers, weighing down with real fabric gravity alongside floating floral petals, filigree lantern tassel accessory, and iridescent cloud-and-flame motifs woven into the sheer textiles.",
+ "krea2_full_prompt": "the camera sits just below waist level with almost zero lens distortion, letting the floor-sweeping hemline of her gown anchor the lower half of the picture while her framed shoulders and headpiece hold the upper third. a young woman with snow-white twin braided loops with long trailing ribbons and large deep cobalt eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of pearl-encrusted sheer organza, gilded silk jacquard, gradient-dyed tulle, enameled floral filigree across a lilac, pale turquoise, gilded gold palette: at her crown sits gilded floral hairpins with enameled blue petals, cascading bead chains, a filigree lantern tassel, and delicate pearl-and-gem forehead fringe; her upper torso is cinched into high mandarin collar with gold filigree trim, sheer organza overlay embroidered with pearl and crystal beadwork, wide gradient sleeves edged in pale green silk and metallic borders, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs flowing floor-length skirt with gradient lilac-turquoise panels, layered sheer tulle over a structured petticoat, waist sash with jade pendant, and concealed embroidered slippers, weighing down with real fabric gravity alongside floating floral petals, filigree lantern tassel accessory, and iridescent cloud-and-flame motifs woven into the sheer textiles. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Thousand Flames",
+  "花明千焰"
+ ],
+ "images": [
+  "images/Sweet/thousand-flames/wardrobe_1.jpg"
+ ]
+}

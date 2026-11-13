@@ -1,0 +1,31 @@
+# Infinity Nikki Couture Prompt Library
+
+> 104 Infinity Nikki (无限暖暖) outfits, each compiled into ready-to-use
+> prompts for two image models: MOSS-Image nested-box JSON and Krea2 natural-language prose.
+> Machine-first dataset. Static JSON, CORS open, no auth, no rate limit.
+
+Canonical base: https://libolunm.github.io/infinity-nikki-couture/
+Mirror (jsDelivr, same paths): https://cdn.jsdelivr.net/gh/libolunm/infinity-nikki-couture@main/
+
+## Start here
+
+- [data/index.json](https://libolunm.github.io/infinity-nikki-couture/data/index.json): 104 rows of metadata only (slug, cn/en name, rarity, style, labels, materials, palette, file path). ~30 KB. Filter on this first.
+- [data/prompts.json](https://libolunm.github.io/infinity-nikki-couture/data/prompts.json): all prompts in one flat array (moss, moss_sonnet, krea2, krea2_wardrobe). ~250 KB. Read when you need many at once.
+- [data/sample.json](https://libolunm.github.io/infinity-nikki-couture/data/sample.json): 8 five-star outfits with full prompts. ~20 KB starter pack.
+- [data/outfits/{slug}.json](https://libolunm.github.io/infinity-nikki-couture/data/outfits/clouded-loong.json): one outfit, full record. Fetch per slug instead of bulk when you only need a few.
+- [agent.md](https://libolunm.github.io/infinity-nikki-couture/agent.md): usage manual, field definitions, worked examples, token budget.
+
+## Bulk data
+
+- [data/moss_wardrobe_full_15mp.json](https://libolunm.github.io/infinity-nikki-couture/data/moss_wardrobe_full_15mp.json): the whole library, ~1 MB, four prompt variants per outfit.
+- [data/outfit_cards.json](https://libolunm.github.io/infinity-nikki-couture/data/outfit_cards.json): structure cards only, no prompts.
+- [data/curated_manifest.json](https://libolunm.github.io/infinity-nikki-couture/data/curated_manifest.json): source metadata + local image paths.
+- [data/outfits_index.json](https://libolunm.github.io/infinity-nikki-couture/data/outfits_index.json): wider catalogue, 781 entries, 281 standalone originals.
+- [data/moss_prompts_pack1.json](https://libolunm.github.io/infinity-nikki-couture/data/moss_prompts_pack1.json), [data/moss_prompts_pack2_linlang_crystal.json](https://libolunm.github.io/infinity-nikki-couture/data/moss_prompts_pack2_linlang_crystal.json): 13 hand-tuned MOSS samples.
+
+## Notes
+
+- Every string field is copy-paste ready; no template variables to fill.
+- `original_moss_json` invents a new girl; `sonnet_moss_json` reuses one fixed character for comparison.
+- Images live under `images/{style}/{slug}/*.webp`; they are optional context, the text matters.
+- Outfit designs are IP of Infold Games. Prompt text is free to reuse and adapt.

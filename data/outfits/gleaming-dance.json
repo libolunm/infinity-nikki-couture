@@ -1,0 +1,49 @@
+{
+ "slug": "gleaming-dance",
+ "title": "Gleaming Dance",
+ "cn_name": "熠熠舞曲",
+ "rarity": 4,
+ "style": "Fresh",
+ "labels": [
+  "Ballroom",
+  "Summer",
+  "舞会",
+  "清凉"
+ ],
+ "local_sprite": "images/Fresh/gleaming-dance/sprite.png",
+ "local_wardrobe": [],
+ "local_main": "images/Fresh/gleaming-dance/sprite.png",
+ "engine": "smolproxy/deepseek-v4-flash",
+ "outfit_card": {
+  "aesthetic_tag_zh": "紫羽星芒舞会纱裙",
+  "silhouette": "Strapless ball gown with a fitted, draped satin bodice and a voluminous tiered tulle skirt; a cascading back bustle and asymmetrical sheer tulle overskirt create a romantic, airy A-line silhouette.",
+  "headpiece_and_hair_ornaments": "A slender, feather-like white hairpin with delicate silver filigree and small pearl accents, placed asymmetrically to catch the light.",
+  "upper_garment_and_sleeves": "A strapless bodice of lustrous lavender satin, ruched and gathered with an ornate brooch of white feathers and pearl clusters at the center, paired with elbow-length pale lilac gloves.",
+  "lower_garment_and_legwear": "A full, layered skirt with a crisp white tulle base, overlaid with sheer lilac tulle and scattered pearl sprays and floral appliqué; a draped satin bustle falls to the back.",
+  "signature_props_and_motifs": "A luminous pearl-and-feather brooch, delicate trailing vine motifs, and subtle floating star-like sparkles that accompany the dance.",
+  "color_palette": [
+   "lavender",
+   "white",
+   "silver",
+   "pale lilac"
+  ],
+  "key_materials": [
+   "lustrous satin",
+   "sheer tulle",
+   "pearl-encrusted embroidery",
+   "silk organza",
+   "metallic filigree"
+  ]
+ },
+ "original_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A refined painterly anime-style illustration depicts a young woman with dark-espresso sleek hime-cut long hair and warm amber-gold eyes standing with poised theatrical grace in a softly lit atmospheric studio. Adorning her head: A slender, feather-like white hairpin with delicate silver filigree and small pearl accents, placed asymmetrically to catch the light. For her upper attire, she wears A strapless bodice of lustrous lavender satin, ruched and gathered with an ornate brooch of white feathers and pearl clusters at the center, paired with elbow-length pale lilac gloves, rendered in lavender, white, silver tones. Below the waist, A full, layered skirt with a crisp white tulle base, overlaid with sheer lilac tulle and scattered pearl sprays and floral appliqué; a draped satin bustle falls to the back, accompanied by A luminous pearl-and-feather brooch, delicate trailing vine motifs, and subtle floating star-like sparkles that accompany the dance.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A young woman with dark-espresso sleek hime-cut long hair and warm amber-gold eyes dressed in a lavender, white, silver haute-couture ensemble featuring A strapless bodice of lustrous lavender satin, ruched and gathered with an ornate brooch of white.\", \"bbox\": [-705, -450, 730, 450]}, {\"label\": \"object\", \"caption\": \"A slender, feather-like white hairpin with delicate silver filigree and small pearl accents, placed asymmetrically to catch the light.\", \"bbox\": [-720, -260, -330, 260]}, {\"label\": \"object\", \"caption\": \"A strapless bodice of lustrous lavender satin, ruched and gathered with an ornate brooch of white feathers and pearl clusters at the center, paired with elbow-length pale lilac gloves.\", \"bbox\": [-340, -455, 165, 455]}, {\"label\": \"object\", \"caption\": \"A full, layered skirt with a crisp white tulle base, overlaid with sheer lilac tulle and scattered pearl sprays and floral appliqué; a draped satin bustle falls to the back, accented with A luminous pearl-and-feather brooch, delicate trailing vine motifs, and subtle floating.\", \"bbox\": [65, -450, 730, 450]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "sonnet_moss_json": "{\"summary\": {\"meta\": [\"anime illustration\", \"painterly\", \"full body\"], \"canvas\": \"single\", \"caption\": \"A luminous painterly anime-style illustration depicts a girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet accented with a slender, feather-like white hairpin with delicate silver filigree and small pearl accents, placed asymmetrically to catch the light, standing against a quiet neutral studio backdrop. Dressed in a lavender, white, silver haute-couture outfit, she wears a strapless bodice of lustrous lavender satin, ruched and gathered with an ornate brooch of white feathers and pearl clusters at the center, paired with elbow-length pale lilac gloves. From her cinched waist cascades a full, layered skirt with a crisp white tulle base, overlaid with sheer lilac tulle and scattered pearl sprays and floral appliqué; a draped satin bustle falls to the back, paired with a luminous pearl-and-feather brooch, delicate trailing vine motifs, and subtle floating star-like sparkles that accompany the dance.\"}, \"items\": [{\"label\": \"character\", \"caption\": \"A girl with fluffy ash-brown shoulder-length wavy hair, a heavy fringe, large crimson-red eyes and a white frilled lace maid bonnet, wearing a strapless bodice of lustrous lavender satin, ruched and gathered with an ornate brooch of white.\", \"bbox\": [-700, -445, 725, 445]}, {\"label\": \"object\", \"caption\": \"A white frilled lace maid bonnet embellished with a slender, feather-like white hairpin with delicate silver filigree and small pearl accents, placed asymmetrically to catch the light.\", \"bbox\": [-715, -255, -335, 255]}, {\"label\": \"object\", \"caption\": \"A strapless bodice of lustrous lavender satin, ruched and gathered with an ornate brooch of white feathers and pearl clusters at the center, paired with elbow-length pale lilac gloves.\", \"bbox\": [-335, -450, 160, 450]}, {\"label\": \"object\", \"caption\": \"A full, layered skirt with a crisp white tulle base, overlaid with sheer lilac tulle and scattered pearl sprays and floral appliqué; a draped satin bustle falls to the back, accompanied by a luminous pearl-and-feather brooch, delicate trailing vine motifs, and subtle floating.\", \"bbox\": [65, -445, 730, 445]}], \"bbox_coord_space\": \"abs_centralized\", \"bbox_format\": \"yxyx\"}",
+ "krea2_wardrobe_prose": "her outfit is built in tangible layers of lustrous satin, sheer tulle, pearl-encrusted embroidery, silk organza across a lavender, white, silver palette: at her crown sits a slender, feather-like white hairpin with delicate silver filigree and small pearl accents, placed asymmetrically to catch the light; her upper torso is cinched into a strapless bodice of lustrous lavender satin, ruched and gathered with an brooch of white feathers and pearl clusters at the center, paired with elbow-length pale lilac gloves, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a full, layered skirt with a crisp white tulle base, overlaid with sheer lilac tulle and scattered pearl sprays and floral appliqué; a draped satin bustle falls to the back, weighing down with real fabric gravity alongside a luminous pearl-and-feather brooch, delicate trailing vine motifs, and subtle floating star-like sparkles that accompany the dance.",
+ "krea2_full_prompt": "the camera sits at mid-thigh height and tilts slightly upward, so that the sweeping bell-shaped volume of her multi-tiered skirt and the structured beadwork across her bodice read as the two largest masses in the frame. a young woman with dark-espresso sleek hime-cut long hair and large warm amber-gold eyes framed by separated lashes stands in three-quarter view inside a softly lit studio space. her outfit is built in tangible layers of lustrous satin, sheer tulle, pearl-encrusted embroidery, silk organza across a lavender, white, silver palette: at her crown sits a slender, feather-like white hairpin with delicate silver filigree and small pearl accents, placed asymmetrically to catch the light; her upper torso is cinched into a strapless bodice of lustrous lavender satin, ruched and gathered with an brooch of white feathers and pearl clusters at the center, paired with elbow-length pale lilac gloves, pulling snug at the waist seam before releasing into fabric folds; below her hips hangs a full, layered skirt with a crisp white tulle base, overlaid with sheer lilac tulle and scattered pearl sprays and floral appliqué; a draped satin bustle falls to the back, weighing down with real fabric gravity alongside a luminous pearl-and-feather brooch, delicate trailing vine motifs, and subtle floating star-like sparkles that accompany the dance. soft directional key light from the upper left catches the raised embroidery threads, pearl surfaces, and sheer fabric edges while leaving cool shadow folds inside the deeper pleats.",
+ "aliases": [
+  "Gleaming Dance",
+  "熠熠舞曲"
+ ],
+ "images": [
+  "images/Fresh/gleaming-dance/sprite.png"
+ ]
+}
