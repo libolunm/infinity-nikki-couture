@@ -8,6 +8,10 @@
   "krea2": "Krea2 natural-language prose, camera-first, layered fabric physics"
  },
  "fields": {
+  "labels": "stable English tag enum, use this for filtering",
+  "labels_zh": "Chinese form of the same tags, for Chinese keyword matching",
+  "materials": "fabric keywords, e.g. velvet, organza, jacquard silk",
+  "palette": "dominant colours",
   "original_moss_json": "MOSS prompt with a fresh random girl (string of JSON)",
   "sonnet_moss_json": "MOSS prompt with a fixed recurring character, for A/B compares",
   "krea2_wardrobe_prose": "Krea2 outfit paragraph only, splice into your own scene",
@@ -25,6 +29,7 @@
     "Linlang",
     "Royal"
    ],
+   "labels_zh": [],
    "materials": [
     "frosted crystalline acrylic",
     "jacquard silk brocade",
@@ -50,6 +55,7 @@
     "Linlang",
     "Fantasy"
    ],
+   "labels_zh": [],
    "materials": [
     "pearl-strung mesh",
     "gilded silk brocade",
@@ -76,6 +82,7 @@
     "Divine",
     "Forest"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded silk organza",
     "filigree metalwork",
@@ -101,6 +108,7 @@
     "Glow",
     "Royal"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded lamé silk",
     "chiseled filigree metalwork",
@@ -126,6 +134,7 @@
     "Fairy",
     "Ballroom"
    ],
+   "labels_zh": [],
    "materials": [
     "iridescent pleated organza",
     "gilded silk satin",
@@ -151,6 +160,7 @@
     "Playful",
     "Royal"
    ],
+   "labels_zh": [],
    "materials": [
     "crushed velvet",
     "gilded jacquard",
@@ -176,6 +186,7 @@
     "Glow",
     "Spirited"
    ],
+   "labels_zh": [],
    "materials": [
     "liquid-sheen iridescent organza",
     "sculpted crystal resin",
@@ -201,6 +212,7 @@
     "Whimsy",
     "Glow"
    ],
+   "labels_zh": [],
    "materials": [
     "iridescent organza",
     "glitter-dusted tulle",
@@ -226,6 +238,7 @@
     "Ballroom",
     "Royal"
    ],
+   "labels_zh": [],
    "materials": [
     "heavy silk duchess satin",
     "gilded metallic bullion embroidery",
@@ -252,6 +265,7 @@
     "Classical",
     "Divine"
    ],
+   "labels_zh": [],
    "materials": [
     "crystal-encrusted sheer organza",
     "sculpted iridescent resin petals",
@@ -277,6 +291,7 @@
     "Fantasy",
     "Adventure"
    ],
+   "labels_zh": [],
    "materials": [
     "glitter-dusted black velvet",
     "water-ripple silk charmeuse",
@@ -302,6 +317,7 @@
     "Cute",
     "Fantasy"
    ],
+   "labels_zh": [],
    "materials": [
     "pleated metallic lamé",
     "star-embroidered organza",
@@ -327,6 +343,7 @@
     "Royal",
     "Formal"
    ],
+   "labels_zh": [],
    "materials": [
     "Stardust glitter tulle",
     "Chantilly lace",
@@ -352,6 +369,7 @@
     "Formal",
     "Fashion"
    ],
+   "labels_zh": [],
    "materials": [
     "pearl-beaded silk crepe",
     "translucent shimmer organza",
@@ -377,6 +395,7 @@
     "Playful",
     "Spirited"
    ],
+   "labels_zh": [],
    "materials": [
     "embossed crimson velvet",
     "gilded floral jacquard",
@@ -402,6 +421,7 @@
     "Ballroom",
     "Trendy"
    ],
+   "labels_zh": [],
    "materials": [
     "feather-embroidered silk organza",
     "crystal-dusted pleated tulle",
@@ -427,6 +447,7 @@
     "Whimsy",
     "Glow"
    ],
+   "labels_zh": [],
    "materials": [
     "liquid gold lamé",
     "pearl-encrusted tulle",
@@ -452,6 +473,7 @@
     "Whimsy",
     "Classical"
    ],
+   "labels_zh": [],
    "materials": [
     "crystallized sheer organza",
     "3D beaded floral lace",
@@ -477,6 +499,7 @@
     "Divine",
     "Royal"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded brocade jacquard",
     "Chantilly lace",
@@ -503,6 +526,7 @@
     "Forest",
     "Fairy"
    ],
+   "labels_zh": [],
    "materials": [
     "iridescent crystal-embossed organza",
     "frosted translucent resin",
@@ -528,6 +552,7 @@
     "Romance",
     "Pastoral"
    ],
+   "labels_zh": [],
    "materials": [
     "fine pleated silk chiffon",
     "3D organza blossom appliqués",
@@ -553,6 +578,7 @@
     "Classical",
     "Glow"
    ],
+   "labels_zh": [],
    "materials": [
     "faceted raw crystal",
     "stardust sheer tulle",
@@ -578,6 +604,7 @@
     "Terra",
     "Aesthetic"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded silk brocade",
     "star-dusted sheer organza",
@@ -604,6 +631,7 @@
     "Divine",
     "Aesthetic"
    ],
+   "labels_zh": [],
    "materials": [
     "crystal-embossed sheer organza",
     "silver filigree embroidery",
@@ -629,6 +657,7 @@
     "Divine",
     "Terra"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded silk jacquard",
     "pleated fine linen",
@@ -653,7 +682,9 @@
    "style": "Sweet",
    "labels": [
     "Fairy",
-    "Fantasy",
+    "Fantasy"
+   ],
+   "labels_zh": [
     "精灵"
    ],
    "materials": [
@@ -680,7 +711,9 @@
    "style": "Elegant",
    "labels": [
     "Royal",
-    "Fairy",
+    "Fairy"
+   ],
+   "labels_zh": [
     "精灵"
    ],
    "materials": [
@@ -707,7 +740,9 @@
    "style": "Elegant",
    "labels": [
     "Romance",
-    "Ballroom",
+    "Ballroom"
+   ],
+   "labels_zh": [
     "舞会"
    ],
    "materials": [
@@ -734,7 +769,9 @@
    "style": "Sexy",
    "labels": [
     "Romance",
-    "Ballroom",
+    "Ballroom"
+   ],
+   "labels_zh": [
     "舞会"
    ],
    "materials": [
@@ -761,7 +798,9 @@
    "style": "Sweet",
    "labels": [
     "Classical",
-    "Glow",
+    "Glow"
+   ],
+   "labels_zh": [
     "流彩"
    ],
    "materials": [
@@ -788,7 +827,9 @@
    "style": "Elegant",
    "labels": [
     "Formal",
-    "Ballroom",
+    "Ballroom"
+   ],
+   "labels_zh": [
     "舞会"
    ],
    "materials": [
@@ -817,6 +858,7 @@
     "Formal",
     "Retro"
    ],
+   "labels_zh": [],
    "materials": [
     "pearl-encrusted sheer organza",
     "gilded silk jacquard",
@@ -841,7 +883,9 @@
    "style": "Fresh",
    "labels": [
     "Ballroom",
-    "Fairy",
+    "Fairy"
+   ],
+   "labels_zh": [
     "舞会",
     "精灵"
    ],
@@ -871,6 +915,7 @@
     "Retro",
     "Playful"
    ],
+   "labels_zh": [],
    "materials": [
     "pearl-encrusted sheer organza",
     "gilded silk jacquard",
@@ -897,6 +942,7 @@
     "Fantasy",
     "Playful"
    ],
+   "labels_zh": [],
    "materials": [
     "sheer organza",
     "satin jacquard",
@@ -921,7 +967,9 @@
    "style": "Cool",
    "labels": [
     "Aesthetic",
-    "Fantasy",
+    "Fantasy"
+   ],
+   "labels_zh": [
     "唯美"
    ],
    "materials": [
@@ -947,7 +995,9 @@
    "style": "Sexy",
    "labels": [
     "Adventure",
-    "Fantasy",
+    "Fantasy"
+   ],
+   "labels_zh": [
     "冒险"
    ],
    "materials": [
@@ -973,6 +1023,10 @@
    "rarity": 5,
    "style": "Fresh",
    "labels": [
+    "Summer",
+    "Fairy"
+   ],
+   "labels_zh": [
     "清凉",
     "精灵"
    ],
@@ -999,7 +1053,9 @@
    "style": "Sweet",
    "labels": [
     "Summer",
-    "Cute",
+    "Cute"
+   ],
+   "labels_zh": [
     "清凉",
     "甜心"
    ],
@@ -1029,6 +1085,7 @@
     "Linlang",
     "Aesthetic"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded silk brocade",
     "sheer gradient organza",
@@ -1053,6 +1110,7 @@
    "labels": [
     "Linlang"
    ],
+   "labels_zh": [],
    "materials": [
     "shimmering lattice tulle",
     "celadon silk crepe",
@@ -1077,6 +1135,7 @@
    "labels": [
     "Linlang"
    ],
+   "labels_zh": [],
    "materials": [
     "pinstriped wool twill",
     "embroidered emerald silk satin",
@@ -1102,6 +1161,7 @@
     "Linlang",
     "Romance"
    ],
+   "labels_zh": [],
    "materials": [
     "pearl-encrusted sheer organza",
     "gilded silk jacquard",
@@ -1125,7 +1185,9 @@
    "style": "Fresh",
    "labels": [
     "Linlang",
-    "Fairy",
+    "Fairy"
+   ],
+   "labels_zh": [
     "精灵"
    ],
    "materials": [
@@ -1153,6 +1215,7 @@
     "Linlang",
     "Romance"
    ],
+   "labels_zh": [],
    "materials": [
     "sheer silk organza",
     "silver thread embroidery",
@@ -1178,6 +1241,7 @@
     "Linlang",
     "Fantasy"
    ],
+   "labels_zh": [],
    "materials": [
     "sheer organza",
     "gilded silk jacquard",
@@ -1202,7 +1266,9 @@
    "style": "Fresh",
    "labels": [
     "Linlang",
-    "Spirited",
+    "Spirited"
+   ],
+   "labels_zh": [
     "灵动"
    ],
    "materials": [
@@ -1229,7 +1295,9 @@
    "style": "Elegant",
    "labels": [
     "Linlang",
-    "Warm",
+    "Warm"
+   ],
+   "labels_zh": [
     "保暖"
    ],
    "materials": [
@@ -1255,7 +1323,9 @@
    "style": "Fresh",
    "labels": [
     "Linlang",
-    "Summer",
+    "Summer"
+   ],
+   "labels_zh": [
     "清凉"
    ],
    "materials": [
@@ -1282,7 +1352,9 @@
    "style": "Elegant",
    "labels": [
     "Linlang",
-    "Cute",
+    "Cute"
+   ],
+   "labels_zh": [
     "甜心"
    ],
    "materials": [
@@ -1308,7 +1380,9 @@
    "style": "Cool",
    "labels": [
     "Linlang",
-    "Adventure",
+    "Adventure"
+   ],
+   "labels_zh": [
     "冒险"
    ],
    "materials": [
@@ -1336,6 +1410,7 @@
    "labels": [
     "Linlang"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded silk jacquard",
     "sheer organza",
@@ -1360,7 +1435,9 @@
    "style": "Elegant",
    "labels": [
     "Intellectual",
-    "Linlang",
+    "Linlang"
+   ],
+   "labels_zh": [
     "知性"
    ],
    "materials": [
@@ -1388,6 +1465,7 @@
    "labels": [
     "Linlang"
    ],
+   "labels_zh": [],
    "materials": [
     "velvet",
     "sheer stockings",
@@ -1414,6 +1492,7 @@
     "Fantasy",
     "Retro"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded silk jacquard",
     "sheer organza",
@@ -1438,7 +1517,9 @@
    "style": "Elegant",
    "labels": [
     "Fairy",
-    "Pastoral",
+    "Pastoral"
+   ],
+   "labels_zh": [
     "精灵"
    ],
    "materials": [
@@ -1465,7 +1546,9 @@
    "style": "Elegant",
    "labels": [
     "Divine",
-    "Retro",
+    "Retro"
+   ],
+   "labels_zh": [
     "神谕"
    ],
    "materials": [
@@ -1494,6 +1577,7 @@
     "Classical",
     "Formal"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded silk jacquard",
     "sheer black organza",
@@ -1518,7 +1602,9 @@
    "style": "Elegant",
    "labels": [
     "Divine",
-    "Fantasy",
+    "Fantasy"
+   ],
+   "labels_zh": [
     "神谕"
    ],
    "materials": [
@@ -1546,6 +1632,7 @@
    "labels": [
     "Fantasy"
    ],
+   "labels_zh": [],
    "materials": [
     "layered silk chiffon",
     "gold metallic star embroidery",
@@ -1571,6 +1658,7 @@
    "labels": [
     "Royal"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded silk jacquard",
     "scalloped Chantilly lace",
@@ -1596,6 +1684,7 @@
    "labels": [
     "Retro"
    ],
+   "labels_zh": [],
    "materials": [
     "plaid wool blend",
     "cotton poplin",
@@ -1621,6 +1710,7 @@
    "labels": [
     "Retro"
    ],
+   "labels_zh": [],
    "materials": [
     "starry sequined tulle",
     "structured pintuck satin",
@@ -1645,6 +1735,7 @@
    "labels": [
     "Romance"
    ],
+   "labels_zh": [],
    "materials": [
     "star-embroidered silk taffeta",
     "ruffled Chantilly lace",
@@ -1669,7 +1760,9 @@
    "style": "Elegant",
    "labels": [
     "Intellectual",
-    "Royal",
+    "Royal"
+   ],
+   "labels_zh": [
     "知性"
    ],
    "materials": [
@@ -1695,7 +1788,9 @@
    "style": "Elegant",
    "labels": [
     "Forest",
-    "Fantasy",
+    "Fantasy"
+   ],
+   "labels_zh": [
     "森林"
    ],
    "materials": [
@@ -1722,7 +1817,9 @@
    "style": "Fresh",
    "labels": [
     "Romance",
-    "Fairy",
+    "Fairy"
+   ],
+   "labels_zh": [
     "精灵"
    ],
    "materials": [
@@ -1748,7 +1845,9 @@
    "style": "Fresh",
    "labels": [
     "Pastoral",
-    "Adventure",
+    "Adventure"
+   ],
+   "labels_zh": [
     "冒险"
    ],
    "materials": [
@@ -1774,7 +1873,9 @@
    "style": "Fresh",
    "labels": [
     "Pastoral",
-    "Warm",
+    "Warm"
+   ],
+   "labels_zh": [
     "保暖"
    ],
    "materials": [
@@ -1802,6 +1903,7 @@
    "labels": [
     "Pastoral"
    ],
+   "labels_zh": [],
    "materials": [
     "ribbed wool weave",
     "pleated cotton apron",
@@ -1827,6 +1929,7 @@
    "labels": [
     "Retro"
    ],
+   "labels_zh": [],
    "materials": [
     "crisp pleated cotton voile",
     "star-embroidered sheer tulle",
@@ -1850,7 +1953,9 @@
    "style": "Fresh",
    "labels": [
     "Whimsy",
-    "Pastoral",
+    "Pastoral"
+   ],
+   "labels_zh": [
     "绮想"
    ],
    "materials": [
@@ -1879,6 +1984,7 @@
     "Fantasy",
     "Playful"
    ],
+   "labels_zh": [],
    "materials": [
     "striped silk taffeta",
     "scalloped eyelet lace",
@@ -1904,6 +2010,7 @@
     "Playful",
     "Romance"
    ],
+   "labels_zh": [],
    "materials": [
     "pearlized sheer organza",
     "gilded silk jacquard",
@@ -1930,6 +2037,7 @@
     "Retro",
     "Pastoral"
    ],
+   "labels_zh": [],
    "materials": [
     "floral silk jacquard",
     "eyelet embroidered cotton lace",
@@ -1954,7 +2062,9 @@
    "style": "Sweet",
    "labels": [
     "Glow",
-    "Fairy",
+    "Fairy"
+   ],
+   "labels_zh": [
     "流彩",
     "精灵"
    ],
@@ -1984,6 +2094,7 @@
     "Pastoral",
     "Retro"
    ],
+   "labels_zh": [],
    "materials": [
     "pleated silk chiffon",
     "pearl-embellished sheer organza",
@@ -2010,6 +2121,7 @@
     "Romance",
     "Fashion"
    ],
+   "labels_zh": [],
    "materials": [
     "diamond-quilted satin",
     "pearl-encrusted sheer tulle",
@@ -2033,7 +2145,9 @@
    "style": "Sweet",
    "labels": [
     "Cute",
-    "Romance",
+    "Romance"
+   ],
+   "labels_zh": [
     "甜心"
    ],
    "materials": [
@@ -2061,6 +2175,7 @@
    "labels": [
     "Retro"
    ],
+   "labels_zh": [],
    "materials": [
     "silk jacquard vest",
     "sheer pintucked organza",
@@ -2085,7 +2200,9 @@
    "style": "Sweet",
    "labels": [
     "Terra",
-    "Ballroom",
+    "Ballroom"
+   ],
+   "labels_zh": [
     "大地",
     "舞会"
    ],
@@ -2114,6 +2231,7 @@
    "labels": [
     "Fantasy"
    ],
+   "labels_zh": [],
    "materials": [
     "star-embroidered sheer organza",
     "gilded silk jacquard",
@@ -2138,7 +2256,9 @@
    "style": "Sweet",
    "labels": [
     "Cute",
-    "Fantasy",
+    "Fantasy"
+   ],
+   "labels_zh": [
     "甜心"
    ],
    "materials": [
@@ -2165,7 +2285,9 @@
    "style": "Sweet",
    "labels": [
     "Forest",
-    "Fantasy",
+    "Fantasy"
+   ],
+   "labels_zh": [
     "森林"
    ],
    "materials": [
@@ -2194,6 +2316,7 @@
     "Romance",
     "Fantasy"
    ],
+   "labels_zh": [],
    "materials": [
     "pearl-encrusted sheer tulle",
     "gilded lace appliqué",
@@ -2219,6 +2342,7 @@
     "Romance",
     "Fantasy"
    ],
+   "labels_zh": [],
    "materials": [
     "pearl-encrusted sheer organza",
     "iridescent silk chiffon",
@@ -2244,6 +2368,7 @@
     "Formal",
     "Romance"
    ],
+   "labels_zh": [],
    "materials": [
     "gilded leaf-vein embroidery",
     "shimmering copper silk",
@@ -2269,6 +2394,7 @@
    "labels": [
     "Formal"
    ],
+   "labels_zh": [],
    "materials": [
     "crystal-encrusted satin",
     "pleated silk tulle",
@@ -2292,7 +2418,9 @@
    "style": "Sexy",
    "labels": [
     "Forest",
-    "Pastoral",
+    "Pastoral"
+   ],
+   "labels_zh": [
     "森林"
    ],
    "materials": [
@@ -2318,7 +2446,9 @@
    "rarity": 4,
    "style": "Sexy",
    "labels": [
-    "Ballroom",
+    "Ballroom"
+   ],
+   "labels_zh": [
     "舞会"
    ],
    "materials": [
@@ -2343,7 +2473,9 @@
    "rarity": 4,
    "style": "Sexy",
    "labels": [
-    "Fairy",
+    "Fairy"
+   ],
+   "labels_zh": [
     "精灵"
    ],
    "materials": [
@@ -2370,7 +2502,9 @@
    "style": "Sexy",
    "labels": [
     "Spirited",
-    "Ballroom",
+    "Ballroom"
+   ],
+   "labels_zh": [
     "灵动",
     "舞会"
    ],
@@ -2398,7 +2532,9 @@
    "style": "Sexy",
    "labels": [
     "Fashion",
-    "Ballroom",
+    "Ballroom"
+   ],
+   "labels_zh": [
     "舞会"
    ],
    "materials": [
@@ -2426,6 +2562,7 @@
    "labels": [
     "Retro"
    ],
+   "labels_zh": [],
    "materials": [
     "gold-flecked sheer tulle",
     "embroidered velvet",
@@ -2450,7 +2587,9 @@
    "style": "Sexy",
    "labels": [
     "Whimsy",
-    "Fantasy",
+    "Fantasy"
+   ],
+   "labels_zh": [
     "绮想"
    ],
    "materials": [
@@ -2478,6 +2617,7 @@
    "labels": [
     "Romance"
    ],
+   "labels_zh": [],
    "materials": [
     "sheer organza",
     "gilded filigree",
@@ -2502,7 +2642,9 @@
    "style": "Fresh",
    "labels": [
     "Ballroom",
-    "Fantasy",
+    "Fantasy"
+   ],
+   "labels_zh": [
     "舞会"
    ],
    "materials": [
@@ -2530,6 +2672,7 @@
    "labels": [
     "Pastoral"
    ],
+   "labels_zh": [],
    "materials": [
     "honeycomb-patterned lace",
     "sheer organza",
@@ -2555,6 +2698,7 @@
    "labels": [
     "Royal"
    ],
+   "labels_zh": [],
    "materials": [
     "silk taffeta",
     "Chantilly lace",
@@ -2580,6 +2724,7 @@
    "labels": [
     "Pastoral"
    ],
+   "labels_zh": [],
    "materials": [
     "woven straw",
     "Chantilly lace",
@@ -2604,7 +2749,9 @@
    "style": "Fresh",
    "labels": [
     "Ballroom",
-    "Summer",
+    "Summer"
+   ],
+   "labels_zh": [
     "舞会",
     "清凉"
    ],
@@ -2631,7 +2778,9 @@
    "rarity": 4,
    "style": "Sweet",
    "labels": [
-    "Divine",
+    "Divine"
+   ],
+   "labels_zh": [
     "神谕"
    ],
    "materials": [
@@ -2658,7 +2807,9 @@
    "style": "Sweet",
    "labels": [
     "Cute",
-    "Pastoral",
+    "Pastoral"
+   ],
+   "labels_zh": [
     "甜心"
    ],
    "materials": [
@@ -2686,6 +2837,7 @@
    "labels": [
     "Fantasy"
    ],
+   "labels_zh": [],
    "materials": [
     "plaid taffeta bow",
     "soft velvet bodice",
